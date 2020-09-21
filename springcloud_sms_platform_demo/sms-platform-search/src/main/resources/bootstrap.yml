@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: sms-platform-search
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: SMS-PLATFORM-CONFIG-SERVER
+      label: master
+      profile: '@profileActive@'
+
+  profiles:
+    active: '@profileActive@'
+  rabbitmq:
+    host: 192.168.98.98
+    virtual-host: /test

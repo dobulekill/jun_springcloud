@@ -1,0 +1,12 @@
+server:
+  port: 8006
+
+swagger:
+  title: 短信平台缓存服务API列表
+  description: 没有描述
+  contactName: 缓存
+  email: laoguo@xiaomei.xiaotaohong
+  licenseUrl: https://www.apache.org/licenses/LICENSE-2.0
+  version: 9020.2020.2020
+  basePackge: com.qianfeng.smsplatform.cache.controller
+

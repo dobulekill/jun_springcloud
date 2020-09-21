@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>接口暴露</title>
+ <script id="jquery-script" src="jquery.min.js"></script>
+ <script src="template.js"></script>
+ <link href="demo.css" rel="stylesheet"/>
+ </head>
+ <body style="background-color: honeydew;">
+ <div class="main">
+	<div class="div-center"><h1>接口暴露</h1></div>
+	<div id="doc-list">
+	</div>
+ </div>
+ <script id="doc-list-template" type="text/html">
+	 {{if flag}}
+	 <div class="div-center">{{time}}</div>
+	 {{each list as item index}}
+	 <div class="left50">
+		 <div><h3>{{index+1}}.{{item.name}}</h3></div>
+		 {{each item.list as item2 index2}}
+		 <div><h4>({{index2+1}}){{item2.name}}</h4></div>
+		 <div><h5>接口地址:<span>
+			 {{each item2.urlList as url index3}}
+			 {{if index3>0}}
+			 、
+			 {{/if}}
+			 {{url}}
+			 {{/each}}
+			 <span></h5></div>
+		 <div><h5>参数列表:</h5></div>
+		 <div>
+			 <table>
+				 <thead><tr><th style="width:150px;">参数</th><th style="width:50px;">必填</th><th>描述</th><tr></thead>
+				 <tbody>
+				 {{each item2.params as item4 index4}}
+				 <tr><td>{{item4.param}}</td><td>{{item4.isNeed}}</td><td>{{item4.paramDesc}}</td><tr>
+					 {{/each}}
+				 </tbody>
+			 </table>
+		 </div>
+		 <div><h5>响应值:</h5></div>
+		 <div>{{item2.returnData | jsonGsh}}</div>
+		 {{/each}}
+	 </div>
+	 {{/each}}
+	 {{else}}
+	 <div class="div-center">{{msg}}</div>
+	 <div class="div-center">
+		 <span>密钥</span>
+		 <input id="key_input" type="text" />
+		 <a href="javascript:toView()">确定</a>
+	 </div>
+	 {{/if}}
+</script>
+ </body>
+ <script>
+	$(function(){
+	    var key = getLocalStorage("key");
+	    if(!key){
+            key = "";
+		}
+        getData(key);
+	});
+    function getLocalStorage(name){
+        var mapStr = localStorage.utils;
+        if(mapStr==null){
+            mapStr = "{}";
+        }
+        var map = JSON.parse(mapStr);
+        return map[name];
+    }
+    function setLocalStorage(name,val){
+        var mapStr = localStorage.utils;
+        if(mapStr==null){
+            mapStr = "{}";
+        }
+        var map = JSON.parse(mapStr);
+        map[name] = val;
+        localStorage.utils = JSON.stringify(map);
+    }
+    function getData(key){
+    	var host = $("#jquery-script")[0].src;
+		var ss = host.split("/");
+		ss.length = ss.length - 2;
+		host = ss.join("/");
+        $.ajax({
+            url:host+"/interface/doclist?key="+key,
+            dataType:"json",
+            success:function(ret){
+                if(ret.flag){
+                    setLocalStorage("key",key);
+                }
+                $("#doc-list").html(template("doc-list-template",ret));
+            }
+        });
+	}
+	function toView(){
+        var key = $("#key_input").val();
+        getData(key);
+	}
+ </script>
+</html>

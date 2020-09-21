@@ -1,0 +1,21 @@
+server:
+  port: 8005
+
+spring:
+  application:
+    name: sms-platform-search
+  rabbitmq:
+    host: 192.168.3.19
+    virtual-host: /test
+  data:
+    elasticsearch:
+      index:
+        name: sms_submit_log
+        type: sms_submit_log_type
+      host: 192.168.3.18
+      port: 9000
+      connectTimeOut: 1000
+      socketTimeOut: 30000
+      connectionRequestTimeOut: 500
+      maxConnectNum: 100
+      maxConnectPerRoute: 100

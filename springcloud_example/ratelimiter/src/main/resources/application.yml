@@ -1,0 +1,19 @@
+spring:
+  redis:
+    host: 10.134.42.121
+    port: 6379
+  application:
+    name: rate-limiter
+server:
+  port: 8020
+  servlet:
+    context-path: /rate-limiter
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://10.134.42.121:9999/eureka
+  instance:
+    instance-id: ${spring.application.name}:${spring.cloud.client.ip-address}:${server.port}
+    prefer-ip-address: true
+

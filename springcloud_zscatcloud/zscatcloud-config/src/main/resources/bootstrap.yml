@@ -1,0 +1,28 @@
+spring:
+  profiles:
+      active: native
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/config
+    inetutils:
+      ignoredInterfaces:
+        - docker0
+        - veth.*
+      preferredNetworks:
+        - 192.168
+
+encrypt:
+  key-store:
+    location: classpath:/server.jks
+    password: paascloud-storepass
+    alias: paascloud-key-store
+    secret: paascloud-keypass
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://root:root@127.0.0.1:8761/eureka/
+  instance:
+    instance-id: ${spring.application.name}:${spring.cloud.client.ipAddress}:${server.port}

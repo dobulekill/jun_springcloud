@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `oauth_refresh_token` (
+  `token_id` VARCHAR(256) NULL DEFAULT NULL,
+  `token` BLOB NULL DEFAULT NULL,
+  `authentication` BLOB NULL DEFAULT NULL)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;

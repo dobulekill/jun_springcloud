@@ -1,0 +1,3 @@
+curl user-service:123456@localhost:9999/oauth/token -d grant_type=password -d username=miyaa -d password=123456
+
+Basic dXNlci1zZXJ2aWNlOjEyMzQ1Ng==

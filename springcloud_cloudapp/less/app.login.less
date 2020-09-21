@@ -1,0 +1,650 @@
+
+@import "app.variables.less";
+// @import "app.buttons.less";
+// @import "app.mixins.less";
+// @import "app.colors.less";
+
+.bg-danger { background: @c-danger !important; }
+.bg-info { background: @c-info !important; }
+.bg-warning { background: @c-warning !important; }
+.bg-primary { background: @c-primary !important; }
+.bg-success { background: @c-success !important; }
+
+.co-danger{color:@c-danger }
+.co-info{color:@c-info }
+.co-warning{color:@c-warning }
+.co-primary{color:@c-primary }
+.co-success{color:@c-success }
+.co-dark{color:@c-dark}
+
+button,
+.btn {
+    border: 1px solid #ccc;
+    border-radius: 0;
+    -webkit-transition: all;
+          transition: all;
+    -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+    -webkit-transition-duration: .2s;
+          transition-duration: .2s;
+}
+.btn-primary{
+    color:#fff;
+    border:none;
+    background: @c-primary;
+    &:hover{
+        background: lighten(@c-primary,8%);
+    }
+    &:focus{
+        background: @c-primary
+    }
+}
+.btn-success{
+    color:#fff;
+    border:none;
+    background: @c-success;
+    &:hover{
+        background: lighten(@c-success,8%);
+    }
+    &:focus{
+        background: @c-success
+    }
+}
+.btn-danger{
+    color:#fff;
+    border:none;
+    background: @c-danger;
+    &:hover{
+        background: lighten(@c-danger,8%);
+    }
+    &:focus{
+        background: @c-danger
+    }
+}
+
+.btn-info{
+    color:#fff;
+    border:none;
+    background: @c-info;
+    &:hover{
+        background: lighten(@c-info,8%);
+    }
+    &:focus{
+        background: @c-info
+    }
+}
+.btn-warning{
+    color:#fff;
+    border:none;
+    background: @c-warning;
+    &:hover{
+        background: lighten(@c-warning,8%);
+    }
+    &:focus{
+        background: @c-warning
+    }
+}
+
+
+
+
+body{
+	font-family:Arial,"Microsoft Yahei","微软雅黑",'SYHT',Helvetica,sans-serif;
+    background: darken(#fff, 2%);
+}
+
+ul,ol{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a:hover{
+	text-decoration: none;
+}
+
+.circular(@diam){
+    width: @diam;
+    height: @diam;
+    border-radius: 50%;
+    line-height: @diam;
+    text-align: center;
+}
+// Transitions
+.transition(@transition) {
+  -webkit-transition: @transition;
+          transition: @transition;
+}
+.translate(@x, @y) {
+  -webkit-transform: translate(@x, @y);
+      -ms-transform: translate(@x, @y); // IE9+
+          transform: translate(@x, @y);
+}
+
+
+.auto-height{height: auto !important}
+@top-height:60px;
+.navbar.navbar-white{
+    background: #fff;
+    height: @top-height;
+    box-shadow: 0 1px 0 rgba(0,0,0,.1);
+    a{color: lighten(#000,30%)}
+
+    .container{
+        position: relative;
+
+        .navbar-header{
+            .navbar-brand{
+                height: @top-height;
+                width: 120px;
+                display: block;
+                margin-left: 0;
+                padding: 0;
+                background: url(../images/logo1.png) no-repeat left center;
+                background-size: auto 70%;
+            };
+        } ; 
+
+
+    };
+  
+    
+}
+
+
+
+//导航菜单
+
+@media (min-width: 768px){
+    .navbar-collapse{
+        
+        .main_nav > li{
+                margin-top: -1px;
+                position: relative;
+                padding: 0;
+                a{
+                    display: block;
+                    font-size: 14px;
+                    padding:(@top-height - 20px)/2 0px;
+                    border-radius: 2px;
+                    margin: 0 15px;
+                    transition: all .2s;
+                    &:hover{
+                        background:transparent;
+                        color:@brand-primary;
+                    };
+                    &:after,&:before{
+                        content: "";
+                        background:none; 
+                        position: absolute;
+                        height: 4px;
+                        top: 0;
+                        left: 50%;
+                        right: 50%;
+                        transition: .3s;
+
+                    };
+                    &:hover{
+                        &:after{right: 0;background:@brand-primary; };
+                        &:before{left: 0;background:@brand-primary; }
+                        .sub_menu{
+                            display: block;
+                            li > a{
+                                display: block;
+                                &:hover{
+                                    background:fadeout(desaturate(@brand-primary, 70%),90%) ;
+                                    color: @brand-primary;
+                                };
+                            }; 
+                        };
+                    };
+                };
+                
+        };
+        .main_nav > .active{
+            a{
+                color:@brand-primary ;
+                &:after{left: 0; width: 100%;background:@brand-primary;};
+            }
+            
+        };
+    }
+
+
+    /*登录页面*/
+    @login-box-width:830px;
+    .login-box{
+    	width: 830px;
+        height: 320px;
+    	min-height: 320px !important;
+    	background: #fff;
+    	margin: 40px auto 50px;
+    	border: 6px solid #e8e8e8;
+    	position: relative;
+    	.left-img{
+    		float: left;
+    		width: 415px;
+    		height: 100%;
+    		overflow: hidden;
+    	}
+
+    	.registered{
+    		position: absolute;
+    		border-radius: 10px;
+    		bottom: -38px;
+    		right: 40px;
+    		border-top-left-radius: 0;
+    		border-top-right-radius: 0;
+    		border: 6px solid #e8e8e8;
+    		border-top: 0;
+    		padding: 6px 30px;
+            background: @c-warning;
+            color: #fff;
+            .transition(.2s);
+            &:hover{
+                background: lighten(@c-warning, 10%)
+            }
+    	}
+    	.form-con{
+    		
+            form{
+                .btn{
+                    border-radius: 0;
+                    padding: 8px 0;
+                }
+            }
+    	}
+        .m-left{margin-left: 420px};
+        .reg-box{
+            margin-left: 0 !important;
+            margin-right: 300px;
+            form{
+                margin: 15px auto;
+            }
+        }
+        .tip-info{
+            width: 280px;
+            position: absolute;
+            right: 0;
+            top: 15px;
+            bottom: 15px;
+            border-left: 1px solid darken(#fff, 10%);
+            padding: 15px;
+            ol{ 
+                list-style: decimal-leading-zero;
+                margin-left: 30px;
+                li{
+                    padding: 8px 0;
+                    color: darken(#fff, 50%)
+                }
+            }
+        }
+    }
+
+    .step-box{
+        width: @login-box-width;
+    }
+  
+}
+
+.reg-step{
+    height: auto;
+    
+}
+
+.step-box{
+    @bar-bg:darken(#fff,10%);
+    @bar-height:8px;
+    @step-size:30px;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px 0;
+    .step-bar{
+        height: @bar-height;
+        border-radius: 10px;
+        background: @bar-bg;
+        position: relative;
+        li.step{
+            position: absolute;
+            z-index: 9;
+
+            top: -(@step-size - @bar-height)/2;
+            .circular(@step-size);
+            background: @bar-bg;
+           &:nth-child(1){left: 10%}
+           &:nth-child(2){left: 50%;margin-left: -@step-size/2}
+           &:nth-child(3){right: 10%}
+
+           .number{
+               display: block;
+               background: darken(#fff, 2%);
+               .circular(@step-size - 8);
+               color: #999; 
+               position: absolute;
+               left: 50%;
+               top: 50%;
+               .translate(-50%,-50%);
+               &:focus{text-decoration: none;}
+           } 
+        }
+        li.done{
+            background: fade(@c-warning, 50%);
+            .number{
+                background: @c-warning;
+                color: #fff;
+            }
+            
+        }
+        .progre-bar{
+            .transition(.2s);
+            position: absolute;
+            z-index: 8;
+            left: 0;
+            height: 100%;
+            width: 11%;
+            max-width: 100%;
+            background: @c-warning;
+            border-radius: 10px;
+        }
+    }
+}
+
+
+.must{
+    &:before{
+        content: "*";
+        margin:0 5px 0 -10px;
+        color: @c-danger;
+        vertical-align: middle
+    }
+}
+
+
+
+form{
+	width: 310px;
+	margin: 30px auto 0;
+	label{
+		font-weight: normal;
+		color: #999;
+	}
+	.form-control{
+		padding: 7px 30px 7px 10px;
+		border-radius: 0;
+        &:focus{
+            border-color: @c-primary
+        }
+	}
+	.un{background:#fff url(../images/un.jpg) no-repeat 98% center}
+	.pw{background:#fff url(../images/pw.jpg) no-repeat 98% center}
+	.ph{background:#fff url(../images/ph.jpg) no-repeat 98% center}
+	.qq{background:#fff url(../images/qq.jpg) no-repeat 98% center}
+	.wx{background:#fff url(../images/wx.jpg) no-repeat 98% center}
+
+	.btn{
+		background: @c-primary;
+		border-radius: 5px;
+		font-size: 20px;
+		border: none;
+		margin-top: 30px;
+		transition: all .3s;
+		&:hover{
+			background: darken(@c-primary,10%);
+		}
+	}
+	.foot-link{
+		margin-top: 15px;
+		a{color: #999}
+	}
+	.clause{
+		color: #999;
+		margin-top: 20px;
+		font-size: 12px;
+		.fa{
+			font-size: 14px;
+			margin-right: 10px;
+			color: #ccc;
+			cursor: pointer
+		}
+		a{
+			color: @c-primary;
+			margin-right: 5px;
+		}
+	}
+
+}
+
+.wx-login{
+    margin-right: 300px;
+    padding: 15px;
+    .t-code{
+        width: 120px;
+        margin: 15px auto;
+    }
+    .code-tit{
+        text-align: center;
+        color: @c-warning;
+        font-size: 20px;
+        margin: 20px 0 10px;
+    }
+    p{
+        text-align: center;
+        color: #999;
+    }
+    .form-control{
+        border-radius: 0
+    }
+    .c-box{
+        padding: 10px 0;
+        label{font-weight: normal;margin-left: 5px;}
+        input[type="checkbox"]{vertical-align: -15%;}
+    }
+}
+
+
+
+/*  =========================页脚============================= */
+
+.footer{
+    border-top: 3px solid darken(@footer-bg, 5%);
+	background: @footer-bg;
+	margin-top: 30px;
+    @f_color: darken(@footer-bg, 50%);
+    h3{
+        color: darken(@footer-bg, 80%);
+        font-size: 16px;
+        margin: 20px 0 25px;
+        i{
+            color: lighten(@footer-bg, 50%);
+            font-size: 24px;
+            padding-right: 10px;
+            vertical-align: -10%
+        }
+    };
+    p{
+        padding: 6px 0;
+        font-size: 14px;
+        color: @f_color
+    }
+    .contact{
+        font-size: 32px;
+        font-weight: 100;
+        font-family: "SYHT"
+    }
+    .icon-row{
+        // text-align: center;
+        a{
+            display: inline-block;
+            margin: 10px ;
+            .circular(50px);
+            font-size: 28px;
+            color: #fff;
+            .transition(.3s);
+            &:hover{
+                background: #fff;
+                color: @footer-bg
+            }
+
+        }
+    }
+    .links > li > a{
+        padding: 6px 0;
+        display: block;
+        color: @f_color;
+        .transition(.2s);
+        &:hover{color:@brand-warning};
+        &:before{
+            content:"\f105";
+            font-family: 'FontAwesome';
+            font-size: 14px;
+            margin-right: 10px;
+            vertical-align: middle;
+            
+        };
+    };
+    
+    .copyright{
+        padding: 10px;
+        margin-top: 15px;
+        text-align: center;
+        color:@f_color;
+        background: darken(@footer-bg, 3%)
+    }
+}
+
+
+
+//手机端样式
+@media (max-width: 767px){
+	@m-top-header:60px;
+    .navbar-white{
+        height: @m-top-header !important;
+        .navbar-header{
+            height: @m-top-header;
+        }
+    }
+    
+
+	//折叠按钮
+	.navbar-toggle{
+		background-color: transparent; ;
+        position: absolute;
+        right: 15px;
+        top:10px;
+        margin: 0;
+		.icon-bar{background: @brand-primary;}
+		&:hover{
+			.icon-bar{background: darken(@brand-primary,10%)};
+		};
+	}
+	//标题
+    .navbar-header > .navbar-brand{
+        width: 120px !important;
+        height: @m-top-header !important;
+        position: absolute;
+        left: 50%;
+        top:0;
+        margin-left: -60px !important;
+        background: url(../images/logo.png) no-repeat left center;
+        background-size: auto 80% ;
+    }
+	//菜单
+    .navbar-collapse{
+        background: @header-bg;
+        max-height: 700px !important;
+        padding-bottom: 15px;
+        position: relative;
+        z-index: 999;
+        // margin-top: 20px;
+    }
+    .navbar-collapse.in{
+        box-shadow:0 3px 3px rgba(0, 0, 0, 0.2) 
+    }
+    .navbar-collapse .main_nav > li{
+        padding: 5px 20px;
+        > a{
+            padding: 8px;
+            text-align: center;
+            border-radius: 3px;
+            border: 1px solid  @brand-primary;
+            color:  @brand-primary;
+            &:hover{
+                background: @brand-primary;
+                color: #fff;
+            }
+        };
+		
+    }
+    .step-box{
+        width: 80%;
+    }
+    .login-box{
+    	width: 100%;
+    	margin-top: 30;
+        min-height: 200px;
+    	.left-img,.tip-info{
+    		display: none
+    	}
+    	.form-con{
+    		form{
+    			width: 80%;
+    			.form-group{
+    				margin-bottom: 20px;
+    				label{
+    					display: none;
+    				}
+    				.form-control{
+    					border-radius: 3px;
+    					box-shadow: none;
+    					height: 42px;
+    					line-height: 42px;
+    				}
+    			}
+    			.btn{
+    				margin: 0
+    			}
+    		}
+    		
+    	}
+    	.registered{
+    		width: 80%;
+    		display: block;
+    		margin: 15px auto;
+    		border:1px solid @c-primary;
+    		color: @c-primary;
+    		padding: 10px 0;
+    		text-align: center;
+    		background: transparent;
+    		&:hover{
+    			background: @c-primary;
+    			color: #fff
+    		}
+    	}
+        .wx-login{margin-right: 0;padding: 15px;}
+        .done-form{width: 80%;margin: 0 auto}
+    }
+	
+        
+    .footer{
+    	// display: none;
+        background: @footer-bg;
+        @lg:40px;
+        @f_color: lighten(@footer-bg, 40%);
+        .contact{
+            margin: 15px 0;
+            a{
+                border-radius: 6px;
+                margin-right: 20px;
+                color: #fff !important;
+                transition: all .3s;
+                &:hover{background: darken(@footer-bg, 8%)}
+            };
+            .weixin{background: @brand-success};
+            .weibo{background: @brand-danger};
+            .renren{background: @brand-info};
+            .t-qq{background: @brand-warning};
+        };
+    }
+	
+
+	
+}

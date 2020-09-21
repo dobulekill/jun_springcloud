@@ -1,0 +1,90 @@
+package ${package.Controller};
+
+import java.util.Date;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
+import com.github.pig.common.constant.CommonConstant;
+import com.baomidou.mybatisplus.mapper.EntityWrapper;
+import com.baomidou.mybatisplus.plugins.Page;
+import ${package.Entity}.${entity};
+import ${package.Service}.${entity}Service;
+#if(${superControllerClassPackage})
+import ${superControllerClassPackage};
+#end
+
+/**
+ * <p>
+ * $!{table.comment} 前端控制器
+ * </p>
+ *
+ * @author ${author}
+ * @since ${date}
+ */
+@RestController
+@RequestMapping("/${table.entityPath}")
+public class ${table.controllerName} extends ${superControllerClass} {
+    @Autowired private ${entity}Service ${table.entityPath}Service;
+
+    /**
+    * 通过ID查询
+    *
+    * @param id ID
+    * @return ${entity}
+    */
+    @GetMapping("/{id}")
+    public ${entity} get(@PathVariable Integer id) {
+        return ${table.entityPath}Service.selectById(id);
+    }
+
+
+    /**
+     * 分页查询
+     *
+     * @param page  分页对象
+     * @param limit 每页限制
+     * @return 分页对象
+     */
+    @RequestMapping("/page")
+    public Page page(Integer page, Integer limit) {
+        ${entity} condition = new ${entity}();
+        condition.setDelFlag(CommonConstant.STATUS_NORMAL);
+        EntityWrapper wrapper = new EntityWrapper(condition);
+        wrapper.orderBy("createTime", false);
+        return ${table.entityPath}Service.selectPage(new Page<>(page, limit), wrapper);
+    }
+
+    /**
+     * 添加
+     * @param  ${table.entityPath}  实体
+     * @return success/false
+     */
+    @PostMapping
+    public Boolean add(${entity} ${table.entityPath}) {
+        return ${table.entityPath}Service.insert(${table.entityPath});
+    }
+
+    /**
+     * 删除
+     * @param id ID
+     * @return success/false
+     */
+    @DeleteMapping("/{id}")
+    public Boolean delete(@PathVariable Integer id) {
+        ${entity} ${table.entityPath} = new ${entity}();
+        ${table.entityPath}.setId(id);
+        ${table.entityPath}.setUpdateTime(new Date());
+        ${table.entityPath}.setDelFlag(CommonConstant.STATUS_DEL);
+        return ${table.entityPath}Service.updateById(${table.entityPath});
+    }
+
+    /**
+     * 编辑
+     * @param  ${table.entityPath}  实体
+     * @return success/false
+     */
+    @PutMapping
+    public Boolean edit(${entity} ${table.entityPath}) {
+        ${table.entityPath}.setUpdateTime(new Date());
+        return ${table.entityPath}Service.updateById(${table.entityPath});
+    }
+}

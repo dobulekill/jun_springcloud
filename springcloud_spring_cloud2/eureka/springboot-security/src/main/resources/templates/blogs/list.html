@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity4">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Blogs List 页面</title>
+</head>
+<body>
+<table>
+    <thead>
+        <td>博客编号</td>
+        <td>博客名称</td>
+        <td>博客描述</td>
+        <td>操作</td>
+    </thead>
+    <tr th:each="blog:${blogsList}">
+        <td th:text="${blog.id}"></td>
+        <td th:text="${blog.name}"></td>
+        <td th:text="${blog.content}"></td>
+        <td><a th:href="@{/blogs/id/deletion(id=${blog.id})}">删除</a></td>
+    </tr>
+</table>
+</body>
+</html>

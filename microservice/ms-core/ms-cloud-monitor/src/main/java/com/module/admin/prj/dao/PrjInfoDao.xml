@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.module.admin.prj.dao.PrjInfoDao">
+
+	<sql id="commCols">
+		prj_id prjId,code code,name name,remark remark,create_time createTime,user_id userId,status status,container container,shell_script shellScript,
+		monitor_status monitorStatus,monitor_msg monitorMsg
+	</sql>
+
+	<insert id="save" parameterType="prjInfo" useGeneratedKeys="true" keyProperty="prjId" flushCache="true">
+		 insert into prj_info(code,name,remark,create_time,user_id,status,container,shell_script,monitor_status)
+		 values(#{code},#{name},#{remark},now(),#{userId},#{status},#{container},#{shellScript},#{monitorStatus})
+	</insert>
+	
+	<delete id="delete" flushCache="true">
+		delete from prj_info
+		<where>prj_id=#{prjId}</where>
+	</delete>
+	
+	<update id="update" parameterType="prjInfo" flushCache="true">
+		update prj_info
+		<set>
+			code=#{code},status=#{status}
+			<if test="name!=null and name!=''">,name=#{name}</if>
+			<if test="remark!=null and remark!=''">,remark=#{remark}</if>
+			<if test="container!=null">,container=#{container}</if>
+			<if test="shellScript!=null and shellScript!=''">,shell_script=#{shellScript}</if>
+		</set>
+		<where>prj_id=#{prjId}</where>
+	</update>
+	
+	<select id="get" resultType="prjInfo">
+		select <include refid="commCols"/> from prj_info
+  		<where>prj_id=#{prjId}</where>
+	</select>
+	<select id="getCode" resultType="prjInfo">
+		select <include refid="commCols"/> from prj_info
+  		<where>code=#{code}</where>
+  		limit 1
+	</select>
+	
+	<select id="findKvAll" resultType="kvEntity">
+		select prj_id code,name value from prj_info
+	</select>
+	<select id="findPrjInfo" parameterType="prjInfo" resultType="prjInfo">
+		select <include refid="commCols"/> from prj_info
+		<where>
+			<if test="name!=null and name!=''">and name like concat(concat('%', #{name}), '%')</if>
+		</where>
+		order by status
+  		limit #{currentIndex}, #{size}
+	</select>
+	<select id="findPrjInfoCount" parameterType="prjInfo" resultType="int">
+		select count(*) from prj_info
+		<where>
+			<if test="name!=null and name!=''">and name like concat(concat('%', #{name}), '%')</if>
+		</where>
+	</select>
+</mapper>

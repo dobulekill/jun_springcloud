@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <conversionRule conversionWord="msg" converterClass="com.murphy.springmvc.desensitize.LogDesensitizeConverter"/>
+    <property name="APP_NAME" value="desensitize" />
+    <property name="LOG_PATH" value="/www/webcode/${APP_NAME}" />
+    <property name="maxHistory" value="1000"/>
+    <!-- 日志异步队列大小 -->
+    <property name="log.queueSize" value="300"/>
+    <!-- 丢失日志 -->
+    <property name="log.discardingThreshold" value="0"/>
+    <property name="logPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} | [%thread] | %-5level | ${APP_NAME} | %X{X-B3-TraceId:-} | %logger{30} | %msg%n "/>
+
+    <contextListener class="ch.qos.logback.classic.jul.LevelChangePropagator">
+        <resetJUL>true</resetJUL>
+    </contextListener>
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder charset="UTF-8">
+            <pattern>${logPattern}</pattern>
+		</encoder>
+	</appender>
+
+    <appender name="FILE"  class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/logs/info.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!--日志文件输出的文件名-->
+            <FileNamePattern>${LOG_PATH}/logs/info.log.%d{yyyy-MM-dd-HH}.log</FileNamePattern>
+            <!--日志文件保留天数-->
+            <MaxHistory>${maxHistory}</MaxHistory>
+        </rollingPolicy>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>${logPattern}</pattern>
+        </encoder>
+    </appender>
+
+    <!--异步输出，必须在同步后方，否则失效-->
+    <appender name="FILE_ASYNC_FILE" class="ch.qos.logback.classic.AsyncAppender">
+        <discardingThreshold>${log.discardingThreshold}</discardingThreshold>
+        <queueSize>${log.queueSize}</queueSize>
+        <includeCallerData>true</includeCallerData> <!-- Copy caller data to event -->
+        <appender-ref ref="FILE" />
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="FILE_ASYNC_FILE"/>
+        <appender-ref ref="STDOUT"/>
+    </root>
+
+</configuration>

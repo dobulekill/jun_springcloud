@@ -1,0 +1,11 @@
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8671/eureka/
+server:
+  port: 9411
+spring:
+  application:
+    name: zipkin-server
+  profiles:
+    active: elas

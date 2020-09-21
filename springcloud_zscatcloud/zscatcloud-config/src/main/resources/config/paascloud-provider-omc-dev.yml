@@ -1,0 +1,75 @@
+spring:
+  mvc:
+    date-format: yyyy-MM-dd HH:mm:ss
+  jackson:
+    joda-date-time-format: yyyy-MM-dd HH:mm:ss
+    date-format: yyyy-MM-dd HH:mm:ss
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/zscatcloud?useUnicode=true&characterEncoding=UTF-8
+
+liquibase:
+  change-log: classpath:liquibase/index.xml
+  user: ${spring.datasource.username}
+  password: ${spring.datasource.password}
+  url: ${spring.datasource.url}
+
+mybatis:
+  type-aliases-package: zscatcloud-config.model.domain
+  mapper-locations: classpath:mapper/*.xml,classpath*:sdk/mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
+mapper:
+  mappers: com.zscatcloud.core.mybatis.MyMapper
+  not-empty: false
+  identity: MYSQL
+
+pagehelper:
+  helperDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql
+
+security:
+  oauth2:
+    client:
+      clientId: zscatcloud-client-omc
+      clientSecret: zscatcloudClientSecret
+      access-token-uri: http://127.0.0.1:7979/uac/oauth/token
+      user-authorization-uri: http://127.0.0.1:7979/uac/oauth/authorize
+    resource:
+      user-info-uri: http://127.0.0.1:7979/uac/user
+      prefer-token-info: false
+      jwt:
+        key-uri: http://127.0.0.1:8000/oauth/token_key
+
+zscatcloud:
+  enableSqlLogInterceptor: false
+  aliyun:
+    rocketMq:
+      enable: false
+      reliableMessageConsumer: false
+      reliableMessageProducer: false
+      instanceName: zscatcloud-provider-omc
+      consumerGroup: CID_OMC
+      producerGroup: PID_OMC
+  token:
+    interceptor:
+      enable: true
+  zk:
+    zkAddressList: 127.0.0.1:2181
+  oauth2:
+    jwtSigningKey: zscatcloud
+    client:
+      id: ${security.oauth2.resource.id}
+      accessTokenUrl: ${security.oauth2.client.access-token-uri}
+      clientId: ${security.oauth2.client.clientId}
+      clientSecret: ${security.oauth2.client.clientSecret}
+      clientAuthenticationScheme: header
+      tokenStore: jwt
+  alipay:
+    callback:
+      url: http://127.0.0.1/omc/pay/alipayCallback
+    qrCode:
+      pcPath: E:/File/alipay/QRCode
+      qiniuPath: alipay/QRCode/

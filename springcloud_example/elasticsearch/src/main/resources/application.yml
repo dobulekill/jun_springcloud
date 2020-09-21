@@ -1,0 +1,10 @@
+server:
+  port: 8801
+
+# elasticsearch.yml 文件中的 cluster.name
+spring:
+  data:
+    elasticsearch:
+      clusterName: my-application
+  # elasticsearch 调用地址，多个使用“,”隔开
+      clusterNodes: localhost:9300

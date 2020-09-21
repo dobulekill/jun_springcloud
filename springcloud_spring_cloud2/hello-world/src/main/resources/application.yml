@@ -1,0 +1,18 @@
+my:
+ name: aaa
+ age: 12333
+ number: ${random.int}
+ uuid: ${random.uuid}
+ max: ${random.int(10)}
+ value: ${random.value}
+ greeting: hi,i'm ${my.name}
+spring:
+  profiles:
+    active: jpa
+management:
+  port: 9091
+  security:
+   enabled: false
+logging:
+  level:
+    TRACE

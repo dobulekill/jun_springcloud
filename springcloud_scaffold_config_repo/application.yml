@@ -1,0 +1,10 @@
+## 共用配置，由于所有服务都整合了rabbitmq，所以将其放在这里。
+spring:
+  sleuth:
+    sampler:
+      percentage: 1.0
+  rabbitmq:
+    host: 192.168.1.33
+    port: 5672
+    username: demo
+    password: demo

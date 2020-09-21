@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en" class="app">
+
+<head>
+	<meta charset="utf-8" />
+	<title>微商云应用</title>
+	<meta name="description" content="app, web app, responsive, admin dashboard, admin, flat, flat ui, ui kit, off screen nav" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="css/animate.css" />
+	<link rel="stylesheet" type="text/css" href="css/font.css" />
+	<link rel="stylesheet" type="text/css" href="css/app.css" />
+	<!--[if lt IE 9]>
+    <script src="js/ie/html5shiv.js"></script>
+    <script src="js/ie/respond.min.js"></script>
+    <script src="js/ie/excanvas.js"></script>
+  	<![endif]-->
+</head>
+
+<body class="">
+	<section class="vbox">
+		<header class="bg-white-only header header-md navbar navbar-fixed-top-xs">
+			<div class="navbar-header aside bg-info nav-xs">
+				<a class="btn btn-link visible-xs" data-toggle="class:nav-off-screen,open" data-target="#nav,html">
+					<i class="icon-list"></i>
+				</a>
+				<a href="index.html" class="navbar-brand text-lt">
+					<img src="images/logo.png" alt=".">
+					<span class="title hidden-nav-xs m-l-sm">微商云应用</span>
+				</a>
+				<a class="btn btn-link visible-xs" data-toggle="dropdown" data-target=".user">
+					<i class="icon-settings"></i>
+				</a>
+			</div>
+			<ul class="nav navbar-nav hidden-xs">
+				<li>
+					<a href="#nav,.navbar-header" data-toggle="class:nav-xs,nav-xs" class="text-muted">
+						<i class="fa fa-indent text"></i>
+						<i class="fa fa-dedent text-active"></i>
+					</a>
+				</li>
+			</ul>
+			<form class="navbar-form navbar-left input-s-lg m-t m-l-n-xs hidden-xs" role="search">
+				<div class="form-group">
+					<div class="input-group">
+						<input type="text" class="form-control input-sm rounded" placeholder="请输入关键字">
+						<span class="input-group-btn">
+						  <button type="submit" class="btn btn-sm btn-primary rounded"><i class="fa fa-search"></i></button>
+						</span>
+					</div>
+				</div>
+			</form>
+			<div class="navbar-right ">
+				<ul class="nav navbar-nav m-n hidden-xs nav-user user">
+					<li class="hidden-xs">
+						<a href="#" class="dropdown-toggle lt" data-toggle="dropdown">
+							<i class="fa fa-bell"></i>
+							<span class="badge badge-sm up bg-danger count">2</span>
+						</a>
+						<section class="dropdown-menu aside-xl animated fadeInUp">
+							<section class="panel bg-white">
+								<div class="panel-heading b-light bg-light">
+									<strong>您有 <span class="count">2</span> 个通知</strong>
+								</div>
+								<div class="list-group list-group-alt">
+									<a href="#" class="media list-group-item">
+										<span class="pull-left thumb-sm">
+										  <img src="images/a0.png" alt="..." class="img-circle">
+										</span>
+										<span class="media-body block m-b-none">
+										  用户李想注册了账号<br>
+										  <small class="text-muted">10 分钟前</small>
+										</span>
+									</a>
+									<a href="#" class="media list-group-item">
+										<span class="media-body block m-b-none">
+										  您有一个新的粉丝<br>
+										  <small class="text-muted">1 小时前</small>
+										</span>
+									</a>
+								</div>
+								<div class="panel-footer text-sm">
+									<a href="#" class="pull-right"><i class="fa fa-cog"></i></a>
+									<a href="#notes" data-toggle="class:show animated fadeInRight">查看所有通知</a>
+								</div>
+							</section>
+						</section>
+					</li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle bg clear" data-toggle="dropdown">
+							<span class="thumb-sm avatar pull-right m-t-n-sm m-b-n-sm m-l-sm">
+								<img src="images/a0.png" alt="...">
+							</span>
+							史蒂芬·乔布斯 <b class="caret"></b>
+						</a>
+						<ul class="dropdown-menu animated fadeInRight">
+							<li>
+								<span class="arrow top"></span>
+								<a href="#">设置</a>
+							</li>
+							<li>
+								<a href="profile.html">简介</a>
+							</li>
+							<li>
+								<a href="#">
+									<span class="badge bg-danger pull-right">3</span>
+									通知
+								</a>
+							</li>
+							<li>
+								<a href="docs.html">帮助</a>
+							</li>
+							<li class="divider"></li>
+							<li>
+								<a href="modal.lockme.html" data-toggle="ajaxModal">退出</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</header>
+		<section class="hbox stretch">
+			<!-- 左侧栏start -->
+			<aside class="bg-dark nav-xs aside hidden-print" id="nav">
+				<section class="vbox">
+					<section class="scrollable">
+						<div class="slim-scroll" data-height="auto" data-disable-fade-out="true" data-distance="0" data-size="10px" data-railOpacity="0.2">
+							<!-- nav -->
+							<nav class="nav-primary hidden-xs">
+
+								<ul class="nav" data-ride="collapse">
+									<li class="active">
+									  <a href="#" class="auto">
+										<span class="pull-right text-muted">
+										  <i class="fa fa-angle-left text"></i>
+										  <i class="fa fa-angle-down text-active"></i>
+										</span>
+										<i class="fa fa-wrench">
+										</i>
+										<span>项目管理</span>
+									  </a>
+									  <ul class="nav dk text-sm">
+										<li >
+										  <a href="design.html" class="auto">                                                        
+											<i class="fa fa-angle-right text-xs"></i>
+											<span>云应用设计</span>
+										  </a>
+										</li>
+										<li >
+										  <a href="#" class="auto">                                                        
+											<i class="fa fa-angle-right text-xs"></i>
+											<span>项目管理二级</span>
+										  </a>
+										</li>
+										<li >
+										  <a href="#" class="auto">                                                        
+											<i class="fa fa-angle-right text-xs"></i>
+											<span>项目管理二级</span>
+										  </a>
+										</li>
+									  </ul>
+									</li>
+									<li >
+									  <a href="#" class="auto">
+										<span class="pull-right text-muted">
+										  <i class="fa fa-angle-left text"></i>
+										  <i class="fa fa-angle-down text-active"></i>
+										</span>
+										<i class="fa fa-cloud text-info"></i>
+										<span>云应用</span>
+									  </a>
+									  <ul class="nav dk text-sm">
+										<li >
+										  <a href="#" class="auto">                                                        
+											<i class="fa fa-angle-right text-xs"></i>
+											<span>新建云应用</span>
+										  </a>
+										</li>
+										<li >
+										  <a href="#" class="auto">                            
+											<b class="badge bg-info pull-right">58</b>                                                        
+											<i class="fa fa-angle-right text-xs"></i>
+											<span>我的云应用</span>
+										  </a>
+										</li>
+										<li >
+										  <a href="#" class="auto">                            
+											<b class="badge bg-info pull-right">369</b>                                                        
+											<i class="fa fa-angle-right text-xs"></i>
+											<span>我的收藏</span>
+										  </a>
+										</li>
+
+										<li>
+										  <a href="#table" class="auto">                            
+											<span class="pull-right text-muted">
+											   <i class="fa fa-angle-left text"></i>
+											   <i class="fa fa-angle-down text-active"></i>
+											</span>                            
+											<i class="fa fa-angle-right text-xs"></i>
+											<span>云应用二级</span>
+										  </a>
+										  <ul class="nav dker">
+											<li >
+											  <a href="#">
+												<i class="fa fa-angle-right"></i>
+												<span>云应用三级</span>
+											  </a>
+											</li>
+											<li >
+											  <a href="#">
+												<i class="fa fa-angle-right"></i>
+												<span>云应用三级</span>
+											  </a>
+											</li>
+										  </ul>
+										</li>
+										<li>
+										  <a href="#" class="auto">                            
+											<span class="pull-right text-muted">
+											  <i class="fa fa-angle-left text"></i>
+											  <i class="fa fa-angle-down text-active"></i>
+											</span>                            
+											<i class="fa fa-angle-right text-xs"></i>
+
+											<span>云应用二级</span>
+										  </a>
+										  <ul class="nav dker">
+											<li>
+											  <a href="#">
+												<i class="fa fa-angle-right"></i>
+												<span>云应用三级</span>
+											  </a>
+											</li>
+											<li >
+											  <a href="#">
+												<i class="fa fa-angle-right"></i>
+												<span>云应用三级</span>
+											  </a>
+											</li>
+											<li >
+											  <a href="#">
+												<i class="fa fa-angle-right"></i>
+												<span>云应用三级</span>
+											  </a>
+											</li>
+										  </ul>
+										</li>
+
+									  </ul>
+									</li>
+
+									<li>
+										<a href="cloud-show.html">
+											<i class="fa fa-soundcloud"></i>
+											<b class="badge bg-danger pull-right">6</b>
+											<span>云Show</span>
+										</a>
+									</li>
+									<li>
+										<a href="cloud-card.html">
+											<i class="fa fa-tasks"></i>
+											<span>云名片</span>
+										</a>
+									</li>
+									<li>
+										<a href="noite.html">
+											<i class="fa fa-bullhorn"></i>
+											<span>通知中心</span>
+										</a>
+									</li>
+									<li>
+										<a href="users.html" >
+											<i class="fa fa-user"></i>
+											<span>用户中心</span>
+										</a>
+									</li>
+									<li class="m-b hidden-nav-xs"></li>
+								</ul>
+							</nav>
+							<!-- / nav -->
+						</div>
+
+					</section>
+
+				</section>
+			</aside>
+			<!-- 左侧栏end -->
+			
+			<!-- 主内容start -->
+			<section id="content">
+				<section class="hbox stretch">
+					<section>
+						<section class="vbox">
+							<section class="scrollable">
+								<div class="container-fluid main-content">
+									<div class="row boxes">
+										<div class="col-md-2 col-sm-4 col-xs-12">
+											<a href="#" class="c-box bg-primary">
+												<i class="fa fa-desktop"></i>
+												<span>云应用</span>
+											</a>
+										</div>
+										<div class="col-md-2 col-sm-4 col-xs-6">
+											<a href="#" class="c-box bg-warning">
+												<i class="fa fa-cloud"></i>
+												<span>云应用</span>
+											</a>
+										</div>
+										<div class="col-md-2 col-sm-4 col-xs-6">
+											<a href="#" class="c-box bg-info">
+												<i class="fa fa-cloud-download"></i>
+												<span>云应用</span>
+											</a>
+										</div>
+										<div class="col-md-2 col-sm-4 col-xs-6">
+											<a href="#" class="c-box bg-success">
+												<i class="fa fa-eyedropper"></i>
+												<span>云应用</span>
+											</a>
+										</div>
+										<div class="col-md-2 col-sm-4 col-xs-6">
+											<a href="#" class="c-box bg-dark">
+												<i class="fa fa-coffee"></i>
+												<span>云应用</span>
+											</a>
+										</div>
+										<div class="col-md-2 col-sm-4 col-xs-12">
+											<a href="#" class="c-box bg-danger">
+												<i class="fa fa-dashboard"></i>
+												<span>云应用</span>
+											</a>
+										</div>
+									</div>
+									<div class="row panel-box">
+										<div class="col-md-6">
+											<div class="panel panel-default">
+											  <div class="panel-heading">
+												  <h3 class="panel-title"><i class="fa fa-bullhorn"></i>通知公告</h3>
+											  </div>
+											  <ul class="list-group news-list">
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">您的站点已经创建成功！</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">您有一个新的消息，快去看看吧。</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">您的空间已经到期，请尽快进行升级！</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">网站近日访问人数超过了10000啦</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">有新的用户注册！</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">还是这些，通知消息！</a></li>
+											  </ul>
+											</div>
+
+										</div>
+										<div class="col-md-6">
+											<div class="panel panel-default">
+											  <div class="panel-heading">
+												  <h3 class="panel-title"><i class="fa fa-glass"></i>服务市场</h3>
+											  </div>
+											  <ul class="list-group news-list">
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">您的站点已经创建成功！</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">您有一个新的消息，快去看看吧。</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">您的空间已经到期，请尽快进行升级！</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">网站近日访问人数超过了10000啦</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">有新的用户注册！</a></li>
+												  <li class="list-group-item"><span class="time">10/30 12:30</span><a href="#">还是这些，通知消息！</a></li>
+											  </ul>
+											</div>
+
+										</div>
+
+									</div>
+									<div class="row number-box">
+										<div class="col-sm-6 col-md-3">
+											<div class="s-box">
+												<i class="bigicon fa fa-eye"></i>
+												<h5>今日访客</h5>
+												<div class="number"><b>78</b><span>人次</span></div>
+												<a href="#" class="s-foot bg-primary">查看详情<i class="fa fa-arrow-circle-right pull-right"></i></a>
+											</div>
+										</div>
+										<div class="col-sm-6 col-md-3">
+											<div class="s-box">
+												<i class="bigicon fa fa-weixin"></i>
+												<h5>微信历史流量</h5>
+												<div class="number"><b>598</b><span>人次</span></div>
+												<a href="#" class="s-foot bg-warning">查看详情<i class="fa fa-arrow-circle-right pull-right"></i></a>
+											</div>
+										</div>
+										<div class="col-sm-6 col-md-3">
+											<div class="s-box">
+												<i class="bigicon fa fa-paw"></i>
+												<h5>百度搜索流量</h5>
+												<div class="number"><b>398</b><span>人次</span></div>
+												<a href="#" class="s-foot bg-info">查看详情<i class="fa fa-arrow-circle-right pull-right"></i></a>
+											</div>
+										</div>
+										<div class="col-sm-6 col-md-3">
+											<div class="s-box">
+												<i class="bigicon fa fa-th"></i>
+												<h5>其它途径流量</h5>
+												<div class="number"><b>189</b><span>人次</span></div>
+												<a href="#" class="s-foot bg-danger">查看详情<i class="fa fa-arrow-circle-right pull-right"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						</section>
+					</section>
+				</section>
+
+			</section>
+			<!-- 主内容End -->
+		</section>
+	</section>
+	<script src="js/jquery.min.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.js"></script>
+	<!-- App -->
+	<script src="js/app.js"></script>
+<!--	<script src="js/slimscroll/jquery.slimscroll.min.js"></script>-->
+<!--	<script src="js/app.plugin.js"></script>-->
+	
+	
+	<script>
+		$(function(){
+			for(var i=0;i<3;i++){
+				$('<li class="list-group-item"><span class="time">' + 
+							 '10/30 12:30' + 
+							 '</span><a href="#">' + 
+							 '这是用动态插入的，这里显示多少条呢！' + 
+							 '</a></li>').appendTo(".news-list");
+			}
+
+
+		})
+	
+	</script>
+</body>
+
+</html>

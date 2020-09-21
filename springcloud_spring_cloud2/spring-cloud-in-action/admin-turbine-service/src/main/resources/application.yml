@@ -1,0 +1,17 @@
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka/
+server:
+  port: 5005
+spring:
+  application:
+    name: admin-turbine-service
+turbine:
+  aggregator:
+    cluster-config: default
+  app-config: admin-client-one,admin-client-two
+  cluster-name-expression: new String("default")
+management:
+  security:
+    enabled: false

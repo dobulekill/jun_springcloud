@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.itqf</groupId>
+    <artifactId>sms-platform-nz</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>sms-platform-eureka</module>
+        <module>sms-platform-config-server</module>
+        <module>sms-platform-common</module>
+        <module>sms-platform-cache</module>
+        <module>sms-platform-strategy</module>
+        <module>sms-platform-gateway</module>
+        <module>sms-platform-interface</module>
+        <module>sms-platform-monitor</module>
+        <module>sms-platform-search</module>
+        <module>sms-platform-webmaster</module>
+    </modules>
+
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.1.9.RELEASE</version>
+    </parent>
+
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>Greenwich.SR5</version>
+                <scope>import</scope>
+                <type>pom</type>
+            </dependency>
+
+        </dependencies>
+    </dependencyManagement>
+
+
+</project>

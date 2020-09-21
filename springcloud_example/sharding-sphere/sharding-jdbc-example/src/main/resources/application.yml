@@ -1,0 +1,74 @@
+spring:
+  shardingsphere:
+    datasource:
+      names: ds0,ds1
+      ds0:
+        jdbc-url: jdbc:mysql://localhost:3306/user?userUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+        type: com.zaxxer.hikari.HikariDataSource
+        driverClassName: com.mysql.cj.jdbc.Driver
+        username: root
+        password: root
+        poolPreparedStatements: true
+        maxPoolPreparedStatementPerConnectionSize: 20
+        timeBetweenEvictionRunsMillis: 60000
+        testOnBorrow: false
+        testOnReturn: false
+        minIdle: 10
+        logSlowSql: true
+        commons-log.connection-logger-name: stat,log4j,wall
+        validationQuery: SELECT 1
+        filters: stat,wall
+        maxWait: 60000
+        maxActive: 100
+        minEvictableIdleTimeMillis: 300000
+        testWhileIdle: true
+        initialSize: 10
+      ds1:
+        jdbc-url: jdbc:mysql://localhost:3306/user2019?userUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+        type: com.zaxxer.hikari.HikariDataSource
+        driverClassName: com.mysql.cj.jdbc.Driver
+        username: root
+        password: root
+        poolPreparedStatements: true
+        maxPoolPreparedStatementPerConnectionSize: 20
+        timeBetweenEvictionRunsMillis: 60000
+        testOnBorrow: false
+        testOnReturn: false
+        minIdle: 10
+        logSlowSql: true
+        commons-log.connection-logger-name: stat,log4j,wall
+        validationQuery: SELECT 1
+        filters: stat,wall
+        maxWait: 60000
+        maxActive: 100
+        minEvictableIdleTimeMillis: 300000
+        testWhileIdle: true
+        initialSize: 10
+    sharding:
+      ## 设置默认数据源
+      default-data-source-name: ds0
+      default-database-strategy:
+        standard:
+          precise-algorithm-class-name: com.murphy.shardingjdbc.sharding.PreciseAlgorithm
+          shardingColumn: user_id
+      tables:
+        user:
+          ##设置每张表策略，可以覆盖默认策略五规则@see org.apache.shardingsphere.core.yaml.config.sharding.YamlShardingStrategyConfiguration
+          databaseStrategy:
+            complex:
+              shardingColumns: id
+              ##复合分片
+              algorithmClassName: com.murphy.shardingjdbc.sharding.ComplexAlgorithm
+          ## 这段是sharding的表达式，用来确认分片的范围从数据源0-1
+          actual-data-nodes: ds$->{0..1}.user
+        user_message:
+          actual-data-nodes: ds$->{0..1}.user_message
+
+
+logging:
+  level:
+    com.murphy.shardingjdbc.mapper: debug
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true

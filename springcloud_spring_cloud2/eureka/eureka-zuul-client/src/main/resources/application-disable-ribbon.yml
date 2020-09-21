@@ -1,0 +1,11 @@
+ribbon:
+  eureka:
+    enabled: false
+zuul:
+  routes:
+    hiapi:
+      path: /hiapi/**
+      serviceId: hiapi-v1
+hiapi-v1:
+  ribbon:
+    listOfServers: http://localhost:8762,http://localhost:8763,http://localhost:8790

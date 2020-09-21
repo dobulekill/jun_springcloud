@@ -1,0 +1,15 @@
+server:
+  port: 8002
+
+spring:
+  application:
+    name: @pom.artifactId@
+  datasource:
+    username: root
+    password: root@123
+    url: jdbc:mysql://127.0.0.1:3306/zscatcloud?characterEncoding=utf8&useSSL=false
+mybatis:
+  type-aliases-package: com.zscat.order.entity
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true

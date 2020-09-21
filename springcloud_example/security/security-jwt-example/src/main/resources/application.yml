@@ -1,0 +1,12 @@
+server:
+  port: 8030
+
+jwt:
+  filter:
+    exceptUrl: /auth/token
+
+login:
+  extend:
+    username: username
+    password: password
+    loginUrl: /auth/token

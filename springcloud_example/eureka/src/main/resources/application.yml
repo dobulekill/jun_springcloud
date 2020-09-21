@@ -1,0 +1,39 @@
+spring:
+  application:
+    name: eureka-server
+server:
+  port: 9999
+  tomcat:
+    # tomcat最大线程数，默认为200
+    max-threads: 800
+    # tomcat的URI编码
+    uri-encoding: UTF-8
+-Xmn: 256m
+-Xms: 256m
+-Xmx: 512m
+eureka:
+  environment: prod
+  client:
+    # 是否从Eureka获取配置信息单机时不需要，集群时靠这个做Server端配置同步，默认为true
+    fetch-registry: false
+    #心跳检查需要spring-boot-starter-actuator依赖
+    healthcheck:
+      enabled: true
+    #是否向服务注册中心注册自己,集群时靠这个做Server端配置同步，默认为true
+    register-with-eureka: false
+    serviceUrl:
+      defaultZone: http://localhost:9999/eureka/
+  instance:
+    app-group-name: ''
+    instance-id: ${spring.application.name}:${spring.cloud.client.ip-address}:${server.port}
+    #显示ip地址
+    prefer-ip-address: true
+#    ip-address:
+  server:
+    #测试时可设为false，关闭自我保护,默认true：15分钟内心跳失败比例低于85%将触发自我保护机制
+    enable-self-preservation: false
+    # 清理间隔（单位毫秒，默认是60*1000）
+    eviction-interval-timer-in-ms: 5000
+
+
+

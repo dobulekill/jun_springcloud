@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en" class="app">
+
+<head>
+	<meta charset="utf-8" />
+	<title>微商云应用</title>
+	<meta name="description" content="app, web app, responsive, admin dashboard, admin, flat, flat ui, ui kit, off screen nav" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="css/animate.css" />
+	<link rel="stylesheet" type="text/css" href="css/font.css" />
+	<link rel="stylesheet" type="text/css" href="css/app.login.css" />
+	<!--[if lt IE 9]>
+    <script src="js/ie/html5shiv.js"></script>
+    <script src="js/ie/respond.min.js"></script>
+    <script src="js/ie/excanvas.js"></script>
+  	<![endif]-->
+</head>
+
+<body>
+	<!--    header start-->
+	<div id="header" class="navbar navbar-white" role="banner">
+		<div class="container">
+
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse-menu">
+				<span class="sr-only">可折叠导航</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			  <a class="navbar-brand scrollto" href="#slider"></a>
+			</div>
+
+			<!--  以下内容将在手机上折叠 -->
+			<div class="collapse navbar-collapse" id="collapse-menu">
+                <ul class="nav navbar-nav navbar-right main_nav">
+                    <li><a href="#">官方首页</a></li>
+                    <li><a href="#">其他子站</a></li>
+                    <li><a href="#">公司介绍</a></li>
+                    <li><a href="#">企业招聘</a></li>
+                </ul>
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</div>
+	<!--    header end-->
+
+	<!--登录 start-->
+	<div class="step-box">
+		<ul class="step-bar" id="step_bar">
+			<li class="step done"><a data-toggle="tab" href="#step1" class="number">1</a></li>
+			<li class="step"><a data-toggle="tab" href="#step2" class="number">2</a></li>
+			<li class="step"><a data-toggle="tab" href="#step3" class="number">3</a></li>
+			<li class="progre-bar"></li>
+		</ul>
+	</div>
+	
+	<div class="login-box reg-step">
+
+		<div class="form-con reg-box tab-content " id="stepCon">
+			<!-- 第一步 -->
+		    <form role="form" id="step1" class="tab-pane fade in active" novalidate="novalidate" class="bootstrap-validator-form">
+		        <div class="form-group">
+		    		<label for="t1" class="must">邮箱</label>
+		    		<input type="text" class="form-control un" id="t1" name="email" placeholder="admin@website.com">
+		        </div>
+		        <div class="form-group">
+		    		<label class="must">登录密码</label>
+		    		<input type="password" class="form-control pw"  name="password" placeholder="设置您的密码">
+		        </div>
+		        <div class="form-group">
+		    		<label class="must">确认密码</label>
+		    		<input type="password" class="form-control pw"  name="confirmPassword" placeholder="在次输入您的密码">
+		        </div>
+		    	<a data-toggle="tab" href="#step2" class="btn btn-info btn-block" id="btn_step1">下一步</a>
+		    	
+		    </form>
+			<!-- 第二步 -->
+		    <form role="form" id="step2" class="tab-pane fade">
+		        <div class="form-group">
+		    		<label for="t1" class="must">邮箱</label>
+		    		<input type="text" class="form-control un" id="t1" placeholder="admin@website.com">
+		        </div>
+		        <div class="form-group">
+		    		<label>手机</label>
+		    		<input type="text" class="form-control ph" placeholder="你常用的手机">
+		        </div>
+		    	<a data-toggle="tab" href="#step3" class="btn btn-info btn-block" id="btn_step2">下一步</a>
+		    	
+		    </form>
+		    <!-- 第三步 -->
+		    <form role="form" id="step3" class="tab-pane fade">
+		        <div class="form-group">
+		    		<label>手机</label>
+		    		<input type="text" class="form-control ph" placeholder="你常用的手机">
+		        </div>
+		    	<a href="#" class="btn btn-info btn-block" id="btn_step3">完成</a>
+		    </form>
+		</div>
+		<div class="wx-login hide">
+			<div class="row">
+				<div class="col-sm-5">
+					<div class="t-code"><img src="images/code1.jpg" class="img-responsive"></div>
+					<h3 class="code-tit">关注我们</h3>
+					<p>微信扫一扫，关注我们</p>
+				</div>
+				<div class="col-sm-2"><div class="fa"></div></div>
+				<div class="col-sm-5">
+					<div class="t-code"><img src="images/code1.jpg" class="img-responsive"></div>
+					<h3 class="code-tit">获取验证码</h3>
+					<p>微信扫一扫，获取验证码</p>
+					<div class="done-form">
+						<input type="text" class="form-control" placeholder="验证码">
+						<div class="c-box">
+							<input type="checkbox" name="" id="xy">
+							<label for="xy">同意<span class="co-danger">《天朝帝国协议》</span></label>
+						</div>
+						<a href="#" class="btn btn-warning btn-block">登录</a>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<div class="tip-info">
+			<ol>
+				<li>提示信息介绍内容</li>
+				<li>第二点提示信息</li>
+				<li>第三点提示信息文字内容</li>
+				<li>第四点提示信息</li>
+			</ol>
+		</div>
+		<a href="javascript:;" class="btn registered" id="loginType">试试微信扫码登录</a>
+	</div>
+	
+	
+	<!--页脚 start-->
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-3">
+					<h3>官方账号</h3>
+                    <p>关注我们获得最新产品动态</p>
+                    <div class="icon-row">
+                        <a href="#" class="bg-success"><i class="fa fa-weixin"></i></a>
+                        <a href="#" class="bg-danger"><i class="fa fa-weibo"></i></a>
+                    </div>
+					
+				</div>
+				<div class="col-sm-2">
+					<h3>帮助中心</h3>
+					<ul class="links">
+                        <li><a href="#">购物指南 </a></li>
+                        <li><a href="#">配送方式 </a></li>
+                        <li><a href="#">支付方式 </a></li>
+                    </ul>
+				</div>
+				<div class="col-sm-2">
+					<h3>服务支持</h3>
+                    <ul class="links">
+                        <li><a href="#">售后服务 </a></li>
+                        <li><a href="#">常见问题 </a></li>
+                        <li><a href="#">产品说明 </a></li>
+                    </ul>
+				</div>
+                <div class="col-sm-2">
+                    <h3></i>关于我们</h3>
+                    <ul class="links">
+                        <li><a href="#">公司简介 </a></li>
+                        <li><a href="#">加入我们 </a></li>
+                        <li><a href="#">联系我们 </a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h3>热线电话</h3>
+                    <div class="contact co-danger">400-500-7890</div>
+                    
+                </div>
+			</div>
+		</div>
+        <div class="copyright">
+            沪ICP备13039009号，版权所有 © 2011-2014 520公司版权所有
+        </div>
+	</div>
+	<!--页脚 end-->
+
+
+
+
+	<script src="js/jquery.min.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.js"></script>
+	 插件 
+	<script src="js/forms/Validator.min.js"></script>
+	<!-- App -->
+	<script src="js/app.forms.js"></script>
+	<script type="text/javascript">
+		$(function(){
+
+			$('.step-bar li').click(function (e) {
+			  e.preventDefault()
+
+			  $(this).toggleClass("done")
+			  
+			})
+			$("#btn_step1").click(function(){
+				$("#step_bar li").eq(1).addClass("done");
+				$(".progre-bar").css("width","50%")
+
+			})
+			$("#btn_step2").click(function(){
+				$("#step_bar li").eq(2).addClass("done");
+				$(".progre-bar").css("width","100%")
+			})
+			//登录方式
+			$("#loginType").click(function(){
+				if ($(this).text()=="试试微信扫码登录") {
+					$("#stepCon").addClass("hide");
+					$(".wx-login").removeClass("hide");
+					$(this).text("返回传统方式")
+				}else{
+					$("#stepCon").removeClass("hide");
+					$(".wx-login").addClass("hide");
+					$(this).text("试试微信扫码登录")
+				}
+			})
+		})
+		
+
+	</script>
+
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka/
+management:
+  port: 5002
+  security:
+    enabled: false
+#spring:
+#  boot:
+#    admin:
+#      turbine:
+#        clusters: default
+#        location: monitor-service
+#  instance:
+#    metadata-map:
+#      user.name: admin
+#      user.password: 123456
+server:
+  port: 5001
+security:
+  user:
+    name: admin
+    password: 123456
+spring:
+  boot:
+    admin:
+      routes:
+        endpoints: env,metrics,dump,jolokia,info,configprops,trace,logfile,refresh,flyway,liquibase,heapdump,loggers,auditevents,hystrix,stream
+      turbine:
+        clusters: default
+        location: monitoring-service

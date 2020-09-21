@@ -1,0 +1,22 @@
+server:
+  port: 8001
+mybatis:
+  type-aliases-package: com.study.cloud.bean
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml
+
+#服务提供者
+spring:
+  application:
+    name: springcloud-provider
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/leotemp?useUnicode=true&useSSL=false&characterEncodig=utf-8
+    username: root
+    password: 123456
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/,http://localhost:7002/eureka/,http://localhost:7003/eureka/
+#配置eureka

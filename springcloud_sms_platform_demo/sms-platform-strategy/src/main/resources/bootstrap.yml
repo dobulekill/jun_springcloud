@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: sms-platform-strategy
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: SMS-PLATFORM-CONFIG-SERVER
+      label: master
+      profile: '@profileActive@'
+
+  profiles:
+    active: '@profileActive@'

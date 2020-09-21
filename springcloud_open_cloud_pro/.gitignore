@@ -1,0 +1,8 @@
+.idea/
+*.iml
+target/
+logs/
+LOG_FILE_IS_UNDEFINED
+*/.DS_Store
+.DS_Store
+*.log

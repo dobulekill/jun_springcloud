@@ -1,0 +1,11 @@
+server:
+  port: 8769
+spring:
+  profiles:
+    active: gitee
+  application:
+    name: config-server
+#eureka:
+#  client:
+#    service-url:
+#      default-zone: http://localhost:8761/eureka/

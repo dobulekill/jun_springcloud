@@ -1,0 +1,18 @@
+server:
+  port: 40010
+spring:
+  application:
+    name: gateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10010/eureka/
+      
+#转发规则
+zuul:
+  #忽略所有服务直接访问
+  ignored-services: '*'
+  #路由设置：服务名对应请求路径，注意路由路径不能相同，否则会被覆盖
+  routes:
+    provider: /gateway/provider/**
+    consumer: /gateway/consumer/**

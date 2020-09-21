@@ -1,0 +1,80 @@
+.div-center{
+    text-align: center;
+}
+.left50{
+    margin-left:50px;
+}
+.main{
+    width:900px;
+}
+table {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border-collapse:collapse;
+    border-spacing:0;
+    text-align:center;
+}
+th {
+    height:38px;
+    font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    color: #4f6b72;
+    border: 1px solid #CAE8C4;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 5px 5px 5px 10px;
+    background-color: #CAF6C4;
+}
+
+td {
+    height:38px;
+    border: 1px solid #CAE8C4;
+    background: #fff;
+    font-size: 11px;
+    padding: 5px 5px 5px 10px;
+    color: #4f6b72;
+    word-wrap: break-word;
+    word-break: normal;
+    white-space: nowrap;
+}
+
+
+pre {font-family:'consolas';}
+.Canvas {
+    font:14px/18px 'consolas';
+    background-color: #ECECEC;
+    color: #000000;
+    border: solid 1px #CECECE;
+}
+.ObjectBrace {
+    color: #00AA00;
+}
+.ArrayBrace {
+    color: #0033FF;
+}
+.PropertyName {
+    color: #CC0000;
+}
+.String {
+    color: #007777;
+}
+.Number {
+    color: #AA00AA;
+}
+.Boolean {
+    color: #0000FF;
+}
+.Function {
+    color: #AA6633;
+    text-decoration: italic;
+}
+.Null {
+    color: #0000FF;
+}
+.Comma {
+    color: #000000;
+}
+PRE.CodeContainer {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

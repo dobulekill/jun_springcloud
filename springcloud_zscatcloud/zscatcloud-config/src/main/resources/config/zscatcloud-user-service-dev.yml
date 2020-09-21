@@ -1,0 +1,115 @@
+spring:
+  mvc:
+    date-format: yyyy-MM-dd HH:mm:ss
+  jackson:
+    joda-date-time-format: yyyy-MM-dd HH:mm:ss
+    date-format: yyyy-MM-dd HH:mm:ss
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/zscatcloud?characterEncoding=utf8&useSSL=false
+
+mybatis:
+  type-aliases-package: com.zscat.user.entity
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
+mapper:
+  mappers: com.zscatcloud.core.mybatis.MyMapper
+  not-empty: false
+  identity: MYSQL
+
+
+security:
+  oauth2:
+    client:
+      clientId: zscatcloud-client-uac
+      clientSecret: zscatcloudClientSecret
+      access-token-uri: http://127.0.0.1:7979/uac/oauth/token
+      user-authorization-uri: http://127.0.0.1:7979/uac/oauth/authorize
+    resource:
+      id: zscatcloud-resource-uac
+      filter-order: 3
+
+zscatcloud:
+  enableSqlLogInterceptor: false
+  aliyun:
+    rocketMq:
+      enable: true
+      reliableMessageConsumer: false
+      reliableMessageProducer: true
+      instanceName: zscatcloud-provider-uac
+      consumerGroup: CID_UAC
+      producerGroup: PID_UAC
+  auth:
+    rest-pwd-url: http://127.0.0.1/resetPwd?resetPwdKey=
+    active-user-url: http://127.0.0.1:7979/uac/auth/activeUser/
+    refresh-token-url: http://127.0.0.1:7979/uac/oauth/token
+  token:
+    interceptor:
+      enable: true
+  oauth2:
+    jwtSigningKey: zscatcloud
+    client:
+      id: ${security.oauth2.resource.id}
+      accessTokenUrl: ${security.oauth2.client.access-token-uri}
+      clientId: ${security.oauth2.client.clientId}
+      clientSecret: ${security.oauth2.client.clientSecret}
+      clientAuthenticationScheme: header
+  security:
+    social:
+      filterProcessesUrl: /auth/callback
+      qq:
+        app-id: 101431061
+        app-secret: 0154c848f45fc705412462d4f99a592c
+        providerId: qq
+      weixin:
+        app-id: wxd99431bbff8305a0
+        app-secret: 60f78681d063590a469f1b297feff3c4
+        providerId: weixin
+    code:
+      image:
+        expireIn: 180
+        url: /auth/register,/auth/submitResetPwdEmail,/auth/code/sms
+      sms:
+        expireIn: 600
+        url: /uac/auth/submitResetPwdPhone
+        mobileMaxSendCount: 1
+        ipMaxSendCount: 2
+        totalMaxSendCount: 3
+    oauth2:
+      tokenStore: jwt
+      clients[0]:
+        clientId: zscatcloud-client-uac
+        clientSecret: zscatcloudClientSecret
+        accessTokenValidateSeconds: 7200
+        scope: "*"
+      clients[1]:
+        clientId: zscatcloud-browser
+        clientSecret: zscatcloudClientSecret
+        accessTokenValidateSeconds: 7200
+        scope: "*"
+      clients[2]:
+        clientId: zscatcloud-client-gateway
+        clientSecret: zscatcloudClientSecret
+        accessTokenValidateSeconds: 7200
+        scope: "*"
+      clients[3]:
+        clientId: zscatcloud-client-zipkin
+        clientSecret: zscatcloudClientSecret
+        accessTokenValidateSeconds: 7200
+        scope: "*"
+      clients[4]:
+        clientId: zscatcloud-client-user
+        clientSecret: zscatcloudClientSecret
+        accessTokenValidateSeconds: 7200
+        scope: "*"
+      clients[5]:
+        clientId: zscatcloud-client-goods
+        clientSecret: zscatcloudClientSecret
+        accessTokenValidateSeconds: 7200
+        scope: "*"
+      clients[6]:
+        clientId: zscatcloud-client-order
+        clientSecret: zscatcloudClientSecret
+        accessTokenValidateSeconds: 7200
+        scope: "*"

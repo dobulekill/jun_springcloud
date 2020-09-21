@@ -1,0 +1,69 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: gateway-demo
+  cloud:
+    gateway:
+      routes:
+        - id: rate-limiter
+          uri: lb://rate-limiter
+          predicates:
+          - Path=/rate-limiter/**
+        - id: user-server
+          uri: http://localhost:8003
+          predicates:
+          ## 拦截带有user-info的url
+          - Path=/user-info/**
+          filters:
+            - name: RequestRateLimiter
+              args:
+                ## 限流的维度，比如一个用户操作的频率，或者一个ip操作的频率
+                key-resolver: '#{@hostKeyResolver}'
+                ## 每秒填充速度1
+                redis-rate-limiter.replenishRate: 1
+                ## 令牌桶总容量
+                redis-rate-limiter.burstCapacity: 2
+        - id: message-server
+          uri: lb://message-server
+          order: 1000
+          predicates:
+          - Path=/message-info/**
+          filters:
+            - name: Hystrix
+              args:
+                name: myHystrixMessage
+                fallbackUri: forward:/message/fallback
+            - name: RequestRateLimiter
+              args:
+                ## 限流的维度，比如一个用户操作的频率，或者一个ip操作的频率
+                key-resolver: '#{@hostKeyResolver}'
+                ## 每秒填充速度1
+                redis-rate-limiter.replenishRate: 1
+                ## 令牌桶总容量
+                redis-rate-limiter.burstCapacity: 1
+        - id: message-server
+          uri: lb://hystrix-feign1
+          predicates:
+          - Path=/feign1/**
+  redis:
+    host: localhost
+    port: 6379
+
+ribbon:
+  OkToRetryOnAllOperations: false #对所有操作请求都进行重试,默认false
+  ReadTimeout: 10000   #负载均衡超时时间，默认值5000
+  ConnectTimeout: 1000 #ribbon请求连接的超时时间，默认值2000
+  MaxAutoRetries: 0     #对当前实例的重试次数，默认0
+  MaxAutoRetriesNextServer: 1 #对切换实例的重试次数，默认1
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:9999/eureka
+  instance:
+    instance-id: ${spring.application.name}:${spring.cloud.client.ip-address}:${server.port}
+    prefer-ip-address: true
+
+
