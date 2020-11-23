@@ -27,7 +27,7 @@ import java.util.List;
 /**
  * The class Pc object mapper.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public class PcObjectMapper {
 	private PcObjectMapper() {

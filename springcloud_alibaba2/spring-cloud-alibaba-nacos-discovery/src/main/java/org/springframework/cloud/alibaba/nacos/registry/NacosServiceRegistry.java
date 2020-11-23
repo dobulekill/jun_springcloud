@@ -27,8 +27,8 @@ import org.springframework.cloud.client.serviceregistry.ServiceRegistry;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaojing
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosServiceRegistry implements ServiceRegistry<Registration> {
 

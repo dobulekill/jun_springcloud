@@ -25,7 +25,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * @author pbting
+ * @author Wujun
  * @date 2019-01-09 9:00 PM
  */
 public class LoadExtraConfigApplicationListener implements ApplicationListener<ApplicationEnvironmentPreparedEvent> {

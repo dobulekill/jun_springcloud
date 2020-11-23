@@ -6,7 +6,7 @@ import org.apache.commons.lang.builder.ToStringBuilder;
 
 /**
  * 客户端内收集数据map的尺寸
- * @author leifu
+ * @author Wujun
  * @Date 2015年7月13日
  * @Time 下午3:01:34
  */

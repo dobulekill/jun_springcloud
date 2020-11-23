@@ -29,7 +29,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * redis 限流服务
  *
- * @author dream.lu
+ * @author Wujun
  */
 @RequiredArgsConstructor
 public class RedisRateLimiterClient implements RateLimiterClient {

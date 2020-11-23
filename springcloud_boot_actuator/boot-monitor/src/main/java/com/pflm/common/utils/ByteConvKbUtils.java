@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 把字节数B转化为KB、MB、GB的方法
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 22/11/2018下午 2:54
  */

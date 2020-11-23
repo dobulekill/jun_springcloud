@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * The class Tree node.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 public class TreeNode {

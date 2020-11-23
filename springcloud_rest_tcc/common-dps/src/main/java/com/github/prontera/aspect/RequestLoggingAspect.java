@@ -21,7 +21,7 @@ import java.time.OffsetDateTime;
  * 本类设计为当有被@RequestBodyLogs修饰的@ControllerAdvice或者@Controller抛出异常时记录输入输出,
  * 其他情况仅记录被标记的@RequestMapping或@ResponseBody方法
  *
- * @author Zhao Junjian
+ * @author Wujun
  * @see RequestLogging
  * @see org.springframework.web.bind.annotation.ControllerAdvice
  */

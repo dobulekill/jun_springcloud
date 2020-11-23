@@ -27,7 +27,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(name = "org.springframework.cloud.alicloud.ans.AnsAutoConfiguration")

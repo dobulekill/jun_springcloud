@@ -23,7 +23,7 @@ import com.alibaba.csp.sentinel.command.vo.NodeVo;
 import com.alibaba.csp.sentinel.dashboard.domain.ResourceTreeNode;
 
 /**
- * @author leyou
+ * @author Wujun
  */
 public class ResourceVo {
     private String parentTtId;

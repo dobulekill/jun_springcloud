@@ -22,7 +22,7 @@ import java.util.Date;
  * //@EnableBinding(value = {SinkSender.SinkOutput.class})
  * 时间: 2018/10/05<br>
  *
- * @author zc
+ * @author Wujun
  */
 public class SinkSender {
 

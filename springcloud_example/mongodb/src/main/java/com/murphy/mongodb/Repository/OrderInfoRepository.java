@@ -5,7 +5,7 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
  *
- * @author dongsufeng
+ * @author Wujun
  * @date 2020/1/7 17:59
  * @version 1.0
  */

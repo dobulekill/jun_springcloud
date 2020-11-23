@@ -19,7 +19,7 @@ package net.dreamlu.mica.http;
 /**
  * http method
  *
- * @author dream.lu
+ * @author Wujun
  */
 public interface Method {
 	String GET = "GET";

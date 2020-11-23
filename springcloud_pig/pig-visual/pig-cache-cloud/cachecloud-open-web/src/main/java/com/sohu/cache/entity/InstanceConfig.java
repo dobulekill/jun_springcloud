@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * 实例配置模板
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月22日
  * @Time 下午5:45:29
  */

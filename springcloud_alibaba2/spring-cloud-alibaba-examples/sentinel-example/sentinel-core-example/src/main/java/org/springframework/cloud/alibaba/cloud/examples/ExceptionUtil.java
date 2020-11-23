@@ -7,7 +7,7 @@ import org.springframework.http.client.ClientHttpRequestExecution;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 public class ExceptionUtil {
 

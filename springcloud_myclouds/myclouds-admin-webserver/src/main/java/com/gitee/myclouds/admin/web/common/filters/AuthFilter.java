@@ -33,7 +33,7 @@ import lombok.extern.slf4j.Slf4j;
  * <p>
  * 主要控制登录后的越权访问
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @WebFilter(filterName = "AuthFilter", urlPatterns = { "/*" })

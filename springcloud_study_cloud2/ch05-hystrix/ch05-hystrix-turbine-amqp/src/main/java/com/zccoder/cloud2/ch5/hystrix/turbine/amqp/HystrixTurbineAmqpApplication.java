@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
  * 描述: 启动类<br>
  * 时间: 2018/10/02<br>
  *
- * @author zc
+ * @author Wujun
  */
 @Configuration
 @EnableAutoConfiguration

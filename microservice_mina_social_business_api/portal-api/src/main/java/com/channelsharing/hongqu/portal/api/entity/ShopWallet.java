@@ -12,7 +12,7 @@ import com.channelsharing.common.entity.BaseEntity;
 /**
  * 店铺钱包Entity
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-26
  */
 @Data

@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * ribbon 路由规则器
  *
- * @author dream.lu
+ * @author Wujun
  */
 public class MetadataAwareRule extends DiscoveryEnabledRule {
 

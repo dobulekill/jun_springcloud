@@ -18,7 +18,7 @@ import org.slf4j.LoggerFactory;
 /**
  * http原生工具类
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月15日
  * @Time 上午9:42:47
  */

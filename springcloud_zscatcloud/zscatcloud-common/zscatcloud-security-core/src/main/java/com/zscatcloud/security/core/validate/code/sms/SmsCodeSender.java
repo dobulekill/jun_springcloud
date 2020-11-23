@@ -3,7 +3,7 @@ package com.zscatcloud.security.core.validate.code.sms;
 /**
  * The interface Sms code sender.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public interface SmsCodeSender {
 

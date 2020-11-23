@@ -32,7 +32,7 @@ import com.aliyun.oss.OSS;
 /**
  * A {@link ProtocolResolver} implementation for the {@code oss://} protocol.
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class OssStorageProtocolResolver
 		implements ProtocolResolver, BeanFactoryPostProcessor, ResourceLoaderAware {

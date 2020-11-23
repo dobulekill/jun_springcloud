@@ -9,7 +9,7 @@ import lombok.experimental.Accessors;
 /**
  * 库存
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/9/14
  */
 @Data

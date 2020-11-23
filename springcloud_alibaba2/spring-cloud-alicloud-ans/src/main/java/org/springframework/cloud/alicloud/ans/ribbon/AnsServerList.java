@@ -25,7 +25,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsServerList extends AbstractServerList<AnsServer> {
 

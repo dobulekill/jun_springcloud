@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * 供应商用户Dao接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-02-02
  */
 @Mapper

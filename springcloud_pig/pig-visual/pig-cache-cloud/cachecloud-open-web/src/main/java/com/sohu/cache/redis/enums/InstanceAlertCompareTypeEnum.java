@@ -7,7 +7,7 @@ import java.util.Map;
 
 /**
  * 实例报警比较枚举
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月14日
  * @Time 上午10:20:47
  */

@@ -24,7 +24,7 @@ import java.util.Set;
 /**
  * The class Aliyun mq topic constants.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class AliyunMqTopicConstants {
@@ -32,7 +32,7 @@ public class AliyunMqTopicConstants {
 	/**
 	 * The enum Uac mq topic enum.
 	 *
-	 * @author zscatcloud.net @gmail.com
+	 * @author Wujun
 	 */
 	public enum MqTopicEnum {
 		/**
@@ -86,7 +86,7 @@ public class AliyunMqTopicConstants {
 	/**
 	 * The enum Uac mq tag enum.
 	 *
-	 * @author zscatcloud.net @gmail.com
+	 * @author Wujun
 	 */
 	public enum MqTagEnum {
 
@@ -185,7 +185,7 @@ public class AliyunMqTopicConstants {
 	/**
 	 * The class Consumer topics.
 	 *
-	 * @author zscatcloud.net @gmail.com
+	 * @author Wujun
 	 */
 	@NoArgsConstructor(access = AccessLevel.PRIVATE)
 	public static final class ConsumerTopics {
@@ -274,7 +274,7 @@ public class AliyunMqTopicConstants {
 	/**
 	 * The class Topic obj.
 	 *
-	 * @author zscatcloud.net @gmail.com
+	 * @author Wujun
 	 */
 	static class TopicObj {
 

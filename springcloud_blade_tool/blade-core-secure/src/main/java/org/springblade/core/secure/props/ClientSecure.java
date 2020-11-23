@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * 客户端令牌认证信息
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 public class ClientSecure {

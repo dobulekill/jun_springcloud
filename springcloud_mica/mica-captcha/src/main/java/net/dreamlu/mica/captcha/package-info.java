@@ -19,7 +19,7 @@
  *
  * DefaultProperties: https://github.com/Netflix/Hystrix/issues/1446
  *
- * @author L.cm
+ * @author Wujun
  */
 
 @NonNullApi

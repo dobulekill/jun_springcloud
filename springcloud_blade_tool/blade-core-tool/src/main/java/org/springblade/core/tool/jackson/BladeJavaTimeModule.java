@@ -32,7 +32,7 @@ import java.time.LocalTime;
 /**
  * java 8 时间默认序列化
  *
- * @author L.cm
+ * @author Wujun
  */
 public class BladeJavaTimeModule extends SimpleModule {
 

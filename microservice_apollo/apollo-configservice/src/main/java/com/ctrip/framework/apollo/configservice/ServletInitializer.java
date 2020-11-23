@@ -6,7 +6,7 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 /**
  * Entry point for traditional web app
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ServletInitializer extends SpringBootServletInitializer {
 

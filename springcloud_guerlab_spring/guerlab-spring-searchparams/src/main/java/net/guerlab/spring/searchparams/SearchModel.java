@@ -5,7 +5,7 @@ import java.lang.annotation.*;
 /**
  * 搜索模式
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Target(ElementType.FIELD)

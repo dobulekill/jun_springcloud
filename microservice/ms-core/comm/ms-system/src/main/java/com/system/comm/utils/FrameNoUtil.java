@@ -19,7 +19,7 @@ import com.system.comm.utils.no.SnowflakeIdWorker;
 		System.out.println(timeRandom(null));
 		System.out.println(timeRandom(null));
 	}
- * @author 岳静
+ * @author Wujun
  * @date 2016年3月2日 下午4:42:26 
  * @version V1.0
  */

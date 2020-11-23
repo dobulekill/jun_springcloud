@@ -33,7 +33,7 @@ import org.springframework.web.client.RestTemplate;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class SentinelRestTemplateTests {
 

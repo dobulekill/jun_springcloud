@@ -47,7 +47,7 @@ import com.sohu.cache.web.service.AppService;
 /**
  * 数据迁移(使用唯品会的开源工具redis-migrate-tool进行迁移)
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-8
  * @Time 下午2:54:33
  */

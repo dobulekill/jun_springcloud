@@ -9,7 +9,7 @@ import com.system.comm.utils.FrameTimeUtil;
 
 /**
  * 常量信息
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-16 下午9:20:46
  * @version V1.0.0
  */

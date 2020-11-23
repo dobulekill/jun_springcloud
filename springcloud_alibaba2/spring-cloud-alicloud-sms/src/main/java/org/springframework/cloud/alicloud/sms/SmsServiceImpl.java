@@ -30,7 +30,7 @@ import com.aliyuncs.exceptions.ClientException;
 import com.aliyuncs.exceptions.ServerException;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 public final class SmsServiceImpl extends AbstractSmsService {
 

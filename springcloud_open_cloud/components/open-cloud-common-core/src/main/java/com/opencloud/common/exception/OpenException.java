@@ -5,7 +5,7 @@ import com.opencloud.common.constants.ErrorCode;
 /**
  * 基础错误异常
  *
- * @author admin
+ * @author Wujun
  */
 public class OpenException extends RuntimeException {
 

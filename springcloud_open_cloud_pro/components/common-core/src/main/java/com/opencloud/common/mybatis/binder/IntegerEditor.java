@@ -3,7 +3,7 @@ package com.opencloud.common.mybatis.binder;
 import org.springframework.beans.propertyeditors.PropertiesEditor;
 
 /**
- * @author LYD
+ * @author Wujun
  */
 public class IntegerEditor extends PropertiesEditor {
 	@Override

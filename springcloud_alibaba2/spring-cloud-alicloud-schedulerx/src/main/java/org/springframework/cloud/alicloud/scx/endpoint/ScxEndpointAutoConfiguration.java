@@ -26,7 +26,7 @@ import org.springframework.cloud.alicloud.context.scx.ScxProperties;
 import org.springframework.context.annotation.Bean;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @ConditionalOnWebApplication
 @ConditionalOnClass(Endpoint.class)

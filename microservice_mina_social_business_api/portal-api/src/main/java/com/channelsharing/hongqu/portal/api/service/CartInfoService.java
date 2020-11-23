@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.portal.api.entity.CartInfo;
 
 /**
  * 购物车Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-22
  */
 public interface CartInfoService extends CrudService<CartInfo>{

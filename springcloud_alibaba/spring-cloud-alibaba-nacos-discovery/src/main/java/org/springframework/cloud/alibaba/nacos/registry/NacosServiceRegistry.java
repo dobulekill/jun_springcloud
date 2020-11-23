@@ -24,7 +24,7 @@ import org.springframework.cloud.client.serviceregistry.ServiceRegistry;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosServiceRegistry implements ServiceRegistry<NacosRegistration> {
 

@@ -27,7 +27,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * The class Paas cloud monitor application.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableDiscoveryClient

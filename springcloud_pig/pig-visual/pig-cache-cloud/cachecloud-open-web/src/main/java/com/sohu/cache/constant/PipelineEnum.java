@@ -1,7 +1,7 @@
 package com.sohu.cache.constant;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2017年7月13日
  * @Time 下午3:26:03
  */

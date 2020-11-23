@@ -10,7 +10,7 @@ import java.util.Locale;
 import org.junit.Test;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DateParserTest {
   private Parsers.DateParser dateParser = Parsers.forDate();

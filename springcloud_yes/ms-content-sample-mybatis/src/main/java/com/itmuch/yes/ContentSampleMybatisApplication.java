@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import tk.mybatis.spring.annotation.MapperScan;
 
 /**
- * @author itmuch.com
+ * @author Wujun
  */
 @SpringBootApplication
 @MapperScan("com.itmuch.yes.repository")

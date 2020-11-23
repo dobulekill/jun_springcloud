@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * 容器类型[10tomcat、50自定义服务、100其它]
- * @author duanbin
+ * @author Wujun
  * @date 2016年5月16日 下午5:52:03
  * @version V1.0.0
  */

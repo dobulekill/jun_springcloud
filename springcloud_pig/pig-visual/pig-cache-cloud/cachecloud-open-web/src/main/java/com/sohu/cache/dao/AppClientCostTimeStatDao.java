@@ -9,7 +9,7 @@ import com.sohu.cache.entity.AppClientCostTimeStat;
 /**
  * 客户端耗时dao
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月20日
  * @Time 上午11:50:01
  */

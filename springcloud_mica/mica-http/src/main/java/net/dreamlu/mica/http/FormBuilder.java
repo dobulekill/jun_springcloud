@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * 表单构造器
  *
- * @author L.cm
+ * @author Wujun
  */
 public class FormBuilder {
 	private final HttpRequest request;

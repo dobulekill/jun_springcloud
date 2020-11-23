@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.MimeTypeUtils;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @Service
 public class SenderService {

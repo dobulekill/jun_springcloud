@@ -16,7 +16,7 @@ import org.springframework.security.oauth2.provider.token.store.redis.RedisToken
 /**
  * Created by SuperS on 2017/9/25.
  *
- * @author SuperS
+ * @author Wujun
  */
 @Configuration
 @EnableAuthorizationServer

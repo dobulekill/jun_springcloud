@@ -12,7 +12,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * 店铺代理商品信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-12
  */
 public interface ShopGoodsService extends CrudService<ShopGoods>{

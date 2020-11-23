@@ -12,7 +12,7 @@ import lombok.Data;
 /**
  * 用户认证信息Entity
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-12
  */
 @Data

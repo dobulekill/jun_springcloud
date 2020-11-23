@@ -30,7 +30,7 @@ import com.alibaba.csp.sentinel.datasource.Converter;
 import com.alibaba.csp.sentinel.datasource.nacos.NacosDataSource;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class NacosDataSourceFactoryBeanTests {
 

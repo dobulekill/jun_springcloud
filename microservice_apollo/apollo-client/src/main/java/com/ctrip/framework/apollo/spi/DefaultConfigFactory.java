@@ -19,7 +19,7 @@ import com.ctrip.framework.apollo.internals.YmlConfigFile;
 import com.ctrip.framework.apollo.util.ConfigUtil;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultConfigFactory implements ConfigFactory {
   private static final Logger logger = LoggerFactory.getLogger(DefaultConfigFactory.class);

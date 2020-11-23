@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 配置测试的Endpoint
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 @RestController

@@ -11,7 +11,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * ms_secret实体
- * @author yuejing
+ * @author Wujun
  * @date 2017-06-02 15:44:56
  * @version V1.0.0
  */

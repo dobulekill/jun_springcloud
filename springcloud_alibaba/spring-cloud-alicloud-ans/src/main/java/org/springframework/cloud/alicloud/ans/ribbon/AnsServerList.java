@@ -25,7 +25,7 @@ import com.netflix.client.config.IClientConfig;
 import com.netflix.loadbalancer.AbstractServerList;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsServerList extends AbstractServerList<AnsServer> {
 

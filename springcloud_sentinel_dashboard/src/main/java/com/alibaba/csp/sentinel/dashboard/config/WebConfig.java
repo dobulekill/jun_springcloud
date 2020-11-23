@@ -30,7 +30,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import javax.servlet.Filter;
 
 /**
- * @author leyou
+ * @author Wujun
  */
 @Configuration
 public class WebConfig implements WebMvcConfigurer {

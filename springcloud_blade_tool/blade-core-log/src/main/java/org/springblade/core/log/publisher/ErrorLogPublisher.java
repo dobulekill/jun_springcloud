@@ -33,7 +33,7 @@ import java.util.Map;
 /**
  * 异常信息事件发送
  *
- * @author Chill
+ * @author Wujun
  */
 public class ErrorLogPublisher {
 

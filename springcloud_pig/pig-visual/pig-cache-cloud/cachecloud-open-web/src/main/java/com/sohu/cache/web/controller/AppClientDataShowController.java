@@ -43,7 +43,7 @@ import com.sohu.tv.jedis.stat.utils.NumberUtil;
 /**
  * 应用客户端统计相关
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年8月31日
  */
 @Controller

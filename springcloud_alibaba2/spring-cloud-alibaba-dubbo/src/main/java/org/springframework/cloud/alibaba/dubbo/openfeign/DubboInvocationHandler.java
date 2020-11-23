@@ -27,7 +27,7 @@ import java.util.Map;
 /**
  * Dubbo {@link GenericService} for {@link InvocationHandler}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class DubboInvocationHandler implements InvocationHandler {
 

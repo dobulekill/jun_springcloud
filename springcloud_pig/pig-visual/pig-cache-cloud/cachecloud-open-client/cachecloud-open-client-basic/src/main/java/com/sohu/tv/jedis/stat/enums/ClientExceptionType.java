@@ -3,7 +3,7 @@ package com.sohu.tv.jedis.stat.enums;
 /**
  * 错误类型
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月4日
  * @Time 下午4:54:02
  */

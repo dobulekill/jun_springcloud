@@ -27,7 +27,7 @@ import java.util.List;
 /**
  * SwaggerProperties
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 @ConfigurationProperties("swagger")

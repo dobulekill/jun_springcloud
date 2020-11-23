@@ -22,7 +22,7 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * 应用主应用类
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 @SpringBootApplication

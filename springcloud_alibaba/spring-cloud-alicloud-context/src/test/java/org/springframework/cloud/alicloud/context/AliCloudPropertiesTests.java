@@ -23,7 +23,7 @@ import org.springframework.boot.autoconfigure.AutoConfigurations;
 import org.springframework.boot.test.context.runner.ApplicationContextRunner;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AliCloudPropertiesTests {
 

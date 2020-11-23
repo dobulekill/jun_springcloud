@@ -18,7 +18,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 文件上传控制器
  * 
- * @author ShenHuaJie
+ * @author Wujun
  * @version 2016年5月20日 下午3:11:42
  */
 @RestController

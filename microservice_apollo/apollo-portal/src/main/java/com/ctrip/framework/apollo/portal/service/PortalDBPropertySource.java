@@ -16,7 +16,7 @@ import java.util.Objects;
 
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Component
 public class PortalDBPropertySource extends RefreshablePropertySource {

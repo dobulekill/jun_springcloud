@@ -19,7 +19,7 @@ package net.dreamlu.mica.core.utils;
 /**
  * char 常量池
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface CharPool {
 	// @formatter:off

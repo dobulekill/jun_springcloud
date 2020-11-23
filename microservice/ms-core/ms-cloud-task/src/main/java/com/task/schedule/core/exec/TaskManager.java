@@ -15,7 +15,7 @@ import com.task.schedule.manager.service.SysConfigService;
 
 /**
  * 定时任务加载工具类
- * @author yuejing
+ * @author Wujun
  * @date 2013-12-31 下午3:01:33
  * @version V1.0.0
  */

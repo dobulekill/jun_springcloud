@@ -15,7 +15,7 @@ import com.pflm.common.vo.KvBean;
 
 /**
  * linux  jvm操作
- * @author admin
+ * @author Wujun
  *
  */
 public class JvmUtils {

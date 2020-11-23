@@ -31,7 +31,7 @@ import com.sohu.tv.jedis.stat.model.ClientReportBean;
 /**
  * 客户端上报耗时分布
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月19日
  * @Time 下午1:49:39
  */

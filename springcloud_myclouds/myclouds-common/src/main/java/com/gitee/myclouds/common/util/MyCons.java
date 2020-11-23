@@ -4,7 +4,7 @@ package com.gitee.myclouds.common.util;
  * 平台常量表 <br>
  * 提示：业务常量请别混在这里
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 public class MyCons {

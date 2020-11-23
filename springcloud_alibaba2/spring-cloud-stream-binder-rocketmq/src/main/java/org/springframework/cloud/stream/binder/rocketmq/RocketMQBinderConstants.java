@@ -17,7 +17,7 @@
 package org.springframework.cloud.stream.binder.rocketmq;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public interface RocketMQBinderConstants {
 

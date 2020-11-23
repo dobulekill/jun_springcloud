@@ -10,7 +10,7 @@ import com.gitee.myclouds.common.util.MyUtil;
 /**
  * 系统启动时的缓存服务
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Service

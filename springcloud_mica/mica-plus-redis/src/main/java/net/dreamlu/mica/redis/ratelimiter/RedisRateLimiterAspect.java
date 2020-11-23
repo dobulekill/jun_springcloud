@@ -38,7 +38,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * redis 限流
  *
- * @author L.cm
+ * @author Wujun
  */
 @Aspect
 @RequiredArgsConstructor

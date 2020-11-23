@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Digest 测试
  *
- * @author L.cm
+ * @author Wujun
  */
 public class DigestUtilTest {
 

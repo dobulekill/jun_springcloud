@@ -9,7 +9,7 @@ import java.io.IOException;
 /**
  * Exceptions 工具测试
  *
- * @author L.cm
+ * @author Wujun
  */
 public class ExceptionsTest {
 

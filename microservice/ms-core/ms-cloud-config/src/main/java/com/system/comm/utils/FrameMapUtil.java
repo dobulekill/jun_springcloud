@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * Map工具类
- * @author  duanbin
+ * @author Wujun
  * @date    2014年12月25日 上午10:42:27 
  * @version 1.0.0
  */

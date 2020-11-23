@@ -14,7 +14,7 @@ import org.springframework.core.env.Environment;
 import java.util.List;
 
 /**
- * @author www.itmuch.com
+ * @author Wujun
  */
 public class WiiConsulAutoRegistration extends ConsulAutoRegistration {
     public WiiConsulAutoRegistration(NewService service, AutoServiceRegistrationProperties autoServiceRegistrationProperties, ConsulDiscoveryProperties properties, ApplicationContext context, HeartbeatProperties heartbeatProperties, List<ConsulManagementRegistrationCustomizer> managementRegistrationCustomizers) {

@@ -10,7 +10,7 @@ import javax.persistence.GeneratedValue;
 
 /**
 *  ws_site
-* @author 大狼狗 2020-01-14
+* @author Wujun
 */
 @Entity
 @Data

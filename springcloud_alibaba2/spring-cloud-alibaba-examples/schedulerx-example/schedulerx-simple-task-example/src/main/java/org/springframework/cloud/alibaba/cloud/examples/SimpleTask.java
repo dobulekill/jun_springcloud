@@ -22,7 +22,7 @@ import com.alibaba.edas.schedulerx.ScxSimpleJobProcessor;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class SimpleTask implements ScxSimpleJobProcessor {
 

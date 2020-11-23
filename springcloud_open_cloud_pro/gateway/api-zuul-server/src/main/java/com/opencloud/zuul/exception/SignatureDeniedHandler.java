@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 public interface SignatureDeniedHandler {
     /**

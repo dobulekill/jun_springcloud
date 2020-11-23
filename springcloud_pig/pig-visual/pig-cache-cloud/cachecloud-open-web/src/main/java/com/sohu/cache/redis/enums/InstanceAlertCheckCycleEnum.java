@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 实例报警检测周期枚举
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月14日
  * @Time 上午10:21:29
  */

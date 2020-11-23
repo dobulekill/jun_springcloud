@@ -3,7 +3,7 @@ package com.github.prontera.exception;
 /**
  * 用于Hibernate Validator的校验异常
  *
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class IllegalValidateException extends RuntimeException {
     private static final long serialVersionUID = 8096590956382108583L;

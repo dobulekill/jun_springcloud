@@ -3,7 +3,7 @@ package org.nr.tour.domain;
 /**
  * 短信发送状态
  *
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public enum SMSSendStatusEnum {
 

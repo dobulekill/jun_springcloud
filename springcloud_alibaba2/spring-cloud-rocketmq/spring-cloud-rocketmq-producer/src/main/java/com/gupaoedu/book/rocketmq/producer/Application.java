@@ -11,7 +11,7 @@ import org.springframework.messaging.Message;
 import javax.annotation.PostConstruct;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 @SpringBootApplication
 public class Application {

@@ -41,7 +41,7 @@ import com.alibaba.ans.shaded.com.taobao.vipserver.client.core.Host;
 import com.netflix.client.config.IClientConfig;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @RunWith(PowerMockRunner.class)
 @PrepareForTest({ NamingService.class, AnsServer.class })

@@ -5,7 +5,7 @@ import com.sohu.cache.web.util.Page;
 /**
  * 搜索实体
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年11月14日
  * @Time 上午10:44:01
  */

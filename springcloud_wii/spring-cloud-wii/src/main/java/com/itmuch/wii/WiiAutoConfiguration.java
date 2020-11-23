@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 
 
 /**
- * @author www.itmuch.com
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(WiiProperties.class)

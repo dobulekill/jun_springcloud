@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * Docker自动配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @EnableSwagger2

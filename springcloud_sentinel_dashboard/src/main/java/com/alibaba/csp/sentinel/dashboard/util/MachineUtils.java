@@ -21,7 +21,7 @@ import com.alibaba.csp.sentinel.util.StringUtil;
 import com.alibaba.csp.sentinel.util.function.Tuple2;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  */
 public final class MachineUtils {
 

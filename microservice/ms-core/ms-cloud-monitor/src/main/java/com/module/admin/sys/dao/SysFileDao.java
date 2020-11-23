@@ -8,7 +8,7 @@ import com.module.admin.sys.pojo.SysFile;
 
 /**
  * sys_file的Dao
- * @author duanbin
+ * @author Wujun
  * @date 2016-03-22 21:02:08
  * @version V1.0.0
  */

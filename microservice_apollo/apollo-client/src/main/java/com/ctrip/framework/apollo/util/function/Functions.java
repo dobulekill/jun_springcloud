@@ -8,7 +8,7 @@ import com.ctrip.framework.apollo.util.parser.Parsers;
 import com.google.common.base.Function;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface Functions {
   Function<String, Integer> TO_INT_FUNCTION = new Function<String, Integer>() {

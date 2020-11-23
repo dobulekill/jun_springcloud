@@ -8,7 +8,7 @@ import lombok.experimental.Accessors;
 /**
  * 账号
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/9/14
  */
 @Data

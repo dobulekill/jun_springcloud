@@ -3,7 +3,7 @@ package com.zccoder.cloud1.ch6.feign.movie.customizing.domain;
 import java.math.BigDecimal;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  * @title POJO类
  * @describe 用户实例类

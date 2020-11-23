@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * tree TODO <br>
  * 
- * @author kangxu2 2017-1-7
+ * @author Wujun
  * 
  */
 public class Tree<T> {

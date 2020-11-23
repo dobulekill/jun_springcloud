@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @FeignClient(name = AccountClient.SERVICE_ID, fallback = AccountClientFallback.class)
 public interface AccountClient {

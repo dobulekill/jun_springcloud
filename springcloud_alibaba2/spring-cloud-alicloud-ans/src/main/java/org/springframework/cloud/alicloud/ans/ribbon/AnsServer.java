@@ -27,7 +27,7 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsServer extends Server {
 

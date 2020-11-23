@@ -33,7 +33,7 @@ import java.util.stream.Collectors;
 /**
  * 设置启动参数
  *
- * @author L.cm
+ * @author Wujun
  */
 public class BladeSpringRunner extends SpringJUnit4ClassRunner {
 

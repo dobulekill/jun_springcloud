@@ -24,7 +24,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * @author liuhangjun
+ * @author Wujun
  * @version 1.0
  * @说明 从网络获取图片到本地
  */

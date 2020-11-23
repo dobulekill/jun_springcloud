@@ -20,7 +20,7 @@ import com.ctrip.framework.apollo.spi.ConfigFactoryManager;
 import com.ctrip.framework.apollo.util.ConfigUtil;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultConfigManagerTest {
   private DefaultConfigManager defaultConfigManager;

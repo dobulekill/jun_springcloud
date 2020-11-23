@@ -9,7 +9,7 @@ import java.time.OffsetDateTime;
 import java.time.format.DateTimeFormatter;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class OffsetDateTimeToIso8601Serializer extends JsonSerializer<OffsetDateTime> {
     public static final OffsetDateTimeToIso8601Serializer INSTANCE = new OffsetDateTimeToIso8601Serializer();

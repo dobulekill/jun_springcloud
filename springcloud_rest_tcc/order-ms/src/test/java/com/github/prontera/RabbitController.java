@@ -29,7 +29,7 @@ import java.util.Map;
 import java.util.UUID;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @RestController
 public class RabbitController {

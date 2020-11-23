@@ -21,7 +21,7 @@ import org.springblade.core.tool.utils.StringUtil;
 /**
  * blade租户id生成器
  *
- * @author Chill
+ * @author Wujun
  */
 public class BladeTenantId implements TenantId {
 	@Override

@@ -27,7 +27,7 @@ import java.util.Collection;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 @Component
 public class SmsInitializerEventListener

@@ -3,7 +3,7 @@ package com.opencloud.msg.server.service;
 import com.opencloud.msg.client.model.SmsMessage;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 public interface SmsSender {
 

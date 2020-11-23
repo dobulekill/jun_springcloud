@@ -23,7 +23,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 /**
  * 获取客户端详情
  *
- * @author Chill
+ * @author Wujun
  */
 @AllArgsConstructor
 public class ClientDetailsServiceImpl implements IClientDetailsService {

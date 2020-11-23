@@ -18,7 +18,7 @@ package org.springblade.core.oss.rule;
 /**
  * Oss通用规则
  *
- * @author Chill
+ * @author Wujun
  */
 public interface OssRule {
 

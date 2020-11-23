@@ -57,7 +57,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class RocketMQInboundChannelAdapter extends MessageProducerSupport {
 

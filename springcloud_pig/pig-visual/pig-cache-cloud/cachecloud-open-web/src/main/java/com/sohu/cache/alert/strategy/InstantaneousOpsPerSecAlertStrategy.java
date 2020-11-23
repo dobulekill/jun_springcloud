@@ -14,7 +14,7 @@ import com.sohu.cache.redis.enums.RedisInfoEnum;
 /**
  * 实时ops
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月16日
  * @Time 下午2:34:10
  */

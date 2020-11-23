@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * Swagger配置信息
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 @Configuration

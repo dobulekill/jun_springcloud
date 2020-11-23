@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 迁移状态
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-9
  * @Time 下午7:53:28
  */

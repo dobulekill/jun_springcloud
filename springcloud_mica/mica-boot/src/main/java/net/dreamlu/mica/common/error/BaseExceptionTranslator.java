@@ -28,7 +28,7 @@ import java.util.Set;
 /**
  * 抽取共性 通用部分代码
  *
- * @author L.cm
+ * @author Wujun
  */
 public abstract class BaseExceptionTranslator {
 

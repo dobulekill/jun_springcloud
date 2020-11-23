@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/user", method = RequestMethod.POST)

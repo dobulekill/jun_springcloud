@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
  * Since sso auth information has a limited expiry time, so we need to do sso heartbeat to keep the
  * information refreshed when unavailable
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Controller
 @RequestMapping("/sso_heartbeat")

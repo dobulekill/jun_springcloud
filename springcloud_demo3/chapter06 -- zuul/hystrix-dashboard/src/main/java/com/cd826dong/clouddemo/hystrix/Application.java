@@ -21,7 +21,7 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 /**
  * SpringCloud示例工程 -- Hystrix Dashboard
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @EnableHystrixDashboard

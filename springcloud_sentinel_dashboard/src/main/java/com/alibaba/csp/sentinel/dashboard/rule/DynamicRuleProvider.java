@@ -16,7 +16,7 @@
 package com.alibaba.csp.sentinel.dashboard.rule;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.0
  */
 public interface DynamicRuleProvider<T> {

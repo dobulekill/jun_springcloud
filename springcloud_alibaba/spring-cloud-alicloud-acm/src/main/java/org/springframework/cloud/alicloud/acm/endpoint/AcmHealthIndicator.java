@@ -28,8 +28,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author leijuan
- * @author juven
+ * @author Wujun
+ * @author Wujun
  */
 public class AcmHealthIndicator extends AbstractHealthIndicator {
 

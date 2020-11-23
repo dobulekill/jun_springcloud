@@ -6,7 +6,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * 序列配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @RefreshScope

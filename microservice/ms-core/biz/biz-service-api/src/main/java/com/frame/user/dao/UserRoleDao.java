@@ -10,7 +10,7 @@ import com.frame.user.pojo.UserRole;
 
 /**
  * sys_role的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2016-03-25 10:52:47
  * @version V1.0.0
  */

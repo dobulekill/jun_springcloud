@@ -1,7 +1,7 @@
 package com.github.prontera;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public interface RestStatus {
 

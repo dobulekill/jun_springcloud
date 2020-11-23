@@ -3,7 +3,7 @@ package net.dreamlu.mica.reactive.logger;
 /**
  * webflux 日志请求排除规则。
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface RequestLogExclusiveRule {
 

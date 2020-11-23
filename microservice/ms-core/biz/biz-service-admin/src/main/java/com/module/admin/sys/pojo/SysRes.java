@@ -9,7 +9,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * 系统资源的实体
- * @author yuejing
+ * @author Wujun
  * @date 2016-03-25 10:52:47
  * @version V1.0.0
  */

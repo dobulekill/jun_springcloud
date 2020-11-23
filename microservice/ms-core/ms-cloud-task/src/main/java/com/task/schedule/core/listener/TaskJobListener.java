@@ -8,7 +8,7 @@ import com.task.schedule.core.data.TaskJobData;
 
 /**
  * 监听job的线程
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2015年3月30日 下午5:46:49 

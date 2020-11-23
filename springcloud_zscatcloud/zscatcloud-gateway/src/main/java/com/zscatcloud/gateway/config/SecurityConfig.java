@@ -19,7 +19,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 /**
  * The class Security config.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Configuration
 @EnableOAuth2Sso

@@ -18,7 +18,7 @@ package org.springblade.core.secure.constant;
 /**
  * 授权校验常量
  *
- * @author Chill
+ * @author Wujun
  */
 public interface SecureConstant {
 

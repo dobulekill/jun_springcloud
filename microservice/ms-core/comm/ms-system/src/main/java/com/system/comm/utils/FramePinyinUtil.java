@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
 		System.out.println(getSimplePinyin("大中华"));
 		System.out.println(getFullPinyin("大中华"));
 	}
- * @author 岳静
+ * @author Wujun
  * @date 2016年5月3日 下午7:21:27 
  * @version V1.0
  */

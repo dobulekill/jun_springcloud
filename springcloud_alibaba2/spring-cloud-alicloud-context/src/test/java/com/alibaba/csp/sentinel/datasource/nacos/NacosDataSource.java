@@ -17,7 +17,7 @@
 package com.alibaba.csp.sentinel.datasource.nacos;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class NacosDataSource {
 }

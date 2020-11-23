@@ -10,7 +10,7 @@ import lombok.Data;
 
 /**
  * 用户信息Entity
- * @author liuahangjun
+ * @author Wujun
  * @version 2018-03-12
  */
 @Data

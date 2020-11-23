@@ -33,7 +33,7 @@ import org.springframework.data.redis.serializer.RedisSerializer;
 /**
  * RedisTemplate  配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @EnableCaching
 @Configuration

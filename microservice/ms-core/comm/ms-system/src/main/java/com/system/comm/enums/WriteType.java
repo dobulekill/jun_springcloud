@@ -2,7 +2,7 @@ package com.system.comm.enums;
 
 /**
  * 写入body的类型
- * @author yuejing
+ * @author Wujun
  * @date 2016年1月21日 下午1:53:30
  * @version V1.0.0
  */

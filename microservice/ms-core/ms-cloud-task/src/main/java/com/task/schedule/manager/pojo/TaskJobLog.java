@@ -13,7 +13,7 @@ import com.system.serializer.JsonDateSimpleSerializer;
 
 /**
  * task_job_log实体
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-31 14:26:09
  * @version V1.0.0
  */

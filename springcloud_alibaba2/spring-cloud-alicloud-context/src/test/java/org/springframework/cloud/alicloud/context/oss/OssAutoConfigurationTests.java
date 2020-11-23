@@ -29,7 +29,7 @@ import com.aliyun.oss.OSSClient;
 /**
  * {@link OSS} {@link OssProperties} Test
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class OssAutoConfigurationTests {
 

@@ -27,7 +27,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.0
  */
 @Component("flowRuleNacosPublisher")

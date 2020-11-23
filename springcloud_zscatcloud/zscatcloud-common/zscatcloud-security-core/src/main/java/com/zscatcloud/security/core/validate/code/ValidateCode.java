@@ -24,7 +24,7 @@ import java.time.LocalDateTime;
 /**
  * 验证码信息封装类
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public class ValidateCode implements Serializable {
 

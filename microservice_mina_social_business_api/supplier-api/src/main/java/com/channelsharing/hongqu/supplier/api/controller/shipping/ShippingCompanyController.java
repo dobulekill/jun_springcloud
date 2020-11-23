@@ -23,7 +23,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 物流公司信息Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-03
  */
 @Api(tags = "物流公司信息操作接口")

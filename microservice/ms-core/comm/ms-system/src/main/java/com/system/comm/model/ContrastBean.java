@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * FrameBeanUtil中对比使用的数据保存的实体
- * @author 岳静
+ * @author Wujun
  * @date 2017年1月23日 下午2:34:43 
  * @version V1.0
  */

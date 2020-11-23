@@ -28,7 +28,7 @@ import java.lang.reflect.Proxy;
 /**
  * org.springframework.cloud.openfeign.Targeter {@link BeanPostProcessor}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class TargeterBeanPostProcessor implements BeanPostProcessor, BeanClassLoaderAware {
 

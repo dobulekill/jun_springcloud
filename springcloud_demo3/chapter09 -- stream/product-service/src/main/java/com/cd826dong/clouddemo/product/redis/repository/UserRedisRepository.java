@@ -27,7 +27,7 @@ import javax.annotation.PostConstruct;
 /**
  * 用户的Redis数据库服务
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Repository

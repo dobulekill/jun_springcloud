@@ -26,7 +26,7 @@ import org.springframework.lang.Nullable;
 /**
  * 文件上传配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @Setter

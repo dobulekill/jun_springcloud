@@ -16,7 +16,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Feign OAuth2 request interceptor.
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 @Configuration

@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  * 发送邮件接口
  *
- * @author woodev
+ * @author Wujun
  */
 public interface IJobServiceClient {
 

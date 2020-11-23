@@ -30,7 +30,7 @@ import org.springframework.lang.Nullable;
  * ##不完整模式
  * Version.of("v0.1").incomplete().eq("v0.1.2");   // true
  *
- * @author L.cm
+ * @author Wujun
  * email: 596392912@qq.com
  * site:http://www.dreamlu.net
  * date 2015年7月9日下午10:48:39

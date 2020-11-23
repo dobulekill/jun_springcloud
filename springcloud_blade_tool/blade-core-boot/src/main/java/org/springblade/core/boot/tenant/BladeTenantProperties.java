@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * 多租户配置
  *
- * @author Chill
+ * @author Wujun
  */
 @Getter
 @Setter

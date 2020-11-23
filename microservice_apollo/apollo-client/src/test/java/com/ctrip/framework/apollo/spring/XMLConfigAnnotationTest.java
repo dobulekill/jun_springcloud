@@ -22,7 +22,7 @@ import com.ctrip.framework.apollo.spring.annotation.ApolloConfigChangeListener;
 import com.google.common.collect.Lists;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class XMLConfigAnnotationTest extends AbstractSpringIntegrationTest {
   private static final String FX_APOLLO_NAMESPACE = "FX.apollo";

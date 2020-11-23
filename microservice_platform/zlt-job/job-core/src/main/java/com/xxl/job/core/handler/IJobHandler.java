@@ -5,7 +5,7 @@ import com.xxl.job.core.biz.model.ReturnT;
 /**
  * job handler
  *
- * @author xuxueli 2015-12-19 19:06:38
+ * @author Wujun
  */
 public abstract class IJobHandler {
 

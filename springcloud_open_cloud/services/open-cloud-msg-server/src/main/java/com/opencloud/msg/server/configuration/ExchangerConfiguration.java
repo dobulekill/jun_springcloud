@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 @Configuration
 @AutoConfigureAfter({SmsConfiguration.class})

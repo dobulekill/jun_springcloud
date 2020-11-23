@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.InitializingBean;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class XmlBean implements InitializingBean {
   private static final Logger logger = LoggerFactory.getLogger(XmlBean.class);

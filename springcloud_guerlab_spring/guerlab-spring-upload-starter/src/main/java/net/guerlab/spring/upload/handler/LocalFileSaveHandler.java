@@ -15,7 +15,7 @@ import java.io.FileOutputStream;
 /**
  * 本地文件保存处理
  *
- * @author guer
+ * @author Wujun
  */
 public class LocalFileSaveHandler implements SaveHandler {
 

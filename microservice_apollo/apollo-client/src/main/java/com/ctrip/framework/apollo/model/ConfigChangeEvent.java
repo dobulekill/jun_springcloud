@@ -5,7 +5,7 @@ import java.util.Set;
 
 /**
  * A change event when a namespace's config is changed.
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigChangeEvent {
   private final String m_namespace;

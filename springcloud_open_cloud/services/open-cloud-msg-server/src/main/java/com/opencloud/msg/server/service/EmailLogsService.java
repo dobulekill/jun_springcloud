@@ -6,7 +6,7 @@ import com.opencloud.common.mybatis.base.service.IBaseService;
 /**
  * 邮件发送日志 服务类
  *
- * @author admin
+ * @author Wujun
  * @date 2019-07-25
  */
 public interface EmailLogsService extends IBaseService<EmailLogs> {

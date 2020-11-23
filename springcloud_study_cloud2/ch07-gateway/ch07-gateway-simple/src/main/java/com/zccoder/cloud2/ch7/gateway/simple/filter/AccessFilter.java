@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
  * 描述: 权限校验<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 public class AccessFilter extends ZuulFilter {
 

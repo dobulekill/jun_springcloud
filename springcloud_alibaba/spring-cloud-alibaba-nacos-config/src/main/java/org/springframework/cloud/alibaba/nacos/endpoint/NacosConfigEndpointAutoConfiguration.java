@@ -29,7 +29,7 @@ import org.springframework.cloud.alibaba.nacos.refresh.NacosRefreshHistory;
 import org.springframework.context.annotation.Bean;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @ConditionalOnWebApplication
 @ConditionalOnClass(value = Endpoint.class)

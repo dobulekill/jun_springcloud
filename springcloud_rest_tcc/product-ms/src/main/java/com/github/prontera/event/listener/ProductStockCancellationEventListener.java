@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Component
 public class ProductStockCancellationEventListener implements ApplicationListener<ProductStockCancellationEvent> {

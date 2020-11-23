@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
 
 /**
  * 微信回调数据记录Dao接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-03-29
  */
 @Mapper

@@ -25,7 +25,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Sentinel dashboard application.
  *
- * @author Carpenter Lee
+ * @author Wujun
  */
 @SpringBootApplication
 public class DashboardApplication {

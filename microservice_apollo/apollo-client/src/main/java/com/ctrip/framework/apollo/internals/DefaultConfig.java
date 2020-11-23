@@ -23,7 +23,7 @@ import com.google.common.collect.ImmutableMap;
 
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultConfig extends AbstractConfig implements RepositoryChangeListener {
   private static final Logger logger = LoggerFactory.getLogger(DefaultConfig.class);

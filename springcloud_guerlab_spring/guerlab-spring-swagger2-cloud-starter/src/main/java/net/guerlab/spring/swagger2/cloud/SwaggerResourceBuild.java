@@ -8,7 +8,7 @@ import springfox.documentation.swagger.web.SwaggerResource;
 /**
  * Swagger资源构造器
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class SwaggerResourceBuild {

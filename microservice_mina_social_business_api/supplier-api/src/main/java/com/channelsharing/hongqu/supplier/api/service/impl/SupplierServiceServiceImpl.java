@@ -15,7 +15,7 @@ import com.channelsharing.hongqu.supplier.api.dao.SupplierServiceDao;
 
 /**
  * 供应商售后服务Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-08-08
  */
 @Service

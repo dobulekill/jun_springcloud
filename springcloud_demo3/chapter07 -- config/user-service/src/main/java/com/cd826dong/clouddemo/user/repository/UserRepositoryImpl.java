@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * 用户信息管理扩展repository
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 public class UserRepositoryImpl implements UserRepositoryEx {

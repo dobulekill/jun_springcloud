@@ -3,7 +3,7 @@ package org.nr.tour.api.vo;
 import java.util.Date;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public class RoomOrderInfoVO extends BaseVO {
 

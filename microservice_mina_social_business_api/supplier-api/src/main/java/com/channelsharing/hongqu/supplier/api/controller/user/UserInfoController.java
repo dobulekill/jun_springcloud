@@ -23,7 +23,7 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * 用户信息Controller
- * @author liuahangjun
+ * @author Wujun
  * @version 2018-03-12
  */
 @Api(tags = "用户信息操作接口")

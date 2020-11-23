@@ -20,7 +20,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 /**
  * 产品管理repository
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 public interface ProductRepository extends JpaRepository<Product, Long> {

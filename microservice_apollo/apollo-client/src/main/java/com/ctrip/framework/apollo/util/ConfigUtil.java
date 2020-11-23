@@ -14,7 +14,7 @@ import com.ctrip.framework.foundation.Foundation;
 import com.google.common.base.Strings;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigUtil {
   private static final Logger logger = LoggerFactory.getLogger(ConfigUtil.class);

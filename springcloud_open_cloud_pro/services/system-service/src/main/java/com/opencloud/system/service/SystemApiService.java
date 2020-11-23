@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * 接口资源管理
  *
- * @author liuyadu
+ * @author Wujun
  */
 public interface SystemApiService extends IBaseService<SystemApi> {
     /**

@@ -12,7 +12,7 @@ import org.jboss.marshalling.MarshallingConfiguration;
 
 /**
  *  Marshalling工厂
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 11/10/2018下午 6:31
  */

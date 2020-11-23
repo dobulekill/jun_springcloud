@@ -16,7 +16,7 @@ import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 /**
  * @title Rest接口类
  * @describe Rest接口类
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-06
  */
 @RestController

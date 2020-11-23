@@ -10,7 +10,7 @@ import java.util.UUID;
 /**
  * 文件base64工具类
  *
- * @author guer
+ * @author Wujun
  */
 public class FileBase64Utils {
 

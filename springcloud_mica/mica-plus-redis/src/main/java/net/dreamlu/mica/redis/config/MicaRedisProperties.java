@@ -24,7 +24,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * redis 配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @Setter

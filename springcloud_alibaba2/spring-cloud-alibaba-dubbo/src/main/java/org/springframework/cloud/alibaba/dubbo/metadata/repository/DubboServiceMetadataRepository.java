@@ -34,7 +34,7 @@ import java.util.Set;
 /**
  * Dubbo Service Metadata {@link Repository}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 @Repository
 public class DubboServiceMetadataRepository {

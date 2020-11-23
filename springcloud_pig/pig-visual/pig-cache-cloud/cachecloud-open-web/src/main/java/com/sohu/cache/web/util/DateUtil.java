@@ -8,7 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Time 2014年8月31日
  */
 public class DateUtil {

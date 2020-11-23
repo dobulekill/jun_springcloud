@@ -29,7 +29,7 @@ import org.springframework.web.client.RestTemplate;
  * @Description: 
  *
  * @Date 2017年8月29日 21:10:01
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @SpringBootApplication

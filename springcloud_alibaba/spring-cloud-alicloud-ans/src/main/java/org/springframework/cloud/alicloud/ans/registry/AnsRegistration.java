@@ -32,7 +32,7 @@ import org.springframework.core.env.Environment;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsRegistration implements Registration, ServiceInstance {
 

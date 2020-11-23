@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 import javax.annotation.PostConstruct;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 //@RestController
 

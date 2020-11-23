@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
 
 /**
  * 国家地区信息Dao接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 @Mapper

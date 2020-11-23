@@ -21,7 +21,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 通用数据缓存服务
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Service

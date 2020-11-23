@@ -26,7 +26,7 @@ import java.time.Duration;
 /**
  * cache key
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface ICacheKey {
 

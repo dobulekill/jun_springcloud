@@ -8,7 +8,7 @@ import org.springframework.data.domain.PageRequest;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface BaseOrderService<T extends BaseOrder> extends BaseService<T> {
 

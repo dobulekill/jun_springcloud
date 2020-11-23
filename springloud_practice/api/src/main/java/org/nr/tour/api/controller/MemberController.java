@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @RestController
 public class MemberController {

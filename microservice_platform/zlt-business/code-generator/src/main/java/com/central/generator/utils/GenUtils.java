@@ -31,7 +31,7 @@ import org.apache.velocity.app.Velocity;
 /**
  * 代码生成器工具类
  *
- * @author zlt
+ * @author Wujun
  */
 @Slf4j
 public class GenUtils {

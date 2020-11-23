@@ -14,7 +14,7 @@ import java.util.Map.Entry;
 
 /**
  * 监控cachecloud数据收集
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月28日
  * @Time 下午2:02:04
  */

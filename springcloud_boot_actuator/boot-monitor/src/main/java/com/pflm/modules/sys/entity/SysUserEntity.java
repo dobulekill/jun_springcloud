@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * 用户表
  * 
- * @author qinxuewu
+ * @author Wujun
  * @email 
  * @date 2018-12-13 11:14:48
  */

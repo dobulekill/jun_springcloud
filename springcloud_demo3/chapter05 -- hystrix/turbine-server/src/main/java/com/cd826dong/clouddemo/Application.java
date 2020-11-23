@@ -22,7 +22,7 @@ import org.springframework.cloud.netflix.turbine.EnableTurbine;
 /**
  * SpringCloud示例工程 -- Turbine服务器
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @EnableTurbine

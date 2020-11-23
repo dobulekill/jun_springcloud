@@ -28,7 +28,7 @@ import springfox.documentation.swagger2.configuration.Swagger2DocumentationConfi
 /**
  * Swagger 页面静态文件配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @EnableSwagger2

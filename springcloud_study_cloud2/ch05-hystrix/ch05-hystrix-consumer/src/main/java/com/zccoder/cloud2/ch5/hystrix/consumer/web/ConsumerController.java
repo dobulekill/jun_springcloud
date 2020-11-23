@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 描述: REST<br>
  * 时间: 2018/10/02<br>
  *
- * @author zc
+ * @author Wujun
  */
 @RestController
 public class ConsumerController {

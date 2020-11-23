@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 
 /**
  * 客户端收集上报常量
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月16日
  * @Time 下午2:50:59
  */

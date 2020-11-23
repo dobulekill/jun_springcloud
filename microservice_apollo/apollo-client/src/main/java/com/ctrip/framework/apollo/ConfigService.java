@@ -10,7 +10,7 @@ import com.ctrip.framework.apollo.spi.ConfigRegistry;
 /**
  * Entry point for client config use
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigService {
   private static final ConfigService s_instance = new ConfigService();

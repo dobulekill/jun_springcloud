@@ -3,7 +3,7 @@ package com.opencloud.common.exception;
 /**
  * 提示消息异常
  *
- * @author admin
+ * @author Wujun
  */
 public class OpenAlertException extends OpenException {
     private static final long serialVersionUID = 4908906410210213271L;

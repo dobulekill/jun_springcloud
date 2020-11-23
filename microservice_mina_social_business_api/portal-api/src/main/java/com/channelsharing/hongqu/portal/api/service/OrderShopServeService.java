@@ -15,7 +15,7 @@ import java.util.Map;
 
 /**
  * 店铺技术服务费订单Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-18
  */
 public interface OrderShopServeService extends CrudService<OrderShopServe>{

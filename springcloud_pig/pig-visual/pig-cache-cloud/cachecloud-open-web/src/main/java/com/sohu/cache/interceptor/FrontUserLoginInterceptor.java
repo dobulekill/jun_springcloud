@@ -16,7 +16,7 @@ import com.sohu.cache.web.service.UserService;
 /**
  * 前台登陆验证
  *
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月12日
  */
 public class FrontUserLoginInterceptor extends HandlerInterceptorAdapter {

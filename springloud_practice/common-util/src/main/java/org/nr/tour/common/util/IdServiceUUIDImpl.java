@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import java.util.UUID;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Service
 public class IdServiceUUIDImpl implements IdService {

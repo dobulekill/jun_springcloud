@@ -17,7 +17,7 @@ import java.io.Serializable;
  * 菜单权限表
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-11-08
  */
 @TableName("sys_menu")

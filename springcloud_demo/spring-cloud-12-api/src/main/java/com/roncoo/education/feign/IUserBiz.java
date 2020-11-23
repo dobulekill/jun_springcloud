@@ -16,7 +16,7 @@ import feign.Param;
 import feign.RequestLine;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @FeignClient(value = "spring-cloud-provider", configuration = RcFeignConfiguration.class)
 public interface IUserBiz extends UserService{

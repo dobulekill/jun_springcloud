@@ -37,7 +37,7 @@ import java.util.*;
 /**
  * Secure工具类
  *
- * @author Chill
+ * @author Wujun
  */
 public class SecureUtil {
 	private static final String BLADE_USER_REQUEST_ATTR = "_BLADE_USER_REQUEST_ATTR_";

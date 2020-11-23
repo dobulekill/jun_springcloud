@@ -31,10 +31,10 @@ import java.util.TreeMap;
 /**
  * {@link ConfigurationProperties} for Sentinel.
  *
- * @author xiaojing
- * @author hengyunabc
- * @author jiashuai.xie
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties(prefix = SentinelConstants.PROPERTY_PREFIX)
 @Validated

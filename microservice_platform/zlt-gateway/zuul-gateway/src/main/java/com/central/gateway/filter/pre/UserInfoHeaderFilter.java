@@ -17,7 +17,7 @@ import static org.springframework.cloud.netflix.zuul.filters.support.FilterConst
 /**
  * 将认证用户的相关信息放入header中, 后端服务可以直接读取使用
  *
- * @author zlt
+ * @author Wujun
  * @date 2018/11/20
  */
 @Component

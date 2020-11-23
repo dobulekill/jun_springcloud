@@ -20,7 +20,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * prj_info的Controller
- * @author yuejing
+ * @author Wujun
  * @date 2016-10-19 15:56:37
  * @version V1.0.0
  */

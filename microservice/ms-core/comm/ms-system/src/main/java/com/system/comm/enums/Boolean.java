@@ -11,7 +11,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 是否
- * @author 岳静
+ * @author Wujun
  * @date 2016年3月8日 下午8:18:33 
  * @version V1.0
  */

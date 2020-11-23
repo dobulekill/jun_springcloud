@@ -18,7 +18,7 @@ import com.ctrip.framework.apollo.core.ConfigConsts;
  * private Config config;
  * </pre>
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.FIELD)

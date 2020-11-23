@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * JWT Token的自定义扩展
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 public class JWTTokenEnhancer implements TokenEnhancer {

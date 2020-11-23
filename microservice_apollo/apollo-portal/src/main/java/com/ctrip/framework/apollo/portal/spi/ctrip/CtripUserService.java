@@ -23,7 +23,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class CtripUserService implements UserService {
   private RestTemplate restTemplate;

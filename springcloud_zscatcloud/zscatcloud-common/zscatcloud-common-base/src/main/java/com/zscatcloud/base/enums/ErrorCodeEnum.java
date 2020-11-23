@@ -14,7 +14,7 @@ package com.zscatcloud.base.enums;
 /**
  * The class Error code enum.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public enum ErrorCodeEnum {
 	/**

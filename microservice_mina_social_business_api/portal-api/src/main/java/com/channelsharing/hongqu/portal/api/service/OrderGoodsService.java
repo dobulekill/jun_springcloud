@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 订单的商品信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 public interface OrderGoodsService extends CrudService<OrderGoods>{

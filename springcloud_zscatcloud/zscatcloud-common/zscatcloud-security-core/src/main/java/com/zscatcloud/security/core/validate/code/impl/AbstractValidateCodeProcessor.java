@@ -23,9 +23,9 @@ import java.util.Map;
 /**
  * 抽象的图片验证码处理器
  *
- * @param <C> the type parameter @author zscatcloud.net@gmail.com
+ * @param <C> the type parameter @author Wujun
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public abstract class AbstractValidateCodeProcessor<C extends ValidateCode> implements ValidateCodeProcessor {
 

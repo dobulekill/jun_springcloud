@@ -8,7 +8,7 @@ import org.springframework.web.cors.CorsConfiguration;
 /**
  * CORS配置
  * 
- * @author guer
+ * @author Wujun
  *
  */
 @RefreshScope

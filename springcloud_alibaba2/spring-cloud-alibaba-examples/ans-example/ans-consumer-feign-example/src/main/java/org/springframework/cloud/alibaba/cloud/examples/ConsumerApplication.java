@@ -21,7 +21,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableFeignClients(basePackages = {"org.springframework.cloud.alibaba.cloud.examples"})

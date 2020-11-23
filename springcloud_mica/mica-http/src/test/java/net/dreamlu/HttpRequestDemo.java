@@ -30,7 +30,7 @@ import java.util.Optional;
 /**
  * This example of mica http
  *
- * @author L.cm
+ * @author Wujun
  */
 public class HttpRequestDemo {
 

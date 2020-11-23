@@ -40,7 +40,7 @@ import java.util.List;
 /**
  * 负载均衡的 WebClient
  *
- * @author dream.lu
+ * @author Wujun
  */
 @Slf4j
 @Configuration

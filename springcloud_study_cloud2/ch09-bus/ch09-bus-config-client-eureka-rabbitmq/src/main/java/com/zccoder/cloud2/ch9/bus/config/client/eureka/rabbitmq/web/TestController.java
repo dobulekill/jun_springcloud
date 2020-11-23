@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 描述: 测试 REST<br>
  * 时间: 2018/10/04<br>
  *
- * @author zc
+ * @author Wujun
  */
 @RefreshScope
 @RestController

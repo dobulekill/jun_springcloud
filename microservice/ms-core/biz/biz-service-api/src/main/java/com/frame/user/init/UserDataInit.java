@@ -8,7 +8,7 @@ import com.system.comm.utils.FrameSpringBeanUtil;
 
 /**
  * 初始化数据
- * @author yuejing
+ * @author Wujun
  *
  */
 public class UserDataInit {

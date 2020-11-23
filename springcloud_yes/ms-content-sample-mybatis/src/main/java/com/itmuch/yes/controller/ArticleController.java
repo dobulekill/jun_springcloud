@@ -23,7 +23,7 @@ import java.util.Date;
 import java.util.Set;
 
 /**
- * @author itmuch.com
+ * @author Wujun
  */
 @RestController
 @RequestMapping("/articles")

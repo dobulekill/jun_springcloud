@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 @TableName("msg_webhook_logs")
 public class WebHookLogs implements Serializable {

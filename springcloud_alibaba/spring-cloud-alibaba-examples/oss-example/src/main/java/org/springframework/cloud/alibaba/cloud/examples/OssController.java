@@ -16,7 +16,7 @@ import java.nio.charset.Charset;
 /**
  * OSS Controller
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @RestController
 public class OssController {

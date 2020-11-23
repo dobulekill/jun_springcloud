@@ -12,7 +12,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * ms_config实体
- * @author yuejing
+ * @author Wujun
  * @date 2017-04-21 16:02:31
  * @version V1.0.0
  */

@@ -12,7 +12,7 @@ import com.system.comm.model.KvEntity;
 /**
  * 定时任务的状态
  * 		0正常、50停止、100待添加、150添加异常、500异常终止
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2015年3月30日 下午4:59:53 

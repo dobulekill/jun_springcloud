@@ -29,7 +29,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * Domain代码生成服务
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2016-01-01
  */
 @Service

@@ -3,7 +3,7 @@ package com.sohu.cache.constant;
 /**
  * 符号常量
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-1-26
  * @Time 下午9:25:32
  */

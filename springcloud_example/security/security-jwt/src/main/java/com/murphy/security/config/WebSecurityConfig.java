@@ -106,7 +106,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     }
 	/**
 	 * 	密码加密
-	 * @author dongsufeng
+	 * @author Wujun
 	 * @return org.springframework.security.crypto.password.PasswordEncoder
 	 * @date 2019/9/17 18:39
 	 */

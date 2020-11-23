@@ -17,7 +17,7 @@
 package org.springframework.cloud.alibaba.sentinel.datasource;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public interface SentinelDataSourceConstants {
 

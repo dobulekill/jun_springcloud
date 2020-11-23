@@ -12,7 +12,7 @@ import com.channelsharing.hongqu.portal.api.dao.InvitationCodeOperDao;
 
 /**
  * 运营邀请码Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 @Service

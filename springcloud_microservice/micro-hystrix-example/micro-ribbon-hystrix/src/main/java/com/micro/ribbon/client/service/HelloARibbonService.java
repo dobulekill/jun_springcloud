@@ -25,7 +25,7 @@ import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
  * @Description: 
  *
  * @Date 2017年8月29日 20:44:14
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @Service
@@ -41,7 +41,7 @@ public class HelloARibbonService {
 	 * @Description: @HystrixCommand 该注解对该方法创建了熔断器的功能，并指定了fallbackMethod熔断方法
 	 * @param name
 	 * @return 
-	 * @author Li.Shangzhi
+	 * @author Wujun
 	 * @date 2017年8月30日 20:40:40
 	 */
 	@HystrixCommand(fallbackMethod = "ServerError")
@@ -55,7 +55,7 @@ public class HelloARibbonService {
 	 * @Description:熔断器指定了fallbackMethod熔断方法
 	 * @param name
 	 * @return 
-	 * @author Li.Shangzhi
+	 * @author Wujun
 	 * @date 2017年8月30日 20:41:15
 	 */
 	public String ServerError(String name) {

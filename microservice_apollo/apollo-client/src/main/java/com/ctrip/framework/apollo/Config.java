@@ -5,7 +5,7 @@ import java.util.Locale;
 import java.util.Set;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface Config {
   /**

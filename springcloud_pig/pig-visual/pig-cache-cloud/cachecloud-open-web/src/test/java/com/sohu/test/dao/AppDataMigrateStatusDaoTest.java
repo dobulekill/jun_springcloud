@@ -15,7 +15,7 @@ import com.sohu.test.BaseTest;
 /**
  * 迁移状态dao测试
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-9
  * @Time 下午5:38:51
  */

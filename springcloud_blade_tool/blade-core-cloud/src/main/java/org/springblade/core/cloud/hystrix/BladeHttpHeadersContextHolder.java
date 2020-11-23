@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * HttpHeadersContext
  *
- * @author L.cm
+ * @author Wujun
  */
 public class BladeHttpHeadersContextHolder {
 	private static final ThreadLocal<HttpHeaders> HTTP_HEADERS_HOLDER = new NamedThreadLocal<>("Blade hystrix HttpHeaders");

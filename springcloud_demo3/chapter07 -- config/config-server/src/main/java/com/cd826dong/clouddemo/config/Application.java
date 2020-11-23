@@ -22,7 +22,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 /**
  * Config Server(配置服务器)
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @SpringBootApplication

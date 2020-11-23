@@ -26,7 +26,7 @@ import org.springframework.core.env.CompositePropertySource;
 import org.springframework.core.env.PropertySource;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosPropertySourceRepository {
 

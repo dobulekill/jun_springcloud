@@ -3,7 +3,7 @@ package com.sohu.tv.cachecloud.client.basic.heartbeat;
 /**
  * 服务器返回给客户端的应用信息
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年6月5日
  * @Time 上午10:46:57
  */

@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class Qq user info.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 public class QQUserInfo implements Serializable {

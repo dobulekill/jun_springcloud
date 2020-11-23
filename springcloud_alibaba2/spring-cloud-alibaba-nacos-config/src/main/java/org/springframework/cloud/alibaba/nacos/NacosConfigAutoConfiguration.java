@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author juven.xuxb
+ * @author Wujun
  */
 @Configuration
 public class NacosConfigAutoConfiguration {

@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 线程池工具类
- * @author  yuejing
+ * @author Wujun
  * @date    2015年9月29日 上午11:44:17 
  * @version 1.0.0
  */

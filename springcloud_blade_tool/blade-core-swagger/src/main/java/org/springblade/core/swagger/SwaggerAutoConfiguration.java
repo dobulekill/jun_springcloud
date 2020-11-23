@@ -41,7 +41,7 @@ import java.util.List;
 /**
  * swagger配置
  *
- * @author Chill
+ * @author Wujun
  */
 @Configuration
 @EnableKnife4j

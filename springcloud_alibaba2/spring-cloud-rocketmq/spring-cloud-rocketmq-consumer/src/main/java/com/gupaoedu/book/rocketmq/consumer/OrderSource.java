@@ -4,7 +4,7 @@ import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 public interface OrderSource {
 

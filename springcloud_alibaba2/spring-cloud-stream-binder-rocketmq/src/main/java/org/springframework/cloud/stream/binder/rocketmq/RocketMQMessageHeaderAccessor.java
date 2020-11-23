@@ -35,8 +35,8 @@ import org.springframework.messaging.MessageHeaders;
 import org.springframework.messaging.support.MessageHeaderAccessor;
 
 /**
- * @author Timur Valiev
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 public class RocketMQMessageHeaderAccessor extends MessageHeaderAccessor {
 

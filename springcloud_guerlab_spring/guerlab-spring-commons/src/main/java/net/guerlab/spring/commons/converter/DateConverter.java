@@ -9,7 +9,7 @@ import net.guerlab.commons.time.TimeHelper;
 /**
  * 日期转换
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class DateConverter implements Converter<String, Date> {

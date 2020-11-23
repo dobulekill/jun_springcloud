@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  * 应用客户端连接监控
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月16日
  * @Time 上午9:44:34
  */

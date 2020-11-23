@@ -1,7 +1,7 @@
 package com.murphy.security.exception;
 
 /**
- * @author dongsufeng
+ * @author Wujun
  * @version 4.0
  * @date 2019/12/2 5:33 PM
  */

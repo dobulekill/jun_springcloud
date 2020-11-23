@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * Spring Context 工具类
- * @author qinxuewu
+ * @author Wujun
  * @date 2016年12月21日 下午12:53:33
  */
 @Component

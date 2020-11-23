@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 上报类型
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月13日
  * @Time 下午6:33:22
  */

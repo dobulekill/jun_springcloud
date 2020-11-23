@@ -14,7 +14,7 @@ import com.gitee.myclouds.common.wrapper.impl.HashDto;
 /**
  * Web上下文
  * 
- * @author xiongchun
+ * @author Wujun
  */
 public class WebCxt {
 

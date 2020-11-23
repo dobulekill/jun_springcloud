@@ -2,7 +2,7 @@ package com.sohu.cache.exception;
 
 /**
  * ssh异常
- * @author leifu
+ * @author Wujun
  * @Date 2016-1-26
  * @Time 下午9:18:54
  */

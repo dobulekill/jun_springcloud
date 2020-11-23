@@ -10,7 +10,7 @@ import feign.RequestLine;
 
 /**
  * 使用@FeignClient的configuration属性，指定feign的配置类。
- * @author 周立
+ * @author Wujun
  */
 @FeignClient(name = "microservice-provider-user", configuration = FeignConfiguration.class)
 public interface UserFeignClient {

@@ -5,7 +5,7 @@ import com.opencloud.job.client.model.entity.JobLogs;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author LYD
+ * @author Wujun
  */
 @Repository
 public interface JobLogsMapper extends SuperMapper<JobLogs> {

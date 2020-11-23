@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.quartz.SchedulerFactoryBean;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 @Configuration
 public class SchedulerConfiguration implements SchedulerFactoryBeanCustomizer {

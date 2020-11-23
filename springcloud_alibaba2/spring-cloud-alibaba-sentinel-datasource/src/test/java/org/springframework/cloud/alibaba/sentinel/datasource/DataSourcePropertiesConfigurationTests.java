@@ -28,7 +28,7 @@ import org.springframework.cloud.alibaba.sentinel.datasource.config.NacosDataSou
 import org.springframework.cloud.alibaba.sentinel.datasource.config.ZookeeperDataSourceProperties;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class DataSourcePropertiesConfigurationTests {
 

@@ -17,7 +17,7 @@ import java.util.Map;
 
 /**
  * 订单信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 public interface OrderInfoService extends CrudService<OrderInfo>{

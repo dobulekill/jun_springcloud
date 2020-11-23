@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @RestController
 @RequestMapping(ServiceConstants.PATH_HOTEL_SUPPORT_SERVICE)

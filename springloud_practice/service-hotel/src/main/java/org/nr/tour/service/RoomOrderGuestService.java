@@ -6,7 +6,7 @@ import org.nr.tour.domain.RoomOrderGuest;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface RoomOrderGuestService extends BaseService<RoomOrderGuest> {
     List<RoomOrderGuest> findByRoomOrderId(String orderId);

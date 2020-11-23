@@ -25,7 +25,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class TestConverter implements Converter<String, List<ParamFlowRule>> {
 	private ObjectMapper objectMapper = new ObjectMapper();

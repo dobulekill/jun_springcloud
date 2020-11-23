@@ -14,7 +14,7 @@ import com.channelsharing.hongqu.supplier.api.service.OrderGoodsService;
 
 /**
  * 订单的商品信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-01
  */
 @Service

@@ -20,7 +20,7 @@ package org.springframework.cloud.alibaba.nacos.diagnostics.analyzer;
  * A {@code NacosConnectionFailureException} is thrown when the application fails to connect
  * to Nacos Server.
  *
- * @author juven.xuxb
+ * @author Wujun
  */
 public class NacosConnectionFailureException extends RuntimeException {
 

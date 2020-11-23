@@ -26,7 +26,7 @@ import org.springframework.context.annotation.Primary;
 /**
  * HystrixFeignTargeter 配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(HystrixFeign.class)

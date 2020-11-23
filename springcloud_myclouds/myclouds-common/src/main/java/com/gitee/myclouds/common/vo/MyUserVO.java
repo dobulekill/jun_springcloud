@@ -9,7 +9,7 @@ import lombok.Setter;
 /**
  * 当前会话用户数据对象
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 // TODO 需要增加更多配置信息和权限信息

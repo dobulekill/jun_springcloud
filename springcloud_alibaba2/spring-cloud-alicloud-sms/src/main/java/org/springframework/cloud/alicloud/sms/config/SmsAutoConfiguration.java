@@ -29,7 +29,7 @@ import org.springframework.context.annotation.Configuration;
 import com.aliyuncs.dysmsapi.model.v20170525.SendSmsRequest;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties

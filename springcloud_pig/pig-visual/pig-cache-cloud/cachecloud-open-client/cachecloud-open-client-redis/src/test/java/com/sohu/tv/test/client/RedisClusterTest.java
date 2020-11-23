@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * cachecloud-rediscluster客户端测试
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年11月21日
  * @Time 上午11:58:53
  */

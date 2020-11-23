@@ -7,7 +7,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 import org.springframework.cloud.netflix.turbine.EnableTurbine;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-07
  * @title 启动类
  * @describe 使用Turbine监控多个微服务

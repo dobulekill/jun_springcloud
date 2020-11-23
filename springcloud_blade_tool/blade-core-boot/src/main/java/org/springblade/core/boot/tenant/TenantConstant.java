@@ -18,7 +18,7 @@ package org.springblade.core.boot.tenant;
 /**
  * 租户常量.
  *
- * @author zhuangqian
+ * @author Wujun
  */
 public interface TenantConstant {
 

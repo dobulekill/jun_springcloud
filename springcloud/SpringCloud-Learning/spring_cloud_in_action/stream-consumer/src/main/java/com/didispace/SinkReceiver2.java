@@ -7,7 +7,7 @@ import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.cloud.stream.messaging.Sink;
 
 /**
- * @author 翟永超
+ * @author Wujun
  * @create 2016/11/8.
  * @blog http://blog.didispace.com
  */

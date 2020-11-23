@@ -7,7 +7,7 @@ import java.util.Map;
 
 /**
  * Redis报警配置枚举
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月13日
  * @Time 下午5:34:42
  */

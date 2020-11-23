@@ -31,7 +31,7 @@ import javax.ws.rs.QueryParam;
 /**
  * Default {@link EchoService}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 @Service(version = "1.0.0", protocol = {"dubbo", "rest"})
 @RestController // Spring MVC 注解

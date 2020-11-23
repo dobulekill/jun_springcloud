@@ -12,7 +12,7 @@ import com.google.common.base.Preconditions;
 import java.io.IOException;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class IncreasePointsEventHandler extends EventHandler {
     private final EventHandler successor;

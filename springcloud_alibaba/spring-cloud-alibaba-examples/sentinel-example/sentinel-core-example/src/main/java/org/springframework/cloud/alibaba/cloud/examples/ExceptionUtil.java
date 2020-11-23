@@ -3,7 +3,7 @@ package org.springframework.cloud.alibaba.cloud.examples;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 public class ExceptionUtil {
 

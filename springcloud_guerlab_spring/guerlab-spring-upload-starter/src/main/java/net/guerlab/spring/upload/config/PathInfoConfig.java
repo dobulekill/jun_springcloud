@@ -8,7 +8,7 @@ import java.io.File;
 /**
  * 上传文件目录配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @RefreshScope

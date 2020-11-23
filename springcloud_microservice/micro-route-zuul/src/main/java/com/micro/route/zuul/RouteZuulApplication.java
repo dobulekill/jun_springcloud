@@ -26,7 +26,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
  * @Description: 
  *
  * @Date 2017年8月30日 21:10:01
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @EnableZuulProxy

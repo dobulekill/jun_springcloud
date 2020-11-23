@@ -15,7 +15,7 @@ import java.util.Arrays;
  *
  * 参考自：jFinal AESKit，优化，方便使用
  *
- * @author L.cm
+ * @author Wujun
  */
 @UtilityClass
 public class AesUtil {

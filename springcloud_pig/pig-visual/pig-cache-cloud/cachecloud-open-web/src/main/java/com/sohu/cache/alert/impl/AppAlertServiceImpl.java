@@ -11,7 +11,7 @@ import com.sohu.cache.entity.InstanceFault;
 /**
  * 应用报警实现
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年12月17日
  * @Time 上午9:51:21
  */

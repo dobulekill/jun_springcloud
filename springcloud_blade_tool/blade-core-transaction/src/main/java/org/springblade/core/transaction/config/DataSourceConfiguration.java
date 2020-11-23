@@ -32,7 +32,7 @@ import javax.sql.DataSource;
 /**
  * 分布式事务数据源配置
  *
- * @author Chill
+ * @author Wujun
  */
 @Configuration
 public class DataSourceConfiguration {

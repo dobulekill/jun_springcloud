@@ -24,7 +24,7 @@ import lombok.extern.slf4j.Slf4j;
  * <p>为了不污染依赖工程，此处不使用@Service注解。由依赖工程的启动类决定是否去@import这个资源。
  * <br>比如，有的工程并不需要连接redis连接，如果这里直接@Service的话会使依赖myclouds-common的工程强制依赖redis。
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Slf4j

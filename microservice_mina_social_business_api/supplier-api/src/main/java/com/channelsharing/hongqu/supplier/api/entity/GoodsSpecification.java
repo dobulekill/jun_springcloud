@@ -9,7 +9,7 @@ import lombok.Data;
 
 /**
  * 商品规格值Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-07
  */
 @Data

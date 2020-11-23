@@ -3,7 +3,7 @@ package com.didispace;
 import org.springframework.stereotype.Component;
 
 /**
- * @author 翟永超
+ * @author Wujun
  * @create 2017/6/24.
  * @blog http://blog.didispace.com
  */

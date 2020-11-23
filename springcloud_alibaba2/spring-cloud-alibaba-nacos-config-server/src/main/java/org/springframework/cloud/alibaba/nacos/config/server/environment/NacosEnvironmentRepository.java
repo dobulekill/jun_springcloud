@@ -33,7 +33,7 @@ import static com.alibaba.nacos.config.server.constant.Constants.DEFAULT_GROUP;
 /**
  * Nacos {@link EnvironmentRepository}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  * @since 0.2.0
  */
 public class NacosEnvironmentRepository implements EnvironmentRepository {

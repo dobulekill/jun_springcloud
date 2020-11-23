@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Repository
 public interface VisaRepository extends JpaRepository<Visa, String> {

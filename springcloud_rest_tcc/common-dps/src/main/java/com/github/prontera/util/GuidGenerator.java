@@ -5,7 +5,7 @@ import java.util.UUID;
 import java.util.regex.Pattern;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public final class GuidGenerator {
 

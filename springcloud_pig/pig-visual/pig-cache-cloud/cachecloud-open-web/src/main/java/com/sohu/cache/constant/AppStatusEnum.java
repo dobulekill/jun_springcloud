@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 应用发布状态
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月28日
  */
 public enum AppStatusEnum {

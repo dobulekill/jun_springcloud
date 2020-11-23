@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 事件发布测试的Endpoint
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 @RestController

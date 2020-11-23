@@ -22,7 +22,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 /**
  * SpringCloud示例工程 -- Hello服务提供者
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @EnableDiscoveryClient

@@ -26,7 +26,7 @@ import java.util.function.Predicate;
 /**
  * 重试策略
  *
- * @author dream.lu
+ * @author Wujun
  */
 @Getter
 @ToString

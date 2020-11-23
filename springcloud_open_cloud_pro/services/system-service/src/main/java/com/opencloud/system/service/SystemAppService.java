@@ -9,7 +9,7 @@ import com.opencloud.system.client.model.entity.SystemApp;
 /**
  * 应用信息管理
  *
- * @author liuyadu
+ * @author Wujun
  */
 public interface SystemAppService extends IBaseService<SystemApp> {
 

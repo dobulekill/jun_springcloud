@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 /**
  * 拓展工具类
- * @author LYD
+ * @author Wujun
  */
 public class StringUtil extends StrUtil{
 

@@ -10,7 +10,7 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.E
 import org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2018年01月09日14:01:25
  * 认证服务器开放接口配置
  */

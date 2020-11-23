@@ -27,7 +27,7 @@ import java.util.Map;
 /**
  * MicaTemplate 测试
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaTemplateTest {
 

@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Service
 public class PointService {

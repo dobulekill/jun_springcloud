@@ -4,7 +4,7 @@ import com.github.prontera.domain.type.handler.GenericTypeHandler;
 import com.github.prontera.model.type.OrderStatus;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class OrderStatusHandler extends GenericTypeHandler<OrderStatus> {
 

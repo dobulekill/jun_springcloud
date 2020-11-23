@@ -7,7 +7,7 @@ import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.cloud.stream.messaging.Sink;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 @EnableBinding({ Sink.class, InputChannel.class})
 @SpringBootApplication

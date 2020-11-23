@@ -16,7 +16,7 @@ import cn.hutool.core.util.RandomUtil;
  *	 	实现UserDetailsService,重写loadUserByUsername方法
  *  	返回随机生成的user,pass是密码,这里固定生成的
  *  	如果你自己需要定制查询user的方法,请改造这里
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  */
 @Service
 public class JwtUserDetailsService implements UserDetailsService{

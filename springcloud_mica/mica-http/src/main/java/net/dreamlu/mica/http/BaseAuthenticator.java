@@ -25,7 +25,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * BaseAuth
  *
- * @author L.cm
+ * @author Wujun
  */
 @RequiredArgsConstructor
 public class BaseAuthenticator implements Authenticator {

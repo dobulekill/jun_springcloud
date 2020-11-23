@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 商品运营推荐语Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-23
  */
 public interface RecommendSentenceService extends CrudService<RecommendSentence>{

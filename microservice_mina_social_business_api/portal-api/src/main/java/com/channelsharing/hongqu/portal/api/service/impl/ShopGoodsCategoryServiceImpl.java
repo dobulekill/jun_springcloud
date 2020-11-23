@@ -24,7 +24,7 @@ import com.channelsharing.hongqu.portal.api.service.ShopGoodsService;
 /**
  * 店铺的商品分类Service
  * 
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-27
  */
 @Service

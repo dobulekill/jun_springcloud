@@ -19,7 +19,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * The class Redis key util.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class RedisKeyUtil {

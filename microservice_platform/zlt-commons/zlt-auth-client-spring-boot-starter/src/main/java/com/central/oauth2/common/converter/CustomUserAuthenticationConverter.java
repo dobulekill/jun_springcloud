@@ -18,7 +18,7 @@ import java.util.Map;
  * 优化自org.springframework.security.oauth2.provider.token.DefaultUserAuthenticationConverter
  * jwt返回的principal改为返回SysUser，增加扩展字段
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/8/5
  */
 public class CustomUserAuthenticationConverter implements UserAuthenticationConverter {

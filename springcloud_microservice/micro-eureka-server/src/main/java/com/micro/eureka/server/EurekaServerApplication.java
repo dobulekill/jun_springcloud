@@ -24,7 +24,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * @Description: 
  *
  * @Date 2017年8月29日 下午7:44:06
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @EnableEurekaServer
@@ -36,7 +36,7 @@ public class EurekaServerApplication{
 	 * @Title: main 
 	 * @Description:程序入口
 	 * @param args 
-	 * @author Li.Shangzhi
+	 * @author Wujun
 	 * @date 2017年8月29日 下午7:43:31
 	 */
     public static void main(String[] args){

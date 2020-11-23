@@ -27,7 +27,7 @@ import java.util.Date;
 /**
  * 商品评论信息DTO定义
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @ApiModel(value = "商品评论信息包")

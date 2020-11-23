@@ -13,7 +13,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * 店铺信息Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-11
  */
 @Data

@@ -11,7 +11,7 @@ import org.springframework.session.data.redis.config.annotation.web.http.EnableR
 /**
  * 说明：自定义session
  *
- * @author WangBin
+ * @author Wujun
  * @version v1.0
  * @date 2018/1/27/027.
  * 默认1800 过期

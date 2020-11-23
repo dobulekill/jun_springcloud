@@ -20,7 +20,7 @@ import com.sohu.cache.web.enums.SuccessEnum;
 /**
  * quartz管理test
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年7月4日
  */
 @Controller

@@ -12,7 +12,7 @@ import java.util.Set;
  * 菜单权限表 Mapper 接口
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-10-29
  */
 public interface SysMenuMapper extends BaseMapper<SysMenu> {

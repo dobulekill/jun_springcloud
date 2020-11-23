@@ -17,7 +17,7 @@ import com.ctrip.framework.apollo.spring.config.PropertySourcesProcessor;
 import com.google.common.collect.Maps;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public abstract class AbstractSpringIntegrationTest {
   private static final Map<String, Config> CONFIG_REGISTRY = Maps.newHashMap();

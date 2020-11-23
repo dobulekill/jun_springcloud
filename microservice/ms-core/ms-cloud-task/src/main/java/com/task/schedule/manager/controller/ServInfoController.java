@@ -23,7 +23,7 @@ import com.task.schedule.manager.service.TaskJobService;
 
 /**
  * 服务的Controller
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-30 14:07:28
  * @version V1.0.0
  */

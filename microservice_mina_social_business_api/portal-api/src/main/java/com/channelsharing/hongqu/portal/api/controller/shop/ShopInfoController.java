@@ -47,7 +47,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 店铺信息Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-11
  */
 @Api(tags = "店铺信息操作接口")

@@ -20,7 +20,7 @@ import com.frame.auto.code.model.Table;
  * <p> Title:Java 代码自动生成工具 </p> <p> Description: 主要应用于oracle,sqlserver数据库数据基本操作
  * </p> <p> Copyright: Copyright (c) 2006 </p> <p> Company: </p>
  * 
- * @author hellion
+ * @author Wujun
  * @version 1.0
  */
 

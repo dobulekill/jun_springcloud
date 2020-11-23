@@ -4,7 +4,7 @@ import com.central.db.mapper.SuperMapper;
 import com.central.storage.model.Storage;
 
 /**
- * @author zlt
+ * @author Wujun
  * @date 2019/9/14
  */
 public interface StorageMapper extends SuperMapper<Storage> {

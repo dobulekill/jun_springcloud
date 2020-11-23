@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @RestController
 @RequestMapping("/organizations")

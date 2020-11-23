@@ -20,7 +20,7 @@ package org.springframework.cloud.alicloud.acm.diagnostics.analyzer;
  * A {@code DiamondConnectionFailureException} is thrown when the application fails to
  * connect to Diamond Server.
  *
- * @author juven.xuxb, 07/11/2016.
+ * @author Wujun
  */
 public class DiamondConnectionFailureException extends RuntimeException {
 

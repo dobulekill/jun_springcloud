@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Timothy Liu(timothy.liu@cvte.com)
+ * @author Wujun
  */
 @Configuration
 public class RoleConfiguration {

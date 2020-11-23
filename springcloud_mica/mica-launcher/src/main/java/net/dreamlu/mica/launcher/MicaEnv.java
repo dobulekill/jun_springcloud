@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
 /**
  * 项目启动器，预制的环境变量
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @AllArgsConstructor

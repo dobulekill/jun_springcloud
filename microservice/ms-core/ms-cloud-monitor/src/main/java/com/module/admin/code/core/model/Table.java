@@ -12,7 +12,7 @@ import com.system.comm.utils.FrameStringUtil;
  * <p>
  * Description: 主要应用于oracle,sqlserver数据库数据基本操作
  * </p>
- * @author yuejing
+ * @author Wujun
  * @version 1.0
  */
 

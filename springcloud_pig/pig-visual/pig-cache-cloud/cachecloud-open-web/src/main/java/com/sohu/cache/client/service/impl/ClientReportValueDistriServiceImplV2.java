@@ -27,7 +27,7 @@ import com.sohu.tv.jedis.stat.model.ClientReportBean;
 /**
  * 客户端上报值分布serviceV2
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月5日
  * @Time 上午10:23:00
  */

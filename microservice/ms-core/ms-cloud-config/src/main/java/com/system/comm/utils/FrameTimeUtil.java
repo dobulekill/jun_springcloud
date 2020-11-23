@@ -7,7 +7,7 @@ import java.util.Date;
 
 /**
  * Date Operate Class
- * @author duanbin
+ * @author Wujun
  * @date 2016-5-26 下午2:57:29
  * @version
  */

@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.0
  */
 @Configuration

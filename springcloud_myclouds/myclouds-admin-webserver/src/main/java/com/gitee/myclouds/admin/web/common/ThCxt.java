@@ -18,7 +18,7 @@ import com.google.common.collect.Lists;
  * 
  * <p>提示：此类仅提供模版文件中调用后台服务使用
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Service

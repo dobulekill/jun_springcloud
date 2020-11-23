@@ -32,7 +32,7 @@ import org.springframework.cloud.alibaba.nacos.NacosDiscoveryProperties;
 
 /**
  * Endpoint for nacos discovery, get nacos properties and subscribed services
- * @author xiaojing
+ * @author Wujun
  */
 @Endpoint(id = "nacos-discovery")
 public class NacosDiscoveryEndpoint {

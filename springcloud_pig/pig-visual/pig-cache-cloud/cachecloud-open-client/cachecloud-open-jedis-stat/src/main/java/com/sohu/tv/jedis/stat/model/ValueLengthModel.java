@@ -4,7 +4,7 @@ import com.sohu.tv.jedis.stat.enums.ValueSizeDistriEnum;
 
 /**
  * 值分布
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月14日
  * @Time 上午10:47:51
  */

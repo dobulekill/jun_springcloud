@@ -24,7 +24,7 @@ import java.io.Serializable;
 /**
  * 实体类
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 @TableName("blade_log_api")

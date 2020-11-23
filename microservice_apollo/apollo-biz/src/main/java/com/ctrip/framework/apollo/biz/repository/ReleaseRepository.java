@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ReleaseRepository extends PagingAndSortingRepository<Release, Long> {
 

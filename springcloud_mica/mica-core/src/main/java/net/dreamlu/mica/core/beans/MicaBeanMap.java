@@ -26,7 +26,7 @@ import java.security.ProtectionDomain;
 /**
  * 重写 cglib BeanMap，支持链式bean
  *
- * @author L.cm
+ * @author Wujun
  */
 public abstract class MicaBeanMap extends BeanMap {
 	protected MicaBeanMap() {}

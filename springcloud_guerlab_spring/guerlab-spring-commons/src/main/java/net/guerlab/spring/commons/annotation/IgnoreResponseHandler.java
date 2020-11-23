@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 /**
  * 忽略ResponseAdvisor的返回结果处理
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Target({

@@ -2,7 +2,7 @@ package com.opencloud.msg.client.service;
 
 /**
  * 推送通知
- * @author woodev
+ * @author Wujun
  */
 public interface IPushClient {
 

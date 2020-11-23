@@ -18,7 +18,7 @@ package org.springblade.core.tool.utils;
 /**
  * 生成的随机数类型
  *
- * @author L.cm
+ * @author Wujun
  */
 public enum RandomType {
 	/**

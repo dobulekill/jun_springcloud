@@ -1,5 +1,5 @@
 package com.murphy.feignapi.module;/**
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/11/27 11:16
  * @version 1.0
  */
@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/11/27 11:16
  * @version 1.0
  */

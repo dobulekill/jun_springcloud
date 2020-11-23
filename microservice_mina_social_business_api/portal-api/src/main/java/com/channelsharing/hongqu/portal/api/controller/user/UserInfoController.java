@@ -23,7 +23,7 @@ import javax.annotation.Resource;
 /**
  * 用户信息Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2017-06-15
  */
 @Api(tags = "用户注册、激活、个人信息接口")

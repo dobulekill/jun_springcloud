@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * 邮件报警
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月2日
  * @Time 上午11:37:39
  */

@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 import zipkin.server.EnableZipkinServer;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-18
  * @title Spring Cloud Sleuth与Zipkin配合使用
  * @describe 编写Zipkin Server

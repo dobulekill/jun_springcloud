@@ -23,7 +23,7 @@ import lombok.Getter;
 /**
  * 系统内置code
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @AllArgsConstructor

@@ -33,7 +33,7 @@ import javax.annotation.PostConstruct;
 import com.alibaba.nacos.api.naming.NamingService;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosRegistration implements Registration, ServiceInstance {
 

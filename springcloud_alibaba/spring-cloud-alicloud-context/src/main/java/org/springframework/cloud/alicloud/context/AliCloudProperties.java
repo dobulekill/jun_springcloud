@@ -21,7 +21,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import com.alibaba.cloud.context.AliCloudConfiguration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @ConfigurationProperties("spring.cloud.alicloud")
 public class AliCloudProperties implements AliCloudConfiguration {

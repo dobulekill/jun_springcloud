@@ -35,7 +35,7 @@ import static org.mockito.Mockito.when;
 import static org.springframework.cloud.alibaba.nacos.test.NacosMockTest.serviceInstance;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosDiscoveryClientTests {
 

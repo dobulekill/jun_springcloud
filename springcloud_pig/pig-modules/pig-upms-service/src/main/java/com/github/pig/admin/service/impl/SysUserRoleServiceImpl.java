@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * 用户角色表 服务实现类
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-10-29
  */
 @Service
@@ -22,7 +22,7 @@ public class SysUserRoleServiceImpl extends ServiceImpl<SysUserRoleMapper, SysUs
      *
      * @param userId 用户ID
      * @return boolean
-     * @author 寻欢·李
+     * @author Wujun
      * @date 2017年12月7日 16:31:38
      */
     @Override

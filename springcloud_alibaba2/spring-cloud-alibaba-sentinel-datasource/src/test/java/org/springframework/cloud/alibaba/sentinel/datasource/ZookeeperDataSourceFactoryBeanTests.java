@@ -30,7 +30,7 @@ import com.alibaba.csp.sentinel.datasource.Converter;
 import com.alibaba.csp.sentinel.datasource.zookeeper.ZookeeperDataSource;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class ZookeeperDataSourceFactoryBeanTests {
 

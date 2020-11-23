@@ -24,7 +24,7 @@ import org.springframework.util.StringValueResolver;
 /**
  * 类型 转换 服务，添加了 IEnum 转换
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaConversionService extends ApplicationConversionService {
 	@Nullable

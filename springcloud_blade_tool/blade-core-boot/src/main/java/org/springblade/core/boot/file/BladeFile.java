@@ -25,7 +25,7 @@ import java.util.Date;
 
 /**
  * 上传文件封装
- * @author Chill
+ * @author Wujun
  */
 public class BladeFile {
 	/**

@@ -38,7 +38,7 @@ import com.alibaba.ans.core.NamingService;
 import com.alibaba.ans.shaded.com.taobao.vipserver.client.core.Host;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @RunWith(PowerMockRunner.class)
 @PrepareForTest(NamingService.class)

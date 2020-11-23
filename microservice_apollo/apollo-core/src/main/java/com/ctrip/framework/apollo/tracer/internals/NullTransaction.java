@@ -3,7 +3,7 @@ package com.ctrip.framework.apollo.tracer.internals;
 import com.ctrip.framework.apollo.tracer.spi.Transaction;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class NullTransaction implements Transaction {
   @Override

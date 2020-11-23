@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * 系统权限管理
  *
- * @author liuyadu
+ * @author Wujun
  */
 public interface SystemAuthorityService extends IBaseService<SystemAuthority> {
 

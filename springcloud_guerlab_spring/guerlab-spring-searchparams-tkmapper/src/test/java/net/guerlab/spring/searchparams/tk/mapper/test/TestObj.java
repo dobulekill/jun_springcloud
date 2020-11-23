@@ -4,7 +4,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author guer
+ * @author Wujun
  */
 @Table(name = "test")
 public class TestObj {

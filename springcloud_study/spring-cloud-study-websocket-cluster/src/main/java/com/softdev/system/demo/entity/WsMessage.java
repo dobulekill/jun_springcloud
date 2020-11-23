@@ -11,7 +11,7 @@ import javax.persistence.GeneratedValue;
 
 /**
 *  ws_message
-* @author 大狼狗 2020-01-14
+* @author Wujun
 */
 @Entity
 @Data

@@ -19,7 +19,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 /**
  * Spring boot application entry point
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 
 @EnableEurekaServer

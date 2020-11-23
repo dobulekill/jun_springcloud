@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class Wrapper.
  *
- * @param <T> the type parameter @author zscatcloud.net@gmail.com
+ * @param <T> the type parameter @author Wujun
  */
 @Data
 @JsonSerialize(include = JsonSerialize.Inclusion.NON_NULL)

@@ -38,7 +38,7 @@ import static feign.Feign.configKey;
 /**
  * Dubbo {@link InvocationHandlerFactory}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class DubboInvocationHandlerFactory implements InvocationHandlerFactory {
 

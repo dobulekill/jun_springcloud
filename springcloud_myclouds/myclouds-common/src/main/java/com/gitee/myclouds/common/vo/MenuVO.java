@@ -10,7 +10,7 @@ import lombok.Setter;
 /**
  * 功能菜单简单值对象(配合前端使用的数据结构)
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Getter

@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 描述: Rest API<br>
  * 时间: 2018/10/01<br>
  *
- * @author zc
+ * @author Wujun
  */
 @RestController
 public class HelloController {

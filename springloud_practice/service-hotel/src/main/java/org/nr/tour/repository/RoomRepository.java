@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Repository
 public interface RoomRepository extends JpaRepository<Room, String> {

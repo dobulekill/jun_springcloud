@@ -28,7 +28,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * 默认配置类
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 @Configuration

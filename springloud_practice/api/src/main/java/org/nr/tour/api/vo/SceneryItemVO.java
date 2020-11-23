@@ -4,7 +4,7 @@ package org.nr.tour.api.vo;
  *
  * 景区条目
  *
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public class SceneryItemVO extends BaseItemVO {
 

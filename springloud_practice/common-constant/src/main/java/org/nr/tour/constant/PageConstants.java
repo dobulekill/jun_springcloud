@@ -1,7 +1,7 @@
 package org.nr.tour.constant;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface PageConstants {
     String DEFAULT_PAGE_SIZE = "5";

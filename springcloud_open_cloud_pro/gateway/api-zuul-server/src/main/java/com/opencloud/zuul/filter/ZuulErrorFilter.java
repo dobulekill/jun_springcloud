@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * zuul错误过滤器
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 public class ZuulErrorFilter extends ZuulFilter {

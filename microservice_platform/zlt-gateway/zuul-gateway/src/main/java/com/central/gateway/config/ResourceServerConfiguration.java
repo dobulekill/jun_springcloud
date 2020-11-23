@@ -9,7 +9,7 @@ import org.springframework.security.config.annotation.web.configurers.Expression
 import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 @Configuration
 @EnableResourceServer

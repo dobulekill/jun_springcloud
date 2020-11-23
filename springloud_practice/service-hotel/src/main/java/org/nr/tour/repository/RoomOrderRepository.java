@@ -5,7 +5,7 @@ import org.nr.tour.domain.RoomOrder;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Repository
 public interface RoomOrderRepository extends BaseOrderRepository<RoomOrder> {

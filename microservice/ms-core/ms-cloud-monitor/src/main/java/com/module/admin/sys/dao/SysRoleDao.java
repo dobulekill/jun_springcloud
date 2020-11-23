@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Param;
 import com.module.admin.sys.pojo.SysRole;
 
 /**
- * @author duanbin
+ * @author Wujun
  * @date 2016-04-21
  * @version V1.0.0
  */

@@ -19,7 +19,7 @@ import java.util.concurrent.ConcurrentSkipListSet;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 final class MigrateProxyManager {
 

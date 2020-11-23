@@ -10,7 +10,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 请求服务端的工具类
- * @author yuejing
+ * @author Wujun
  * @date 2016年10月21日 下午7:57:10
  * @version V1.0.0
  */

@@ -10,7 +10,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  * 描述: 服务注册<br>
  * 时间: 2018/10/01<br>
  *
- * @author zc
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableDiscoveryClient

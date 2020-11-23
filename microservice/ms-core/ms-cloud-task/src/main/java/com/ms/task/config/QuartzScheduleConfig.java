@@ -12,7 +12,7 @@ import org.springframework.scheduling.quartz.SchedulerFactoryBean;
 
 /**
  * 定时任务的配置
- * @author yuejing
+ * @author Wujun
  * @date 2017年5月26日 上午9:44:52
  */
 @Configuration

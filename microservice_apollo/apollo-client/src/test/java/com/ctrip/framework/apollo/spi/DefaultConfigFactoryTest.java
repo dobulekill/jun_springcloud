@@ -31,7 +31,7 @@ import com.ctrip.framework.apollo.internals.YmlConfigFile;
 import com.ctrip.framework.apollo.util.ConfigUtil;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultConfigFactoryTest {
   private DefaultConfigFactory defaultConfigFactory;

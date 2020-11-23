@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created by SuperS on 2017/9/26.
  *
- * @author SuperS
+ * @author Wujun
  */
 @RestController
 public class TestController {

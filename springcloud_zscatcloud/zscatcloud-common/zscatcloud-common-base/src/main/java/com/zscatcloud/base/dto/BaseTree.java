@@ -21,7 +21,7 @@ import java.util.List;
  * @param <E>  the type parameter
  * @param <ID> the type parameter
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 public class BaseTree<E, ID> implements Serializable {

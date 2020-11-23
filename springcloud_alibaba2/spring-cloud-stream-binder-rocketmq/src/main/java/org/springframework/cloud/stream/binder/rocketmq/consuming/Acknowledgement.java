@@ -22,8 +22,8 @@ import org.apache.rocketmq.client.consumer.listener.ConsumeOrderlyContext;
 import org.apache.rocketmq.client.consumer.listener.ConsumeOrderlyStatus;
 
 /**
- * @author Timur Valiev
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 public class Acknowledgement {
 

@@ -11,7 +11,7 @@ import com.sohu.cache.web.vo.AppDetailVO;
 
 /**
  * 应用日报数据
- * @author leifu
+ * @author Wujun
  * @Date 2016年8月10日
  * @Time 下午5:12:45
  */

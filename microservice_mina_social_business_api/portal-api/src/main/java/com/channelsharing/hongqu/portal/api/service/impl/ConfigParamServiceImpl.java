@@ -16,7 +16,7 @@ import com.channelsharing.hongqu.portal.api.dao.ConfigParamDao;
 
 /**
  * 系统配置项Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-17
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

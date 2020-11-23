@@ -27,7 +27,7 @@ import java.util.stream.Collectors;
 /**
  * 上传处理
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class UploadFileHelper {

@@ -36,9 +36,9 @@ import static com.alibaba.nacos.api.PropertyKeyConst.*;
 /**
  * nacos properties
  *
- * @author leijuan
- * @author xiaojing
- * @author pbting
+ * @author Wujun
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties("spring.cloud.nacos.config")
 public class NacosConfigProperties {

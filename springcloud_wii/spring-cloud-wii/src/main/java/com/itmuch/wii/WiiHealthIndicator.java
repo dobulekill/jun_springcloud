@@ -13,7 +13,7 @@ import java.net.URI;
 import java.util.Map;
 
 /**
- * @author www.itmuch.com
+ * @author Wujun
  */
 @RequiredArgsConstructor(onConstructor = @__(@Autowired))
 public class WiiHealthIndicator extends AbstractHealthIndicator {

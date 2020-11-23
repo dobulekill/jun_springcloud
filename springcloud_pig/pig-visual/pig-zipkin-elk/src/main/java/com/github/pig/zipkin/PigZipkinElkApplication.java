@@ -6,7 +6,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.sleuth.zipkin.stream.EnableZipkinStreamServer;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017-12-29 13:02:29
  * zipkin 链路追踪
  */

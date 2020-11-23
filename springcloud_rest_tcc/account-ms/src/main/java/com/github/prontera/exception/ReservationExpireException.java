@@ -1,7 +1,7 @@
 package com.github.prontera.exception;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class ReservationExpireException extends RuntimeException {
     private static final long serialVersionUID = 2180330687914729827L;

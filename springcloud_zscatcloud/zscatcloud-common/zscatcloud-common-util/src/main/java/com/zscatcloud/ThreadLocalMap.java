@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * The class Thread local map.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class ThreadLocalMap {

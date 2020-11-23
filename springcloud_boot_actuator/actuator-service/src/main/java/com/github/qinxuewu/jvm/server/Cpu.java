@@ -5,7 +5,7 @@ import com.github.qinxuewu.utils.Arith;
 /**
  * CPU相关信息
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class Cpu {
 	/**

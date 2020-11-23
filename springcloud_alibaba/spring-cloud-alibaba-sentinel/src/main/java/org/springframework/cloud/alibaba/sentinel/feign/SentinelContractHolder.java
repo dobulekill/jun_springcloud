@@ -28,7 +28,7 @@ import feign.MethodMetadata;
  * Using static field {@link SentinelContractHolder#metadataMap} to hold
  * {@link MethodMetadata} data
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class SentinelContractHolder implements Contract {
 

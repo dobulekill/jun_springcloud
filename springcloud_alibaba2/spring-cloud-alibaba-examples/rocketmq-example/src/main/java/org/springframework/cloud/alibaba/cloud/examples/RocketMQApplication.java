@@ -14,7 +14,7 @@ import org.springframework.messaging.MessageChannel;
 import org.springframework.messaging.SubscribableChannel;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableBinding({ MySource.class, MySink.class })

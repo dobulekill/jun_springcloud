@@ -16,7 +16,7 @@ import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Getter
 @Setter

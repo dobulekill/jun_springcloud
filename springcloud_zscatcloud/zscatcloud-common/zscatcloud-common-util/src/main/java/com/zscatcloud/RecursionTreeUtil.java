@@ -22,7 +22,7 @@ import java.util.Objects;
 /**
  * The class Recursion tree util.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class RecursionTreeUtil {

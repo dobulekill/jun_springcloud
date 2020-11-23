@@ -6,7 +6,7 @@ import java.util.HashMap;
  * <p>Description: 主要应用于oracle,sqlserver数据库数据基本操作</p>
  * <p>Copyright: Copyright (c) 2006</p>
  * <p>Company: </p>
- * @author hellion
+ * @author Wujun
  * @version 1.0
  */
 

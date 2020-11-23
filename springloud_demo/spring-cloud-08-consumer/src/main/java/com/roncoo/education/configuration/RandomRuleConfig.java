@@ -7,7 +7,7 @@
 ///**
 // * 随机算法
 // * 
-// * @author wujing
+// * @author Wujun
 // */
 ////@Configuration
 //public class RandomRuleConfig {

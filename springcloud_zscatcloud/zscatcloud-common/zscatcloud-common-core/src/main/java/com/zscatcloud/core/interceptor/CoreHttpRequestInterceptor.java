@@ -24,7 +24,7 @@ import java.io.IOException;
 /**
  * The class Core http request interceptor.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Slf4j
 public class CoreHttpRequestInterceptor implements ClientHttpRequestInterceptor {

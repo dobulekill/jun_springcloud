@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * 供应商信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-02-02
  */
 @Service

@@ -7,7 +7,7 @@ import com.sohu.cache.entity.AppDailyData;
 /**
  * 应用日报
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2017年1月19日
  * @Time 上午10:25:39
  */

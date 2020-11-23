@@ -22,7 +22,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Reno Chou
+ * @author Wujun
  * <p>
  * Hystrix does not provide request attributes yet. Therefor a custom
  * {@link HystrixConcurrencyStrategy} is necessary that injects request attributes. This

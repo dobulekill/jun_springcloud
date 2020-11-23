@@ -16,7 +16,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * FastDFS配置
  *
- * @author zlt
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnProperty(name = "zlt.file-server.type", havingValue = "fastdfs")

@@ -7,7 +7,7 @@ import org.springframework.core.type.AnnotatedTypeMetadata;
 /**
  * swagger启用判断
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class SwaggerEnableCondition implements Condition {

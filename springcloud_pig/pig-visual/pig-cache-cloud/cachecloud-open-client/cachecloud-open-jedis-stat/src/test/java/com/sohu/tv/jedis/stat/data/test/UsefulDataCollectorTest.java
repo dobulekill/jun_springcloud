@@ -9,7 +9,7 @@ import com.sohu.tv.jedis.stat.model.CostTimeDetailStatModel;
 import com.sohu.tv.jedis.stat.utils.AtomicLongMap;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月23日
  * @Time 下午3:23:34
  */

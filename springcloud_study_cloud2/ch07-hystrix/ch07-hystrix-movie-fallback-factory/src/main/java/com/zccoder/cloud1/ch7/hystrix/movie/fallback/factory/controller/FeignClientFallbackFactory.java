@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-06
  * @title 实现FallbackFactory接口，并重写create方法
  * @describe 实现FallbackFactory接口，并重写create方法

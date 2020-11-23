@@ -11,7 +11,7 @@ import com.ctrip.framework.apollo.util.ExceptionUtil;
 import com.google.common.collect.Lists;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public abstract class AbstractConfigRepository implements ConfigRepository {
   private static final Logger logger = LoggerFactory.getLogger(AbstractConfigRepository.class);

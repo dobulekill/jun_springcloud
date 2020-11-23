@@ -4,7 +4,7 @@ package com.channelsharing.common.exception;
 import com.channelsharing.common.enums.CustomHttpStatus;
 
 /**
- * @author liuhangjun
+ * @author Wujun
  */
 public class UserNotLoginException extends BaseException {
 

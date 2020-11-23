@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.service.IService;
  * 字典表 服务类
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-11-19
  */
 public interface SysDictService extends IService<SysDict> {

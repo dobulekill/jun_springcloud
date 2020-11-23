@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 获取spring对象的工具类
- * @author duanbin
+ * @author Wujun
  * @date 2016年4月29日 下午2:54:13
  * @version V1.0.0
  */

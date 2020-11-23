@@ -46,7 +46,7 @@ import java.util.List;
  *
  * The excluded urls and urlSuffixes are configured in application.properties
  *
- * @author cdfive
+ * @author Wujun
  * @since 1.6.0
  */
 @Component

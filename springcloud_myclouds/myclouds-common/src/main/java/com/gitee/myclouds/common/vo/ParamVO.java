@@ -11,7 +11,7 @@ import lombok.Setter;
 /**
  * KV键值参数VO对象
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Getter

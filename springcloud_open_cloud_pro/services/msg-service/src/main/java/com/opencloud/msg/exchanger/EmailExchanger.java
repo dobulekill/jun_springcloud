@@ -25,7 +25,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 @Slf4j
 public class EmailExchanger implements MessageExchanger {

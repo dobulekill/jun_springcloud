@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * xxl-job info
  *
- * @author xuxueli  2016-1-12 18:25:49
+ * @author Wujun
  */
 public class XxlJobInfo {
 	

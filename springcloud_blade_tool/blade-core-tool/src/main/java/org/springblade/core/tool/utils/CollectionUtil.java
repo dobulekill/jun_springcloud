@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * 集合工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 public class CollectionUtil extends org.springframework.util.CollectionUtils {
 

@@ -17,7 +17,7 @@ import com.google.inject.Singleton;
 
 /**
  * Guice injector
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultInjector implements Injector {
   private com.google.inject.Injector m_injector;

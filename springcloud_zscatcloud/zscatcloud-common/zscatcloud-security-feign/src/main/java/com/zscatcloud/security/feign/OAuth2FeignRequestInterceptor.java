@@ -21,7 +21,7 @@ import org.springframework.util.Assert;
 /**
  * The class O auth 2 feign request interceptor.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Slf4j
 public class OAuth2FeignRequestInterceptor implements RequestInterceptor {

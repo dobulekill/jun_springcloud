@@ -10,7 +10,7 @@ import com.sohu.cache.entity.AppAuditLog;
 import com.sohu.test.BaseTest;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2014年12月23日
  * @Time 上午9:41:16
  */

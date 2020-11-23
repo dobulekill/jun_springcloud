@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.portal.api.entity.GoodsCategory;
 /**
  * 商品分类Service
  * 
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-27
  */
 public interface GoodsCategoryService extends CrudService<GoodsCategory> {

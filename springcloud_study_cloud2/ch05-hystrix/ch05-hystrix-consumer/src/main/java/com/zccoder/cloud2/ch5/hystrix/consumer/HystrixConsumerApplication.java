@@ -15,7 +15,7 @@ import org.springframework.web.client.RestTemplate;
  * <p>
  * 时间: 2018/10/01<br>
  *
- * @author zc
+ * @author Wujun
  */
 @EnableHystrix
 @SpringCloudApplication

@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 顺序消息消费，带事务方式（应用可控制Offset什么时候提交）
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 27/8/2018下午 2:33
  */

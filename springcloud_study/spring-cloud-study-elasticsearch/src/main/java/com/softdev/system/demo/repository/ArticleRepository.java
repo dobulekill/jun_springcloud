@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * ElasticsearchRepository --> ElasticsearchCrudRepository --> PagingAndSortingRepository --> CrudRepository
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  */
 @Repository
 public interface ArticleRepository extends ElasticsearchRepository<Article, Integer> {

@@ -25,7 +25,7 @@ import java.io.Serializable;
 /**
  * 验证码对象封装，用于传递到前端
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @ApiModel("验证码模型")

@@ -15,7 +15,7 @@ import com.task.schedule.manager.pojo.SysConfig;
 
 /**
  * 系统配置的Service
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-30 14:07:27
  * @version V1.0.0
  */

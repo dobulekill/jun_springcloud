@@ -4,7 +4,7 @@ import org.nr.tour.domain.Member;
 import org.springframework.util.StringUtils;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public class MemberUtils {
 

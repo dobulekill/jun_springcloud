@@ -12,7 +12,7 @@ import com.sohu.cache.web.util.DateUtil;
 /**
  * 用于显示chart的简单对象
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年8月31日
  */
 public class SimpleChartData {

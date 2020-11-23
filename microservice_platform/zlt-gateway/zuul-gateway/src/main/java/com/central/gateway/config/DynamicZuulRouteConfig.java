@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 动态路由配置
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/8/21
  */
 @Configuration

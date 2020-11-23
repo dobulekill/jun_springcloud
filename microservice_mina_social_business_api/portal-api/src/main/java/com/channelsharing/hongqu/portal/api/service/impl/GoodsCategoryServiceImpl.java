@@ -22,7 +22,7 @@ import com.channelsharing.hongqu.portal.api.service.GoodsCategoryService;
 /**
  * 商品分类Service
  * 
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-27
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

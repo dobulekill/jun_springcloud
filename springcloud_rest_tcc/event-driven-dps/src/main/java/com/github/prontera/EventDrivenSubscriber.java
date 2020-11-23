@@ -14,7 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.annotation.PostConstruct;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class EventDrivenSubscriber {
     private static final Logger LOGGER = LoggerFactory.getLogger(EventDrivenSubscriber.class);

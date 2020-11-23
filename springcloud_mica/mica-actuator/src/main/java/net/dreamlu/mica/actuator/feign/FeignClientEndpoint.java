@@ -38,7 +38,7 @@ import java.util.Set;
 /**
  * Feign client 端点
  *
- * @author L.cm
+ * @author Wujun
  */
 @Endpoint(id = "feign")
 public class FeignClientEndpoint implements SmartInitializingSingleton {

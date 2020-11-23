@@ -15,7 +15,7 @@ import java.io.Serializable;
  * 用户角色表
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-10-29
  */
 @TableName("sys_user_role")

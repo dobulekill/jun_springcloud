@@ -10,7 +10,7 @@ import com.frame.auto.code.model.Table;
 
 /**
  * 生成Mybatis+SpringMVC
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-13 下午11:30:17
  * @version V1.0.0
  */

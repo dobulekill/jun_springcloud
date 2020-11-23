@@ -10,7 +10,7 @@ import java.util.Random;
 /**
  * 随机生成工具类
  *
- * @author liuyadu
+ * @author Wujun
  * @date 2017/5/9
  */
 @Service

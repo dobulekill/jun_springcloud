@@ -6,7 +6,7 @@ import com.opencloud.msg.exchanger.MessageExchanger;
 import java.util.concurrent.Callable;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 public class MessageTask implements Callable<Boolean> {
 

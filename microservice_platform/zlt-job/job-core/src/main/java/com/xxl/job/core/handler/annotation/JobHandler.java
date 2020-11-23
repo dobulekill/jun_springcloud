@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 
 /**
  * annotation for job handler
- * @author 2016-5-17 21:06:49
+ * @author Wujun
  */
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)

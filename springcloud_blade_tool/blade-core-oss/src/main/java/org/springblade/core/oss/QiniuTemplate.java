@@ -39,7 +39,7 @@ import java.util.List;
 /**
  * QiniuTemplate
  *
- * @author Chill
+ * @author Wujun
  */
 @AllArgsConstructor
 public class QiniuTemplate {

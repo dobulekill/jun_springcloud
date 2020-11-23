@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 发送邮件服务
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月2日
  * @Time 上午11:30:38
  */

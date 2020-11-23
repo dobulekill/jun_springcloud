@@ -33,7 +33,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * RocketMQ Bus Spring Application
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  * @since 0.2.1
  */
 @RestController

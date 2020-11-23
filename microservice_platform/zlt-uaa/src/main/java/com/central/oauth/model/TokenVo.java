@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 @Setter
 @Getter

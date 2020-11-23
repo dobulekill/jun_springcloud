@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 公用 服务发布
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @RestController

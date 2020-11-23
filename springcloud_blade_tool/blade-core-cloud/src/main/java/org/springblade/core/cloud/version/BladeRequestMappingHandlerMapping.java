@@ -38,7 +38,7 @@ import java.util.Map;
  *
  * 注意：c 代表客户端版本
  *
- * @author L.cm
+ * @author Wujun
  */
 public class BladeRequestMappingHandlerMapping extends RequestMappingHandlerMapping {
 

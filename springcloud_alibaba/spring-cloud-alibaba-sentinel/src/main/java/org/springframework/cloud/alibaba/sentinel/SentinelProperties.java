@@ -30,10 +30,10 @@ import com.alibaba.csp.sentinel.log.LogBase;
 import com.alibaba.csp.sentinel.transport.config.TransportConfig;
 
 /**
- * @author xiaojing
- * @author hengyunabc
- * @author jiashuai.xie
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties(prefix = SentinelConstants.PROPERTY_PREFIX)
 public class SentinelProperties {

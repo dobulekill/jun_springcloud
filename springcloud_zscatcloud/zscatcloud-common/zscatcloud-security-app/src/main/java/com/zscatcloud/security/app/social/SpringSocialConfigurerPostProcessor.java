@@ -23,7 +23,7 @@ import com.zscatcloud.security.core.social.support.PcSpringSocialConfigurer;
 /**
  * The class Spring social configurer post processor.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Component
 public class SpringSocialConfigurerPostProcessor implements BeanPostProcessor {

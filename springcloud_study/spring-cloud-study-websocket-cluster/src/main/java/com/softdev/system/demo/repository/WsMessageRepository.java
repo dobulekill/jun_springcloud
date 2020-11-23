@@ -12,7 +12,7 @@ import javax.transaction.Transactional;
 
 /**
 *  ws_message
-* @author 大狼狗 2020-01-14
+* @author Wujun
 */
 @Repository
 public interface WsMessageRepository extends JpaRepository<WsMessage,String> {

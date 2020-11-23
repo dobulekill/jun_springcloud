@@ -24,7 +24,7 @@ import java.util.List;
 
 /**
  *  ElasticSearch控制器
- * @author  zhengkai.blog.csdn.net
+ * @author Wujun
  * */
 @RestController
 public class ArticleController {
@@ -62,7 +62,7 @@ public class ArticleController {
 
 	/**
 	 * ElasticSearch之Search封装查询
-	 * @author  zhengkai.blog.csdn.net
+	 * @author Wujun
 	 * @param title   搜索标题
 	 * @param pageable page = 第几页参数(第一页是0), value = 每页显示条数
 	 */
@@ -80,7 +80,7 @@ public class ArticleController {
 	}
 	/**
 	 * ElasticSearch之elasticsearchTemplate查询
-	 * @author  zhengkai.blog.csdn.net
+	 * @author Wujun
 	 * @param title   搜索标题
 	 */
 	@GetMapping("originSearch")

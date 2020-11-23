@@ -5,7 +5,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  *
- * @author liuhangjun
+ * @author Wujun
  *
  */
 public interface CrudService<T> {

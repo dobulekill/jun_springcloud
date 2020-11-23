@@ -4,7 +4,7 @@ import com.github.prontera.domain.UserBalanceTcc;
 import org.springframework.context.ApplicationEvent;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class ReservedBalanceCancellationEvent extends ApplicationEvent {
     private static final long serialVersionUID = -3561050469176976072L;

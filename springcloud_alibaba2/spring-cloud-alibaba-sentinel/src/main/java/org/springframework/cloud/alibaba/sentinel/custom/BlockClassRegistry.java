@@ -23,7 +23,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import com.alibaba.csp.sentinel.util.StringUtil;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 final class BlockClassRegistry {
 

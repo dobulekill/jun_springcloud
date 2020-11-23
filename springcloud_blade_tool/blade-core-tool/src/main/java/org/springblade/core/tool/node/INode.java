@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * Created by Blade.
  *
- * @author Chill
+ * @author Wujun
  */
 public interface INode {
 

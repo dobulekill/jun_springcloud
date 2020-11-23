@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
 
 /**
  * 商品实时数据统计Dao接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-27
  */
 @Mapper

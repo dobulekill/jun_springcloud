@@ -9,7 +9,7 @@ import org.springframework.web.client.ResponseErrorHandler;
 import java.io.IOException;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class TccResponseErrorHandler implements ResponseErrorHandler {
     private static final Logger LOGGER = LoggerFactory.getLogger(TccResponseErrorHandler.class);

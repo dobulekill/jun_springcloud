@@ -3,7 +3,7 @@ package net.guerlab.spring.searchparams;
 /**
  * 排序类型
  *
- * @author guer
+ * @author Wujun
  *
  */
 public enum OrderByType {

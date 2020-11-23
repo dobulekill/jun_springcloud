@@ -19,7 +19,7 @@ package net.dreamlu.mica.laytpl;
 /**
  * 异常
  *
- * @author lcm
+ * @author Wujun
  */
 public class MicaTplException extends RuntimeException {
 

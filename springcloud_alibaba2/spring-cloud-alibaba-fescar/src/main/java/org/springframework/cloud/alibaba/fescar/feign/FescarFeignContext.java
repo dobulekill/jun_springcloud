@@ -24,7 +24,7 @@ import org.springframework.cloud.openfeign.FeignContext;
 
 /**
  *
- * @author xiaojing
+ * @author Wujun
  */
 public class FescarFeignContext extends FeignContext {
 

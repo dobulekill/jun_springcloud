@@ -10,7 +10,7 @@ import java.util.Map;
  *
  * 利用 idea [Asm ByteCode viewer] 插件查看生成代码
  *
- * @author L.cm
+ * @author Wujun
  */
 @SuppressWarnings("unchecked")
 public class AsmTest {

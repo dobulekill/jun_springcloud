@@ -25,7 +25,7 @@ import java.lang.annotation.*;
 /**
  * Seata启动注解配置
  *
- * @author Chill
+ * @author Wujun
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

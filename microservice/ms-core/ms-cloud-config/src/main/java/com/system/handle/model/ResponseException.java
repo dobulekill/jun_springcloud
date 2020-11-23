@@ -2,7 +2,7 @@ package com.system.handle.model;
 
 /**
  * 异常
- * @author yuejing
+ * @author Wujun
  * @date 2016年1月29日 下午5:19:01
  * @version V1.0.0
  */

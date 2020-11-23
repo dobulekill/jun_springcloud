@@ -14,7 +14,7 @@ package com.zscatcloud.config.properties;
 /**
  * The class Reliable message properties.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public class ReliableMessageProperties {
 }

@@ -11,7 +11,7 @@ import com.sohu.cache.web.util.Page;
 /**
  * 客户端异常dao
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月20日
  * @Time 上午11:50:06
  */

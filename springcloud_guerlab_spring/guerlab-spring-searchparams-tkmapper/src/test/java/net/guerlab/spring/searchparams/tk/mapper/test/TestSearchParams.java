@@ -7,7 +7,7 @@ import net.guerlab.spring.searchparams.SearchModelType;
 import java.util.Collection;
 
 /**
- * @author guer
+ * @author Wujun
  */
 public class TestSearchParams extends AbstractSearchParams {
 

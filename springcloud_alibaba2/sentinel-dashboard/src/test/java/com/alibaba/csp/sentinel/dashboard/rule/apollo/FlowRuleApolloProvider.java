@@ -31,7 +31,7 @@ import com.ctrip.framework.apollo.openapi.dto.OpenItemDTO;
 import com.ctrip.framework.apollo.openapi.dto.OpenNamespaceDTO;
 
 /**
- * @author hantianwei@gmail.com
+ * @author Wujun
  * @since 1.5.0
  */
 @Component("flowRuleApolloProvider")

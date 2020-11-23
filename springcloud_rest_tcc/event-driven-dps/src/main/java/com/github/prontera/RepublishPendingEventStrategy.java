@@ -8,7 +8,7 @@ import java.time.OffsetDateTime;
 import java.util.Set;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public enum RepublishPendingEventStrategy implements BatchFetchEventStrategy {
     SINGLETON;

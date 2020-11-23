@@ -6,7 +6,7 @@ import net.guerlab.spring.searchparams.SearchParamsUtils;
 import java.util.Arrays;
 
 /**
- * @author guer
+ * @author Wujun
  */
 public class MyBatisPlusTester {
 

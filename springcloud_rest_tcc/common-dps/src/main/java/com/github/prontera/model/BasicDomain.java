@@ -15,7 +15,7 @@ import java.time.OffsetDateTime;
 /**
  * 标识Domain并且限定CrudService边界
  *
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Getter
 @Setter

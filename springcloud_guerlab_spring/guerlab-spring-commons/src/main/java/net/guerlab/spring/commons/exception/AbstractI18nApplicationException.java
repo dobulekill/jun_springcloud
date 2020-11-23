@@ -11,7 +11,7 @@ import net.guerlab.commons.exception.ApplicationException;
 /**
  * 抽象国际化异常信息
  *
- * @author guer
+ * @author Wujun
  *
  */
 public abstract class AbstractI18nApplicationException extends ApplicationException {

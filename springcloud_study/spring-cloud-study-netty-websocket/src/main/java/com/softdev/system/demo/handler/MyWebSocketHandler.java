@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * MyWebSocketHandler
  * WebSocket处理器，处理websocket连接相关
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  * @date 2019-06-12
  */
 public class MyWebSocketHandler extends SimpleChannelInboundHandler<TextWebSocketFrame> {

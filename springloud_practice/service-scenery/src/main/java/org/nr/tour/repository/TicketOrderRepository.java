@@ -5,7 +5,7 @@ import org.nr.tour.domain.TicketOrder;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Repository
 public interface TicketOrderRepository extends BaseOrderRepository<TicketOrder> {

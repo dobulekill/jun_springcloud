@@ -16,7 +16,7 @@ import org.springframework.web.client.RestTemplate;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosRibbonClientConfigurationTests {
 

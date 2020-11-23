@@ -12,7 +12,7 @@ import javax.servlet.Filter;
 /**
  * 校验码相关安全配置
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Component("validateCodeSecurityConfig")
 public class ValidateCodeSecurityConfig extends SecurityConfigurerAdapter<DefaultSecurityFilterChain, HttpSecurity> {

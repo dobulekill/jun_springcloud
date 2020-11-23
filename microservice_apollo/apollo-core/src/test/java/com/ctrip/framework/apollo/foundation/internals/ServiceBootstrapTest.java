@@ -8,7 +8,7 @@ import java.util.ServiceConfigurationError;
 import static org.junit.Assert.assertTrue;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ServiceBootstrapTest {
   @Test

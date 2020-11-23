@@ -24,7 +24,7 @@ import java.util.Date;
 
 /**
  * 此接口只能在开发或者测试环境中使用
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @Profile({"test", "dev"})

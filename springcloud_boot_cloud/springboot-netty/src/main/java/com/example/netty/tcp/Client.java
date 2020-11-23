@@ -13,7 +13,7 @@ import io.netty.util.ReferenceCountUtil;
 
 /**
  * tcp粘包 拆包  客户端
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 11/10/2018下午 2:11
  */

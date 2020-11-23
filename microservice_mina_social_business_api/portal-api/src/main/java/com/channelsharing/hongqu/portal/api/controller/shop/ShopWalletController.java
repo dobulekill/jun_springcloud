@@ -26,7 +26,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 店铺钱包Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-26
  */
 @Api(tags = "店铺钱包操作接口")

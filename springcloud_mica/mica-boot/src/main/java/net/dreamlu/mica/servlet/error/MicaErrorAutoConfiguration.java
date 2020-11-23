@@ -38,7 +38,7 @@ import javax.servlet.Servlet;
 /**
  * 统一异常处理
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @AllArgsConstructor

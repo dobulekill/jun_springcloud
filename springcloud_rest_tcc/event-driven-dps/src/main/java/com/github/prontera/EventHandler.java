@@ -5,7 +5,7 @@ import com.github.prontera.persistence.EventSubscriberMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public abstract class EventHandler {
     @Autowired

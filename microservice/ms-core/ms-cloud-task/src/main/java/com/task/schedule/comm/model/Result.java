@@ -6,7 +6,7 @@ import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
 /**
  * 返回结果
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-16 下午9:33:12
  * @version V1.0.0
  */

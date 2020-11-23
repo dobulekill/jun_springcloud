@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 @Data
 @Accessors(chain = true)

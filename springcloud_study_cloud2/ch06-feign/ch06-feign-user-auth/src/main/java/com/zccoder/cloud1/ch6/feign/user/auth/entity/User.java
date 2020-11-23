@@ -11,7 +11,7 @@ import javax.persistence.Id;
 /**
  * @title 用户实体类
  * @describe 用户实体类
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  */
 @Entity

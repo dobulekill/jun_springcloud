@@ -25,7 +25,7 @@ import java.net.InetAddress;
 /**
  * The class Redis init runner.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Component
 @Order

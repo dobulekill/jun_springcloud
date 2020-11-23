@@ -6,7 +6,7 @@
 ///**
 // * 轮询算法
 // * 
-// * @author wujing
+// * @author Wujun
 // */
 //// @Configuration
 //public class RoundRobinRuleConfig {

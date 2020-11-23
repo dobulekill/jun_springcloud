@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 19/7/2018下午 3:53
  */

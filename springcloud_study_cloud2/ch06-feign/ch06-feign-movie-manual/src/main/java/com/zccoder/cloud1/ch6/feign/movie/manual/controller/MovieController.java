@@ -16,7 +16,7 @@ import feign.codec.Decoder;
 import feign.codec.Encoder;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  * @title 电影控制类
  * @describe 电影控制类

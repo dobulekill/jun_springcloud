@@ -17,7 +17,7 @@ import com.system.comm.utils.FrameSpringBeanUtil;
 /**
  * Csrf拦截器，用来生成或去除CsrfToken
  * 
- * @author yuejing
+ * @author Wujun
  */
 public class CsrfInterceptor extends HandlerInterceptorAdapter {
 	private static final Logger logger = Logger.getLogger(CsrfInterceptor.class);

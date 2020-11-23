@@ -14,7 +14,7 @@ package com.zscatcloud.security.core.social.weixin.api;
 /**
  * 微信API调用接口
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public interface Weixin {
 

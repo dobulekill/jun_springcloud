@@ -1,7 +1,7 @@
 package com.channelsharing.common.exception;
 
 /**
- * @author liuhangjun
+ * @author Wujun
  */
 public class DataNotFoundException extends BaseException {
 

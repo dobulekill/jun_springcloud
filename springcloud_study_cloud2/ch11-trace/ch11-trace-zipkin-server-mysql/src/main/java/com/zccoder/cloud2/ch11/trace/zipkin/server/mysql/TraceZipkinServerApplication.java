@@ -10,7 +10,7 @@ import org.springframework.cloud.sleuth.zipkin.stream.EnableZipkinStreamServer;
  * 描述: 启动类<br>
  * 时间: 2018/10/05<br>
  *
- * @author zc
+ * @author Wujun
  */
 @EnableZipkinStreamServer
 @SpringBootApplication

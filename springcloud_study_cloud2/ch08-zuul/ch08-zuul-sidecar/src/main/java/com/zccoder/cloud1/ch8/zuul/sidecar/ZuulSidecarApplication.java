@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.sidecar.EnableSidecar;
 /**
  * @title 启动类
  * @describe 编写Sidecar微服务
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-12
  */
 @SpringBootApplication

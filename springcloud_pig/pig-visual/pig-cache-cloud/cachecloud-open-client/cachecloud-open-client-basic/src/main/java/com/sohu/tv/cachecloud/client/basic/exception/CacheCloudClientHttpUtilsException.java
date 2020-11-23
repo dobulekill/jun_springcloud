@@ -2,7 +2,7 @@ package com.sohu.tv.cachecloud.client.basic.exception;
 
 /**
  * http工具异常类
- * @author leifu
+ * @author Wujun
  * @Date 2015-1-31
  * @Time 下午6:41:22
  */

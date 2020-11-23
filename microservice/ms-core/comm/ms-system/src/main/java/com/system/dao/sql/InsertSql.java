@@ -11,7 +11,7 @@ import com.system.dao.annotation.ColumnPk;
 
 /**
  * 拼接保存的sql的工具类
- * @author yuejing
+ * @author Wujun
  * @date 2013-11-20 下午11:51:53
  * @version V1.0.0
  */

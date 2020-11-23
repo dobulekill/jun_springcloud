@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 请求
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 11/10/2018下午 6:26
  */

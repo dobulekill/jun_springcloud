@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * 抽象任务
  *
- * @author guer
+ * @author Wujun
  *
  */
 @ConditionalOnClass({
@@ -30,7 +30,7 @@ public class TaskLockAutoConfig {
     /**
      * Task Lock's Aop
      *
-     * @author guer
+     * @author Wujun
      *
      */
     @Aspect

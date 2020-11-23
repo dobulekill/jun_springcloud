@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.Message;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 @RocketMQTransactionListener(txProducerGroup = "order-tx-produce-group", corePoolSize = 5, maximumPoolSize = 10)
 public class OrderTransactionListenerImpl implements RocketMQLocalTransactionListener {

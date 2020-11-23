@@ -12,7 +12,7 @@ import java.util.Collection;
 
 /**
  * 业务扩展用户对象，用于jwt生成token
- * @author dongsufeng
+ * @author Wujun
  * @version 4.0
  * @date 2019/12/2 3:40 PM
  */

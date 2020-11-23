@@ -35,7 +35,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * auth
  *
- * @author wfnuser
+ * @author Wujun
  */
 @RestController("auth")
 @RequestMapping("/v1/auth")

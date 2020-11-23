@@ -28,7 +28,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 /**
  * JWT Token 相关配置
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Configuration

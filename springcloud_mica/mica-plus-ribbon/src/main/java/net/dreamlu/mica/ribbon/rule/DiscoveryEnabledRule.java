@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * ribbon 路由规则
  *
- * @author L.cm
+ * @author Wujun
  */
 public abstract class DiscoveryEnabledRule extends PredicateBasedRule {
 	private final CompositePredicate predicate;

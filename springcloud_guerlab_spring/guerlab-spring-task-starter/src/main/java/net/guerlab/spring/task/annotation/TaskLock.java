@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 任务锁
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Target(ElementType.METHOD)

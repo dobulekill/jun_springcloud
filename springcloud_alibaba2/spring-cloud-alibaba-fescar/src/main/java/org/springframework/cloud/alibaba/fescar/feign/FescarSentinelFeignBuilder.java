@@ -25,7 +25,7 @@ import org.springframework.boot.autoconfigure.data.redis.RedisProperties.Sentine
 import org.springframework.cloud.alibaba.sentinel.feign.SentinelFeign;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 final class FescarSentinelFeignBuilder {
 

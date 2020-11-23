@@ -8,7 +8,7 @@ import org.springframework.beans.factory.support.BeanDefinitionRegistryPostProce
 /**
  * Bean定义注册器持有器
  *
- * @author guer
+ * @author Wujun
  */
 public class BeanDefinitionRegistryHolder implements BeanDefinitionRegistryPostProcessor {
 

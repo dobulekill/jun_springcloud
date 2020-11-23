@@ -27,7 +27,7 @@ import java.time.Duration;
 /**
  * Redis缓存配置
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 @Configuration

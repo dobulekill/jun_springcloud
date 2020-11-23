@@ -23,7 +23,7 @@ import java.security.cert.X509Certificate;
 /**
  * 不进行证书校验
  *
- * @author L.cm
+ * @author Wujun
  */
 public class DisableValidationTrustManager implements X509TrustManager {
 

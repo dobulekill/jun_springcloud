@@ -24,7 +24,7 @@ import java.util.stream.Collectors;
  * 2. 元数据匹配
  * 3. 使用nacos权重
  *
- * @author limu.zl
+ * @author Wujun
  */
 @Slf4j
 public class NacosFinalRule extends AbstractLoadBalancerRule {

@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 /**
  * 积分服务的消费者，接收到下单成功后增加积分
  *
- * @author zlt
+ * @author Wujun
  */
 @Service
 public class IntegralReceiveService {

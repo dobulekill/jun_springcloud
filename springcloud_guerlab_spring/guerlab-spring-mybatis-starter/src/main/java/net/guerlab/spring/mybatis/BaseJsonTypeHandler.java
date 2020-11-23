@@ -18,7 +18,7 @@ import net.guerlab.spring.commons.util.SpringApplicationContextUtil;
 /**
  * json处理
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class BaseJsonTypeHandler<T> extends BaseTypeHandler<T> {

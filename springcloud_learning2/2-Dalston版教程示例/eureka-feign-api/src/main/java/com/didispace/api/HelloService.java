@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * @author 翟永超
+ * @author Wujun
  * @create 2017/8/8.
  * @blog http://blog.didispace.com
  */

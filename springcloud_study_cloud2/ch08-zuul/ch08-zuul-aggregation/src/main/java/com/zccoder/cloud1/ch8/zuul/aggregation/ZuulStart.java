@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @title 启动类
  * @describe 使用Zuul聚合微服务
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-12
  */
 @SpringBootApplication

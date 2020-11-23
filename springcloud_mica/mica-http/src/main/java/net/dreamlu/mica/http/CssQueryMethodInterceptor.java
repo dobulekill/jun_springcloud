@@ -42,7 +42,7 @@ import java.util.stream.Collectors;
 /**
  * 代理模型
  *
- * @author L.cm
+ * @author Wujun
  */
 @RequiredArgsConstructor
 public class CssQueryMethodInterceptor implements MethodInterceptor {

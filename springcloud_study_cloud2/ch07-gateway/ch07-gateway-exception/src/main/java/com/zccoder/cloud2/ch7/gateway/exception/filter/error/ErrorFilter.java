@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  * 当是`post`过滤器抛出的话，错误信息会让`ErrorExtFilter`返回异常信息<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 @Component
 public class ErrorFilter extends ZuulFilter {

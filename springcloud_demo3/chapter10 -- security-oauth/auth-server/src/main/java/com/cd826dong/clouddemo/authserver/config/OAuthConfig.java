@@ -25,7 +25,7 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Aut
 /**
  * OAuth2 配置
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Configuration

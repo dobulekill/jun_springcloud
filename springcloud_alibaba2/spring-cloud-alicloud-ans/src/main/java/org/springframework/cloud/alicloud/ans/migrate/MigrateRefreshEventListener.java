@@ -12,7 +12,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 @Component
 public class MigrateRefreshEventListener implements ApplicationListener<RefreshEvent> {

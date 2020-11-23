@@ -25,7 +25,7 @@ import java.lang.reflect.Field;
 import java.util.HashMap;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  * @see RequestLogging
  * @see org.springframework.web.bind.annotation.ControllerAdvice
  */

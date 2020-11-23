@@ -11,7 +11,7 @@ import com.google.common.base.Splitter;
 import com.google.common.base.Strings;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class NamespaceHandler extends NamespaceHandlerSupport {
   private static final Splitter NAMESPACE_SPLITTER = Splitter.on(",").omitEmptyStrings().trimResults();

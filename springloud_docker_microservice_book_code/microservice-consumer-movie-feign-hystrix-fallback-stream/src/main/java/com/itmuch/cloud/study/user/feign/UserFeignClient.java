@@ -11,7 +11,7 @@ import com.itmuch.cloud.study.user.entity.User;
 /**
  * Feign的fallback测试
  * 使用@FeignClient的fallback属性指定回退类
- * @author 周立
+ * @author Wujun
  */
 @FeignClient(name = "microservice-provider-user", fallback = FeignClientFallback.class)
 public interface UserFeignClient {
@@ -23,7 +23,7 @@ public interface UserFeignClient {
 /**
  * 回退类FeignClientFallback需实现Feign Client接口
  * FeignClientFallback也可以是public class，没有区别
- * @author 周立
+ * @author Wujun
  */
 @Component
 class FeignClientFallback implements UserFeignClient {

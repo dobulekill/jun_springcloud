@@ -25,7 +25,7 @@ import static io.netty.handler.codec.http.HttpVersion.HTTP_1_1;
  * https://blog.csdn.net/weixin_39168678/article/details/79453585(点对点发消息)
  * https://blog.csdn.net/xzknet/article/details/78281195
  * https://github.com/waylau/essential-netty-in-action
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 12/10/2018下午 5:54
  */

@@ -9,7 +9,7 @@ import com.sohu.cache.entity.AppClientValueDistriStatTotal;
 
 /**
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月9日
  * @Time 下午5:25:52
  */

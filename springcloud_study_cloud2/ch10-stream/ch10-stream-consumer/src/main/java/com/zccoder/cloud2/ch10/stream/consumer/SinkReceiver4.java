@@ -12,7 +12,7 @@ import org.springframework.cloud.stream.messaging.Sink;
  * 描述: 分区试验接收者<br>
  * 时间: 2018/10/05<br>
  *
- * @author zc
+ * @author Wujun
  */
 @EnableBinding(value = {Sink.class})
 public class SinkReceiver4 {

@@ -3,7 +3,7 @@ package com.qianfeng.smsplatform.webmaster.util;
 import lombok.Data;
 
 /**
- * @author menglili
+ * @author Wujun
  * 调用搜索服务用到的对象，与搜索服务中的数据格式对应
  */
 @Data

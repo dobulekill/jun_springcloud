@@ -35,7 +35,7 @@ import org.springframework.http.codec.ServerCodecConfigurer;
  * ExceptionTranslator 只支持控制器中的异常
  *
  * @see ErrorWebFluxAutoConfiguration
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @RequiredArgsConstructor

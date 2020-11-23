@@ -16,7 +16,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * @author 浅梦
+ * @author Wujun
  * @date 2018/1/16
  * 阿里大鱼短息服务处理
  */

@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
  * 描述: 消费者 Rest<br>
  * 时间: 2018/10/01<br>
  *
- * @author zc
+ * @author Wujun
  */
 @RestController
 public class ConsumerController {

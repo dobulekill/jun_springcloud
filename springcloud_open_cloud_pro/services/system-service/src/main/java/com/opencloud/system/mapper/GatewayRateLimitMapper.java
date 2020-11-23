@@ -5,7 +5,7 @@ import com.opencloud.common.mybatis.base.mapper.SuperMapper;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author LYD
+ * @author Wujun
  */
 @Repository
 public interface GatewayRateLimitMapper extends SuperMapper<GatewayRateLimit> {

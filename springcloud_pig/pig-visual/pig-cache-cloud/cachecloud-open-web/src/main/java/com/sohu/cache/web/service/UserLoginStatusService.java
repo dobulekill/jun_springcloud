@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 用户登录状态信息服务
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月15日
  * @Time 下午1:24:09
  */

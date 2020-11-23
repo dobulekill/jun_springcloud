@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 
 /**
  * 店铺收益Dao接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-17
  */
 @Mapper

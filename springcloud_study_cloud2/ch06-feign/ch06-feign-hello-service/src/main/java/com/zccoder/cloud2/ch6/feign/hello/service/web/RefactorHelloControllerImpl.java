@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 描述: 用户服务实现<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 @RestController
 public class RefactorHelloControllerImpl implements HelloService {

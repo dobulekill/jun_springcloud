@@ -6,7 +6,7 @@ import com.sohu.cache.entity.InstanceFault;
 
 /**
  * 故障管理
- * @author leifu
+ * @author Wujun
  * @Date 2015年3月2日
  * @Time 下午2:02:07
  */

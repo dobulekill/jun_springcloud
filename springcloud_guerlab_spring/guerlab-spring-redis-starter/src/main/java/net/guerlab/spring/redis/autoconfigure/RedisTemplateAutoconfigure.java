@@ -12,7 +12,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 /**
  * RedisTemplate自动配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

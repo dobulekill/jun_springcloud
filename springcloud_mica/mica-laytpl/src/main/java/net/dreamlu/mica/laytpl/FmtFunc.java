@@ -36,7 +36,7 @@ import java.util.Date;
  *
  * 提供给 tpl 和 Thymeleaf 使用
  *
- * @author L.cm
+ * @author Wujun
  */
 @RequiredArgsConstructor
 public class FmtFunc {

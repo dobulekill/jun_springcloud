@@ -33,7 +33,7 @@ import com.zscatcloud.security.core.social.support.SocialAuthenticationFilterPos
 /**
  * 社交登录配置主类
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Configuration
 @EnableSocial

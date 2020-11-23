@@ -8,7 +8,7 @@ import lombok.Setter;
 /**
  * 资源模块VO对象
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Getter

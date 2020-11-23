@@ -1,7 +1,7 @@
 package com.github.prontera.config;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public final class RequestAttributeConst {
     public static final String DETAILS_KEY = "X-Logs-Details";

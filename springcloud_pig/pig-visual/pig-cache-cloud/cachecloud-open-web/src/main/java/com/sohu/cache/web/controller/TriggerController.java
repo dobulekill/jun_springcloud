@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * trigger操作
- * @author leifu
+ * @author Wujun
  * @Date 2014年05月19日
  * @Time 下午5:15:36
  */

@@ -38,7 +38,7 @@ import com.alibaba.cloud.context.edas.AliCloudEdasSdk;
 import com.alibaba.cloud.context.statistics.StatisticsTask;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 @AutoConfigureAfter({ ScxContextAutoConfiguration.class,

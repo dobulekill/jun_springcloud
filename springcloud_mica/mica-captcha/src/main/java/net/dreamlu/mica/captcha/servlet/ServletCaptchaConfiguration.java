@@ -29,7 +29,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 验证码 自动化配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @AllArgsConstructor

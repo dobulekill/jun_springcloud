@@ -20,7 +20,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 /**
  * 用户信息repository
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 public interface UserRepository extends JpaRepository<User, Long> {

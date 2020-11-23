@@ -10,7 +10,7 @@ import com.sohu.cache.stats.app.AppDailyDataCenter;
 
 /**
  * 发送日报
- * @author leifu
+ * @author Wujun
  * @Date 2016年8月12日
  * @Time 上午11:25:09
  */

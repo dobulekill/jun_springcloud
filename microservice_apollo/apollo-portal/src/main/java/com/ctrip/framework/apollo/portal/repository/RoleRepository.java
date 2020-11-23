@@ -5,7 +5,7 @@ import com.ctrip.framework.apollo.portal.entity.po.Role;
 import org.springframework.data.repository.PagingAndSortingRepository;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface RoleRepository extends PagingAndSortingRepository<Role, Long> {
   /**

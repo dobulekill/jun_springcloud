@@ -17,7 +17,7 @@ import com.zscatcloud.page.PageUtil;
 /**
  * The class Page wrap mapper.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class PageWrapMapper {
 

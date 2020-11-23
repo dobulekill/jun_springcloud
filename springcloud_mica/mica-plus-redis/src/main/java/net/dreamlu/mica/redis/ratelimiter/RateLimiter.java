@@ -22,7 +22,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 分布式 限流注解，默认速率为 600/ms
  *
- * @author L.cm
+ * @author Wujun
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)

@@ -11,7 +11,7 @@ import com.sohu.cache.redis.enums.RedisClusterInfoEnum;
 
 /**
  * 集群状态监控
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月21日
  * @Time 下午3:01:21
  */

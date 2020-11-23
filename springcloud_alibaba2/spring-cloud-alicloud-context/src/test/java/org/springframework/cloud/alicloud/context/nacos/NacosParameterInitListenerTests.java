@@ -28,7 +28,7 @@ import com.alibaba.cloud.context.ans.AliCloudAnsInitializer;
 import com.alibaba.cloud.context.edas.EdasChangeOrderConfigurationFactory;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @PrepareForTest({ EdasChangeOrderConfigurationFactory.class,
 		NacosParameterInitListener.class, AliCloudAnsInitializer.class })

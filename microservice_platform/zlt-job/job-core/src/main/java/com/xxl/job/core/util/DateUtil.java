@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * date util
  *
- * @author xuxueli 2018-08-19 01:24:11
+ * @author Wujun
  */
 public class DateUtil {
     private static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";

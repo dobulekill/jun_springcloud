@@ -13,7 +13,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 /**
  * Web服务配置类
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 @Configuration

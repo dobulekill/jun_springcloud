@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Gaode base dto.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 @ApiModel

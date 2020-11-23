@@ -51,7 +51,7 @@ import com.sohu.cache.web.component.EmailComponent;
 import com.sohu.cache.web.util.VelocityUtils;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2017年5月19日
  * @Time 下午2:16:36
  */

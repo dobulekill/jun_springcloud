@@ -14,7 +14,7 @@ import com.sohu.cache.web.util.HttpRequestUtil;
 
 /**
  * 手机短信报警
- * @author leifu
+ * @author Wujun
  * @Date 2014年11月26日
  * @Time 上午10:11:26
  */

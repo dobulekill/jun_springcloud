@@ -3,7 +3,7 @@ package com.github.prontera;
 import lombok.Value;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Value
 public class MessageRoute {

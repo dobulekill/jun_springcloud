@@ -8,7 +8,7 @@ import com.sohu.cache.web.service.MemFaultService;
 
 /**
  * 故障服务
- * @author leifu
+ * @author Wujun
  * @Date 2015-6-6
  * @Time 下午10:03:59
  */

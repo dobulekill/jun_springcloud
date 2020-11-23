@@ -10,7 +10,7 @@ import com.sohu.cache.entity.InstanceReshardProcess;
 import com.sohu.test.BaseTest;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月24日
  * @Time 下午8:44:27
  */

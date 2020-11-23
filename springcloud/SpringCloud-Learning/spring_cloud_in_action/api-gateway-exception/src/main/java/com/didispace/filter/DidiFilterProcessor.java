@@ -6,7 +6,7 @@ import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.exception.ZuulException;
 
 /**
- * @author 翟永超
+ * @author Wujun
  * @create 2016/12/15.
  * @blog http://blog.didispace.com
  */

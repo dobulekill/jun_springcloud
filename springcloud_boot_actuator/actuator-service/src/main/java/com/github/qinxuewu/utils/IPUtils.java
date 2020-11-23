@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * IP地址
- * @author qinxuewu
+ * @author Wujun
  * @date 2016年12月21日 下午12:53:33
  */
 public class IPUtils {

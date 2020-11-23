@@ -23,7 +23,7 @@ import org.springframework.lang.Nullable;
 /**
  * HttpHeadersContext
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaHttpHeadersContextHolder {
 	private static final ThreadLocal<HttpHeaders> HTTP_HEADERS_HOLDER = new NamedThreadLocal<>("Mica hystrix HttpHeaders");

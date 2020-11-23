@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 @RestController
 @Api(value = "邮件", tags = "邮件")

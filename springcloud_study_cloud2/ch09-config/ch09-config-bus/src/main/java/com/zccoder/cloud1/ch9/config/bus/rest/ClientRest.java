@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-14
  * @title 控制类
  * @describe 测试rest类

@@ -23,7 +23,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 租户基础实体类
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

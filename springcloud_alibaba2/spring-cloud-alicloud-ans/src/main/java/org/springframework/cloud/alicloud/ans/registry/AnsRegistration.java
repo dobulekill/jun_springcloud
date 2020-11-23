@@ -30,7 +30,7 @@ import java.net.URI;
 import java.util.Map;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsRegistration implements Registration, ServiceInstance {
 

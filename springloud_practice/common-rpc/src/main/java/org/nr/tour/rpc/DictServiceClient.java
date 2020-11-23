@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @FeignClient(value = ServiceConstants.DICT_SERVICE)
 public interface DictServiceClient extends AbstractServiceDefinition<Dict, String> {

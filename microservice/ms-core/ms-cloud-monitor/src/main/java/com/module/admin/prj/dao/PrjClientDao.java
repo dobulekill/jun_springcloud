@@ -10,7 +10,7 @@ import com.module.admin.prj.pojo.PrjInfo;
 
 /**
  * prj_client的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2016-10-20 17:54:59
  * @version V1.0.0
  */

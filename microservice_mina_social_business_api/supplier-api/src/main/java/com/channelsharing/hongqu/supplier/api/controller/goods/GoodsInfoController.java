@@ -33,7 +33,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 商品信息接口Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-06
  */
 @Api(tags = "商品信息操作接口")

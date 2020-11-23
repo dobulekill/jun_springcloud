@@ -5,7 +5,7 @@ import java.io.StringWriter;
 import java.util.Properties;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class PropertiesUtil {
   /**

@@ -40,7 +40,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * redis 分布式锁
  *
- * @author L.cm
+ * @author Wujun
  */
 @Aspect
 @RequiredArgsConstructor

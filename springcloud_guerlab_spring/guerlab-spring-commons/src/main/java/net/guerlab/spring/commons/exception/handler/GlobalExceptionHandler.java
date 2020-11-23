@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
 /**
  * 异常统一处理配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class GlobalExceptionHandler {

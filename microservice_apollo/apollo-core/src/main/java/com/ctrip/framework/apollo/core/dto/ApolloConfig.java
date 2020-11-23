@@ -3,7 +3,7 @@ package com.ctrip.framework.apollo.core.dto;
 import java.util.Map;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ApolloConfig {
 

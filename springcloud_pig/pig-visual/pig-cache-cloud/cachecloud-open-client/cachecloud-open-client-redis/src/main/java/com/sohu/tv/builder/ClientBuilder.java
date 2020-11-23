@@ -2,7 +2,7 @@ package com.sohu.tv.builder;
 
 /**
  * cachecloud-redis客户端builder
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月5日
  * @Time 下午12:11:26
  */

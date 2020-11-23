@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * table别名
- * @author LYD
+ * @author Wujun
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

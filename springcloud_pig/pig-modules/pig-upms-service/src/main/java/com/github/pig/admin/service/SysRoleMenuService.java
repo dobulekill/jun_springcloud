@@ -9,7 +9,7 @@ import com.github.pig.admin.entity.SysRoleMenu;
  * 角色菜单表 服务类
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-10-29
  */
 public interface SysRoleMenuService extends IService<SysRoleMenu> {

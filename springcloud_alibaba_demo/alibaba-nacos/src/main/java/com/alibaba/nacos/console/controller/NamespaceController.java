@@ -38,7 +38,7 @@ import java.util.UUID;
 /**
  * namespace service
  *
- * @author Nacos
+ * @author Wujun
  */
 @Controller
 @RequestMapping("/v1/console/namespaces")

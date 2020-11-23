@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 角色管理
  *
- * @author liuyadu
+ * @author Wujun
  */
 public interface BaseRoleService extends IBaseService<BaseRole> {
 

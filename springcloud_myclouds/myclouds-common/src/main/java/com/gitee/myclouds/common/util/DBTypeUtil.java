@@ -8,7 +8,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * 数据库类型
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2015-10-25
  */
 public class DBTypeUtil {

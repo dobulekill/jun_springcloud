@@ -4,7 +4,7 @@ import com.zccoder.cloud1.ch7.hystrix.movie.fallback.stream.domain.User;
 import org.springframework.stereotype.Component;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-06
  * @title 回退类FeignClientFallback需实现Feign Client接口
  * @describe FeignClientFallback也可以是public class，没有区别

@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * 邮件模板配置 前端控制器
  *
- * @author admin
+ * @author Wujun
  * @date 2019-07-25
  */
 @Api(value = "邮件模板配置", tags = "邮件模板配置")

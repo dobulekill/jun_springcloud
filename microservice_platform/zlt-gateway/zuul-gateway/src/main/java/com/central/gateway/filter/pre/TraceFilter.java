@@ -15,7 +15,7 @@ import static org.springframework.cloud.netflix.zuul.filters.support.FilterConst
 /**
  * 生成日志链路追踪id，并传入header中
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/8/13
  */
 @Component

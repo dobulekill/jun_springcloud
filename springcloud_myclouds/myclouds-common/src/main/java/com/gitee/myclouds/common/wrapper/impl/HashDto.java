@@ -20,7 +20,7 @@ import com.gitee.myclouds.common.wrapper.util.TypeConvertUtil;
  * 在平台二次开发过程中具有很强的实用价值。 开发人员需熟练掌握其提供的相关API。
  * </p>
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2008-07-06
  */
 public class HashDto extends HashMap<String, Object> implements Dto {

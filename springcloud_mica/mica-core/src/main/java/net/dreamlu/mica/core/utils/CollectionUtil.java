@@ -27,7 +27,7 @@ import java.util.stream.Collectors;
 /**
  * 集合工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 @UtilityClass
 @SuppressWarnings("unchecked")

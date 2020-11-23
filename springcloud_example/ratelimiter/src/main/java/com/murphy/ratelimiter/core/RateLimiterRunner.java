@@ -1,5 +1,5 @@
 package com.murphy.ratelimiter.core;/**
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/11/29 11:32
  * @version 1.0
  */
@@ -12,7 +12,7 @@ import java.util.concurrent.*;
 
 /**
  *
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/11/29 11:32
  * @version 1.0
  */

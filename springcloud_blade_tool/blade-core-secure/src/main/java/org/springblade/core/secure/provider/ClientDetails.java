@@ -21,7 +21,7 @@ import lombok.Data;
 /**
  * 客户端详情
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 public class ClientDetails implements IClientDetails {

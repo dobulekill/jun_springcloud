@@ -31,7 +31,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 分布式锁自动化配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(RedissonClient.class)

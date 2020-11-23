@@ -15,7 +15,7 @@ import javax.annotation.Resource;
 /**
  * xxl-job config
  *
- * @author xuxueli 2017-04-28
+ * @author Wujun
  */
 @Configuration
 public class XxlJobAdminConfig implements InitializingBean{

@@ -39,7 +39,7 @@ import java.util.List;
  *
  * @see net.dreamlu.mica.annotation.UrlVersion
  * @see net.dreamlu.mica.annotation.ApiVersion
- * @author L.cm
+ * @author Wujun
  */
 public class MicaSpringMvcContract extends SpringMvcContract {
 

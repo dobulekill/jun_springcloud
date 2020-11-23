@@ -16,7 +16,7 @@ import java.util.Date;
 import java.util.Map;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Service
 public class ReleaseHistoryService {

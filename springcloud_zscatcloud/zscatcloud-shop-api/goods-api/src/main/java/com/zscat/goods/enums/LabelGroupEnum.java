@@ -3,7 +3,7 @@ package com.zscat.goods.enums;
 /**
  * 标签分组 枚举
  *
- * @author liuruichao
+ * @author Wujun
  * Created on 2018/11/5 17:54
  */
 public enum LabelGroupEnum {

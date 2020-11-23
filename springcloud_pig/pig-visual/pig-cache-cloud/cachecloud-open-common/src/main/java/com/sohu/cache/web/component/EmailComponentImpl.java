@@ -14,7 +14,7 @@ import java.util.Map;
 
 /**
  * 邮件服务
- * @author leifu
+ * @author Wujun
  * @Date 2015-6-2
  * @Time 上午10:56:35
  */

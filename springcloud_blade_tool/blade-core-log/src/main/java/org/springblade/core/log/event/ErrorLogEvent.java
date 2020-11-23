@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * 错误日志事件
  *
- * @author Chill
+ * @author Wujun
  */
 public class ErrorLogEvent extends ApplicationEvent {
 

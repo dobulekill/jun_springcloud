@@ -39,7 +39,7 @@ import com.alibaba.csp.sentinel.util.StringUtil;
 /**
  * Interceptor using by SentinelRestTemplate
  *
- * @author fangjian
+ * @author Wujun
  */
 public class SentinelProtectInterceptor implements ClientHttpRequestInterceptor {
 

@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
  * 描述: 测试类<br>
  * 时间: 2018/10/04<br>
  *
- * @author zc
+ * @author Wujun
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @Import(BusRabbitmqHelloApplication.class)

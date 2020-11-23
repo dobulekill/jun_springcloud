@@ -1,7 +1,7 @@
 package com.github.prontera.domain.type;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public enum TccStatus {
     TRY(0), CONFIRM(1);

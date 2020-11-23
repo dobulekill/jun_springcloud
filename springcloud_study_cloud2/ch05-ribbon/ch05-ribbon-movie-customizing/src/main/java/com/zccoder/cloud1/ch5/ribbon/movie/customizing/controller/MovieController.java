@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-04
  * @title Rest接口类
  * @describe Rest接口类

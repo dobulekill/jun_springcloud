@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * 应用下实例与客户端对应关系
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月3日
  * @Time 下午6:50:04
  */

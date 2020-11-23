@@ -22,7 +22,7 @@ import static io.netty.handler.codec.http.HttpVersion.HTTP_1_1;
 /**
  * 接收/处理/响应客户端websocket请求的核心业务处理类
  *通过添加hanlder，我们可以监听Channel的各种动作以及状态的改变，包括连接，绑定，接收消息等。
- * @author liuyazhuang
+ * @author Wujun
  */
 public class MyWebSocketHandler extends SimpleChannelInboundHandler<Object> {
 

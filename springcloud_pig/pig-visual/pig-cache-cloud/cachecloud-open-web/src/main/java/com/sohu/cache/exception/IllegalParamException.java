@@ -3,7 +3,7 @@ package com.sohu.cache.exception;
 /**
  * 参数异常
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-1-26
  * @Time 下午9:21:03
  */

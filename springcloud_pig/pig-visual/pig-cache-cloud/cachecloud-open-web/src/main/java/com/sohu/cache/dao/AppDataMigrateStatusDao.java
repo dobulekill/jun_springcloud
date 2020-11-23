@@ -10,7 +10,7 @@ import com.sohu.cache.entity.AppDataMigrateStatus;
 /**
  * 迁移状态Dao
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-9
  * @Time 下午5:25:53
  */

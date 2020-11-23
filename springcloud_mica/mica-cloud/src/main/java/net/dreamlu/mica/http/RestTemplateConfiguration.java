@@ -56,7 +56,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Http RestTemplateHeaderInterceptor 配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 @Configuration

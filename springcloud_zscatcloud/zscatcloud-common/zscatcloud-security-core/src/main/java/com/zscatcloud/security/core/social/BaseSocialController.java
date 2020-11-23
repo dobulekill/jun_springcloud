@@ -19,7 +19,7 @@ import com.zscatcloud.security.core.social.support.SocialUserInfo;
 /**
  * The class Social controller.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public abstract class BaseSocialController {
 

@@ -20,7 +20,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * KafkaAdminClient 集群管理工具
- * @author qxw
+ * @author Wujun
  * @data 2018年8月7日下午5:51:06
  * https://blog.csdn.net/u013256816/article/details/79996056
  * 

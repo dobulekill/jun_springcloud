@@ -16,7 +16,7 @@ import org.springframework.messaging.support.GenericMessage;
  * 时间: 2018/10/05<br>
  * //@EnableBinding(value = {Processor.class})
  *
- * @author zc
+ * @author Wujun
  */
 public class SinkSender3 {
 

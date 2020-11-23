@@ -5,7 +5,7 @@ import com.github.pig.admin.entity.SysUser;
 import java.io.Serializable;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/11/11
  * <p>
  * commit('SET_ROLES', data)

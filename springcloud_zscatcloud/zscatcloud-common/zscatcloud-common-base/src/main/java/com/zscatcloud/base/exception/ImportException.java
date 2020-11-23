@@ -14,7 +14,7 @@ package com.zscatcloud.base.exception;
 /**
  * The class Import exception.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class ImportException extends RuntimeException {
 

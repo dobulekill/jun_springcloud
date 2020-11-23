@@ -9,7 +9,7 @@ import com.system.comm.comparator.OrderbyComparator;
 
 /**
  * 分页查询条件的实体类
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-10 下午5:16:33
  * @version V1.0.0
  */

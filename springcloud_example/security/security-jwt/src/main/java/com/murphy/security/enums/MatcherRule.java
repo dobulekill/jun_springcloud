@@ -1,7 +1,7 @@
 package com.murphy.security.enums;
 
 /**
- * @author dongsufeng
+ * @author Wujun
  * @version 4.0
  * @date 2019/12/3 2:54 PM
  */

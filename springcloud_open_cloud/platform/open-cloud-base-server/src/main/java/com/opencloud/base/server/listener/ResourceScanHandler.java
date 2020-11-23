@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * mq消息接收者
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Configuration
 @Slf4j

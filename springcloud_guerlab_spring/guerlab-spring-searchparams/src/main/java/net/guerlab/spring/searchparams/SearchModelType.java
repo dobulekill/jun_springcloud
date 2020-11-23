@@ -3,7 +3,7 @@ package net.guerlab.spring.searchparams;
 /**
  * 搜索模式类型
  *
- * @author guer
+ * @author Wujun
  *
  */
 public enum SearchModelType {

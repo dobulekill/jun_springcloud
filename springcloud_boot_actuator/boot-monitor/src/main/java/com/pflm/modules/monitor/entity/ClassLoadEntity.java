@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 
 /**
  *  类加载信息
- * @author admin
+ * @author Wujun
  *
  */
 

@@ -33,7 +33,7 @@ import static org.junit.Assert.*;
 /**
  * Test cases for {@link InMemoryMetricsRepository}.
  *
- * @author Nick Tan
+ * @author Wujun
  */
 public class InMemoryMetricsRepositoryTest {
 

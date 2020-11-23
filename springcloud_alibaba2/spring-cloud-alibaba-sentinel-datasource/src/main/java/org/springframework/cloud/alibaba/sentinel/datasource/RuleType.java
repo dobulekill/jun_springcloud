@@ -17,7 +17,7 @@ import com.alibaba.csp.sentinel.slots.system.SystemRule;
  * Enum for {@link AbstractRule} class, using in
  * {@link AbstractDataSourceProperties#ruleType}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public enum RuleType {
 

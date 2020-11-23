@@ -19,7 +19,7 @@ import java.util.Random;
 /**
  * The class Random util.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class RandomUtil {

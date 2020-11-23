@@ -27,7 +27,7 @@ import java.time.LocalDateTime;
 /**
  * mica 服务 异常 事件
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @Setter

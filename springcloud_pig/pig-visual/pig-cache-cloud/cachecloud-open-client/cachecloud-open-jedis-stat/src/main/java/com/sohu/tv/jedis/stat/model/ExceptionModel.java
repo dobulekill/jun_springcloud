@@ -4,7 +4,7 @@ import com.sohu.tv.jedis.stat.enums.ClientExceptionType;
 
 /**
  * jedis异常(exceptionClass,hostPort作为唯一哈希)
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月13日
  * @Time 下午6:00:35
  */

@@ -10,7 +10,7 @@ import org.springframework.web.socket.config.annotation.WebSocketMessageBrokerCo
  * webscoket 配置
  * 通过EnableWebSocketMessageBroker 开启使用STOMP协议来传输基于代理(message broker)的消息,
  * 此时浏览器支持使用@MessageMapping 就像支持@RequestMapping一样。
- * @author qinxuewu
+ * @author Wujun
  * @create 18/12/1上午9:19
  * @since 1.0.0
  */

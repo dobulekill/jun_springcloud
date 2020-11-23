@@ -11,7 +11,7 @@ import java.sql.SQLException;
 import java.util.Objects;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public abstract class GenericTypeHandler<T extends Enum<T>> extends BaseTypeHandler<T> {
     private final Class<T> type;

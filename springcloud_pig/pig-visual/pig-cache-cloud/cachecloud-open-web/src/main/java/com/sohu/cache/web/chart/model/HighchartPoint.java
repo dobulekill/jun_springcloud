@@ -12,7 +12,7 @@ import com.sohu.cache.web.util.DateUtil;
 /**
  * highchart最简单的点
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年8月1日
  * @Time 下午12:59:29
  */

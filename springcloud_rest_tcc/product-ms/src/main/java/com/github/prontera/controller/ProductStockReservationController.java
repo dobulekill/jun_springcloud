@@ -24,7 +24,7 @@ import javax.validation.Valid;
 import java.time.OffsetDateTime;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = ProductStockReservationController.API_PREFIX, produces = {MediaType.APPLICATION_JSON_UTF8_VALUE}, consumes = {MediaType.APPLICATION_JSON_UTF8_VALUE})

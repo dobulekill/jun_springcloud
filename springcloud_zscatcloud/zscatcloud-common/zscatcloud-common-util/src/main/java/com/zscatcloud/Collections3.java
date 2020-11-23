@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Collections 3.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class Collections3 {

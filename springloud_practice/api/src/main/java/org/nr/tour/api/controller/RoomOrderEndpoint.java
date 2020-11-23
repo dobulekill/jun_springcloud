@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.*;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @RestController
 public class RoomOrderEndpoint {

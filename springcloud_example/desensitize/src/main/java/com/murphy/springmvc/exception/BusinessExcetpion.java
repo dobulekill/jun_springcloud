@@ -2,7 +2,7 @@ package com.murphy.springmvc.exception;
 
 /**
  *
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/18 16:52
  * @version 1.0
  */

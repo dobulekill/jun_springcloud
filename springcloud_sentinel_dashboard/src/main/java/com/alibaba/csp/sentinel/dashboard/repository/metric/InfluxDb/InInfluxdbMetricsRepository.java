@@ -37,7 +37,7 @@ import java.util.stream.Collectors;
  * Caches metrics data in a period of time in Influxdb.
  * 参考：https://github.com/influxdata/influxdb-java
  * 参考：https://blog.52itstyle.vip/archives/4460
- * @author zhipeng.zhang
+ * @author Wujun
  * https://blog.52itstyle.vip
  */
 @Component("inInfluxdbMetricsRepository")

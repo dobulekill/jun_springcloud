@@ -30,7 +30,7 @@ import com.system.dao.data.ColumnData;
 		sql = new QuerySql(Test.class, "id");
 		System.out.println(sql.getSql());
 	}
- * @author yuejing
+ * @author Wujun
  * @date 2013-11-20 下午11:51:53
  * @version V1.0.0
  */

@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author www.itmuch.com
+ * @author Wujun
  */
 @Configuration
 @AutoConfigureBefore({NacosDiscoveryClientAutoConfiguration.class, WiiAutoConfiguration.class})

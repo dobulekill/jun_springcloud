@@ -6,7 +6,7 @@ import org.apache.curator.retry.RetryNTimes;
 /**
  * 注册中心.
  *
- * @author zhangliang
+ * @author Wujun
  */
 public interface RegistryCenter {
 

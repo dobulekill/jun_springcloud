@@ -18,7 +18,7 @@ import com.task.schedule.core.base.SimpleJob;
 
 /**
  * 定时任务的工具类
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2015年3月30日 上午11:54:55 

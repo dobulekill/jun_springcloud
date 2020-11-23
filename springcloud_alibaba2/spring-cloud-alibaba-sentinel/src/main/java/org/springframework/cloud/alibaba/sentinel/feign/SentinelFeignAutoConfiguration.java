@@ -28,7 +28,7 @@ import com.alibaba.csp.sentinel.SphU;
 import feign.Feign;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass({ SphU.class, Feign.class })

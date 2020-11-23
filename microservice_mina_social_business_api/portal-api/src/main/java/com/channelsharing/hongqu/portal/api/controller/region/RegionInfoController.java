@@ -22,7 +22,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 国家地区信息Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 @Api(tags = "国家地区信息操作接口")

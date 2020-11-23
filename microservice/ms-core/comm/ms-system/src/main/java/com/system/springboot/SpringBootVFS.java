@@ -13,7 +13,7 @@ import org.springframework.core.io.support.ResourcePatternResolver;
 
 /**
  * Spring Boot集成MyBatis打包成jar时，找不到类的问题
- * @author yuejing
+ * @author Wujun
  */
 public class SpringBootVFS extends VFS {
 

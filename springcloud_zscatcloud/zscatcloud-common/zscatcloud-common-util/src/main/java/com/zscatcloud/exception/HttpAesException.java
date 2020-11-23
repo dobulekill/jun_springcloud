@@ -15,7 +15,7 @@ package com.zscatcloud.exception;
 /**
  * The class Http aes exception.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public class HttpAesException extends IllegalArgumentException {
 	private static final long serialVersionUID = -2489600753056921095L;

@@ -10,7 +10,7 @@ import org.springframework.security.core.SpringSecurityCoreVersion;
 import java.util.Collection;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 public class MobileAuthenticationToken extends AbstractAuthenticationToken {
 

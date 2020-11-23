@@ -24,7 +24,7 @@ import redis.clients.jedis.Jedis;
 /**
  * redis重要数据处理（请注意BaseTest是local环境）
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年3月4日
  * @Time 上午11:04:04
  */

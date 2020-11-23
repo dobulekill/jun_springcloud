@@ -22,7 +22,7 @@ import com.sohu.cache.web.util.LoginUtil;
 /**
  * 登录逻辑
  *
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月12日
  */
 @Controller

@@ -30,7 +30,7 @@ import java.io.UnsupportedEncodingException;
 /**
  * The class Mq message.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Slf4j
 @Data

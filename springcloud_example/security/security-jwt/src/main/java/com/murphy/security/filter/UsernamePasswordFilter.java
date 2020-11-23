@@ -26,7 +26,7 @@ import com.alibaba.fastjson.JSONObject;
 /**
  * 覆盖UsernamePasswordAuthenticationFilter 可自定义用户名密码字段，字段取值从body取
  * @see UsernamePasswordAuthenticationFilter
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/02 14:58
  * @version 1.0
  */

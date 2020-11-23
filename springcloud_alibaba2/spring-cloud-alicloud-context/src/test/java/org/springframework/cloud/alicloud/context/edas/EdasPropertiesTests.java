@@ -24,7 +24,7 @@ import org.springframework.boot.test.context.runner.ApplicationContextRunner;
 import org.springframework.cloud.alicloud.context.AliCloudContextAutoConfiguration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class EdasPropertiesTests {
 

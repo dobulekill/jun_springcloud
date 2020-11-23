@@ -6,7 +6,7 @@ import com.system.comm.model.Orderby;
 
 /**
  * 排序对象的排序器
- * @author 岳静
+ * @author Wujun
  * @date 2016年3月30日 下午7:49:27 
  * @version V1.0
  */

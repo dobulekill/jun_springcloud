@@ -11,7 +11,7 @@ import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioSocketChannel;
 
 /**
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 9/10/2018下午 5:33
  */

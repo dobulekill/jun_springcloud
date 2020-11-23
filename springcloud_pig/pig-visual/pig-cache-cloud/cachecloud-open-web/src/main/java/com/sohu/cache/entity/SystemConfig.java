@@ -3,7 +3,7 @@ package com.sohu.cache.entity;
 /**
  * 系统配置
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月23日
  * @Time 上午11:18:11
  */

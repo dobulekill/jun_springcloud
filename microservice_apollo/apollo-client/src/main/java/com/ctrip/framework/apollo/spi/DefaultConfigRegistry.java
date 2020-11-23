@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 import com.google.common.collect.Maps;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultConfigRegistry implements ConfigRegistry {
   private static final Logger s_logger = LoggerFactory.getLogger(DefaultConfigRegistry.class);

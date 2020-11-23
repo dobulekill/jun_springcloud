@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * json node 测试
  *
- * @author L.cm
+ * @author Wujun
  */
 public class JsonNodeTest {
 

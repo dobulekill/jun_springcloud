@@ -26,7 +26,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 店铺的商品分类Controller
  * 
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-27
  */
 @Api(tags = "店铺的商品分类操作接口")

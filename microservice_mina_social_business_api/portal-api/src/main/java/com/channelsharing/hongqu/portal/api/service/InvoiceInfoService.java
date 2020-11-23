@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.portal.api.entity.InvoiceInfo;
 
 /**
  * 发票信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 public interface InvoiceInfoService extends CrudService<InvoiceInfo>{

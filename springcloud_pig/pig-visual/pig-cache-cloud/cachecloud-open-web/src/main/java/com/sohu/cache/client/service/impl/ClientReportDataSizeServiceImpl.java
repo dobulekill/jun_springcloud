@@ -16,7 +16,7 @@ import com.sohu.tv.jedis.stat.model.ClientReportBean;
 /**
  * 记录客户端统计map的尺寸
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年7月13日
  * @Time 下午3:00:40
  */

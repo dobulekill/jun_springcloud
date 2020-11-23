@@ -3,7 +3,7 @@ package com.ctrip.framework.apollo.common.dto;
 import java.util.Date;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class InstanceConfigDTO {
   private ReleaseDTO release;

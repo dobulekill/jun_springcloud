@@ -8,7 +8,7 @@ import org.springframework.messaging.SubscribableChannel;
 /**
  * 服务异常 Streams
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface ServiceErrorStreams {
 	String INPUT = "service-error-in";

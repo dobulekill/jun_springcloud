@@ -25,7 +25,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import javax.annotation.PostConstruct;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Component
 public class DatabaseMessageSender implements MessageSender {

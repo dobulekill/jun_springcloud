@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 实例状态
- * @author leifu
+ * @author Wujun
  * @Date 2014年11月26日
  * @Time 下午5:05:35
  */

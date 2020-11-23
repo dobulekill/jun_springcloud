@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * jackson 默认值为 null 时的处理
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaBeanSerializerModifier extends BeanSerializerModifier {
 

@@ -8,7 +8,7 @@ import com.module.admin.sys.pojo.SysUser;
 
 /**
  * user_info的Dao
- * @author duanbin
+ * @author Wujun
  * @date 2016-03-22 11:17:54
  * @version V1.0.0
  */

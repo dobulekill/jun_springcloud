@@ -9,7 +9,7 @@ import java.lang.reflect.Type;
 import java.util.Set;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class GrayReleaseRuleItemTransformer {
   private static final Gson gson = new Gson();

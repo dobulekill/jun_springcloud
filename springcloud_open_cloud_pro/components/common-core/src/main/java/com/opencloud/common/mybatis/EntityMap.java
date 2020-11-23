@@ -7,7 +7,7 @@ import java.util.HashMap;
 
 /**
  * 自定义Map
- * @author LYD
+ * @author Wujun
  */
 public class EntityMap extends HashMap<String, Object> {
 

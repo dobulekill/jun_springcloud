@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Import;
 /**
  * token存储配置
  *
- * @author zlt
+ * @author Wujun
  */
 @Configuration
 public class TokenStoreConfig {

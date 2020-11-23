@@ -17,7 +17,7 @@ import com.google.common.base.Function;
 import com.google.common.collect.Maps;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class SimpleConfig extends AbstractConfig implements RepositoryChangeListener {
   private static final Logger logger = LoggerFactory.getLogger(SimpleConfig.class);

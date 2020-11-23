@@ -18,7 +18,7 @@ import com.task.schedule.manager.service.ServInfoService;
 
 /**
  * 初始化系统数据的Servlet
- * @author yuejing
+ * @author Wujun
  * @date 2016-5-16 下午9:54:12
  * @version V1.0.0
  */

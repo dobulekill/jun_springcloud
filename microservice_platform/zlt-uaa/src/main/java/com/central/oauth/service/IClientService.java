@@ -8,7 +8,7 @@ import com.central.oauth.model.Client;
 import java.util.Map;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 public interface IClientService extends ISuperService<Client> {
     Result saveClient(Client clientDto);

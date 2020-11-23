@@ -6,7 +6,7 @@ import com.alibaba.nacos.client.naming.core.Balancer;
 import java.util.List;
 
 /**
- * @author itmuch.com
+ * @author Wujun
  */
 public class ExtendBalancer extends Balancer {
     /**

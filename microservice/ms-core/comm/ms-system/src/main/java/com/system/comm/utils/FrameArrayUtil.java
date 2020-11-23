@@ -15,7 +15,7 @@ import java.util.List;
 			System.out.println(list.size());
 		}
 	}
- * @author 岳静
+ * @author Wujun
  * @date 2016年5月10日 下午3:19:48 
  * @version V1.0
  */

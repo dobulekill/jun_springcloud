@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
  * 描述: 用户服务<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 @RequestMapping("/refactor")
 public interface HelloService {

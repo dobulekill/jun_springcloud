@@ -9,7 +9,7 @@ import com.github.pig.common.util.Query;
 import com.github.pig.common.vo.UserVo;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/10/31
  */
 public interface UserService extends IService<SysUser> {

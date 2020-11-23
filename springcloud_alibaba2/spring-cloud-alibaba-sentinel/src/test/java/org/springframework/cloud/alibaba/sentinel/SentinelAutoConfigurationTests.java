@@ -61,8 +61,8 @@ import static org.mockito.Mockito.mock;
 import static org.springframework.boot.test.context.SpringBootTest.WebEnvironment.RANDOM_PORT;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
- * @author jiashuai.xie
+ * @author Wujun
+ * @author Wujun
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = {

@@ -27,7 +27,7 @@ import org.springblade.core.tool.utils.StringUtil;
 /**
  * 租户信息处理器
  *
- * @author Chill
+ * @author Wujun
  */
 @Slf4j
 @AllArgsConstructor

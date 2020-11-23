@@ -10,7 +10,7 @@ import com.channelsharing.common.entity.BaseEntity;
 
 /**
  * 规格维度接口Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @Data

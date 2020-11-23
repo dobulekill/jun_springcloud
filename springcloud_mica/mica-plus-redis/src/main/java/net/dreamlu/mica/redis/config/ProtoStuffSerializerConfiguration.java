@@ -27,7 +27,7 @@ import org.springframework.data.redis.serializer.RedisSerializer;
 /**
  * ProtoStuff 序列化配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @AutoConfigureBefore(RedisTemplateConfiguration.class)

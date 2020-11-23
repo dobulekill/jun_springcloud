@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  * 商品的产品信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

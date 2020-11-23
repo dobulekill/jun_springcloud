@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  * Actuator {@link Endpoint} to expose OSS Meta Data
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @Endpoint(id = "oss")
 public class OssEndpoint {

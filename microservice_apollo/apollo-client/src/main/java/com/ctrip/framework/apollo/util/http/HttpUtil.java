@@ -19,7 +19,7 @@ import com.google.gson.Gson;
 import java.nio.charset.StandardCharsets;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class HttpUtil {
   private ConfigUtil m_configUtil;

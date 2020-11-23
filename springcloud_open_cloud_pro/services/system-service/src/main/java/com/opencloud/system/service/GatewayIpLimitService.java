@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 网关IP访问控制
  *
- * @author liuyadu
+ * @author Wujun
  */
 public interface GatewayIpLimitService extends IBaseService<GatewayIpLimit> {
     /**

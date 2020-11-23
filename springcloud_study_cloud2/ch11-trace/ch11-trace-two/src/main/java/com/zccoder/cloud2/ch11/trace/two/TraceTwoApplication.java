@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletRequest;
  * 描述: 启动类<br>
  * 时间: 2018/10/05<br>
  *
- * @author zc
+ * @author Wujun
  */
 @RestController
 @EnableDiscoveryClient

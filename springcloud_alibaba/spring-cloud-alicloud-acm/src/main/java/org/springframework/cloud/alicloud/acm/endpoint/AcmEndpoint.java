@@ -33,7 +33,7 @@ import java.util.Map;
 /**
  * Created on 01/10/2017.
  *
- * @author juven.xuxb
+ * @author Wujun
  */
 @Endpoint(id = "acm")
 public class AcmEndpoint {

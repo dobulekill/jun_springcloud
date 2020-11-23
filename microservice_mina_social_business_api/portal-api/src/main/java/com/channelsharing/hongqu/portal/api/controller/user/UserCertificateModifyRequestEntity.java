@@ -13,7 +13,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * 用户认证信息Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-12
  */
 @Data

@@ -28,7 +28,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 用户管理服务的默认实现
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 @Service

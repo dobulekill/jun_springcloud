@@ -3,7 +3,7 @@ package net.guerlab.spring.upload.entity;
 /**
  * 文件信息
  *
- * @author guer
+ * @author Wujun
  */
 public interface IFileInfo {
 

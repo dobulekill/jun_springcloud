@@ -37,7 +37,7 @@ import java.util.Map;
 /**
  * org.springframework.cloud.openfeign.Targeter {@link InvocationHandler}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 class TargeterInvocationHandler implements InvocationHandler {
 

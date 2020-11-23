@@ -6,7 +6,7 @@ import com.github.pagehelper.PageInfo;
 
 /**
  * 服务基类
- * @author leo.aqing
+ * @author Wujun
  */
 public interface BaseService<T extends BaseEntity> {
 	

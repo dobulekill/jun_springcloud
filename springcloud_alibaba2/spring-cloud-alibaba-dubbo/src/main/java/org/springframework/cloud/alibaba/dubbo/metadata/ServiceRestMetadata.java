@@ -21,7 +21,7 @@ import java.util.Set;
 /**
  * Service Rest Metadata
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  * @see RestMethodMetadata
  */
 public class ServiceRestMetadata {

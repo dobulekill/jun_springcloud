@@ -5,7 +5,7 @@ import com.opencloud.msg.client.model.entity.EmailTemplate;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 @Repository
 public interface EmailTemplateMapper extends SuperMapper<EmailTemplate> {

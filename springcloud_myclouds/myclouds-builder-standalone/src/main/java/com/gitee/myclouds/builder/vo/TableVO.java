@@ -5,7 +5,7 @@ import com.gitee.myclouds.common.wrapper.VO;
 /**
  * <b>数据表值对象</b>
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2013-06-06
  */
 public class TableVO extends VO{

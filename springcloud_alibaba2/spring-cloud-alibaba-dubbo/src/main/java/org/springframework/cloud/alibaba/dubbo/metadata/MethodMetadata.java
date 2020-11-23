@@ -30,7 +30,7 @@ import java.util.Objects;
 /**
  * {@link Method} Metadata
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class MethodMetadata {
 

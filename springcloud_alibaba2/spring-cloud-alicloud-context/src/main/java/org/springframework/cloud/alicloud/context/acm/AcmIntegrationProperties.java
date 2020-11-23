@@ -22,7 +22,7 @@ import java.util.List;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AcmIntegrationProperties {
 

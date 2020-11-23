@@ -28,7 +28,7 @@ import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 /**
  * Convert sentinel rules for xml array Using strict mode to parse xml
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @see FlowRule
  * @see DegradeRule
  * @see SystemRule

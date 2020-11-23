@@ -20,7 +20,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 /**
  * Redis缓存配置
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 @Configuration

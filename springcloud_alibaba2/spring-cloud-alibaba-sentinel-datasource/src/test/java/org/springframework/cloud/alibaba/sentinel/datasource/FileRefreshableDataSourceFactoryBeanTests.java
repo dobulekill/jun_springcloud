@@ -37,7 +37,7 @@ import com.alibaba.csp.sentinel.datasource.FileRefreshableDataSource;
 import com.alibaba.csp.sentinel.slots.block.flow.FlowRule;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class FileRefreshableDataSourceFactoryBeanTests {
 

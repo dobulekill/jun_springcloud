@@ -6,7 +6,7 @@ import com.sohu.cache.web.enums.LoginEnum;
 /**
  * 登录结果
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月16日
  */
 public class LoginResult {

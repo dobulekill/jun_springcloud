@@ -19,7 +19,7 @@ import java.lang.annotation.*;
 /**
  * 操作日志.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Target({ElementType.PARAMETER, ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)

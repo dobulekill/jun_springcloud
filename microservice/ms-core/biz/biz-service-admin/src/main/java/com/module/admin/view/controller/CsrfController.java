@@ -17,7 +17,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * csrf
- * @author yuejing
+ * @author Wujun
  * @date 2016-05-22 11:17:54
  * @version V1.0.0
  */

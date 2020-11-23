@@ -9,7 +9,7 @@ import java.net.URL;
 import java.net.URLDecoder;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ClassLoaderUtil {
   private static final Logger logger = LoggerFactory.getLogger(ClassLoaderUtil.class);

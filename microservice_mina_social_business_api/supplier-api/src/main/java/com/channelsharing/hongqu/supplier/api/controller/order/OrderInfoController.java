@@ -23,7 +23,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 订单信息Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-01
  */
 @Api(tags = "订单信息操作接口")

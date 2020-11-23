@@ -21,7 +21,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 /**
  * {@link DubboServiceRegistrationAutoConfiguration} Test
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 @SpringBootTest
 public class DubboServiceRegistrationAutoConfigurationTest {

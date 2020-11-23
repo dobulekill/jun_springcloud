@@ -6,7 +6,7 @@ import org.springframework.web.method.annotation.MethodArgumentTypeMismatchExcep
 /**
  * 方法参数不匹配
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class MethodArgumentTypeMismatchExceptionInfo extends AbstractI18nInfo {

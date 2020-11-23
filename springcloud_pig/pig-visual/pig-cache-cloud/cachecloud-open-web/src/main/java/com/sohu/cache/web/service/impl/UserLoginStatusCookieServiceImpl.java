@@ -11,7 +11,7 @@ import com.sohu.cache.web.service.UserLoginStatusService;
 
 /**
  * cookie保护登录状态
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月15日
  * @Time 下午1:31:17
  */

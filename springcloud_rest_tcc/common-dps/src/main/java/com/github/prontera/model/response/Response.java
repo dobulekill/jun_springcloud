@@ -3,7 +3,7 @@ package com.github.prontera.model.response;
 import java.io.Serializable;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public interface Response extends Serializable {
 }

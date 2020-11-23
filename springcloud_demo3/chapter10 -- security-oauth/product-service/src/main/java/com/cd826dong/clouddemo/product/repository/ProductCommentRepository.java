@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * 商品评论管理repository
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 public interface ProductCommentRepository extends JpaRepository<ProductComment, Long> {

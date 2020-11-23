@@ -17,7 +17,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * The class Oauth 2 client properties.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 @ConfigurationProperties(prefix = "zscatcloud.oauth2.client")

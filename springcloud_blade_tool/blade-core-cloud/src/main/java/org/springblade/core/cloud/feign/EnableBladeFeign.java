@@ -25,7 +25,7 @@ import java.lang.annotation.*;
 /**
  * 开启Feign注解
  *
- * @author Chill
+ * @author Wujun
  */
 @Documented
 @Target(ElementType.TYPE)

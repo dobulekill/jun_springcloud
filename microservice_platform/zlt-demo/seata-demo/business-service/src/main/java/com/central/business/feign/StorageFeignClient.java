@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * 库存
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/9/14
  */
 @FeignClient(name = "storage-service")

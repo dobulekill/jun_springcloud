@@ -36,7 +36,7 @@ import java.util.Map;
 /**
  * ok http 封装，相应结构体
  *
- * @author L.cm
+ * @author Wujun
  */
 public class HttpResponse implements ResponseSpec, Closeable {
 	private final Request request;

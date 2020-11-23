@@ -11,7 +11,7 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 实例慢查询dao
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年2月22日
  * @Time 下午1:48:43
  */

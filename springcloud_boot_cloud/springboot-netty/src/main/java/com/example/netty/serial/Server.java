@@ -9,7 +9,7 @@ import io.netty.handler.logging.LoggingHandler;
 
 /**
  * netty入门之编解码
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 11/10/2018下午 6:03
  */

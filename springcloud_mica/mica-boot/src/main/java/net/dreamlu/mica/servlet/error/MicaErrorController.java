@@ -32,7 +32,7 @@ import java.util.Map;
 /**
  * 更改html请求异常为ajax
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaErrorController extends BasicErrorController {
 	private final ObjectMapper objectMapper;

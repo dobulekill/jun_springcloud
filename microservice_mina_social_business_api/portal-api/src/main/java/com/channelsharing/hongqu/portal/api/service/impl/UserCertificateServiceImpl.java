@@ -23,7 +23,7 @@ import com.channelsharing.hongqu.portal.api.service.UserCertificateService;
 /**
  * 用户认证信息Service
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-12
  */
 @Service

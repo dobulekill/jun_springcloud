@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * 推送通知
  *
- * @author woodev
+ * @author Wujun
  */
 public interface IWebhookServiceClient {
 

@@ -34,7 +34,7 @@ import java.util.List;
 /**
  * 消息转换器
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @AllArgsConstructor

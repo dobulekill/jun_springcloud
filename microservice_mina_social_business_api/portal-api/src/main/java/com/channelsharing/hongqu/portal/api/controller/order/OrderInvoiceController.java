@@ -29,7 +29,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 订单发票Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Api(tags = "订单发票操作接口")

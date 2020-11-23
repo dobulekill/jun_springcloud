@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * 数字工具类
- * @author jing.yue
+ * @author Wujun
  * @version 1.0
  * @since 2012-10-26
  */

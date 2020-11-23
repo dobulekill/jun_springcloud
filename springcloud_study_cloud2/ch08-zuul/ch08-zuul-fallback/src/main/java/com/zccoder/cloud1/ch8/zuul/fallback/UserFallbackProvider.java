@@ -14,7 +14,7 @@ import org.springframework.http.client.ClientHttpResponse;
 /**
  * @title 回退类
  * @describe 实现ZuulFallbackProvider接口
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-11
  */
 public class UserFallbackProvider implements ZuulFallbackProvider{

@@ -9,7 +9,7 @@ import com.ctrip.framework.apollo.Config;
 /**
  * Property source wrapper for Config
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigPropertySource extends EnumerablePropertySource<Config> {
   private static final String[] EMPTY_ARRAY = new String[0];

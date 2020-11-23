@@ -15,7 +15,7 @@ import io.netty.handler.stream.ChunkedWriteHandler;
 
 /**
  * NettyServer Netty服务器配置
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  * @date 2019-06-12
  */
 public class NettyServer {

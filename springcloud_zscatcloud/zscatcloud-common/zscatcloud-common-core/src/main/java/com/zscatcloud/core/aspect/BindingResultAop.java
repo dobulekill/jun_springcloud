@@ -27,7 +27,7 @@ import java.lang.reflect.Method;
 /**
  * The class Binding result aop.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Component
 @Aspect

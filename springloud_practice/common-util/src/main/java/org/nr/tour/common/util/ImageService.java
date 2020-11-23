@@ -4,7 +4,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface ImageService {
     /**

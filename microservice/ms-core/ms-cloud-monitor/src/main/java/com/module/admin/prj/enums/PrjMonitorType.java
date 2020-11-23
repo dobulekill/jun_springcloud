@@ -10,7 +10,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 监控类型[10服务、20数据库、30缓存、40其它]
- * @author yuejing
+ * @author Wujun
  * @date 2016年5月16日 下午5:52:03
  * @version V1.0.0
  */

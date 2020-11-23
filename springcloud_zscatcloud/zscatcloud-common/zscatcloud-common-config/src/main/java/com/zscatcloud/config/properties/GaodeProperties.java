@@ -17,7 +17,7 @@ import lombok.Data;
 /**
  * The class Gaode properties.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 public class GaodeProperties {

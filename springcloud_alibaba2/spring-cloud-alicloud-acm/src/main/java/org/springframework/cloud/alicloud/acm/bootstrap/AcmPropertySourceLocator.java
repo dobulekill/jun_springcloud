@@ -24,8 +24,8 @@ import org.springframework.core.env.Environment;
 import org.springframework.core.env.PropertySource;
 
 /**
- * @author juven.xuxb
- * @author xiaolongzuo
+ * @author Wujun
+ * @author Wujun
  */
 public class AcmPropertySourceLocator implements PropertySourceLocator {
 

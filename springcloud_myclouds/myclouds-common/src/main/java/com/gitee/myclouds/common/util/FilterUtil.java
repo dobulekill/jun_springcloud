@@ -5,7 +5,7 @@ import cn.hutool.core.util.StrUtil;
 /**
  * 过滤器工具类
  * 
- * @author xiongchun
+ * @author Wujun
  */
 public class FilterUtil {
 

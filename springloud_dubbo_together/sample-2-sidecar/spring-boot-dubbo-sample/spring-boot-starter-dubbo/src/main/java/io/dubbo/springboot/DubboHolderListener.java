@@ -6,7 +6,7 @@ import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextClosedEvent;
 
 /**
- * @author xiaofei.wxf(teaey)
+ * @author Wujun
  * @since 0.0.0
  */
 public class DubboHolderListener implements ApplicationListener {

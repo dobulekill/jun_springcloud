@@ -21,7 +21,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 /**
  * SpringCloud示例工程 -- 用户服务
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @EnableDiscoveryClient

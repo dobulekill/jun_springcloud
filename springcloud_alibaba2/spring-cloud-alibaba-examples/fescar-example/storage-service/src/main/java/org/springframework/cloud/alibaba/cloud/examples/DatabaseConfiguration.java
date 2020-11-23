@@ -28,7 +28,7 @@ import org.springframework.core.env.Environment;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @Configuration
 public class DatabaseConfiguration {

@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.supplier.api.entity.OrderInvoice;
 
 /**
  * 订单发票Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 public interface OrderInvoiceService extends CrudService<OrderInvoice>{

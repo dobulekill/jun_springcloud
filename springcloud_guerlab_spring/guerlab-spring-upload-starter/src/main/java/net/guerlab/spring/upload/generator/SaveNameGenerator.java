@@ -5,7 +5,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 保存名称生成器
  *
- * @author guer
+ * @author Wujun
  */
 @FunctionalInterface
 public interface SaveNameGenerator {

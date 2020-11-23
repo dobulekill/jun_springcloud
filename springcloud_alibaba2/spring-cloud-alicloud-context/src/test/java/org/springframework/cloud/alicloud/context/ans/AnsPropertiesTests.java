@@ -37,7 +37,7 @@ import org.springframework.cloud.alicloud.context.edas.EdasContextAutoConfigurat
 import com.alibaba.cloud.context.AliCloudServerMode;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @RunWith(PowerMockRunner.class)
 @PrepareForTest({ NetworkInterface.class, AnsProperties.class })

@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Configuration
 public class ConfigServiceAutoConfiguration {

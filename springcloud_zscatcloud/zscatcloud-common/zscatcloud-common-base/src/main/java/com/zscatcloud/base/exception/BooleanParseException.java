@@ -13,7 +13,7 @@ package com.zscatcloud.base.exception;
 /**
  * The class Boolean parse exception.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class BooleanParseException extends RuntimeException {
 

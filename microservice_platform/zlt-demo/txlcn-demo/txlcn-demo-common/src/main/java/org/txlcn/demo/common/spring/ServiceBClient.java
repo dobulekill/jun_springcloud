@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * Description:
  * Date: 2018/12/25
  *
- * @author ujued
+ * @author Wujun
  */
 @FeignClient(value = "txlcn-demo-spring-service-b")
 public interface ServiceBClient {

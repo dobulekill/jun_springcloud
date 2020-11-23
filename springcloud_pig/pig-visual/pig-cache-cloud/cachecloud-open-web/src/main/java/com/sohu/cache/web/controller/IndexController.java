@@ -10,7 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * 首页
- * @author leifu
+ * @author Wujun
  * @Date 2014年10月28日
  * @Time 上午10:49:32
  */

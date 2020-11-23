@@ -11,7 +11,7 @@ import org.springframework.data.domain.Page;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface LineOrderService extends BaseOrderService<LineOrder> {
     void updateVisitors(String orderId, List<LineOrderVisitor> visitors);

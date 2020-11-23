@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 自定义oauth2异常提示
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 public class BaseOauth2WebResponseExceptionTranslator implements WebResponseExceptionTranslator {

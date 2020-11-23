@@ -1,7 +1,7 @@
 package com.github.pig.mc.utils.constant;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2018/1/16
  * 短信通道模板常量
  */

@@ -13,7 +13,7 @@ import com.sohu.cache.redis.enums.RedisInfoEnum;
 
 /**
  * 分钟全量复制次数
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月16日
  * @Time 下午2:34:10
  */

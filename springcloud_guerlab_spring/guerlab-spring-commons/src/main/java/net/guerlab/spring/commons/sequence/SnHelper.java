@@ -8,7 +8,7 @@ import net.guerlab.commons.random.RandomUtil;
 /**
  * 序列号助手
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class SnHelper {

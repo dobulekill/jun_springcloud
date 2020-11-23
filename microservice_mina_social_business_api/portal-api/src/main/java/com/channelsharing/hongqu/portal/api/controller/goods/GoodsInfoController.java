@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * 商品信息Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-11
  */
 @Api(tags = "商品信息操作接口")

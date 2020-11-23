@@ -3,7 +3,7 @@ package com.opencloud.common.exception;
 /**
  * 签名异常
  *
- * @author admin
+ * @author Wujun
  */
 public class BaseSignatureException extends BaseException {
     private static final long serialVersionUID = 4908906410210213271L;

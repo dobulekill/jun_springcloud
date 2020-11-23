@@ -12,7 +12,7 @@ import java.util.Arrays;
 /**
  * Resettable HTTP servlet request stream.
  *
- * @author Petr Dvorak
+ * @author Wujun
  */
 public class ResettableStreamHttpServletRequest extends HttpServletRequestWrapper {
 

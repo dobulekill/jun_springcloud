@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-06
  * @title Rest接口类
  * @describe Rest接口类

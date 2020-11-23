@@ -24,7 +24,7 @@ import java.util.*;
 
 /**
  * 基于app的统计信息的接口：包括app详情、app配置以及基于app的统计
- * @author leifu
+ * @author Wujun
  * @Date 2015年3月2日
  * @Time 下午1:50:09
  */

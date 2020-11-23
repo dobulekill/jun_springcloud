@@ -21,7 +21,7 @@ import java.io.IOException;
 /**
  * 将字符串转为Long
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Slf4j
 public class LongJsonDeserializer extends JsonDeserializer<Long> {

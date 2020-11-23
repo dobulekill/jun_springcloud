@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * 微服务远程调用任务
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 public class HttpJob implements Job {

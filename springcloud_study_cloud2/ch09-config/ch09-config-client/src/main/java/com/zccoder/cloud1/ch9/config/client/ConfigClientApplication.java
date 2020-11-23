@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @title 启动类
  * @describe 编写Config Client
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-14
  */
 @SpringBootApplication

@@ -28,7 +28,7 @@ import java.util.Collection;
 /**
  * 自定义的 Service
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface MicaService<T> extends IService<T> {
 

@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
  * 注意：@EnableEurekaServer注解就可以让应用变为Eureka服务器
  * 这是因为spring boot封装了Eureka Server，让你可以嵌入到应用中直接使用。
  * 至于真正的EurekaServer是Netflix公司的开源项目，也是可以单独下载使用的。
- * @author yuejing
+ * @author Wujun
  * @date 2017年2月16日 下午6:38:44
  */
 @EnableEurekaServer

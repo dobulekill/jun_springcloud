@@ -36,7 +36,7 @@ import org.springframework.core.env.Environment;
 /**
  * 基于 Environment 的 log4j 日志过滤器.
  *
- * @author L.cm
+ * @author Wujun
  */
 @Plugin(name = "EnvironmentFilter", category = Node.CATEGORY, elementType = Filter.ELEMENT_TYPE, printObject = true)
 @PerformanceSensitive("allocation")

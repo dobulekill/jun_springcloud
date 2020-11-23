@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  *
- * @author liuhangjun
+ * @author Wujun
  * @date 2017年2月4日
  * @param <D>
  * @param <T>

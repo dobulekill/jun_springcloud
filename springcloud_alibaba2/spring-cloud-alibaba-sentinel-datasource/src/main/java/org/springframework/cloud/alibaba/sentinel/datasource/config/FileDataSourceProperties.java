@@ -12,7 +12,7 @@ import org.springframework.util.StringUtils;
  * File Properties class Using by {@link DataSourcePropertiesConfiguration} and
  * {@link FileRefreshableDataSourceFactoryBean}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class FileDataSourceProperties extends AbstractDataSourceProperties {
 

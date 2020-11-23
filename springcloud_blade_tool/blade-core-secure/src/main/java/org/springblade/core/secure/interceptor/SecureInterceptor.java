@@ -34,7 +34,7 @@ import java.util.Objects;
 /**
  * jwt拦截器校验
  *
- * @author Chill
+ * @author Wujun
  */
 @Slf4j
 @AllArgsConstructor

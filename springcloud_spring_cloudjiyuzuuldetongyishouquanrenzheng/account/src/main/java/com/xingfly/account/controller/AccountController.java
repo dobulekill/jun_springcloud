@@ -9,7 +9,7 @@ import java.security.Principal;
 /**
  * Created by SuperS on 2017/9/25.
  *
- * @author SuperS
+ * @author Wujun
  */
 @RestController
 public class AccountController {

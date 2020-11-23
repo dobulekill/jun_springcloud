@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
 		System.out.println(parseUrl(urlStr));
 		System.out.println("包含http链接：" + existUrl("爱，http://sdfdf"));
 		
- * @author yuejing
+ * @author Wujun
  * @date 2016年4月30日 下午7:15:59
  * @version V1.0.0
  */

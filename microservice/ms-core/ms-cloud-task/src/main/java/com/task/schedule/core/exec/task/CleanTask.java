@@ -17,7 +17,7 @@ import com.task.schedule.manager.service.TaskJobLogService;
 
 /**
  * 清空任务日志的定时任务类
- * @author yuejing
+ * @author Wujun
  * @date 2015年3月29日 下午10:05:34
  * @version V1.0.0
  */

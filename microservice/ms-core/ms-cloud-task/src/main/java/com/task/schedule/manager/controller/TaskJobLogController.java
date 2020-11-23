@@ -18,7 +18,7 @@ import com.task.schedule.manager.service.TaskJobService;
 
 /**
  * task_job_log的Controller
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-31 14:26:09
  * @version V1.0.0
  */

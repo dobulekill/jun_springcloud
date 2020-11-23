@@ -2,7 +2,7 @@ package com.sohu.cache.web.util;
 
 /**
  * 分页对象
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月10日
  * @Time 下午6:38:18
  */

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 
 /**
  * jackson转换工具
- * @author leifu
+ * @author Wujun
  * @Date 2016年3月23日
  * @Time 上午10:47:57
  */

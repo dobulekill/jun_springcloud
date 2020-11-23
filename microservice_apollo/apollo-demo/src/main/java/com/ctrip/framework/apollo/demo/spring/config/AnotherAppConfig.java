@@ -5,7 +5,7 @@ import com.ctrip.framework.apollo.spring.annotation.EnableApolloConfig;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Configuration
 @EnableApolloConfig(value = "FX.apollo", order = 11)

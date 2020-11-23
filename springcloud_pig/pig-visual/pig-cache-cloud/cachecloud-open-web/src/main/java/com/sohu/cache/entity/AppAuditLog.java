@@ -12,7 +12,7 @@ import com.sohu.cache.constant.AppAuditLogTypeEnum;
 /**
  * 资源的审批发布日志
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月5日
  */
 public class AppAuditLog implements Serializable {

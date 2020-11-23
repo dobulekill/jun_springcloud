@@ -5,7 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 /**
  * 第三方登录接口
  *
- * @author liuyadu
+ * @author Wujun
  */
 public interface SocialService {
     /**

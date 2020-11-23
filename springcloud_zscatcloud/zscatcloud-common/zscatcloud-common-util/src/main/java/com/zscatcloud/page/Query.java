@@ -18,7 +18,7 @@ import java.io.Serializable;
 /**
  * The class Query.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 public class Query implements Serializable {

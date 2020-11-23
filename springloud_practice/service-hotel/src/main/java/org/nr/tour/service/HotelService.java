@@ -5,7 +5,7 @@ import org.nr.tour.domain.Hotel;
 import org.springframework.data.domain.Page;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface HotelService extends BaseService<Hotel> {
     Page<Hotel> findPageByNameLike(String keyword, Integer page, Integer size);

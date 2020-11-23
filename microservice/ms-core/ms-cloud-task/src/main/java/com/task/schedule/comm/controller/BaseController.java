@@ -13,7 +13,7 @@ import com.task.schedule.manager.pojo.SysUser;
 
 /**
  * Base Controller
- * @author jing.yue
+ * @author Wujun
  * @version 2012/08/29 1.0.0
  */
 public class BaseController {

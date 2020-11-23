@@ -28,7 +28,7 @@ import org.springframework.web.method.annotation.MethodArgumentTypeMismatchExcep
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @ControllerAdvice
 public class FaultBarrier {

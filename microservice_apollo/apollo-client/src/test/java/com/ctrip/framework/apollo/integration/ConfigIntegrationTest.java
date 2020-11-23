@@ -45,7 +45,7 @@ import com.google.common.collect.Maps;
 import com.google.common.util.concurrent.SettableFuture;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigIntegrationTest extends BaseIntegrationTest {
   private String someReleaseKey;

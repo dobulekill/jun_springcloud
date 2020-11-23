@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.core.schedule;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ExponentialSchedulePolicy implements SchedulePolicy {
   private final long delayTimeLowerBound;

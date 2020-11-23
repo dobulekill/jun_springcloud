@@ -17,7 +17,7 @@
 package org.springframework.cloud.alibaba.sentinel;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 public interface SentinelConstants {
 

@@ -3,7 +3,7 @@ package com.github.prontera.persistence;
 /**
  * MyBatis通用Mapper, 通常搭配MBG一起使用
  *
- * @author Zhao Junjian
+ * @author Wujun
  */
 @SuppressWarnings({"InterfaceNeverImplemented", "MybatisMapperMethodInspection"})
 public interface CrudMapper<T> {

@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.UUID;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Transactional
 public abstract class BaseServiceImpl<T> implements BaseService<T> {

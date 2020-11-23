@@ -22,7 +22,7 @@ import com.gitee.myclouds.common.wrapper.Dtos;
 /**
  * 登录页
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Controller

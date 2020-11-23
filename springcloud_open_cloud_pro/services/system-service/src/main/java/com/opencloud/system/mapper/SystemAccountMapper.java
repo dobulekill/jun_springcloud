@@ -6,7 +6,7 @@ import com.opencloud.common.mybatis.base.mapper.SuperMapper;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 @Repository
 public interface SystemAccountMapper extends SuperMapper<SystemAccount> {

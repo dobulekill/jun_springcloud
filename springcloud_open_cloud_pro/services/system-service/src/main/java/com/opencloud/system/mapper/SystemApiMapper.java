@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 @Repository
 public interface SystemApiMapper extends SuperMapper<SystemApi> {

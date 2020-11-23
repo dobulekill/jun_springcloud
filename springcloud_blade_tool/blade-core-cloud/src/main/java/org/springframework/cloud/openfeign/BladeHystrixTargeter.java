@@ -28,9 +28,9 @@ import org.springframework.lang.Nullable;
 /**
  * 添加 blade 默认的 fallbackFactory L.cm 2019.01.19
  *
- * @author L.cm
- * @author Spencer Gibb
- * @author Erik Kringen
+ * @author Wujun
+ * @author Wujun
+ * @author Wujun
  */
 @SuppressWarnings("unchecked")
 public class BladeHystrixTargeter implements Targeter {

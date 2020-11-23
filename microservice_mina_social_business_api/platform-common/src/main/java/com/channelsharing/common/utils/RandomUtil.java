@@ -7,7 +7,7 @@ import java.security.SecureRandom;
 import java.util.Random;
 
 /**
- * @author liuhangjun
+ * @author Wujun
  * @date 2017年2月16日
  */
 public class RandomUtil {

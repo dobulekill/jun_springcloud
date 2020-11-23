@@ -5,7 +5,7 @@ import com.sohu.cache.entity.AppDesc;
 
 /**
  * 导入应用
- * @author leifu
+ * @author Wujun
  * @Date 2016-4-16
  * @Time 下午3:42:49
  */

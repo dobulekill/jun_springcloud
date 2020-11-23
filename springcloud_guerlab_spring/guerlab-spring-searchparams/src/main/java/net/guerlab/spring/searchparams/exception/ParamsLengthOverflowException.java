@@ -5,7 +5,7 @@ import net.guerlab.spring.commons.exception.AbstractI18nApplicationException;
 /**
  * 参数值长度错误异常
  *
- * @author guer
+ * @author Wujun
  */
 public class ParamsLengthOverflowException extends AbstractI18nApplicationException {
 

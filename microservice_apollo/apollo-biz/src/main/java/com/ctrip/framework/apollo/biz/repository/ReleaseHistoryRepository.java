@@ -11,7 +11,7 @@ import org.springframework.data.repository.PagingAndSortingRepository;
 import java.util.List;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ReleaseHistoryRepository extends PagingAndSortingRepository<ReleaseHistory, Long> {
   Page<ReleaseHistory> findByAppIdAndClusterNameAndNamespaceNameOrderByIdDesc(String appId, String

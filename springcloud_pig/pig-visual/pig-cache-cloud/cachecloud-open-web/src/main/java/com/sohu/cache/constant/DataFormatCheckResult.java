@@ -2,7 +2,7 @@ package com.sohu.cache.constant;
 
 /**
  * 数据格式检测
- * @author leifu
+ * @author Wujun
  * @Date 2016年7月4日
  * @Time 下午5:37:03
  */

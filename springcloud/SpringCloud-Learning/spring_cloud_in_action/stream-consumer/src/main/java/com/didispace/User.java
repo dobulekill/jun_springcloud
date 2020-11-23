@@ -3,7 +3,7 @@ package com.didispace;
 import java.io.Serializable;
 
 /**
- * @author 翟永超
+ * @author Wujun
  * @create 2016/11/13.
  * @blog http://blog.didispace.com
  */

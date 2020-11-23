@@ -6,7 +6,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  * 实例慢查询日志
- * @author leifu
+ * @author Wujun
  * @Date 2016年2月22日
  * @Time 上午11:57:02
  */

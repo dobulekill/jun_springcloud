@@ -39,7 +39,7 @@ import org.springframework.integration.support.MutableMessage;
 import org.springframework.messaging.MessagingException;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class RocketMQMessageHandler extends AbstractMessageHandler implements Lifecycle {
 

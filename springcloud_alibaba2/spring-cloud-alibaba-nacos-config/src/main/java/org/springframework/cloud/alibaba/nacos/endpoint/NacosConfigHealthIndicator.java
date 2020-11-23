@@ -28,7 +28,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosConfigHealthIndicator extends AbstractHealthIndicator {
 

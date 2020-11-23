@@ -14,7 +14,7 @@ package com.zscatcloud.core.generator;
 /**
  * The interface Id generator.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public interface IdGenerator {
 

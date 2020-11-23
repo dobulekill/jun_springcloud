@@ -3,7 +3,7 @@ package net.dreamlu.mica.core.validation;
 /**
  * Validated Delete group.
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface DeleteGroup {
 

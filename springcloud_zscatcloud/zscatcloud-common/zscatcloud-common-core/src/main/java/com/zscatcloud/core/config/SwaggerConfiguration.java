@@ -36,7 +36,7 @@ import java.util.List;
 /**
  * The class Swagger configuration.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @EnableSwagger2
 public class SwaggerConfiguration {

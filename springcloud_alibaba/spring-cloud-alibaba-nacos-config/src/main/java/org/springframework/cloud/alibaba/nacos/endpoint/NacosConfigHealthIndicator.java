@@ -29,7 +29,7 @@ import org.springframework.cloud.alibaba.nacos.client.NacosPropertySource;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosConfigHealthIndicator extends AbstractHealthIndicator {
 

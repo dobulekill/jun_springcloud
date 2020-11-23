@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * 文档配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Primary

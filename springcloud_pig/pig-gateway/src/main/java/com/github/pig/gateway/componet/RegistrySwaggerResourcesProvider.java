@@ -14,7 +14,7 @@ import java.util.List;
 import springfox.documentation.swagger.web.SwaggerResourcesProvider;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/12/28
  * routeLocator 聚合swagger
  */

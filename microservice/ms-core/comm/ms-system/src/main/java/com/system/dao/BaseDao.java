@@ -31,7 +31,7 @@ import com.system.dao.utils.DbUtil;
 	&lt;bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
 		&lt;constructor-arg ref="dataSource" />
 	&lt;/bean>
- * @author yuejing
+ * @author Wujun
  * @date 2017年1月26日 下午9:18:24
  * @version V1.0.0
  */

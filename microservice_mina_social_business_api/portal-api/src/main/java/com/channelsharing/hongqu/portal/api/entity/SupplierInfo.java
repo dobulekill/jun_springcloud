@@ -11,7 +11,7 @@ import com.channelsharing.common.entity.BaseEntity;
 
 /**
  * 供应商信息Entity
- * @author 供应商信息
+ * @author Wujun
  * @version 2018-08-08
  */
 @Data

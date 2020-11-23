@@ -30,7 +30,7 @@ import com.ctrip.framework.apollo.openapi.dto.NamespaceReleaseDTO;
 import com.ctrip.framework.apollo.openapi.dto.OpenItemDTO;
 
 /**
- * @author hantianwei@gmail.com
+ * @author Wujun
  * @since 1.5.0
  */
 @Component("flowRuleApolloPublisher")

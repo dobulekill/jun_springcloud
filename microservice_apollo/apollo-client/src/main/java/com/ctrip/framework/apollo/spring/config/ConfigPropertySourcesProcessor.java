@@ -11,7 +11,7 @@ import com.ctrip.framework.apollo.spring.util.BeanRegistrationUtil;
 /**
  * Apollo Property Sources processor for Spring XML Based Application
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigPropertySourcesProcessor extends PropertySourcesProcessor
     implements BeanDefinitionRegistryPostProcessor {

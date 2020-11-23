@@ -20,7 +20,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 授权信息缓存服务
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Service

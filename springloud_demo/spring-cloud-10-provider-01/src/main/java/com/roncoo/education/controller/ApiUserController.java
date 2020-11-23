@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.roncoo.education.bean.User;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/api/user")

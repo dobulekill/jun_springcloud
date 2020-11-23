@@ -38,7 +38,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.springframework.boot.test.context.SpringBootTest.WebEnvironment.RANDOM_PORT;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = AnsRibbonClientConfigurationTests.TestConfig.class, properties = {

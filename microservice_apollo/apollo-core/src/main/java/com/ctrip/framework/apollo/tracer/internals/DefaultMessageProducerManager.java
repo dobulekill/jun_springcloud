@@ -7,7 +7,7 @@ import com.ctrip.framework.apollo.tracer.spi.MessageProducer;
 import com.ctrip.framework.apollo.tracer.spi.MessageProducerManager;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultMessageProducerManager implements MessageProducerManager {
   private static MessageProducer producer;

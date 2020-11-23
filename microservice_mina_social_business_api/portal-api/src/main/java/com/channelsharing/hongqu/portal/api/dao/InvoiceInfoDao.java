@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
 
 /**
  * 发票信息Dao接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Mapper

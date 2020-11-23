@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  * 定时任务日志Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-08-04
  */
 @Data

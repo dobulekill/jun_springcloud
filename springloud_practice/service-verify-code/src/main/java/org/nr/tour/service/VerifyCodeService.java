@@ -1,7 +1,7 @@
 package org.nr.tour.service;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface VerifyCodeService {
 

@@ -8,7 +8,7 @@ import feign.Param;
 import feign.RequestLine;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  * @title Feign接口
  * @describe Feign接口

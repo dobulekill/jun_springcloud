@@ -27,7 +27,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Endpoint(id = "scx")
 public class ScxEndpoint {

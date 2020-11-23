@@ -9,7 +9,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * LayTpl配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @Setter

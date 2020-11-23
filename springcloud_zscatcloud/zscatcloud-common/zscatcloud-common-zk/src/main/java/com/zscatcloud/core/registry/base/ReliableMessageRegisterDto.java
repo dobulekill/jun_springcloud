@@ -18,7 +18,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * The class Reliable message register dto.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 public class ReliableMessageRegisterDto {

@@ -21,7 +21,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Not display sql aspect.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Aspect
 @Component

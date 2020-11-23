@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 用户控制类
  *
- * @author ZhangCheng on 2017-07-17 13:15
+ * @author Wujun
  */
 @RestController
 public class UserController {

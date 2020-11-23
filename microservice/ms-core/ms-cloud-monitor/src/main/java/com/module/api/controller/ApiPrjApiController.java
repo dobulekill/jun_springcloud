@@ -21,7 +21,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 项目注册api的接口
- * @author 岳静
+ * @author Wujun
  * @date 2016年3月4日 下午6:22:39 
  * @version V1.0
  */

@@ -12,7 +12,7 @@ import com.system.comm.utils.FrameTimeUtil;
 /**
  * 显示文本
  * 根据类型和ID显示文本
- * @author duanbin
+ * @author Wujun
  * @date 2016-5-29 下午6:40:13
  * @version V1.0.0
  */

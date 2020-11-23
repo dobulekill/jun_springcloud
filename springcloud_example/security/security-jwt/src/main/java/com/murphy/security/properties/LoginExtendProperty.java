@@ -8,7 +8,7 @@ import lombok.Data;
 
 /**
  * 过滤器默认配置，可在配置文件自定义
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/03 10:01
  * @version 1.0
  */

@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * 使用@EnableCircuitBreaker注解开启断路器功能
- * @author eacdy
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableDiscoveryClient

@@ -20,7 +20,7 @@ import java.util.Date;
 /**
  * The class Uac user token dto.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

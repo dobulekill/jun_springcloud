@@ -20,7 +20,7 @@ import com.system.handle.model.ResponseCode;
 import com.system.handle.model.ResponseFrame;
 
 /**
- * @author duanbin
+ * @author Wujun
  * @date 2016-05-22 11:17:54
  * @version V1.0.0
  */

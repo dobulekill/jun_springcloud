@@ -6,8 +6,8 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author pbting
- * @author xiaolongzuo
+ * @author Wujun
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(SmsProperties.class)

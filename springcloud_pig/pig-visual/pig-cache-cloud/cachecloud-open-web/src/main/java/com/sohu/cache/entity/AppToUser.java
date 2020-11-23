@@ -7,7 +7,7 @@ import org.apache.commons.lang.builder.ToStringBuilder;
 /**
  * 应用和用户的对应关系
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月5日
  */
 public class AppToUser implements Serializable {

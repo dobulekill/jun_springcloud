@@ -6,7 +6,7 @@ import javax.persistence.MappedSuperclass;
 /**
  * 线路订单游客
  *
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @MappedSuperclass
 public class BaseOrderVisitor extends IDEntity {

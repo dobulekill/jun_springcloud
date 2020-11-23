@@ -28,7 +28,7 @@ import com.zscatcloud.security.core.social.view.PcConnectView;
 /**
  * 微信登录配置
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnProperty(prefix = "zscatcloud.security.social.weixin", name = "app-id")

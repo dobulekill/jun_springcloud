@@ -13,7 +13,7 @@ import lombok.experimental.Accessors;
 /**
  * 邮件发送日志
  *
- * @author admin
+ * @author Wujun
  * @date 2019-07-25
  */
 @Data

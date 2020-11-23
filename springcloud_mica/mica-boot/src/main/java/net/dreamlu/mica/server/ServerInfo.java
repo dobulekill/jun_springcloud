@@ -26,7 +26,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 跟 SpringBlade 作者(Chill Zhuang) 讨论的搞法
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @Configuration

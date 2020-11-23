@@ -4,7 +4,7 @@ import com.github.prontera.RestStatus;
 import com.google.common.collect.ImmutableMap;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public enum StatusCode implements RestStatus {
 

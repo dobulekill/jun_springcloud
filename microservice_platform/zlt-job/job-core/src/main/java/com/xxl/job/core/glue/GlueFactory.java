@@ -7,7 +7,7 @@ import groovy.lang.GroovyClassLoader;
 /**
  * glue factory, product class/object by name
  *
- * @author xuxueli 2016-1-2 20:02:27
+ * @author Wujun
  */
 public class GlueFactory {
 

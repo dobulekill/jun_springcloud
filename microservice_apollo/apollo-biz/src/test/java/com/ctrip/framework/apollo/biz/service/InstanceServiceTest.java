@@ -25,7 +25,7 @@ import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertNull;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class InstanceServiceTest extends AbstractIntegrationTest {
   @Autowired

@@ -37,7 +37,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * 安全配置类
  *
- * @author Chill
+ * @author Wujun
  */
 @Order
 @Configuration

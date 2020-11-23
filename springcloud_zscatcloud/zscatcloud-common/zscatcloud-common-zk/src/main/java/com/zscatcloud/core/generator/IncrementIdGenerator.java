@@ -19,7 +19,7 @@ import org.apache.curator.retry.RetryNTimes;
 /**
  * FrameworkID 的保存器.
  *
- * @author gaohongtao
+ * @author Wujun
  */
 public class IncrementIdGenerator implements IdGenerator {
 

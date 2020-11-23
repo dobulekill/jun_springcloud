@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 /**
  * kafka api接口调用   不集成spring-kafka
- * @author qxw
+ * @author Wujun
  * @data 2018年8月8日下午5:53:10
  */
 public class KafkaClientApi {

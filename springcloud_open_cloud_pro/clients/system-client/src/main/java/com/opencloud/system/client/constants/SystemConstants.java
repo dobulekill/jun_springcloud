@@ -3,7 +3,7 @@ package com.opencloud.system.client.constants;
 /**
  * 通用权限常量
  *
- * @author liuyadu
+ * @author Wujun
  */
 public class SystemConstants {
 

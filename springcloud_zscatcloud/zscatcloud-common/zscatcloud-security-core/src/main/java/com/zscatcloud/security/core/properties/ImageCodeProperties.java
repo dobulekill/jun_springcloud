@@ -6,7 +6,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 图片验证码配置项
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

@@ -14,7 +14,7 @@ import com.sohu.cache.util.ConstUtils;
 /**
  * 域账户LDAP登陆简单工具
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月12日
  */
 public class LoginUtil {

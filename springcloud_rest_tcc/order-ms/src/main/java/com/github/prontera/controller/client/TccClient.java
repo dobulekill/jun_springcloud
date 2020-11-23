@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @FeignClient(name = TccClient.SERVICE_ID, fallback = TccClientFallback.class)
 public interface TccClient {

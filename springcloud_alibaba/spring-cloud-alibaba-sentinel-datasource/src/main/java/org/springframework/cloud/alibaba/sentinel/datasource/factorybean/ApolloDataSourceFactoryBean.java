@@ -8,7 +8,7 @@ import org.springframework.beans.factory.FactoryBean;
 /**
  * A {@link FactoryBean} for creating {@link ApolloDataSource} instance.
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @see ApolloDataSource
  */
 public class ApolloDataSourceFactoryBean implements FactoryBean<ApolloDataSource> {

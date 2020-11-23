@@ -3,7 +3,7 @@ package com.sohu.cache.constant;
 
 /**
  * Cluster Operate Result
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月27日
  * @Time 上午8:43:10
  */

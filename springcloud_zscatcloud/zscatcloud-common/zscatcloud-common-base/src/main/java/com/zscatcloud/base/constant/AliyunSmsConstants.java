@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Aliyun sms constants.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class AliyunSmsConstants {
 

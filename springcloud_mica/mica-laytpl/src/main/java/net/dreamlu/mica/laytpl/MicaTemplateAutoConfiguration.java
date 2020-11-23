@@ -23,7 +23,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * laytpl 自动化配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(MicaLayTplProperties.class)

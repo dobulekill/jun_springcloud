@@ -30,7 +30,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Log 相关工具
  *
- * @author Chill
+ * @author Wujun
  */
 public class LogAbstractUtil {
 

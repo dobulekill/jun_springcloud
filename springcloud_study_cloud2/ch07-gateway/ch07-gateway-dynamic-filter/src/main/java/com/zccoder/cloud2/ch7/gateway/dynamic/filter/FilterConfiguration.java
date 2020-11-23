@@ -8,7 +8,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * 描述: 配置<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 @ConfigurationProperties("zuul.filter")
 public class FilterConfiguration {

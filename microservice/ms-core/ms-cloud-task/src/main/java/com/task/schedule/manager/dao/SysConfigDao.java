@@ -8,7 +8,7 @@ import com.task.schedule.manager.pojo.SysConfig;
 
 /**
  * 系统配置的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-31 14:26:09
  * @version V1.0.0
  */

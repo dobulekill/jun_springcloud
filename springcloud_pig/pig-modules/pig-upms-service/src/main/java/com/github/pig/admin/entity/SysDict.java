@@ -16,7 +16,7 @@ import java.io.Serializable;
  * 字典表
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-11-19
  */
 @TableName("sys_dict")

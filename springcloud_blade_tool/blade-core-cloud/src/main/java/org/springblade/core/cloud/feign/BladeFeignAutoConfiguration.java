@@ -46,7 +46,7 @@ import java.util.ArrayList;
 /**
  * blade feign 增强配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(Feign.class)

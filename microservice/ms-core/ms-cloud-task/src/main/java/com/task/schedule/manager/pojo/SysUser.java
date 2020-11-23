@@ -11,7 +11,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * sys_user实体
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-30 14:07:27
  * @version V1.0.0
  */

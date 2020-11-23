@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class Apollo {
   public final static String VERSION =

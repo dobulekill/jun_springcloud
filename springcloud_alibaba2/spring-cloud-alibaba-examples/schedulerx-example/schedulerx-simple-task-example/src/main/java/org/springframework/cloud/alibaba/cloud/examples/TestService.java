@@ -19,7 +19,7 @@ package org.springframework.cloud.alibaba.cloud.examples;
 import org.springframework.stereotype.Service;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Service
 public class TestService {

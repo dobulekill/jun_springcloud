@@ -24,7 +24,7 @@ import com.zscatcloud.security.core.social.weixin.api.Weixin;
 /**
  * 微信连接工厂
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public class WeixinConnectionFactory extends OAuth2ConnectionFactory<Weixin> {
 

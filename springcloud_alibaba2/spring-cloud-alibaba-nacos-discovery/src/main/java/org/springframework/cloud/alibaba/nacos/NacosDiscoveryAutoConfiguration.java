@@ -34,8 +34,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author xiaojing
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties

@@ -5,7 +5,7 @@ import com.opencloud.system.client.model.entity.SystemApi;
 import java.io.Serializable;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 public class RateLimitApi extends SystemApi implements Serializable {
     private static final long serialVersionUID = 1212925216631391016L;

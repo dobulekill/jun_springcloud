@@ -8,7 +8,7 @@ import lombok.Setter;
 /**
  * ZTree树节点值对象
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Getter

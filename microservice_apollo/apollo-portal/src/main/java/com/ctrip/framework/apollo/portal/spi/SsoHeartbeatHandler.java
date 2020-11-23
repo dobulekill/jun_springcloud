@@ -4,7 +4,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface SsoHeartbeatHandler {
   void doHeartbeat(HttpServletRequest request, HttpServletResponse response);

@@ -14,7 +14,7 @@ import com.itmuch.cloud.study.repository.UserRepository;
  * 作用：
  * ① 测试服务实例的相关内容
  * ② 为后来的服务做提供
- * @author eacdy
+ * @author Wujun
  */
 @RestController
 public class UserController {

@@ -24,7 +24,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 用户认证信息Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-12
  */
 @Api(tags = "用户认证信息操作接口")

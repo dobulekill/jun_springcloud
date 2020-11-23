@@ -6,7 +6,7 @@ package com.channelsharing.common.utils;
 import java.util.UUID;
 
 /**
- * @author liuhangjun
+ * @author Wujun
  */
 public class IdGen {
 

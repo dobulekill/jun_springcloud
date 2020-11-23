@@ -27,7 +27,7 @@ import org.springframework.cloud.alicloud.context.acm.AcmProperties;
 import org.springframework.context.annotation.Bean;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @ConditionalOnWebApplication
 @ConditionalOnClass(name = "org.springframework.boot.actuate.autoconfigure.web.ManagementContextConfiguration")

@@ -37,7 +37,7 @@ import org.apache.ibatis.mapping.SqlSource;
 /**
  * 抽象的 插入一条数据（选择字段插入）
  *
- * @author L.cm
+ * @author Wujun
  */
 @RequiredArgsConstructor
 public class AbstractInsertMethod extends AbstractMethod {

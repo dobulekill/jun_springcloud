@@ -19,7 +19,7 @@ import java.math.BigDecimal;
 /**
  * The class Big decimal util.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class BigDecimalUtil {

@@ -18,7 +18,7 @@ import com.sohu.cache.web.util.AppEmailUtil;
 /**
  * 注册用户管理(页面没有权限限制)
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年10月28日
  * @Time 上午10:49:32
  */

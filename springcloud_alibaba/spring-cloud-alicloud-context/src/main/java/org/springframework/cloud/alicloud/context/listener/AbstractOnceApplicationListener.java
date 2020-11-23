@@ -25,7 +25,7 @@ import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ApplicationContextEvent;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public abstract class AbstractOnceApplicationListener<T extends ApplicationEvent>
 		implements ApplicationListener<T> {

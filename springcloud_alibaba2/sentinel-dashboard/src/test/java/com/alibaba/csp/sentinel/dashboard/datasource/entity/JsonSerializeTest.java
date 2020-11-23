@@ -25,7 +25,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * @author lianglin
+ * @author Wujun
  * @since 1.7.0
  */
 public class JsonSerializeTest {

@@ -18,7 +18,7 @@ import com.ctrip.framework.apollo.core.ConfigConsts;
 import com.ctrip.framework.apollo.spring.annotation.EnableApolloConfig;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class JavaConfigPlaceholderTest extends AbstractSpringIntegrationTest {
   private static final String TIMEOUT_PROPERTY = "timeout";

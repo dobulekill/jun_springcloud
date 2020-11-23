@@ -3,7 +3,7 @@ package com.github.pig.mc.handler;
 import com.github.pig.common.util.template.MobileMsgTemplate;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2018/1/16
  */
 public interface SmsMessageHandler {

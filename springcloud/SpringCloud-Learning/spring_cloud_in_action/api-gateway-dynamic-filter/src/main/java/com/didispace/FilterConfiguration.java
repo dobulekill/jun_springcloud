@@ -3,7 +3,7 @@ package com.didispace;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author 翟永超
+ * @author Wujun
  * @create 2016/12/11.
  * @blog http://blog.didispace.com
  */

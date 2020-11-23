@@ -9,7 +9,7 @@ import net.guerlab.spring.commons.exception.handler.GlobalExceptionHandler;
 /**
  * 异常统一处理配置自动配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration
@@ -18,7 +18,7 @@ public class GlobalExceptionHandlerAutoConfigure {
     /**
      * 默认异常统一处理配置
      *
-     * @author guer
+     * @author Wujun
      *
      */
     @ControllerAdvice

@@ -21,7 +21,7 @@ import java.lang.annotation.*;
 /**
  * 操作日志注解
  *
- * @author Chill
+ * @author Wujun
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

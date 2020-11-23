@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Check valid dto.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 @ApiModel

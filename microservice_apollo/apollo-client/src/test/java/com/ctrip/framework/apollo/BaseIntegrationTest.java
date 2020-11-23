@@ -31,7 +31,7 @@ import com.google.common.io.Files;
 import com.google.gson.Gson;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public abstract class BaseIntegrationTest{
   private static final int PORT = findFreePort();

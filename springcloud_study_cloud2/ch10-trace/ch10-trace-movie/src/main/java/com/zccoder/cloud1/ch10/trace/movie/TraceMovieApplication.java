@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @title 启动类
  * @describe 整合Spring Cloud Sleuth
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-18
  */
 @SpringBootApplication

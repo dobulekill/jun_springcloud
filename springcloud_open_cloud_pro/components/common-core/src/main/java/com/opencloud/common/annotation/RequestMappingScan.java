@@ -38,7 +38,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 资源扫描类
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 public class RequestMappingScan implements ApplicationListener<ApplicationReadyEvent> {

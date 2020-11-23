@@ -22,7 +22,7 @@ import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @RunWith(MockitoJUnitRunner.class)
 public class ConsumerAuthenticationFilterTest {

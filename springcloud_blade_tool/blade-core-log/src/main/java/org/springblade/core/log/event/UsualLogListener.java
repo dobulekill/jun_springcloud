@@ -34,7 +34,7 @@ import java.util.Map;
 /**
  * 异步监听日志事件
  *
- * @author Chill
+ * @author Wujun
  */
 @Slf4j
 @AllArgsConstructor

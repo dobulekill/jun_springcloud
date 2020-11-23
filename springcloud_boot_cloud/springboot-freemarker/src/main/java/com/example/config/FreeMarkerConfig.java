@@ -8,7 +8,7 @@ import javax.annotation.PostConstruct;
 /**
  *
  * 配置类
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time  19/3/2019 下午 6:39
  * @email 870439570@qq.com

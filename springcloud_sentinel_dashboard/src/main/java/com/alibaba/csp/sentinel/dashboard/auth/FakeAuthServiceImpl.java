@@ -22,7 +22,7 @@ import org.springframework.stereotype.Component;
 /**
  * A fake AuthService implementation, which will pass all user auth checking.
  *
- * @author Carpenter Lee
+ * @author Wujun
  * @since 1.5.0
  */
 @Component

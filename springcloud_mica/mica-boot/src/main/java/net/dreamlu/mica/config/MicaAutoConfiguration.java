@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 自动配置
  *
- * @author l.cm
+ * @author Wujun
  */
 @Configuration
 public class MicaAutoConfiguration {

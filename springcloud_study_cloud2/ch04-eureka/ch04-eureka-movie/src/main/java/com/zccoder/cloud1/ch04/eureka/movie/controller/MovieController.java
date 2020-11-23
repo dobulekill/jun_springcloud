@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * 电影控制类
- * @author ZhangCheng on 2017-07-18 13:26
+ * @author Wujun
  *
  */
 @RestController

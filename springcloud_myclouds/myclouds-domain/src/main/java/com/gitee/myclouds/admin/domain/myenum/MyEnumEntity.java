@@ -11,7 +11,7 @@ import java.util.Date;
  * 注意:此文件由MyClouds平台自动生成-禁止手工修改。
  * </p>
  * 
- * @author myclouds team
+ * @author Wujun
  * @date 2018-03-09 18:25:06
  */
 public class MyEnumEntity extends Entity {

@@ -15,7 +15,7 @@ import org.springframework.messaging.support.GenericMessage;
 /**
  * 快速入门
  *
- * @author 翟永超
+ * @author Wujun
  * @create 2016/11/8.
  * @blog http://blog.didispace.com
  */

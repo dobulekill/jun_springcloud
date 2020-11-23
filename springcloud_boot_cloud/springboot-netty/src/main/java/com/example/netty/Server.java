@@ -8,7 +8,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 /**
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 9/10/2018下午 5:37
  */

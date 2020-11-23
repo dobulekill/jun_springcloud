@@ -9,7 +9,7 @@ import org.springframework.web.servlet.i18n.LocaleChangeInterceptor;
 /**
  * i18n配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @RefreshScope

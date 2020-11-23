@@ -26,7 +26,7 @@ import com.sohu.cache.web.util.AppEmailUtil;
 /**
  * Redis配置模板管理
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-25
  * @Time 下午2:48:25
  */

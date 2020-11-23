@@ -12,7 +12,7 @@ import freemarker.template.Template;
 
 /**
  * 代码自动生成工具生成-对应数据库表的操作的适配器类
- * @author yuejing
+ * @author Wujun
  * @version 1.0
  */
 public class FreemarkerManager {

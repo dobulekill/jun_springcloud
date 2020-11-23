@@ -3,7 +3,7 @@ package com.ctrip.framework.apollo.core.enums;
 import com.ctrip.framework.apollo.core.utils.StringUtils;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public enum ConfigFileFormat {
   Properties("properties"), XML("xml"), JSON("json"), YML("yml"), YAML("yaml");

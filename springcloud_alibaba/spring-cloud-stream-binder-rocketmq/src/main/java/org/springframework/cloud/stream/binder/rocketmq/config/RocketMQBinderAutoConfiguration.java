@@ -29,8 +29,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Timur Valiev
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties({ RocketMQBinderConfigurationProperties.class,

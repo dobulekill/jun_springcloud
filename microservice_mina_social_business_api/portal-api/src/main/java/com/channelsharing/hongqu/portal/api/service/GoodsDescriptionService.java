@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 
 /**
  * 商品介绍内容Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-12
  */
 public interface GoodsDescriptionService extends CrudService<GoodsDescription>{

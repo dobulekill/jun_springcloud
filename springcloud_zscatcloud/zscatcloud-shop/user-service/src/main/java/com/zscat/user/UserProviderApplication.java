@@ -23,7 +23,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 /**
  * The class Paas cloud uac application.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @EnableHystrix
 @EnableFeignClients

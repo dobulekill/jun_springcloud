@@ -22,7 +22,7 @@ import org.springframework.lang.Nullable;
 /**
  * HttpHeaders 获取器，用于跨服务和线程的传递
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface MicaHttpHeadersGetter {
 

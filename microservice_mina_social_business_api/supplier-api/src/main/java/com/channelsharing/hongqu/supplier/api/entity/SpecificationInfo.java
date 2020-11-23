@@ -10,7 +10,7 @@ import lombok.Data;
 
 /**
  * 规格维度接口Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-07
  */
 @Data

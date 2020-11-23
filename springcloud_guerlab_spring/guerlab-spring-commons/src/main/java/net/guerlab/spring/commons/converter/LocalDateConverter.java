@@ -10,7 +10,7 @@ import net.guerlab.commons.time.TimeHelper;
 /**
  * 日期转换
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class LocalDateConverter implements Converter<String, LocalDate> {

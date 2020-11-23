@@ -30,8 +30,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author xiaojing
- * @author renhaojun
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosDiscoveryClient implements DiscoveryClient {
 

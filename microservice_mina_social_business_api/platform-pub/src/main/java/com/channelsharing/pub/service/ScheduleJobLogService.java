@@ -9,7 +9,7 @@ import com.channelsharing.pub.entity.ScheduleJobLog;
 
 /**
  * 定时任务日志Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-08-04
  */
 public interface ScheduleJobLogService extends CrudService<ScheduleJobLog>{

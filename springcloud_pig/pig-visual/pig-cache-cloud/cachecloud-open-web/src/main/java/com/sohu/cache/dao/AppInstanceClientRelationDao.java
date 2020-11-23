@@ -10,7 +10,7 @@ import com.sohu.cache.entity.AppInstanceClientRelation;
 /**
  * 应用下节点和客户端关系Dao
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月4日
  * @Time 上午9:19:44
  */

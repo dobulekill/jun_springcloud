@@ -14,7 +14,7 @@ import com.sohu.cache.web.service.UserService;
 
 /**
  * 用户管理实现
- * @author leifu
+ * @author Wujun
  * @Date 2014年10月27日
  * @Time 上午9:57:43
  */

@@ -5,7 +5,7 @@ import com.ctrip.framework.apollo.biz.entity.Namespace;
 import com.ctrip.framework.apollo.common.utils.UniqueKeyGenerator;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ReleaseKeyGenerator extends UniqueKeyGenerator {
 

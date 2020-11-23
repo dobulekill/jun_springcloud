@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.internals;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface Injector {
 

@@ -22,7 +22,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 /**
  * Zuul Server(API网关服务器)
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @EnableZuulProxy

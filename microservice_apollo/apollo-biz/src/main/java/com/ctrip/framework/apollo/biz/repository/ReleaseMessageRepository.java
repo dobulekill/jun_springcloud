@@ -10,7 +10,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ReleaseMessageRepository extends PagingAndSortingRepository<ReleaseMessage, Long> {
   List<ReleaseMessage> findFirst500ByIdGreaterThanOrderByIdAsc(Long id);

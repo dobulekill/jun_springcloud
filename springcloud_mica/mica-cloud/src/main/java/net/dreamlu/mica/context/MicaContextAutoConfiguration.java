@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * mica 服务上下文配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(MicaHeadersProperties.class)

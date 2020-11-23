@@ -34,7 +34,7 @@ import static org.springframework.cloud.bus.SpringCloudBusClient.INPUT;
  * The lowest precedence {@link EnvironmentPostProcessor} configures default RocketMQ Bus Properties that will be
  * appended into {@link SpringApplication#defaultProperties}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  * @see BusEnvironmentPostProcessor
  * @since 0.2.1
  */

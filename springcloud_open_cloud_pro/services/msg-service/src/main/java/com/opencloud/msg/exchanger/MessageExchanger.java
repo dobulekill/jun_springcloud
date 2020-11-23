@@ -4,7 +4,7 @@ package com.opencloud.msg.exchanger;
 import com.opencloud.msg.client.model.BaseMessage;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 
 public interface MessageExchanger {

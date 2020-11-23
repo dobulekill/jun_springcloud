@@ -9,7 +9,7 @@ import java.time.OffsetDateTime;
 /**
  * 支持泛型注入的CrudService的默认实现
  *
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class CrudServiceImpl<T extends IdentityDomain> implements CrudService<T> {
 

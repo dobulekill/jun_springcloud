@@ -42,7 +42,7 @@ import static com.alibaba.dubbo.common.Constants.*;
 /**
  * Dubbo {@link RegistryFactory} uses Spring Cloud Service Registration abstraction, whose protocol is "spring-cloud"
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class SpringCloudRegistry extends FailbackRegistry {
 

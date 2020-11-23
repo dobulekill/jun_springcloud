@@ -21,7 +21,7 @@ import org.influxdb.annotation.Measurement;
 import java.time.Instant;
 
 /**
- * @author zhipeng.zhang
+ * @author Wujun
  * https://blog.52itstyle.vip
  */
 @Measurement(name = "sentinelInfo")

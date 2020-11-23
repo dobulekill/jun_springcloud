@@ -26,7 +26,7 @@ import org.springblade.core.log.publisher.ApiLogPublisher;
 /**
  * 操作日志使用spring event异步入库
  *
- * @author Chill
+ * @author Wujun
  */
 @Slf4j
 @Aspect

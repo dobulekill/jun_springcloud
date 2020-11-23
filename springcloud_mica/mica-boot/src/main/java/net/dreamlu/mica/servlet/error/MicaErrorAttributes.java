@@ -32,7 +32,7 @@ import java.util.Optional;
 /**
  * 全局异常处理
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 @SuppressWarnings("unchecked")

@@ -28,8 +28,8 @@ import java.io.StringReader;
 import java.util.*;
 
 /**
- * @author xiaojing
- * @author pbting
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosPropertySourceBuilder {
 

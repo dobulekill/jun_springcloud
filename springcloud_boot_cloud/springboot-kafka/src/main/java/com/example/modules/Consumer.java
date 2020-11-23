@@ -10,7 +10,7 @@ import java.util.Optional;
 
 /**
  * 〈消费者〉
- * @author qinxuewu
+ * @author Wujun
  * @create 18/8/5上午12:00
  * @since 1.0.0
  */

@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 分页操作类
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-10 下午5:16:26
  * @version V1.0.0
  */

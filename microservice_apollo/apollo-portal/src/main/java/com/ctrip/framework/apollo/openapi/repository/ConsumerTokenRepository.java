@@ -7,7 +7,7 @@ import org.springframework.data.repository.PagingAndSortingRepository;
 import java.util.Date;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ConsumerTokenRepository extends PagingAndSortingRepository<ConsumerToken, Long> {
   /**

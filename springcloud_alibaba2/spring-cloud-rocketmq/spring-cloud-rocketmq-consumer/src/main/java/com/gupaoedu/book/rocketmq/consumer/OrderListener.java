@@ -6,7 +6,7 @@ import org.apache.rocketmq.spring.core.RocketMQListener;
 import org.springframework.stereotype.Component;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 @Component
 @RocketMQMessageListener(topic = "TopicTest", consumerGroup = "CONSUMER_GROUP_DEMO", consumeMode = ConsumeMode.ORDERLY)

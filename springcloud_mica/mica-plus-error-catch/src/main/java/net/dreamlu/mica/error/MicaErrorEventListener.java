@@ -31,7 +31,7 @@ import org.springframework.scheduling.annotation.Async;
 /**
  * mica 异常监听
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 @Configuration

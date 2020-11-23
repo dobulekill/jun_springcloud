@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @title 启动类
  * @describe Spring Cloud Bus实现自动刷新
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-14
  */
 @SpringBootApplication

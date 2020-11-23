@@ -2,7 +2,7 @@ package com.sohu.cache.redis.enums;
 
 /**
  * cluster info枚举
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月21日
  * @Time 下午2:36:47
  */

@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * 枚举类型参数FeignClient客户端
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Service

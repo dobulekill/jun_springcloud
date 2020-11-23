@@ -28,7 +28,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Nacos Config Server Auto-Configuration
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  * @since 0.2.0
  */
 @ConditionalOnClass(EnableConfigServer.class)       // If class of @EnableConfigServer is present in class-path

@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * Nacos Config Server Bootstrap
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  * @since 0.2.0
  */
 @EnableAutoConfiguration

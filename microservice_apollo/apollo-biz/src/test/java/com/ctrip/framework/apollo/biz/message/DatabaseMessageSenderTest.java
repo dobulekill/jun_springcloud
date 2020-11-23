@@ -17,7 +17,7 @@ import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DatabaseMessageSenderTest extends AbstractUnitTest{
   private DatabaseMessageSender messageSender;

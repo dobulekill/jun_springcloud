@@ -5,7 +5,7 @@ import org.activiti.engine.delegate.TaskListener;
 
 /**
  * 用户任务执行监听
- * @author LYD
+ * @author Wujun
  */
 public class UserTaskListener implements TaskListener {
 

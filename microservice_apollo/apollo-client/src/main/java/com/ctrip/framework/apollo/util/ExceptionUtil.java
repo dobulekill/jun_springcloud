@@ -6,7 +6,7 @@ import com.google.common.base.Strings;
 import com.google.common.collect.Lists;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ExceptionUtil {
   /**

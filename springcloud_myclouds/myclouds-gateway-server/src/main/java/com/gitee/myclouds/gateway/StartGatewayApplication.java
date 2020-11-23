@@ -10,7 +10,7 @@ import com.gitee.myclouds.gateway.filter.MyDemoFilter;
 /**
  * MyClouds网关系统
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @SpringBootApplication

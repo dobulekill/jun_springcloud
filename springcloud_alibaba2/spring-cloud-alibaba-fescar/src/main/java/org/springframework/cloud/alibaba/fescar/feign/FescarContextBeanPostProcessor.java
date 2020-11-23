@@ -22,7 +22,7 @@ import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.cloud.openfeign.FeignContext;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class FescarContextBeanPostProcessor implements BeanPostProcessor {
 

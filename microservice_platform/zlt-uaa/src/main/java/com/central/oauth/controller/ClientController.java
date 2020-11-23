@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 应用相关接口
  *
- * @author zlt
+ * @author Wujun
  */
 @Api(tags = "应用")
 @RestController

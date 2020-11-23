@@ -21,7 +21,7 @@ import com.google.common.collect.ImmutableMap;
 import com.google.common.util.concurrent.SettableFuture;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @RunWith(MockitoJUnitRunner.class)
 public class SimpleConfigTest {

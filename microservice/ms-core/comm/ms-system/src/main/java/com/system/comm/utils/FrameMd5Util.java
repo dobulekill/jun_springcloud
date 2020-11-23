@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 		System.out.println((new StringBuilder("明文:")).append(str1).toString());
 		System.out.println((new StringBuilder("密文:")).append(str2).toString());
 	}
- * @author yuejing
+ * @author Wujun
  * @date 2016年4月30日 下午7:18:16
  * @version V1.0.0
  */

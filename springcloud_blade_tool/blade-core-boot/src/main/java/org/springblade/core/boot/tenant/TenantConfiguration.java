@@ -33,7 +33,7 @@ import java.util.List;
 /**
  * 多租户配置类
  *
- * @author Chill
+ * @author Wujun
  */
 @Configuration
 @AllArgsConstructor

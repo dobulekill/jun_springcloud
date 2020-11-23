@@ -3,7 +3,7 @@ package org.springframework.cloud.alibaba.sentinel.custom;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author lengleng
+ * @author Wujun
  * <p>
  * support @EnableCircuitBreaker ,Do nothing
  */

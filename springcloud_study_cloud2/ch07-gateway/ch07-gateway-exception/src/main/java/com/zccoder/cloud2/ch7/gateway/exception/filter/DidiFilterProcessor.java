@@ -11,7 +11,7 @@ import com.netflix.zuul.exception.ZuulException;
  * 描述: 屏蔽异常<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 public class DidiFilterProcessor extends FilterProcessor {
 

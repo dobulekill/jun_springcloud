@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 
 @Configuration

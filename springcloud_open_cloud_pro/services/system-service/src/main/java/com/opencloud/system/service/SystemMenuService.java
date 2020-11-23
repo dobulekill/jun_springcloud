@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 菜单资源管理
- * @author liuyadu
+ * @author Wujun
  */
 public interface SystemMenuService extends IBaseService<SystemMenu> {
     /**

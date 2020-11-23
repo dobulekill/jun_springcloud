@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 /**
  * mybatis plus处理实例
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class MyBatisPlusSearchParamsUtilInstance extends SearchParamsUtilInstance {

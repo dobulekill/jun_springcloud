@@ -5,7 +5,7 @@ import com.github.qinxuewu.utils.Arith;
 /**
  * 內存相关信息
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class Mem {
 	/**

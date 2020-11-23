@@ -12,7 +12,7 @@ import java.lang.annotation.Target;
 
 /**
  * 需要脱敏的对象
- * @author dongsufeng
+ * @author Wujun
  * @version 1.0
  * @date 2019/12/18 18:17
  */

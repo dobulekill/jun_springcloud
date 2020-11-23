@@ -1,7 +1,7 @@
 package com.github.prontera.config;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public enum EventBusinessType {
     ADD_PTS

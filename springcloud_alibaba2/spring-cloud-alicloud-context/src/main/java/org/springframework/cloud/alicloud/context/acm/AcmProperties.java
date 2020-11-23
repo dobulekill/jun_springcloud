@@ -24,8 +24,8 @@ import com.alibaba.cloud.context.acm.AcmConfiguration;
 /**
  * acm properties
  *
- * @author leijuan
- * @author xiaolongzuo
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties(prefix = "spring.cloud.alicloud.acm")
 public class AcmProperties implements AcmConfiguration {

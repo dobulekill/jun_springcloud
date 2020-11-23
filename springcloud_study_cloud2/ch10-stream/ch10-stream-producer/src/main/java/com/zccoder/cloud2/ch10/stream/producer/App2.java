@@ -19,7 +19,7 @@ import java.util.Date;
  * 时间: 2018/10/05<br>
  * //@EnableBinding(value = {Processor.class})
  *
- * @author zc
+ * @author Wujun
  */
 public class App2 {
 

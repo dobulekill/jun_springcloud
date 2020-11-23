@@ -17,7 +17,7 @@
 package org.springframework.cloud.alicloud.acm;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AcmAutoConfiguration {
 }

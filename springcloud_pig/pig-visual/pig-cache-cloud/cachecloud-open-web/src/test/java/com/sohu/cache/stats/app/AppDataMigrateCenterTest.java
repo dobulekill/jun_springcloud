@@ -19,7 +19,7 @@ import com.sohu.test.BaseTest;
 /**
  * 测试迁移数据
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-8
  * @Time 下午8:53:19
  */

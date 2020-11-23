@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author guer
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(PathInfoConfig.class)

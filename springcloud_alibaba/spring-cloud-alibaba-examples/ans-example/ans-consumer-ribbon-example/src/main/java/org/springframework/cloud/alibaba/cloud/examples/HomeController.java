@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @RestController
 public class HomeController {

@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.portal.api.entity.GoodsLike;
 
 /**
  * 商品点赞Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-27
  */
 public interface GoodsLikeService extends CrudService<GoodsLike>{

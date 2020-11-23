@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * 客户端校验配置
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 @ConfigurationProperties("blade.secure")

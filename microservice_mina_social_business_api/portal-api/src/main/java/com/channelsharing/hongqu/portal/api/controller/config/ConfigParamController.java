@@ -19,7 +19,7 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * 系统配置项Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-17
  */
 @Api(tags = "系统配置项操作接口")

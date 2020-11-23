@@ -34,7 +34,7 @@ import java.util.Map;
 
 /**
  * Endpoint for Sentinel, contains ans properties and rules
- * @author xiaojing
+ * @author Wujun
  */
 @Endpoint(id = "sentinel")
 public class SentinelEndpoint {

@@ -27,8 +27,8 @@ import org.springframework.boot.actuate.endpoint.annotation.ReadOperation;
 import org.springframework.cloud.stream.binder.rocketmq.metrics.InstrumentationManager;
 
 /**
- * @author Timur Valiev
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 @Endpoint(id = ENDPOINT_ID)
 public class RocketMQBinderEndpoint {

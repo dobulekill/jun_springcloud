@@ -3,7 +3,7 @@ package com.ctrip.framework.apollo.internals;
 import java.util.Properties;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface RepositoryChangeListener {
   /**

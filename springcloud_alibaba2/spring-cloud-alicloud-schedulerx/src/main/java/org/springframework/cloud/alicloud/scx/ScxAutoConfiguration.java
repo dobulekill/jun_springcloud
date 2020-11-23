@@ -21,7 +21,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * placeholder configuration
  *
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 public class ScxAutoConfiguration {

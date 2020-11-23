@@ -9,7 +9,7 @@ import com.sohu.cache.entity.SystemConfig;
 /**
  * 配置修改dao
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月23日
  * @Time 下午12:51:45
  */

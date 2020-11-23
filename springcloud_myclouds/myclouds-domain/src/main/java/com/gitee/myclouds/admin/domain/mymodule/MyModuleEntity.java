@@ -8,7 +8,7 @@ import com.gitee.myclouds.common.wrapper.Entity;
  * 注意:此文件由MyClouds平台自动生成-禁止手工修改。
  * </p>
  * 
- * @author myclouds team
+ * @author Wujun
  * @date 2018-06-28 22:47:58
  */
 public class MyModuleEntity extends Entity {

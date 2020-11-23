@@ -3,7 +3,7 @@ package org.nr.tour.domain;
 import javax.persistence.*;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Entity
 @Table(name = "dict_many_to_many")

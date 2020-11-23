@@ -7,7 +7,7 @@ import com.github.prontera.persistence.EventPublisherMapper;
 import java.util.Set;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public enum PublishNewEventStrategy implements BatchFetchEventStrategy {
     SINGLETON;

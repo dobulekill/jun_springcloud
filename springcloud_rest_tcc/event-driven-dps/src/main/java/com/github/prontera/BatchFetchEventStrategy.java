@@ -6,7 +6,7 @@ import com.github.prontera.persistence.EventPublisherMapper;
 import java.util.Set;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public interface BatchFetchEventStrategy {
     Set<EventPublisher> execute(EventPublisherMapper mapper);

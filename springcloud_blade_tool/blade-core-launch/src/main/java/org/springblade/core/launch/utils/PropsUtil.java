@@ -22,7 +22,7 @@ import java.util.Properties;
 /**
  * 配置工具类
  *
- * @author Chill
+ * @author Wujun
  */
 public class PropsUtil {
 

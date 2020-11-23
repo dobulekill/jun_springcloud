@@ -15,7 +15,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * @author zlt
+ * @author Wujun
  * 用户实体绑定spring security
  */
 @Getter

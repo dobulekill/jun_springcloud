@@ -4,7 +4,7 @@ package org.txlcn.demo.serviceb;
  * Description:
  * Date: 2018/12/25
  *
- * @author ujued
+ * @author Wujun
  */
 public interface DemoService {
     

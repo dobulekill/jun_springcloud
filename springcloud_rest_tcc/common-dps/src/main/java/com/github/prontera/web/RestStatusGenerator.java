@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 用于生成SWAGGER文档中的全局状态码
  *
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Api(tags = "_status", description = "状态码列表")
 @RestController

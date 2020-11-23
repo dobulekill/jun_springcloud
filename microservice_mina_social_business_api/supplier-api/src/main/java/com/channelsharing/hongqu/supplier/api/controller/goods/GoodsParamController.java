@@ -31,7 +31,7 @@ import java.util.List;
 
 /**
  * 商品参数介绍Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Api(tags = "商品参数介绍操作接口")

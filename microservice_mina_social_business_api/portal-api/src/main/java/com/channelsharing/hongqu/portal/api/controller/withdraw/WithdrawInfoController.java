@@ -38,7 +38,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 提现记录Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-26
  */
 @Api(tags = "提现记录操作接口")

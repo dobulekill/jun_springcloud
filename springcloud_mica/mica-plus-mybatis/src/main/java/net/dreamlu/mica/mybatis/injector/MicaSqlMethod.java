@@ -28,7 +28,7 @@ import lombok.Getter;
  *
  * AbstractInsertMethod
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @AllArgsConstructor

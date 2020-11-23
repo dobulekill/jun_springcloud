@@ -16,7 +16,7 @@ import ch.qos.logback.core.Appender;
 
 /**
  * clogging config.only used in ctrip
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public abstract class LoggingCustomizer implements InitializingBean {
   private static final Logger logger = LoggerFactory.getLogger(LoggingCustomizer.class);

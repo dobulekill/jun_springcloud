@@ -25,7 +25,7 @@ import com.ctrip.framework.apollo.spring.annotation.EnableApolloConfig;
 import com.google.common.collect.Lists;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class JavaConfigAnnotationTest extends AbstractSpringIntegrationTest {
   private static final String FX_APOLLO_NAMESPACE = "FX.apollo";

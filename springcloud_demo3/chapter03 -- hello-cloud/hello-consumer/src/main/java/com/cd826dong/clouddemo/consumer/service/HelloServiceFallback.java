@@ -18,7 +18,7 @@ import org.springframework.stereotype.Component;
 /**
  * Hello服务降级实现
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Component

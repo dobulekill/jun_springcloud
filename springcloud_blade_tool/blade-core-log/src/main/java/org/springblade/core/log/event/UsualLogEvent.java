@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * 系统日志事件
  *
- * @author Chill
+ * @author Wujun
  */
 public class UsualLogEvent extends ApplicationEvent {
 

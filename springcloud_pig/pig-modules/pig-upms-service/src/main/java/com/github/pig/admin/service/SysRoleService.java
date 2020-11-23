@@ -8,7 +8,7 @@ import com.github.pig.admin.entity.SysRole;
  *  服务类
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-10-29
  */
 public interface SysRoleService extends IService<SysRole> {

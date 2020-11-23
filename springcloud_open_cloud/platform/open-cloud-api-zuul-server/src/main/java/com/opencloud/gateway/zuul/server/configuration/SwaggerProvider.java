@@ -17,7 +17,7 @@ import java.util.List;
  * Swagger在线文档配置
  * 聚合网关服务代理的所有微服务
  *
- * @author admin
+ * @author Wujun
  */
 @Component
 @Primary

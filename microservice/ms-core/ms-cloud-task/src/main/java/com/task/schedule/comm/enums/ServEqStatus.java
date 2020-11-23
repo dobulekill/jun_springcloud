@@ -11,7 +11,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 服务的状态[10待释放、20已释放]
- * @author 岳静
+ * @author Wujun
  * @date 2016年4月25日 下午2:58:00 
  * @version V1.0
  */

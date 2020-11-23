@@ -9,7 +9,7 @@ import java.util.Collections;
 /**
  * ObjectUtil Tester.
  *
- * @author L.cm
+ * @author Wujun
  * @version 1.0
  */
 public class ObjectUtilTest {

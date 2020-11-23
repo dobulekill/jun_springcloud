@@ -17,7 +17,7 @@
 package org.springframework.cloud.alicloud.scx;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class ScxAutoConfiguration {
 }

@@ -9,7 +9,7 @@ import com.task.schedule.manager.pojo.TaskJob;
 
 /**
  * task_job的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-30 14:07:27
  * @version V1.0.0
  */

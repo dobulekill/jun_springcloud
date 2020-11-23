@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
  * 描述: 服务调用<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 @FeignClient(value = "hello-service")
 public interface RefactorHelloService extends HelloService {

@@ -24,7 +24,7 @@ import java.util.Date;
 /**
  * The class Base entity.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 public class BaseEntity implements Serializable {

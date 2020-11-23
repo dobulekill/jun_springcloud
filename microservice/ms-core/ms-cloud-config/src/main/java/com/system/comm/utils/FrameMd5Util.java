@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 
 /**
  * MD5 工具类
- * @author duanbin
+ * @author Wujun
  * @version 1.0
  * @since 2012-09-24
  */

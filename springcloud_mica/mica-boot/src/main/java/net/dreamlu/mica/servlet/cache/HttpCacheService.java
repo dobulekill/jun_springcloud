@@ -25,7 +25,7 @@ import java.util.Objects;
 /**
  * Http Cache 服务
  *
- * @author L.cm
+ * @author Wujun
  */
 public class HttpCacheService implements InitializingBean {
 	private final MicaHttpCacheProperties properties;

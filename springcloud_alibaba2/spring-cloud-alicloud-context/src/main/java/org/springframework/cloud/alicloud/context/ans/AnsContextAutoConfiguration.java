@@ -23,7 +23,7 @@ import org.springframework.cloud.alicloud.context.edas.EdasContextAutoConfigurat
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(name = "org.springframework.cloud.alicloud.ans.AnsAutoConfiguration")

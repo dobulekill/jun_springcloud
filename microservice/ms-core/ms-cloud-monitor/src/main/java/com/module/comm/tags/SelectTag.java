@@ -14,7 +14,7 @@ import com.system.comm.utils.FrameStringUtil;
 
 /**
  * 下拉框
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-18 上午11:00:11
  * @version V1.0.0
  */

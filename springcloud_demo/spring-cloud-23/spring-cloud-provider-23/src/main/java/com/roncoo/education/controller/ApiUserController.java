@@ -20,7 +20,7 @@ import org.springframework.web.multipart.MultipartFile;
 import com.roncoo.education.bean.User;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/api/user")

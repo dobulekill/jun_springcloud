@@ -12,7 +12,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Service
 public class ImageServiceImpl implements ImageService {

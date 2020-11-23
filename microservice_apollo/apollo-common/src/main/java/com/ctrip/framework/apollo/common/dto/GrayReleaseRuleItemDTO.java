@@ -7,7 +7,7 @@ import java.util.Set;
 import static com.google.common.base.MoreObjects.toStringHelper;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class GrayReleaseRuleItemDTO {
   public static final String ALL_IP = "*";

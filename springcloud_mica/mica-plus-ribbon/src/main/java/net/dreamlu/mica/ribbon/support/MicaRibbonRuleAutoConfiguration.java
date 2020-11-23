@@ -34,7 +34,7 @@ import org.springframework.context.annotation.Scope;
 /**
  * Mica ribbon rule auto configuration.
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @RequiredArgsConstructor

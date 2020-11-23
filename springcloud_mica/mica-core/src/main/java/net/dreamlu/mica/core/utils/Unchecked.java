@@ -34,7 +34,7 @@ import java.util.function.Supplier;
  * https://github.com/jOOQ/jOOL
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 @UtilityClass
 public class Unchecked {

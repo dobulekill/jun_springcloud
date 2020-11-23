@@ -8,7 +8,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
 /**
- * @author LYD
+ * @author Wujun
  */
 public class CustomTimestampEditor extends PropertyEditorSupport {
 

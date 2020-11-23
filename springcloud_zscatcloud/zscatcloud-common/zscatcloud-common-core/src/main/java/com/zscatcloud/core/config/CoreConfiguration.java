@@ -24,7 +24,7 @@ import org.springframework.web.servlet.HandlerInterceptor;
 /**
  * 加载LWR规则.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Configuration
 public class CoreConfiguration {

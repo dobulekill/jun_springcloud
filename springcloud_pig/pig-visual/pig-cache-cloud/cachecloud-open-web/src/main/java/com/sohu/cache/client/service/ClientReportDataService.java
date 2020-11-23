@@ -4,7 +4,7 @@ import com.sohu.tv.jedis.stat.model.ClientReportBean;
 
 /**
  * cachecloud客户端上报数据处理
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月19日
  * @Time 上午10:02:01
  */

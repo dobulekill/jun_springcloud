@@ -7,7 +7,7 @@ import javax.persistence.Table;
 /**
  * 景区门票
  *
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Entity
 @Table(name = "ticket")

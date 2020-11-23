@@ -1,7 +1,7 @@
 package com.github.prontera.exception;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class RestStatusException extends RuntimeException {
     private static final long serialVersionUID = -8541311111016065562L;

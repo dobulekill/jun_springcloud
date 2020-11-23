@@ -29,7 +29,7 @@ import com.aliyun.oss.OSS;
  * Shutdown All OSS Clients when {@code ApplicationContext} gets closed
  * {@link ApplicationListener}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class OssApplicationListener implements ApplicationListener<ContextClosedEvent> {
 

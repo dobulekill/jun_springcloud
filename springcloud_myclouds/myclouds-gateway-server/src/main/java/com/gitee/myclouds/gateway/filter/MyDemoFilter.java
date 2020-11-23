@@ -19,7 +19,7 @@ import lombok.extern.slf4j.Slf4j;
  * 基于网关系统的过滤器机制，可以实现动态路由、监控、授权、安全、请求统计等诸多功能。
  * 大家尽情发挥即可。
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Slf4j

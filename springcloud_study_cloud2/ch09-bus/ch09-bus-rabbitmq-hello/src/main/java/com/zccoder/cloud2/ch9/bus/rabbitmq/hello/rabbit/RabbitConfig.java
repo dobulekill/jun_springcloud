@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
  * 描述: 队列配置<br>
  * 时间: 2018/10/04<br>
  *
- * @author zc
+ * @author Wujun
  */
 @Configuration
 public class RabbitConfig {

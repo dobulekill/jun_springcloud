@@ -29,7 +29,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * The class Renew filter.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Component
 @Slf4j

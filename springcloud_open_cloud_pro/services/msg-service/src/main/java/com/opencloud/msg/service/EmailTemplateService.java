@@ -6,7 +6,7 @@ import com.opencloud.common.mybatis.base.service.IBaseService;
 /**
  * 邮件模板配置 服务类
  *
- * @author admin
+ * @author Wujun
  * @date 2019-07-25
  */
 public interface EmailTemplateService extends IBaseService<EmailTemplate> {

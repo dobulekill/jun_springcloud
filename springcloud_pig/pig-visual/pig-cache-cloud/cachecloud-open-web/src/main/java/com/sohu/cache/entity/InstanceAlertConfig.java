@@ -10,7 +10,7 @@ import com.sohu.cache.redis.enums.InstanceAlertTypeEnum;
 
 /**
  * 实例报警阀值配置
- * @author leifu
+ * @author Wujun
  * @Date 2017年5月19日
  * @Time 上午11:09:16
  */

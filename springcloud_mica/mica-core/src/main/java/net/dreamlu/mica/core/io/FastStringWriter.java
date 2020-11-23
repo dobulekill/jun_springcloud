@@ -30,7 +30,7 @@ import java.util.Arrays;
  * 2. 初始容量由 32 改为 64
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 public class FastStringWriter extends Writer {
 	/**

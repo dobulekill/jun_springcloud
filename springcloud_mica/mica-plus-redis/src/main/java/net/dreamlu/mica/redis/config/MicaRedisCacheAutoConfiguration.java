@@ -42,7 +42,7 @@ import java.util.Map;
  * 扩展redis-cache支持注解cacheName添加超时时间
  * <p>
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @AutoConfigureAfter(RedisAutoConfiguration.class)

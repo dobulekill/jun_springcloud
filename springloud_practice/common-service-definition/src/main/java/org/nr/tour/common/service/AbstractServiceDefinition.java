@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface AbstractServiceDefinition<T extends IDEntity, ID extends String> {
     @RequestMapping(value = "/page", method = RequestMethod.GET)

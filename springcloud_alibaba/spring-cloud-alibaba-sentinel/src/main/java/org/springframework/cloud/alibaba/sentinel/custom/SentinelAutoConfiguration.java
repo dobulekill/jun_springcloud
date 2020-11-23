@@ -49,9 +49,9 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 
 /**
- * @author xiaojing
- * @author jiashuai.xie
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnProperty(name = "spring.cloud.sentinel.enabled", matchIfMissing = true)

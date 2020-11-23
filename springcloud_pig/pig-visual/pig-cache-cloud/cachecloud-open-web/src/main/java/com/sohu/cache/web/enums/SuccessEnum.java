@@ -3,7 +3,7 @@ package com.sohu.cache.web.enums;
 /**
  * 成功失败状态
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月16日
  */
 public enum SuccessEnum {

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 
 public abstract class BaseOrderServiceImpl<T extends BaseOrder> extends BaseServiceImpl<T> implements BaseOrderService<T> {

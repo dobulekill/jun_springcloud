@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 阿里云Oss自动配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

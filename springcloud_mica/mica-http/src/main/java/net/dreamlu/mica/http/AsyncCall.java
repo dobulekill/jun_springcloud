@@ -26,7 +26,7 @@ import java.util.function.Consumer;
 /**
  * 异步执行器
  *
- * @author L.cm
+ * @author Wujun
  */
 public class AsyncCall {
 	private final static Consumer<ResponseSpec> DEFAULT_CONSUMER = (r) -> {};

@@ -2,7 +2,7 @@ package com.sohu.cache.constant;
 
 /**
  * 日志类型
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月21日
  */
 public enum AppAuditLogTypeEnum {

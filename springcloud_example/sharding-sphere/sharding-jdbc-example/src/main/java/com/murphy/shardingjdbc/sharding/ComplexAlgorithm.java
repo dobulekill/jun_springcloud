@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 复合分片，，有多个分片字段，逻辑相对复杂的
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/5 16:55
  * @version 1.0
  */

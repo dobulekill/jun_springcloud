@@ -15,7 +15,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * 商品信息接口Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-06
  */
 @Data

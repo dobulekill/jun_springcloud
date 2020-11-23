@@ -26,7 +26,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Druid 端点配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(JdbcStatManager.class)

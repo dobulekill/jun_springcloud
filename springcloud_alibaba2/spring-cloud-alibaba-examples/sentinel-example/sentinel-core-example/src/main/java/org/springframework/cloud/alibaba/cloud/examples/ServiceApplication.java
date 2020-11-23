@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 import com.alibaba.csp.sentinel.datasource.Converter;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @SpringBootApplication
 public class ServiceApplication {

@@ -17,7 +17,7 @@ import com.sohu.cache.entity.AppInstanceClientRelation;
 /**
  * 应用下节点和客户端关系服务
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月3日
  * @Time 下午6:48:40
  */

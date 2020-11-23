@@ -41,7 +41,7 @@ import java.util.UUID;
  * 如果服务器返回 NIL ，那么客户端获取锁失败，可以在稍后再重试。
  *
  * @updateBy liuhangjun
- * @author yuhao.wangwang
+ * @author Wujun
  * @version 1.0
  * @date 2017年11月3日 上午10:21:27
  */
@@ -320,7 +320,7 @@ public class RedisLock {
      * @param nanos  纳秒
      * @Title: seleep
      * @Description: 线程等待时间
-     * @author yuhao.wang
+     * @author Wujun
      */
     private void sleep(long millis, int nanos) {
         try {

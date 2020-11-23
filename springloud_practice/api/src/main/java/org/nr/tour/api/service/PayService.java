@@ -3,7 +3,7 @@ package org.nr.tour.api.service;
 import org.nr.tour.api.service.impl.PayStatusEnum;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface PayService {
 

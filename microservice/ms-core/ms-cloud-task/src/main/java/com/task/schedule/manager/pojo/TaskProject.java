@@ -11,7 +11,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * task_project实体
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-30 14:07:28
  * @version V1.0.0
  */

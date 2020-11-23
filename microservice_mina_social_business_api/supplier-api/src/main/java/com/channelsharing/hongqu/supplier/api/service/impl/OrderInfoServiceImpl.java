@@ -12,7 +12,7 @@ import com.channelsharing.hongqu.supplier.api.entity.OrderInfo;
 
 /**
  * 订单信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-01
  */
 @Service

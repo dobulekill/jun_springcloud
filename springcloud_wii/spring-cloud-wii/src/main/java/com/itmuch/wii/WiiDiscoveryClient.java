@@ -1,7 +1,7 @@
 package com.itmuch.wii;
 
 /**
- * @author www.itmuch.com
+ * @author Wujun
  */
 public interface WiiDiscoveryClient {
     /**

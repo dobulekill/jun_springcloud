@@ -24,7 +24,7 @@ import com.alibaba.csp.sentinel.dashboard.datasource.entity.SentinelVersion;
 /**
  * Util class for parsing version.
  *
- * @author Eric Zhao
+ * @author Wujun
  * @since 0.2.1
  */
 public final class VersionUtils {

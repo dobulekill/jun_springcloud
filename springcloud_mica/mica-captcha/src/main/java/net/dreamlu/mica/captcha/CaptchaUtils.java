@@ -28,7 +28,7 @@ import java.util.Random;
 /**
  * 验证码工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 public class CaptchaUtils {
 	/**

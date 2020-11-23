@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * secure放行额外配置
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 @ConfigurationProperties("blade.secure.url")

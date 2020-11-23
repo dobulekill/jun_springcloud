@@ -17,7 +17,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * 发票信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Service

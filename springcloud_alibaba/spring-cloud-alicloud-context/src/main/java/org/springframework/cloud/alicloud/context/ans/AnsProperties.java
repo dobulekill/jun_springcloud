@@ -36,7 +36,7 @@ import com.alibaba.cloud.context.AliCloudServerMode;
 import com.alibaba.cloud.context.ans.AnsConfiguration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @ConfigurationProperties("spring.cloud.alicloud.ans")
 public class AnsProperties implements AnsConfiguration {

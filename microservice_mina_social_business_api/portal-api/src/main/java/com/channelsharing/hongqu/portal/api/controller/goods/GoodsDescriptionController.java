@@ -20,7 +20,7 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * 商品介绍内容Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-12
  */
 @Api(tags = "商品介绍内容操作接口")

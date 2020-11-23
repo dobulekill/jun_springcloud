@@ -32,7 +32,7 @@ import com.sohu.tv.jedis.stat.utils.NumberUtil;
 /**
  * jedis有价值数据收集器(耗时,值分布,异常等)
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月13日
  * @Time 下午5:42:31
  */

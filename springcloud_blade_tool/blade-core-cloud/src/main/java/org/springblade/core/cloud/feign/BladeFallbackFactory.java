@@ -24,7 +24,7 @@ import org.springframework.cglib.proxy.Enhancer;
  * 默认 Fallback，避免写过多fallback类
  *
  * @param <T> 泛型标记
- * @author L.cm
+ * @author Wujun
  */
 @AllArgsConstructor
 public class BladeFallbackFactory<T> implements FallbackFactory<T> {

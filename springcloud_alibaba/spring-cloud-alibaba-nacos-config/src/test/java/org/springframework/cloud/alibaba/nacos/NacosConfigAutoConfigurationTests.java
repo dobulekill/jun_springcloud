@@ -35,7 +35,7 @@ import org.springframework.core.env.Environment;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosConfigAutoConfigurationTests {
 

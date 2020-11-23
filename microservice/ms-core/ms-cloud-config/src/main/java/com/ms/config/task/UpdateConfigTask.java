@@ -21,7 +21,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 启动线程3分钟更新一次配置文件
- * @author yuejing
+ * @author Wujun
  * @date 2016年10月22日 上午9:58:59
  * @version V1.0.0
  */

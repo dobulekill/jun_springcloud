@@ -3,7 +3,7 @@ package com.pflm.modules.service;
 import org.springframework.stereotype.Component;
 
 /** 熔断器打开后处理类
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 19/7/2018下午 4:11
  */

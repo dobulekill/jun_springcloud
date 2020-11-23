@@ -16,7 +16,7 @@ package com.cd826dong.clouddemo.util;
 /**
  * 用户上下文信息
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 public class UserContext {

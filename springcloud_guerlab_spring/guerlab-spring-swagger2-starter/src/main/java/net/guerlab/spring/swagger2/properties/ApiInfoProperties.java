@@ -8,7 +8,7 @@ import springfox.documentation.service.VendorExtension;
 /**
  * ApiInfoBuilder配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class ApiInfoProperties {

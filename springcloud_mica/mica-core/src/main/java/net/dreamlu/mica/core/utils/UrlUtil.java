@@ -21,7 +21,7 @@ import lombok.experimental.UtilityClass;
 /**
  * url处理工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 @UtilityClass
 public class UrlUtil extends org.springframework.web.util.UriUtils {

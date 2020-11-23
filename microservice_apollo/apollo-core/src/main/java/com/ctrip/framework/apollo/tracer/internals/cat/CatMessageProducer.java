@@ -6,7 +6,7 @@ import com.ctrip.framework.apollo.tracer.spi.Transaction;
 import java.lang.reflect.Method;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class CatMessageProducer implements MessageProducer {
   private static Class CAT_CLASS;

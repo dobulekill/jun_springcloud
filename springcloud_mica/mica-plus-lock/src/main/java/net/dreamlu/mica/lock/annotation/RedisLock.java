@@ -30,7 +30,7 @@ import java.util.concurrent.TimeUnit;
  * 5. 读写锁（ReadWriteLock）
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)

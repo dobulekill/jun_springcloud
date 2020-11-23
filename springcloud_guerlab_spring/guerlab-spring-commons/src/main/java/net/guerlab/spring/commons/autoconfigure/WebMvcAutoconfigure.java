@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * web mvc配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

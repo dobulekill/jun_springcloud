@@ -4,7 +4,7 @@ import com.sohu.cache.entity.InstanceInfo;
 
 /**
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月19日
  * @Time 上午10:02:28
  */

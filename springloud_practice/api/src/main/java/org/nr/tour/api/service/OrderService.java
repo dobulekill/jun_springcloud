@@ -4,7 +4,7 @@ import org.nr.tour.domain.BaseOrder;
 import org.nr.tour.domain.OrderStatusEnum;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface OrderService {
 

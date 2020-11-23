@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-04
  * @title 启动类
  * @describe Ribbon客户端自定义配置

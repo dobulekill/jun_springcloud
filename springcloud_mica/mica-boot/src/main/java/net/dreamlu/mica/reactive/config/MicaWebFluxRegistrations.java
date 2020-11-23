@@ -25,7 +25,7 @@ import org.springframework.web.reactive.result.method.annotation.RequestMappingH
 /**
  * webflux 配置 注入
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnWebApplication(type = ConditionalOnWebApplication.Type.REACTIVE)

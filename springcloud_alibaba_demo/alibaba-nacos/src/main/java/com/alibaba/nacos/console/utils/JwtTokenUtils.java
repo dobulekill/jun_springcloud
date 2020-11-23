@@ -33,7 +33,7 @@ import java.util.List;
 /**
  * Jwt token tool
  *
- * @author wfnuser
+ * @author Wujun
  */
 @Component
 public class JwtTokenUtils {

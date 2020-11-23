@@ -27,7 +27,7 @@ import org.springframework.cloud.stream.binder.rocketmq.properties.RocketMQBinde
 import org.springframework.cloud.stream.binder.rocketmq.properties.RocketMQExtendedBindingProperties;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class RocketMQAutoConfigurationTests {
 

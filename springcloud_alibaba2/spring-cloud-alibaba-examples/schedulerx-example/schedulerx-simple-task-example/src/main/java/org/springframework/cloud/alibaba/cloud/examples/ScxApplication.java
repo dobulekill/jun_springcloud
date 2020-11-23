@@ -20,7 +20,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @SpringBootApplication
 public class ScxApplication {

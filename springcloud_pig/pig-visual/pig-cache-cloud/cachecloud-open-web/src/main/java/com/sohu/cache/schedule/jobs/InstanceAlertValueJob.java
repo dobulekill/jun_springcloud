@@ -10,7 +10,7 @@ import com.sohu.cache.stats.instance.InstanceAlertConfigService;
 
 /**
  * 实例分钟报警
- * @author leifu
+ * @author Wujun
  * @Date 2016年9月13日
  * @Time 下午3:53:04
  */

@@ -9,7 +9,7 @@ import org.springframework.cloud.consul.serviceregistry.ConsulAutoRegistration;
 import org.springframework.cloud.consul.serviceregistry.ConsulServiceRegistry;
 
 /**
- * @author www.itmuch.com
+ * @author Wujun
  */
 @Slf4j
 @RequiredArgsConstructor(onConstructor = @__(@Autowired))

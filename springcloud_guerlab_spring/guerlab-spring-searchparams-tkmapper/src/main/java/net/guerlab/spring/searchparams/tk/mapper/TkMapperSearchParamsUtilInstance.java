@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 /**
  * tk.mapper处理实例
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class TkMapperSearchParamsUtilInstance extends SearchParamsUtilInstance {

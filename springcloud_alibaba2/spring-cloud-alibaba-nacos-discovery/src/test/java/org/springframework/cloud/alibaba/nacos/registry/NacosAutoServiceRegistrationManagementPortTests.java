@@ -36,7 +36,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 
 @RunWith(SpringRunner.class)

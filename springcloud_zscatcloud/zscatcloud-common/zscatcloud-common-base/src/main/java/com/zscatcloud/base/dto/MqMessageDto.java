@@ -18,7 +18,7 @@ import java.io.Serializable;
 /**
  * The class Tpc message dto.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 @AllArgsConstructor

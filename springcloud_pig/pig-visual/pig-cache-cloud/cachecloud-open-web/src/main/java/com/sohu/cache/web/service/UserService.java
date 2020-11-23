@@ -7,7 +7,7 @@ import com.sohu.cache.web.enums.SuccessEnum;
 
 /**
  * 用户管理service
- * @author leifu
+ * @author Wujun
  * @Date 2014年10月27日
  * @Time 上午9:57:47
  */

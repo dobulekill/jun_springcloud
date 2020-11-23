@@ -29,7 +29,7 @@ import com.alibaba.csp.sentinel.slots.block.AbstractRule;
  * Sentinel {@link ReadableDataSource} Handler Handle the configurations of
  * 'spring.cloud.sentinel.datasource'
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @see SentinelProperties#datasource
  * @see JsonConverter
  * @see XmlConverter

@@ -6,7 +6,7 @@ import lombok.Setter;
 /**
  * zuul路由实体
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/8/21
  */
 @Setter

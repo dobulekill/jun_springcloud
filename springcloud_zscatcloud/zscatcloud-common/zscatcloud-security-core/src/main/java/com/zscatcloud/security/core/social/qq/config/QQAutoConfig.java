@@ -26,7 +26,7 @@ import com.zscatcloud.security.core.properties.SecurityProperties;
 /**
  * The class Qq auto config.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnProperty(prefix = "zscatcloud.security.social.qq", name = "app-id")

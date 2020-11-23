@@ -14,7 +14,7 @@ import com.sohu.cache.web.controller.AppController;
 
 /**
  * 简单文件读取
- * @author leifu
+ * @author Wujun
  * @Date 2015年3月2日
  * @Time 下午2:12:15
  */

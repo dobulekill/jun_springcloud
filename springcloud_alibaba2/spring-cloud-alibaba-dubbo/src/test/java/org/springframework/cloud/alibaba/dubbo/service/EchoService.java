@@ -19,7 +19,7 @@ package org.springframework.cloud.alibaba.dubbo.service;
 /**
  * Echo Service
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public interface EchoService {
 

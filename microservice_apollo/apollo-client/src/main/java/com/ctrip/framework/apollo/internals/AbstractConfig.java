@@ -35,7 +35,7 @@ import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public abstract class AbstractConfig implements Config {
   private static final Logger logger = LoggerFactory.getLogger(AbstractConfig.class);

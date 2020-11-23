@@ -8,7 +8,7 @@ import com.module.admin.cli.pojo.CliInfo;
 
 /**
  * cli_info的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2016-10-20 17:55:37
  * @version V1.0.0
  */

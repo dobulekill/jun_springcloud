@@ -41,7 +41,7 @@ import feign.hystrix.FallbackFactory;
 /**
  * {@link InvocationHandler} handle invocation that protected by Sentinel
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class SentinelInvocationHandler implements InvocationHandler {
 

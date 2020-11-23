@@ -23,7 +23,7 @@ import com.netflix.hystrix.strategy.HystrixPlugins;
 import com.netflix.hystrix.strategy.concurrency.HystrixConcurrencyStrategy;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class FescarHystrixConcurrencyStrategy extends HystrixConcurrencyStrategy {
 

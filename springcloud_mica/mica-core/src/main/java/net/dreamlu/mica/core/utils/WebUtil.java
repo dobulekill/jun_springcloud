@@ -36,7 +36,7 @@ import java.util.function.Predicate;
 /**
  * Miscellaneous utilities for web applications.
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 @UtilityClass

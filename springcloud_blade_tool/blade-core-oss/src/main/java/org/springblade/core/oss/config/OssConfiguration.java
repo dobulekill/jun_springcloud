@@ -34,7 +34,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Oss配置类
  *
- * @author Chill
+ * @author Wujun
  */
 @Configuration
 @AllArgsConstructor

@@ -18,7 +18,7 @@ import com.frame.auto.code.javabean.StringUtil;
  * Company:
  * </p>
  * 
- * @author hellion
+ * @author Wujun
  * @version 1.0
  */
 

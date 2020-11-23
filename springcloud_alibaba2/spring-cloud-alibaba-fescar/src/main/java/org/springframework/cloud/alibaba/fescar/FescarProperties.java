@@ -19,7 +19,7 @@ package org.springframework.cloud.alibaba.fescar;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @ConfigurationProperties("spring.cloud.alibaba.fescar")
 public class FescarProperties {

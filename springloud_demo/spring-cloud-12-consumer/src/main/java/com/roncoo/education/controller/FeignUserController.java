@@ -13,7 +13,7 @@ import com.roncoo.education.feign.IRoncooBiz;
 import com.roncoo.education.feign.IUserBiz;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/feign/user", method = RequestMethod.POST)

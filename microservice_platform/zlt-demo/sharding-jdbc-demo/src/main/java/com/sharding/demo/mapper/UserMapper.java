@@ -4,7 +4,7 @@ import com.central.db.mapper.SuperMapper;
 import com.sharding.demo.model.User;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 public interface UserMapper extends SuperMapper<User> {
 

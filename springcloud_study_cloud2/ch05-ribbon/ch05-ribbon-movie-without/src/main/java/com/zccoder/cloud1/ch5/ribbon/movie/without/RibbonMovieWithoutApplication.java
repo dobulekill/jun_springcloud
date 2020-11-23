@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @title 启动类
  * @describe 脱离Eureka使用Ribbon 
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-04
  */
 @SpringBootApplication

@@ -6,7 +6,7 @@ import com.module.admin.sys.pojo.SysConfig;
 
 /**
  * sys_config的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2016-10-19 13:50:15
  * @version V1.0.0
  */

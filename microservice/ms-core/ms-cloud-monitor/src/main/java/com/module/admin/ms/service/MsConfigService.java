@@ -9,7 +9,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * ms_config的Service
- * @author yuejing
+ * @author Wujun
  * @date 2017-04-21 16:02:31
  * @version V1.0.0
  */

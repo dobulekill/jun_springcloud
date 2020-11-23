@@ -12,7 +12,7 @@ import com.channelsharing.hongqu.portal.api.dao.WeixinNotifyDataDao;
 
 /**
  * 微信回调数据记录Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-03-29
  */
 @Service

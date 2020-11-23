@@ -8,7 +8,7 @@ import com.murphy.security.config.WebSecurityConfig;
 
 /**
  * 使用前需要在启动类上加此注解
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/02 16:28
  */
 @Target(ElementType.TYPE)

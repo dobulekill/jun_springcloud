@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  *
- * @author fp295
+ * @author Wujun
  * @date 2018/4/16
  * 自定义JwtAccessToken转换器
  */

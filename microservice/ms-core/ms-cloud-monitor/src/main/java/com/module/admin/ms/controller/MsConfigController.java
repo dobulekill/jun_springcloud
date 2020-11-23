@@ -24,7 +24,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 微服务配置文件的Controller
- * @author yuejing
+ * @author Wujun
  * @date 2016-10-20 17:55:37
  * @version V1.0.0
  */

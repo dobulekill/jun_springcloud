@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 与js的des通用
- * @author yuejing
+ * @author Wujun
  * @date 2017年5月5日 下午1:39:25
  */
 public class FrameDesJsUtil {

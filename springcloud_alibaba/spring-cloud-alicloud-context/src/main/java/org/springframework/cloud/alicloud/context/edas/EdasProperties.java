@@ -22,7 +22,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import com.alibaba.cloud.context.edas.EdasConfiguration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @ConfigurationProperties("spring.cloud.alicloud.edas")
 public class EdasProperties implements EdasConfiguration {

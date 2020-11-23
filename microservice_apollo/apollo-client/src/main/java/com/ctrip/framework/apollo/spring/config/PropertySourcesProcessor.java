@@ -22,7 +22,7 @@ import com.google.common.collect.Multimap;
 /**
  * Apollo Property Sources processor for Spring Annotation Based Application
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class PropertySourcesProcessor implements BeanFactoryPostProcessor, EnvironmentAware, PriorityOrdered {
   private static final String APOLLO_PROPERTY_SOURCE_NAME = "ApolloPropertySources";

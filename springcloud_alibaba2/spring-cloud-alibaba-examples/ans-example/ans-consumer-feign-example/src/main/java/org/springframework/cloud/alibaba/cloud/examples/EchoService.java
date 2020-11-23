@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @FeignClient(value = "ans-provider")
 public interface EchoService {

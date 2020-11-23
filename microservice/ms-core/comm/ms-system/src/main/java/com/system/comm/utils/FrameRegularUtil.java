@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 /**
  * 正则检验
- * @author 岳静
+ * @author Wujun
  * @date 2016年5月30日 上午10:11:26 
  * @version V1.0
  */

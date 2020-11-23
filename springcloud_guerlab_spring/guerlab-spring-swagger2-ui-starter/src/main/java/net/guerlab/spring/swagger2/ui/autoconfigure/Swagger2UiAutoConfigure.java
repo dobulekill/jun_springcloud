@@ -10,7 +10,7 @@ import net.guerlab.spring.swagger2.autoconfigure.SwaggerEnableCondition;
 /**
  * 设置swagger-ui的静态资源的映射规则
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

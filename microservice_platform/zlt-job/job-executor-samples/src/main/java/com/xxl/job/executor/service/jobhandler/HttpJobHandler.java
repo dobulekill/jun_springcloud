@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 跨平台Http任务
  *
- * @author xuxueli 2018-09-16 03:48:34
+ * @author Wujun
  */
 @JobHandler(value="httpJobHandler")
 @Component

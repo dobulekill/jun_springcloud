@@ -28,7 +28,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 /**
  * The class Redis configuration.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Configuration
 @EnableCaching

@@ -19,8 +19,8 @@ package org.springframework.cloud.stream.binder.rocketmq.properties;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author Timur Valiev
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties(prefix = "spring.cloud.stream.rocketmq.binder")
 public class RocketMQBinderConfigurationProperties {

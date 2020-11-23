@@ -9,7 +9,7 @@ import com.alibaba.cloud.context.edas.EdasChangeOrderConfiguration;
 import com.alibaba.cloud.context.edas.EdasChangeOrderConfigurationFactory;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 public class NacosParameterInitListener
 		extends AbstractOnceApplicationListener<ApplicationEnvironmentPreparedEvent> {

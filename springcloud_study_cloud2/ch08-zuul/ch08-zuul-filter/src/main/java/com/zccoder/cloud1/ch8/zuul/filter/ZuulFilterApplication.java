@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * @title 启动类
  * @describe 编写Zuul过滤器
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-11
  */
 @SpringBootApplication

@@ -36,7 +36,7 @@ import java.lang.reflect.Method;
 /**
  * The class Token interceptor.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Slf4j
 public class TokenInterceptor implements HandlerInterceptor {

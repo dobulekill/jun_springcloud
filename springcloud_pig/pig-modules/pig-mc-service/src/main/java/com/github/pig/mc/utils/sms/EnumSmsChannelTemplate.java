@@ -1,7 +1,7 @@
 package com.github.pig.mc.utils.sms;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2018/1/16
  * 短信通道模板
  */

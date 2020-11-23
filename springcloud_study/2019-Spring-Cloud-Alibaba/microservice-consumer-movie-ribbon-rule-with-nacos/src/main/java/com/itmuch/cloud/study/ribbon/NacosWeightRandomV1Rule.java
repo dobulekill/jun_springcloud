@@ -16,7 +16,7 @@ import java.util.Random;
 import java.util.stream.Collectors;
 
 /**
- * @author limu.zl
+ * @author Wujun
  */
 @Slf4j
 public class NacosWeightRandomV1Rule extends AbstractLoadBalancerRule {

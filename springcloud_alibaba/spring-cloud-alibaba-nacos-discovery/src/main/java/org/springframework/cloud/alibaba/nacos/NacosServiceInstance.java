@@ -23,7 +23,7 @@ import java.net.URI;
 import java.util.Map;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosServiceInstance implements ServiceInstance {
 	private String serviceId;

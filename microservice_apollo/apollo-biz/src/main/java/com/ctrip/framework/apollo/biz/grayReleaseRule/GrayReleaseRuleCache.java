@@ -5,7 +5,7 @@ import com.ctrip.framework.apollo.common.dto.GrayReleaseRuleItemDTO;
 import java.util.Set;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class GrayReleaseRuleCache {
   private long ruleId;

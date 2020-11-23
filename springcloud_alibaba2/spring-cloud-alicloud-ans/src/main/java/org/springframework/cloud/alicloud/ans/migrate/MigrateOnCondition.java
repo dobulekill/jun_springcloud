@@ -7,7 +7,7 @@ import org.springframework.core.type.AnnotatedTypeMetadata;
 import org.springframework.util.ClassUtils;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 public abstract class MigrateOnCondition implements Condition, BeanClassLoaderAware {
 

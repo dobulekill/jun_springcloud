@@ -19,7 +19,7 @@ package net.dreamlu.mica.core.function;
 /**
  * 受检的 Comparator
  *
- * @author L.cm
+ * @author Wujun
  */
 @FunctionalInterface
 public interface CheckedComparator<T> {

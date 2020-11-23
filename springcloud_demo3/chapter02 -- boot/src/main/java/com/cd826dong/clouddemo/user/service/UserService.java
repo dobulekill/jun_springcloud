@@ -23,7 +23,7 @@ import org.springframework.data.domain.Pageable;
 /**
  * 用户服务
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 public interface UserService {

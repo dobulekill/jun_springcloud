@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 /**
  * 提现记录Service
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-26
  */
 public interface WithdrawInfoService extends CrudService<WithdrawInfo> {

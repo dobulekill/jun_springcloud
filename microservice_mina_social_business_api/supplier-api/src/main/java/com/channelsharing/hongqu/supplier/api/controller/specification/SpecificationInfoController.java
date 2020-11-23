@@ -23,7 +23,7 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * 规格维度接口Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-07
  */
 @Api(tags = "规格维度操作接口")

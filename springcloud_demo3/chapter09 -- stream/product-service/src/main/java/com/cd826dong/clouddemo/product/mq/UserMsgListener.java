@@ -25,7 +25,7 @@ import org.springframework.cloud.stream.annotation.StreamListener;
 /**
  * 用户消息监听器
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @EnableBinding(SpringCloudBookChannels.class)

@@ -14,7 +14,7 @@ package com.zscatcloud.security.app;
 /**
  * The class App secret exception.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public class AppSecretException extends RuntimeException {
 

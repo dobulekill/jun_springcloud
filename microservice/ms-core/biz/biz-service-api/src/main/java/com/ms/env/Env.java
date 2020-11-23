@@ -3,7 +3,7 @@ package com.ms.env;
 
 /**
  * 配置文件的key
- * @author yuejing
+ * @author Wujun
  * @date 2016年5月16日 下午5:52:03
  * @version V1.0.0
  */

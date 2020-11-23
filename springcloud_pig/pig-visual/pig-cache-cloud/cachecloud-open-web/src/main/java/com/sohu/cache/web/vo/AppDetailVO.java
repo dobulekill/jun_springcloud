@@ -11,7 +11,7 @@ import com.sohu.cache.entity.AppUser;
 
 /**
  * 应用详情
- * @author leifu
+ * @author Wujun
  * @Time 2014年8月29日
  */
 public class AppDetailVO {

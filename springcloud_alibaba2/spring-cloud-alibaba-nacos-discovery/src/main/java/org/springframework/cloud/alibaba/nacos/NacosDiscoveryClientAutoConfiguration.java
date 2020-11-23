@@ -23,7 +23,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnMissingBean(DiscoveryClient.class)

@@ -22,7 +22,7 @@ import org.springframework.lang.Nullable;
 /**
  * Mica 用户信息获取器，用于请求头传递
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface MicaAccountGetter {
 

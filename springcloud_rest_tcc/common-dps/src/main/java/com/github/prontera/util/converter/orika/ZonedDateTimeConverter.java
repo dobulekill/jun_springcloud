@@ -7,7 +7,7 @@ import ma.glasnost.orika.metadata.Type;
 import java.time.ZonedDateTime;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class ZonedDateTimeConverter extends BidirectionalConverter<ZonedDateTime, ZonedDateTime> {
     @Override

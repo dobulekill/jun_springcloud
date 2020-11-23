@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class StringToMapSerializer extends JsonSerializer<String> {
 

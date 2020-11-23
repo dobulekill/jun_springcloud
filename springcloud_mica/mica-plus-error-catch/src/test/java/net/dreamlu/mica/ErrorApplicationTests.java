@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 /**
  * 验证码 测试
  *
- * @author L.cm
+ * @author Wujun
  */
 @SpringBootTest
 @MicaBootTest(appName = "boot")

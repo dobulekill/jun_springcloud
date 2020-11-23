@@ -18,7 +18,7 @@ import java.util.stream.StreamSupport;
 /**
  * SearchParams工具类
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class SearchParamsUtils {

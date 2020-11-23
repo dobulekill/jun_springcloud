@@ -29,7 +29,7 @@ import cn.hutool.log.LogFactory;
 
 /**
  * WebSocketServer
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  */
 @ServerEndpoint("/imserver/{userId}")
 @Component

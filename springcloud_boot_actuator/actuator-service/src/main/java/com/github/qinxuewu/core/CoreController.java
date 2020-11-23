@@ -21,7 +21,7 @@ import java.text.SimpleDateFormat;
 
 /**
  *  jvm 性能监控
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time  11/12/2018 上午 11:52
  * @email 870439570@qq.com

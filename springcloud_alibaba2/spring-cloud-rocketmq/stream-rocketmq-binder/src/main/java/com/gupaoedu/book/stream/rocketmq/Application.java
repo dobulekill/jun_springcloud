@@ -7,7 +7,7 @@ import org.springframework.cloud.stream.messaging.Sink;
 import org.springframework.cloud.stream.messaging.Source;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableBinding({ Source.class, Sink.class })

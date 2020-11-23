@@ -6,7 +6,7 @@ import javax.persistence.MappedSuperclass;
 import java.io.Serializable;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @MappedSuperclass
 public class IDEntity implements Serializable {

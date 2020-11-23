@@ -42,7 +42,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.0
  */
 @Service

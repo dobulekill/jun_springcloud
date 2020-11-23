@@ -3,7 +3,7 @@ package com.sohu.cache.entity;
 import java.util.Date;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2017年5月6日
  * @Time 上午11:19:50
  */

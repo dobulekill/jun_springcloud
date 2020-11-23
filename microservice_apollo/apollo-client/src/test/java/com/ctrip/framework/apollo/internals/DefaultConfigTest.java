@@ -32,7 +32,7 @@ import com.google.common.io.Files;
 import com.google.common.util.concurrent.SettableFuture;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultConfigTest {
   private File someResourceDir;

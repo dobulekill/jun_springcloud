@@ -13,7 +13,7 @@ import com.ctrip.framework.apollo.tracer.Tracer;
 import com.ctrip.framework.apollo.util.ExceptionUtil;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class PropertiesConfigFile extends AbstractConfigFile {
   private static final Logger logger = LoggerFactory.getLogger(PropertiesConfigFile.class);

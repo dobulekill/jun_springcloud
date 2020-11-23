@@ -33,7 +33,7 @@ import org.springframework.util.ReflectionUtils;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosConfigBootstrapConfigurationTests {
 

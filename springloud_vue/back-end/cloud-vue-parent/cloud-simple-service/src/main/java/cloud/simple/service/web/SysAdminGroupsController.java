@@ -24,7 +24,7 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * 系统分组 控制层
- * @author leo.aqing
+ * @author Wujun
  */
 @RestController
 @RequestMapping("/admin/groups")

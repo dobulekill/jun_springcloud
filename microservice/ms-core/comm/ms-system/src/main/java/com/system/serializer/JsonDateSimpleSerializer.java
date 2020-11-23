@@ -13,7 +13,7 @@ import com.system.comm.utils.FrameTimeUtil;
  * 比如相对于当前时间来计算
  * 	10分钟前，1小时前等展示
  * 		使用：在属性的get方法上面加 @JsonSerialize(using = JsonDateSimpleSerializer.class)
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @date    2014年10月23日 下午2:32:33 
  * @version 1.0.0

@@ -24,7 +24,7 @@ import java.util.Map;
 
 /**
  * 商品规格值Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @Api(tags = "商品规格值操作接口")

@@ -8,7 +8,7 @@ import com.sohu.cache.entity.AppClientVersion;
 
 /**
  * 客户端版本dao
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月2日
  * @Time 上午10:36:20
  */

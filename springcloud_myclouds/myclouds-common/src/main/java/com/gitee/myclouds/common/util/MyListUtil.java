@@ -19,7 +19,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * <b>集合工具类</b>
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2010-10-06
  */
 @Slf4j

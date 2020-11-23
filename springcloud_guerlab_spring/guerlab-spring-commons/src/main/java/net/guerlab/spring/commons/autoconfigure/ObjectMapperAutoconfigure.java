@@ -38,7 +38,7 @@ import net.guerlab.spring.commons.util.SpringApplicationContextUtil;
 /**
  * ObjectMapper配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

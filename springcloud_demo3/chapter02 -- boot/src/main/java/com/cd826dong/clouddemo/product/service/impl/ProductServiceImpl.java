@@ -30,7 +30,7 @@ import java.util.List;
 /**
  * 产品管理服务的默认实现
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 @Service

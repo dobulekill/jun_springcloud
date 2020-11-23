@@ -20,7 +20,7 @@ import rx.Observer;
 /**
  * @title 控制类
  * @describe 在Controller中聚合多个请求
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-12
  */
 @RestController

@@ -5,7 +5,7 @@ import java.util.ResourceBundle;
 /**
  * 客户端常量
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年6月21日
  * @Time 上午10:54:34
  */

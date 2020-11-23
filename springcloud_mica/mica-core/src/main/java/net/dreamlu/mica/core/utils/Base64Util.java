@@ -23,7 +23,7 @@ import java.nio.charset.Charset;
 /**
  * Base64工具
  *
- * @author L.cm
+ * @author Wujun
  */
 @UtilityClass
 public class Base64Util extends org.springframework.util.Base64Utils {

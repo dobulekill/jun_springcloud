@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * 自定义认证用户信息转换器
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 public class BaseUserConverter extends DefaultUserAuthenticationConverter {

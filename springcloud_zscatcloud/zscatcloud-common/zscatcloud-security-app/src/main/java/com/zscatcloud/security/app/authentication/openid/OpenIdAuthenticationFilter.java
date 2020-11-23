@@ -25,7 +25,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * The class Open id authentication filter.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class OpenIdAuthenticationFilter extends AbstractAuthenticationProcessingFilter {
 	// ~ Static fields/initializers

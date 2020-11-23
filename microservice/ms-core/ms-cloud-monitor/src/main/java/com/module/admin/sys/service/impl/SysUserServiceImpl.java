@@ -18,7 +18,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * sys_user的Service
- * @author duanbin
+ * @author Wujun
  * @date 2016-03-22 11:17:54
  * @version V1.0.0
  */

@@ -10,7 +10,7 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * 产品信息Dao接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-07
  */
 @Mapper

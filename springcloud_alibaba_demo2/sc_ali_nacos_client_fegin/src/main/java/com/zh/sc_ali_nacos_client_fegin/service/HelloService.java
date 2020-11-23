@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * @author zhanghang
+ * @author Wujun
  * @date 2019/3/20
  */
 @FeignClient("sc-ali-nacos-server")

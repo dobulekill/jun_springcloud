@@ -17,7 +17,7 @@
 package org.springframework.cloud.alicloud.oss;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class OssAutoConfiguration {
 }

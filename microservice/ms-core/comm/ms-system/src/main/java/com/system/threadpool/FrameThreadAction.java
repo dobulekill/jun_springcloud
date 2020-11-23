@@ -5,7 +5,7 @@ import java.util.concurrent.RecursiveAction;
 
 /**
  * 线程任务
- * @author  yuejing
+ * @author Wujun
  * @date    2015年9月29日 上午11:44:17 
  * @version 1.0.0
  */

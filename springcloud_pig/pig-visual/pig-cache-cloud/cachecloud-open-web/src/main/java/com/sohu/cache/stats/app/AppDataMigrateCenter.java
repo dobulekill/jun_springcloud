@@ -13,7 +13,7 @@ import com.sohu.cache.entity.AppDataMigrateStatus;
 /**
  * 数据迁移
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-8
  * @Time 下午2:54:33
  */

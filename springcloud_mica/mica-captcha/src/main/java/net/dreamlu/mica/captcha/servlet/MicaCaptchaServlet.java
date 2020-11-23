@@ -33,7 +33,7 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * 图形验证码
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 public class MicaCaptchaServlet extends BaseCaptcha {

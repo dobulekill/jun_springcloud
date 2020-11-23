@@ -15,7 +15,7 @@ package com.zscatcloud.security.core.social.qq.api;
 /**
  * The interface Qq.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public interface QQ {
 

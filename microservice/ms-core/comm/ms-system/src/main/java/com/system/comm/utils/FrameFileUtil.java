@@ -24,7 +24,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * File Util
- * @author duanbin
+ * @author Wujun
  * @date 2016年3月23日 上午10:38:24 
  * @version V1.0
  */

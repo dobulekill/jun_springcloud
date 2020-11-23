@@ -19,7 +19,7 @@ package org.springframework.cloud.alibaba.cloud.examples.rocketmq;
 /**
  * User Domain
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  * @since 0.2.1
  */
 public class User {

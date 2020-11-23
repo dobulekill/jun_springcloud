@@ -10,7 +10,7 @@ import javax.validation.constraints.NotNull;
 /**
  * 店铺的商品分类Service
  * 
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-27
  */
 public interface ShopGoodsCategoryService {

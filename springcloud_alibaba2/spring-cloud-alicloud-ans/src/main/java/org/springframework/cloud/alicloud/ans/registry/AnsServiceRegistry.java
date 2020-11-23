@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsServiceRegistry implements ServiceRegistry<AnsRegistration> {
 

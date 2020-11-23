@@ -38,7 +38,7 @@ import java.util.List;
  *
  * @see org.springblade.core.cloud.annotation.UrlVersion
  * @see org.springblade.core.cloud.annotation.ApiVersion
- * @author L.cm
+ * @author Wujun
  */
 public class BladeSpringMvcContract extends SpringMvcContract {
 

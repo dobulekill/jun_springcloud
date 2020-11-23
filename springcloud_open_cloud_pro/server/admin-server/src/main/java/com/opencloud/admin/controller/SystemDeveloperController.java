@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * 系统用户信息
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Api(tags = "开发者管理")
 @RestController

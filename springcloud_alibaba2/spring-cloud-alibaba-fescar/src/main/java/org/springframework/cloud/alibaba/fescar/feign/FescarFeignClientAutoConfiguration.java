@@ -30,7 +30,7 @@ import feign.Client;
 import feign.Feign;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 
 @Configuration

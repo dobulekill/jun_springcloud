@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 存储整个工程的全局配置
- * @author liuyazhuang
+ * @author Wujun
  *
  */
 public class NettyConfig {

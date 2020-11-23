@@ -6,7 +6,7 @@ import org.springframework.util.StringValueResolver;
 
 /**
  * 获取spring中的属性
- * @author 岳静
+ * @author Wujun
  * @date 2016年4月20日 上午10:03:19 
  * @version V1.0
  */

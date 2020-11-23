@@ -10,7 +10,7 @@ import javax.validation.constraints.NotNull;
 import java.net.URI;
 
 /**
- * @author www.itmuch.com
+ * @author Wujun
  */
 @ConfigurationProperties("wii")
 @Data

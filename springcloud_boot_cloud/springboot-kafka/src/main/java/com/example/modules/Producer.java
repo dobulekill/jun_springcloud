@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 /**
  * 〈生产者〉
- * @author qinxuewu
+ * @author Wujun
  * @create 18/8/4下午11:56
  * @since 1.0.0
  */

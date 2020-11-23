@@ -16,7 +16,7 @@ import com.ctrip.framework.apollo.spi.ConfigFactory;
 import com.ctrip.framework.apollo.util.ConfigUtil;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigServiceTest {
   private static String someAppId;

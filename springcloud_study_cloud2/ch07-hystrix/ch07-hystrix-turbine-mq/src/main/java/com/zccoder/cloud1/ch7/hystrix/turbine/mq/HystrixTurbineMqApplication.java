@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.turbine.stream.EnableTurbineStream;
 /**
  * @title 启动类
  * @describe 使用消息中间件收集数据
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-07
  */
 @EnableTurbineStream

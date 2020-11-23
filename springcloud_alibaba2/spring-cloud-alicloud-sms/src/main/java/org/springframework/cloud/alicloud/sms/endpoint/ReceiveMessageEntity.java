@@ -20,7 +20,7 @@ import org.springframework.cloud.alicloud.sms.base.MessageListener;
 import java.io.Serializable;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 public class ReceiveMessageEntity implements Serializable {
 	private String messageType;

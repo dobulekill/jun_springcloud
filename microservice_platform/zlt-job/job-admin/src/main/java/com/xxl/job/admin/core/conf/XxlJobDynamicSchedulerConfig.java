@@ -10,7 +10,7 @@ import org.springframework.scheduling.quartz.SchedulerFactoryBean;
 import javax.sql.DataSource;
 
 /**
- * @author xuxueli 2018-10-28 00:18:17
+ * @author Wujun
  */
 @Configuration
 public class XxlJobDynamicSchedulerConfig {

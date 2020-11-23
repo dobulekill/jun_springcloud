@@ -2,7 +2,7 @@ package com.sohu.cache.web.enums;
 
 /**
  * app列表排序
- * @author leifu
+ * @author Wujun
  * @Date 2014年11月14日
  * @Time 上午10:55:47
  */

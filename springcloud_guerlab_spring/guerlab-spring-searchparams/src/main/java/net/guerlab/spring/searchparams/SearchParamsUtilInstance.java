@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * 搜索参数工具实例
  *
- * @author guer
+ * @author Wujun
  *
  */
 public abstract class SearchParamsUtilInstance {

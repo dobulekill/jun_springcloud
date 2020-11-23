@@ -11,7 +11,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 @Setter
 public class MobileAuthenticationProvider implements AuthenticationProvider {

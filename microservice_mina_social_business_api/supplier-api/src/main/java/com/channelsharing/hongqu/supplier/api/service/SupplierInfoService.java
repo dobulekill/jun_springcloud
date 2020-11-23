@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.supplier.api.entity.SupplierInfo;
 
 /**
  * 供应商信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-02-02
  */
 public interface SupplierInfoService extends CrudService<SupplierInfo> {

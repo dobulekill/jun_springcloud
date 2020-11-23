@@ -13,7 +13,7 @@ import redis.clients.jedis.JedisSentinelPool;
 /**
  * cachecloud-redisSentinel客户端测试
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年11月21日
  * @Time 上午11:58:53
  */

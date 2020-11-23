@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 /**
  * 表单登录配置
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Component
 public class FormAuthenticationConfig {

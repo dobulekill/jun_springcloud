@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * searchService降级工场
  *
- * @author zlt
+ * @author Wujun
  */
 @Slf4j
 @Component

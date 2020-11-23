@@ -13,7 +13,7 @@ import com.sohu.cache.redis.enums.RedisInfoEnum;
 
 /**
  * aof当前尺寸检测
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月16日
  * @Time 下午2:34:10
  */

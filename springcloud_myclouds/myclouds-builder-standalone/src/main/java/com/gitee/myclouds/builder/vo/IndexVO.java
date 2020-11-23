@@ -8,7 +8,7 @@ import com.google.common.collect.Lists;
 /**
  * <b>数据表索引值对象</b>
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2013-06-06
  */
 public class IndexVO extends VO{

@@ -14,7 +14,7 @@ import com.system.comm.utils.FrameSpringBeanUtil;
 
 /**
  * 启动spring的config
- * @author yuejing
+ * @author Wujun
  * @date 2017年2月16日 下午6:20:15
  */
 //通过该注解，实现服务发现，注册

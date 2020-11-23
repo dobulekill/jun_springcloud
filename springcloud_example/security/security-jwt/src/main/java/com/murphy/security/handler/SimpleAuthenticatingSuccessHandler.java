@@ -26,7 +26,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
  * 登陆成功后处理
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/02 15:01
  * @version 1.0
  */

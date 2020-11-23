@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import javax.annotation.PostConstruct;
 
 /**
- * @author Jason Song
+ * @author Wujun
  */
 @ConfigurationProperties(prefix = "redis.cache")
 public class SampleRedisConfig {

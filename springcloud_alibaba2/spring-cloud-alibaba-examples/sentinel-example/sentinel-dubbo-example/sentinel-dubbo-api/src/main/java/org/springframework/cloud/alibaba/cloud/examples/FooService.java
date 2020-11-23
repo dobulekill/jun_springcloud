@@ -1,7 +1,7 @@
 package org.springframework.cloud.alibaba.cloud.examples;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 public interface FooService {
 

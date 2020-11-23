@@ -25,7 +25,7 @@ import com.sohu.cache.web.util.AppEmailUtil;
 /**
  * cachecloud配置管理
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月23日
  * @Time 上午10:31:16
  */

@@ -27,7 +27,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 图片操作工具类
- * @author yuejing
+ * @author Wujun
  * @date 2013-12-17 下午4:55:28
  * @version V1.0.0
  */

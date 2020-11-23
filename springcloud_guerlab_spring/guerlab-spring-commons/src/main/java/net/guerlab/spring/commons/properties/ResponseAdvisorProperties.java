@@ -15,7 +15,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
  * <li>使用了{@link net.guerlab.spring.commons.annotation.IgnoreResponseHandler}注解</li>
  * </ul>
  *
- * @author guer
+ * @author Wujun
  *
  */
 @RefreshScope

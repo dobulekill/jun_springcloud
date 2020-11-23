@@ -6,7 +6,7 @@ import com.roncoo.education.feign.fallback.RcFeignFallback;
 import com.roncoo.education.service.UserService;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @FeignClient(value = "spring-cloud-provider", configuration = RcFeignConfiguration.class, fallback = RcFeignFallback.class)
 public interface IUserBiz extends UserService{

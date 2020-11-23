@@ -24,7 +24,7 @@ import java.util.Locale;
 /**
  * 替换 系统 System.err 和 System.out 为log
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 public class LogPrintStream extends PrintStream {

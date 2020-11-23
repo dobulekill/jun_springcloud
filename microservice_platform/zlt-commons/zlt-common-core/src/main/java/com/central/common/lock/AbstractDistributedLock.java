@@ -3,7 +3,7 @@ package com.central.common.lock;
 /**
  * 分布式锁抽象类
  *
- * @author zlt
+ * @author Wujun
  * @date 2018/5/29 14:14
  */
 public abstract class AbstractDistributedLock implements DistributedLock{

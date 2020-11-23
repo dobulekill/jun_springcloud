@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * 基于app的dao操作
- * @author leifu
+ * @author Wujun
  * @Date 2014年5月15日
  * @Time 下午1:58:22
  */

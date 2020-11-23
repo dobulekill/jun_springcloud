@@ -26,7 +26,7 @@ import javax.management.openmbean.TabularData;
 /**
  * druid stat 端点
  *
- * @author L.cm
+ * @author Wujun
  */
 @Endpoint(id = "druid")
 public class DruidEndpoint {

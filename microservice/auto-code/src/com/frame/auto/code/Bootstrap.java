@@ -26,7 +26,7 @@ import com.frame.auto.code.main.MakeSource;
 /**
  * <p>代码自动生成工具主程序</p>
  * <p>Description: 主要应用于oracle,mysql,sqlserver数据库数据基本操作</p>
- * @author yuejing
+ * @author Wujun
  * @version 1.0
  */
 

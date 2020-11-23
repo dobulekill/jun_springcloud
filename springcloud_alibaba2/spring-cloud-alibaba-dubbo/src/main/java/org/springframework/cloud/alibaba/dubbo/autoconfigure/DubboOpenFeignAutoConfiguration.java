@@ -36,7 +36,7 @@ import org.springframework.core.env.Environment;
 /**
  * Dubbo Feign Auto-{@link Configuration Configuration}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 @ConditionalOnClass(value = Feign.class) // 存在 Feign 类的时候，即存在 feign 依赖
 @AutoConfigureAfter(FeignAutoConfiguration.class) // 在 FeignAutoConfiguration 配置类之后初始化

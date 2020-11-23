@@ -18,7 +18,7 @@ package org.springblade.core.secure.provider;
 /**
  * 多终端注册接口
  *
- * @author Chill
+ * @author Wujun
  */
 public interface IClientDetailsService {
 

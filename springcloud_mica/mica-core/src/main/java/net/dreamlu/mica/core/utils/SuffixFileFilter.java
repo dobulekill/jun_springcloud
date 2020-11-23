@@ -25,7 +25,7 @@ import java.io.Serializable;
 /**
  * 文件后缀过滤器
  *
- * @author L.cm
+ * @author Wujun
  */
 public class SuffixFileFilter implements FileFilter, Serializable {
 

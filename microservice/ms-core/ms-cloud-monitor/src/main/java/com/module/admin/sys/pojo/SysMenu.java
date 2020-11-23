@@ -10,7 +10,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * sys_menu实体
- * @author duanbin
+ * @author Wujun
  * @date 2016-5-26 15:31:03
  * @version V1.0.0
  */

@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * 流程操作封装类
  *
- * @author admin
+ * @author Wujun
  * @date 2018/5/31
  */
 public class TaskOperate implements Serializable {

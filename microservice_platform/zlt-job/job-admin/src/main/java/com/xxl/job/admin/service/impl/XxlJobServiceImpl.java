@@ -28,7 +28,7 @@ import java.util.*;
 
 /**
  * core job action for xxl-job
- * @author xuxueli 2016-5-28 15:30:33
+ * @author Wujun
  */
 @Service
 public class XxlJobServiceImpl implements XxlJobService {

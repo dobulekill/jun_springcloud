@@ -16,7 +16,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 阿里云配置
  *
- * @author 作者 owen E-mail: 624191343@qq.com
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnProperty(name = "zlt.file-server.type", havingValue = "aliyun")

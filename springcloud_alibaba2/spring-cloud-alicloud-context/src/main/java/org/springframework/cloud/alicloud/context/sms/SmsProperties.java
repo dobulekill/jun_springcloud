@@ -3,8 +3,8 @@ package org.springframework.cloud.alicloud.context.sms;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author pbting
- * @author xiaolongzuo
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties(prefix = "spring.cloud.alicloud.sms")
 public class SmsProperties {

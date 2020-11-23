@@ -23,7 +23,7 @@ import java.util.Date;
 /**
  * The class Tpc message query dto.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

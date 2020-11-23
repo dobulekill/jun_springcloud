@@ -35,7 +35,7 @@ import static com.alibaba.nacos.api.common.Constants.DEFAULT_GROUP;
 /**
  * Nacos {@link MetadataConfigService}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class NacosMetadataConfigService implements MetadataConfigService {
 

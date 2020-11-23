@@ -34,7 +34,7 @@ import com.channelsharing.hongqu.portal.api.weixin.WeixinPayUtil;
 /**
  * 提现记录Service
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-26
  */
 @Service

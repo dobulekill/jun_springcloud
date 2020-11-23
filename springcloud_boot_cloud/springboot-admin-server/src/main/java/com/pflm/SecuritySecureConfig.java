@@ -8,7 +8,7 @@ import org.springframework.security.web.csrf.CookieCsrfTokenRepository;
 
 
 /**
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 16/10/2018下午 3:05
  */

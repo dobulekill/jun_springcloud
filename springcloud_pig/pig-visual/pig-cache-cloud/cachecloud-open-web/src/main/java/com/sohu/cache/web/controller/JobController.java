@@ -14,7 +14,7 @@ import javax.annotation.Resource;
 
 /**
  * job操作
- * @author leifu
+ * @author Wujun
  * @Date 2014年05月19日
  * @Time 下午12:45:36
  */

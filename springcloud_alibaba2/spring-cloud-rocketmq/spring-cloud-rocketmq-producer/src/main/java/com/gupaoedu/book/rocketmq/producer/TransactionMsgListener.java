@@ -8,7 +8,7 @@ import org.springframework.messaging.Message;
 import org.springframework.stereotype.Component;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 @Component
 @RocketMQTransactionListener(txProducerGroup = "OrderTransactionGroup")

@@ -18,7 +18,7 @@ import java.util.Arrays;
 /**
  * RestTemplate自动配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

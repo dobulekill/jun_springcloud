@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  * 系统权限-用户关联
- * @author liuyadu
+ * @author Wujun
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

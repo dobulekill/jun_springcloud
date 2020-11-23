@@ -28,7 +28,7 @@ import com.alibaba.cloud.context.edas.AliCloudEdasSdk;
 /**
  * Init {@link com.alibaba.ans.core.NamingService} properties.
  *
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsContextApplicationListener
 		extends AbstractOnceApplicationListener<ContextRefreshedEvent> {

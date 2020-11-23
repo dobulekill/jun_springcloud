@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @FeignClient(value = "roncoo", url = "www.roncoo.com")
 public interface IRoncooBiz {

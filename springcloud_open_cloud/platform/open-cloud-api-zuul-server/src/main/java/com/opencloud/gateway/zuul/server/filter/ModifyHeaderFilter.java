@@ -7,7 +7,7 @@ import com.opencloud.common.interceptor.FeignRequestInterceptor;
 
 /**
  * 修改Zuul header
- * @author liuyadu
+ * @author Wujun
  */
 public class ModifyHeaderFilter extends ZuulFilter {
 

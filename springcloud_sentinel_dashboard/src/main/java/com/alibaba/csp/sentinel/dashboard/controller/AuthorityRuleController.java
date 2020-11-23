@@ -46,7 +46,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 0.2.1
  */
 @RestController

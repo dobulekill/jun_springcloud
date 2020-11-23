@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/11/16
  * rabbit初始化配置
  */

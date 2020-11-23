@@ -20,7 +20,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * The type App social authentication filter post processor.
- * @author zscatcloud
+ * @author Wujun
  */
 @Component
 public class AppSocialAuthenticationFilterPostProcessor implements SocialAuthenticationFilterPostProcessor{

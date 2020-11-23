@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Map;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 @RestController
 @Api(value = "异步通知", tags = "异步通知")

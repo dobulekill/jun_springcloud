@@ -7,7 +7,7 @@ import org.apache.commons.lang.StringUtils;
 import com.sohu.cache.util.ConstUtils;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2016年11月23日
  * @Time 下午3:23:54
  */

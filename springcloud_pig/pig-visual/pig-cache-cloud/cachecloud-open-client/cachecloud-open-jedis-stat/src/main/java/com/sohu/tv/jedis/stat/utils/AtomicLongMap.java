@@ -24,7 +24,7 @@ import java.util.concurrent.atomic.AtomicLong;
  * <b>Warning:</b> Unlike {@code Multiset}, entries whose values are zero are not automatically
  * removed from the map. Instead they must be removed manually with {@link #removeAllZeros}.
  *
- * @author Charles Fry
+ * @author Wujun
  * @since 11.0
  */
 public class AtomicLongMap<K> {

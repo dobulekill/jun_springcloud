@@ -14,7 +14,7 @@ import com.sohu.cache.redis.enums.RedisInfoEnum;
 /**
  * 客户端输出缓冲区最大队列长度
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月16日
  * @Time 下午2:34:10
  */

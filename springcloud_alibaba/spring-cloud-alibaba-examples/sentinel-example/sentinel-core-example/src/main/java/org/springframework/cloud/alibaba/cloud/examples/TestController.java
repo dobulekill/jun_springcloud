@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 import com.alibaba.csp.sentinel.annotation.SentinelResource;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @RestController
 public class TestController {

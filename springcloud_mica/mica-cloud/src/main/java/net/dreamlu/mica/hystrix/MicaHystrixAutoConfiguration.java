@@ -34,7 +34,7 @@ import javax.annotation.PostConstruct;
 /**
  * Hystrix 配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(Hystrix.class)

@@ -32,7 +32,7 @@ import java.util.*;
 /**
  * Swagger文档生成配置
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 @Configuration

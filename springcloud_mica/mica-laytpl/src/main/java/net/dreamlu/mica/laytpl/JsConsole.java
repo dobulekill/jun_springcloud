@@ -21,7 +21,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 映射 js 中的 console
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 public class JsConsole {

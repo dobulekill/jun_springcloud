@@ -25,7 +25,7 @@ import com.micro.feign.client.service.HelloAFeignService;
  * @Description: 
  *
  * @Date 2017年8月29日 21:09:55
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @RestController

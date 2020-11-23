@@ -10,7 +10,7 @@ import java.util.List;
 
 
 /**
- * @author LYD
+ * @author Wujun
  */
 public interface IBaseService<T> extends IService<T> {
     /**

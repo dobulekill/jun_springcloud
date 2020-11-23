@@ -13,7 +13,7 @@ import com.sohu.cache.redis.enums.RedisClusterInfoEnum;
 
 /**
  * 集群成功分配槽个数监控
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月21日
  * @Time 下午3:01:21
  */

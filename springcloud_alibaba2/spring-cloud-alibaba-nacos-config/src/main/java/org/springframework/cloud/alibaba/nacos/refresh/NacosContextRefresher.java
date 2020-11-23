@@ -45,8 +45,8 @@ import java.util.concurrent.atomic.AtomicLong;
  * level dataIds, when there is a change in the data, listeners will refresh
  * configurations.
  *
- * @author juven.xuxb
- * @author pbting
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosContextRefresher
 		implements ApplicationListener<ApplicationReadyEvent>, ApplicationContextAware {

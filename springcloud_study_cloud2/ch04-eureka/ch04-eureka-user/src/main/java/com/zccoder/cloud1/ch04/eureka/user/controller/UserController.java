@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * 用户控制类
- * @author ZhangCheng on 2017-07-18 13:21
+ * @author Wujun
  *
  */
 @RestController

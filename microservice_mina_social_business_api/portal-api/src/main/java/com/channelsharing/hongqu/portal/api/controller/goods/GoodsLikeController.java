@@ -31,7 +31,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 商品点赞Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-27
  */
 @Api(tags = "商品点赞操作接口")

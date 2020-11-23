@@ -20,7 +20,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(AliCloudProperties.class)

@@ -26,7 +26,7 @@ import com.softdev.system.demo.service.JwtUserDetailsService;
 /**
  * JwtAuthenticationController
  * 	包含登陆和查看token的方法
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  */
 @RestController
 @CrossOrigin

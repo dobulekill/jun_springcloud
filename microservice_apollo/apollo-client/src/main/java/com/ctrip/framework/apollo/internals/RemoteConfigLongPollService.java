@@ -43,7 +43,7 @@ import com.google.common.util.concurrent.RateLimiter;
 import com.google.gson.Gson;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class RemoteConfigLongPollService {
   private static final Logger logger = LoggerFactory.getLogger(RemoteConfigLongPollService.class);

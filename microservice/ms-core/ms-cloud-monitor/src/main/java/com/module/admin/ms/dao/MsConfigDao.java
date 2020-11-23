@@ -6,7 +6,7 @@ import com.module.admin.ms.pojo.MsConfig;
 
 /**
  * ms_config的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2017-04-21 16:02:31
  * @version V1.0.0
  */

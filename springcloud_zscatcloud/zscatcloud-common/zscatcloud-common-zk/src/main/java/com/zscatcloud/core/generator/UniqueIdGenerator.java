@@ -14,7 +14,7 @@ package com.zscatcloud.core.generator;
 /**
  * 分布式唯一ID生成器
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class UniqueIdGenerator implements IdGenerator {
 

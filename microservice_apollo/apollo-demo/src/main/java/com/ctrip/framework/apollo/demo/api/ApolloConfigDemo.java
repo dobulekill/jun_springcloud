@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ApolloConfigDemo {
   private static final Logger logger = LoggerFactory.getLogger(ApolloConfigDemo.class);

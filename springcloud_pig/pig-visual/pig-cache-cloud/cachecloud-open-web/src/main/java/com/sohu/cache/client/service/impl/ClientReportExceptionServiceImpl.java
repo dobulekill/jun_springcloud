@@ -30,7 +30,7 @@ import com.sohu.tv.jedis.stat.model.ClientReportBean;
 /**
  * 客户端上报异常service
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月19日
  * @Time 上午10:02:32
  */

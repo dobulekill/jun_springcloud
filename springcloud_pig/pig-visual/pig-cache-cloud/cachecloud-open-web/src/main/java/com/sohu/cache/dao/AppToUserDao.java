@@ -10,7 +10,7 @@ import com.sohu.cache.entity.AppToUser;
 /**
  * 用户-应用对应关系
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月5日
  */
 public interface AppToUserDao {

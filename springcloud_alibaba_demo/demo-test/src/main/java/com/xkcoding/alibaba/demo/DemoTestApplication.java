@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 启动类
  * </p>
  *
- * @author yangkai.shen
+ * @author Wujun
  * @date Created in 2019-07-26 16:12
  */
 @RestController

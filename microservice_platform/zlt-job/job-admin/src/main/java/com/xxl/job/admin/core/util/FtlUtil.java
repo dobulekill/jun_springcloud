@@ -8,7 +8,7 @@ import freemarker.template.TemplateHashModel;
 /**
  * ftl util
  *
- * @author xuxueli 2018-01-17 20:37:48
+ * @author Wujun
  */
 public class FtlUtil {
 

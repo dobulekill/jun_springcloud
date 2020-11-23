@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * 简易DateUtils
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月15日
  * @Time 上午11:43:31
  */

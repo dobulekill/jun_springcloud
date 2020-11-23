@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 
 /**
  *  线程信息
- * @author admin
+ * @author Wujun
  */
 
 @TableName("thread_table")

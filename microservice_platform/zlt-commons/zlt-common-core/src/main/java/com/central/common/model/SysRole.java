@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 /**
- * @author zlt
+ * @author Wujun
  * 角色
  */
 @Data

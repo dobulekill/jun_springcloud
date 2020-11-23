@@ -2,7 +2,7 @@ package com.sohu.tv.jedis.stat.utils;
 
 /**
  * 从commons-lang抄的
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月13日
  * @Time 下午5:52:18
  */

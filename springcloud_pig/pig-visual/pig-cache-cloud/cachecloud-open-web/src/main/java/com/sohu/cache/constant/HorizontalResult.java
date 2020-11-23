@@ -2,7 +2,7 @@ package com.sohu.cache.constant;
 
 /**
  * 水平扩容结果标识
- * @author leifu
+ * @author Wujun
  * @Date 2016年12月4日
  * @Time 下午1:30:19
  */

@@ -23,7 +23,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 /**
- * @author cdfive
+ * @author Wujun
  * @since 1.6.0
  */
 @Component

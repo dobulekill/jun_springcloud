@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * @title POJO类
  * @describe 用户实例类
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  */
 public class User {

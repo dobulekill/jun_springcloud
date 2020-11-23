@@ -12,7 +12,7 @@ import org.springframework.cloud.stream.messaging.Sink;
  * 时间: 2018/10/05<br>
  * //@EnableBinding(value = {Sink.class})
  *
- * @author zc
+ * @author Wujun
  */
 public class SinkReceiver3 {
 

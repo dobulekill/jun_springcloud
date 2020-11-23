@@ -5,7 +5,7 @@ import javax.persistence.Transient;
 /**
  * 抽象通用搜索参数对象
  *
- * @author guer
+ * @author Wujun
  *
  */
 public abstract class AbstractSearchParams {

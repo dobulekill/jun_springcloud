@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import java.util.Map;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2018/1/16
  * 阿里大鱼短息服务配置
  */

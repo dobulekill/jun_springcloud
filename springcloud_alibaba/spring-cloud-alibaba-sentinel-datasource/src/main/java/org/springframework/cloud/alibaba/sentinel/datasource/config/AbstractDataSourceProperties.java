@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 /**
  * Abstract class Using by {@link DataSourcePropertiesConfiguration}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class AbstractDataSourceProperties {
 

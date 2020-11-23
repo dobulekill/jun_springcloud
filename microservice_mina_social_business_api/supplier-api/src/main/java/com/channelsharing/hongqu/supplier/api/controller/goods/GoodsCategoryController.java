@@ -21,7 +21,7 @@ import com.channelsharing.common.entity.Paging;
 /**
  * 商品分类Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-07
  */
 @Api(tags = "商品分类操作接口")

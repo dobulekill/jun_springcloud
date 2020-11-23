@@ -15,7 +15,7 @@ import com.baomidou.mybatisplus.enums.IdType;
  * <p>
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-10-29
  */
 @TableName("sys_role")

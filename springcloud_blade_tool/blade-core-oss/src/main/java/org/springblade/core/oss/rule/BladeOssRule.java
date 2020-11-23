@@ -24,7 +24,7 @@ import org.springblade.core.tool.utils.StringUtil;
 /**
  * 默认存储桶生成规则
  *
- * @author Chill
+ * @author Wujun
  */
 @AllArgsConstructor
 public class BladeOssRule implements OssRule {

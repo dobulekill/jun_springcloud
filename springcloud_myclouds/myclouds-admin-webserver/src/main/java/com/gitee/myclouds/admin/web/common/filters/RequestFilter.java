@@ -20,7 +20,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 外层通用请求过滤器
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @WebFilter(filterName = "RequestFilter", urlPatterns = { "/*" })

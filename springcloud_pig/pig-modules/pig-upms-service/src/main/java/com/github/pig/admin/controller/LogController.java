@@ -18,7 +18,7 @@ import java.util.Map;
  * 日志表 前端控制器
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-11-20
  */
 @RestController

@@ -10,7 +10,7 @@ import com.channelsharing.common.entity.BaseEntity;
 
 /**
  * 微信回调数据记录Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-03-29
  */
 @Data

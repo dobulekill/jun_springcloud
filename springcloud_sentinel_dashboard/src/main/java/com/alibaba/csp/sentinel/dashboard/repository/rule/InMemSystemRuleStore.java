@@ -22,7 +22,7 @@ import com.alibaba.csp.sentinel.dashboard.datasource.entity.rule.SystemRuleEntit
 import org.springframework.stereotype.Component;
 
 /**
- * @author leyou
+ * @author Wujun
  */
 @Component
 public class InMemSystemRuleStore extends InMemoryRuleRepositoryAdapter<SystemRuleEntity> {

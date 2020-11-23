@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * 消息发送实现类
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Service
 public class DelayMessageServiceImpl implements DelayMessageService {

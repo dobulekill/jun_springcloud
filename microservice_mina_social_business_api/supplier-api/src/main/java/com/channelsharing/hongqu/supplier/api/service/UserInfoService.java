@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 
 /**
  * 用户信息Service
- * @author liuahangjun
+ * @author Wujun
  * @version 2018-03-12
  */
 public interface UserInfoService extends CrudService<UserInfo>{

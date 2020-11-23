@@ -11,7 +11,7 @@ import java.util.Map;
 
 /**
  * 自定义oauth2异常提示
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 public class OpenOAuth2ExceptionSerializer extends StdSerializer<OpenOAuth2Exception> {

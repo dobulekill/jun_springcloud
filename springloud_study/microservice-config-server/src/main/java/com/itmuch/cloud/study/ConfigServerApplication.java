@@ -19,7 +19,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
  * http://localhost:8040/microservice-config-client-dev.properties
  * http://localhost:8040/microservice-config-client/dev
  * ...
- * @author eacdy
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableConfigServer

@@ -5,7 +5,7 @@ import com.zscatcloud.security.core.properties.SecurityConstants;
 /**
  * 校验码类型
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 public enum ValidateCodeType {
 

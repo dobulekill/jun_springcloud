@@ -18,7 +18,7 @@ package org.springblade.core.tool.utils;
 /**
  * Base64工具
  *
- * @author L.cm
+ * @author Wujun
  */
 public class Base64Util extends org.springframework.util.Base64Utils {
 

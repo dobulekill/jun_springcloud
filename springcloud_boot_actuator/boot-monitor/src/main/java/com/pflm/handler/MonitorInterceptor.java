@@ -11,7 +11,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * 拦截器
- * @author qxw
+ * @author Wujun
  * @data 2018年6月15日下午5:11:13
  */
 @Component

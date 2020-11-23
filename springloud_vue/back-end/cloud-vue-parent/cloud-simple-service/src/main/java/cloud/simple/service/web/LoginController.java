@@ -40,7 +40,7 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * 登录控制层
- * @author leo.aqing
+ * @author Wujun
  *
  */
 @RestController

@@ -15,7 +15,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * 电影控制类
  *
- * @author ZhangCheng on 2017-07-19 13:01
+ * @author Wujun
  */
 @RestController
 public class MovieController {

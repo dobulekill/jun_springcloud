@@ -23,7 +23,7 @@ import com.aliyuncs.profile.DefaultProfile;
 
 /**
  *
- * @author pbting
+ * @author Wujun
  */
 public abstract class AbstractSmsService implements ISmsService {
 

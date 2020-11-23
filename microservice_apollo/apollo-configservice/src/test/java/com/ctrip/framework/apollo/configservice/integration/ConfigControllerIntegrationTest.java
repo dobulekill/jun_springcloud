@@ -20,7 +20,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigControllerIntegrationTest extends AbstractBaseIntegrationTest {
   private String someAppId;

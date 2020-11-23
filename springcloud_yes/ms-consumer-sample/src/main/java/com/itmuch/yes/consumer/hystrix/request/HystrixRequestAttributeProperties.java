@@ -3,7 +3,7 @@ package com.itmuch.yes.consumer.hystrix.request;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author Reno Chou
+ * @author Wujun
  */
 @ConfigurationProperties("hystrix.propagate.request-attribute")
 public class HystrixRequestAttributeProperties {

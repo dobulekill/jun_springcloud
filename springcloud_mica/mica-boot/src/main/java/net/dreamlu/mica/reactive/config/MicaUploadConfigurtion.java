@@ -26,7 +26,7 @@ import org.springframework.web.reactive.config.WebFluxConfigurer;
 /**
  * 文件上传配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @AllArgsConstructor

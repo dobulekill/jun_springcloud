@@ -18,7 +18,7 @@ package org.springblade.core.launch.constant;
 /**
  * Consul常量.
  *
- * @author Chill
+ * @author Wujun
  */
 public interface ConsulConstant {
 

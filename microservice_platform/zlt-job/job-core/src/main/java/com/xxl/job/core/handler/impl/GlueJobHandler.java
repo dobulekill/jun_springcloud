@@ -6,7 +6,7 @@ import com.xxl.job.core.log.XxlJobLogger;
 
 /**
  * glue job handler
- * @author xuxueli 2016-5-19 21:05:45
+ * @author Wujun
  */
 public class GlueJobHandler extends IJobHandler {
 

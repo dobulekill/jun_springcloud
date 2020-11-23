@@ -17,7 +17,7 @@
 package com.aliyuncs.dysmsapi.model.v20170525;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class SendSmsRequest {
 }

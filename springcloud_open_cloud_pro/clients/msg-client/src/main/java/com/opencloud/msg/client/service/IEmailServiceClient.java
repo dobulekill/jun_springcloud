@@ -10,7 +10,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 发送邮件接口
  *
- * @author woodev
+ * @author Wujun
  */
 public interface IEmailServiceClient {
 

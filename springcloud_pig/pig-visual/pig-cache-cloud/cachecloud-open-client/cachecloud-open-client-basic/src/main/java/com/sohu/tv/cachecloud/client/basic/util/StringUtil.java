@@ -6,7 +6,7 @@ import java.util.List;
  * 简单字符串类
  * 减少common-lang依赖
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月10日
  * @Time 上午9:47:29
  */

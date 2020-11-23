@@ -22,7 +22,7 @@ import okhttp3.logging.HttpLoggingInterceptor;
 /**
  * OkHttp Slf4j logger
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 public class Slf4jLogger implements HttpLoggingInterceptor.Logger {

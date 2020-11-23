@@ -26,7 +26,7 @@ import org.springframework.cloud.netflix.ribbon.SpringClientFactory;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties

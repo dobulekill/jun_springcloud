@@ -29,7 +29,7 @@ import org.springframework.web.client.RestTemplate;
  * @Description: 
  *
  * @Date 2017年8月29日 20:44:14
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @SpringBootApplication
@@ -43,7 +43,7 @@ public class ClientRibbonApplication{
 	 * @Title: main 
 	 * @Description:程序入口
 	 * @param args 
-	 * @author Li.Shangzhi
+	 * @author Wujun
 	 * @date 2017年8月30日 上午11:34:30
 	 */
     public static void main(String[] args){

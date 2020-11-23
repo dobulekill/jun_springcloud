@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 服务器信息
  *
- * @author Chill
+ * @author Wujun
  */
 @Getter
 @Configuration

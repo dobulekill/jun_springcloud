@@ -1,5 +1,5 @@
 package com.murphy.shardingjdbc.service;/**
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/5 16:29
  * @version 1.0
  */
@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  *
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/5 16:29
  * @version 1.0
  */

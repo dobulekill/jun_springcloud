@@ -27,7 +27,7 @@ import com.sohu.cache.web.service.UserService;
 /**
  * 应用和实例权限验证
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年10月29日
  * @Time 下午3:18:00
  */

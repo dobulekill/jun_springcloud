@@ -4,7 +4,7 @@ package com.itqf.smsplatform.api.exception;
 /**
  * Created by jackiechan on 2020-02-26 10:58
  *
- * @Author jackiechan
+ * @author Wujun
  */
 public class SmsInterfaceException extends RuntimeException {
 

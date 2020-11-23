@@ -16,7 +16,7 @@ import org.springframework.messaging.support.GenericMessage;
  * 描述: 分区消息<br>
  * 时间: 2018/10/05<br>
  *
- * @author zc
+ * @author Wujun
  */
 @EnableBinding(value = {Source.class})
 public class SinkSender4 {

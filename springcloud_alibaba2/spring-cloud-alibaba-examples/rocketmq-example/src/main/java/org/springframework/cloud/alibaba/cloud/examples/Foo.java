@@ -1,7 +1,7 @@
 package org.springframework.cloud.alibaba.cloud.examples;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class Foo {
 

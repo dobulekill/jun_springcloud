@@ -25,8 +25,8 @@ import com.aliyun.oss.ClientBuilderConfiguration;
 /**
  * {@link ConfigurationProperties} for configuring OSS.
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
- * @author xiaolongzuo
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties("spring.cloud.alicloud.oss")
 public class OssProperties {

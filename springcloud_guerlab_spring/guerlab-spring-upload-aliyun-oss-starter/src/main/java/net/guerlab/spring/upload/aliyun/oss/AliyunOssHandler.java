@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 阿里云oss上传处理
  *
- * @author guer
+ * @author Wujun
  */
 public class AliyunOssHandler implements AfterUploadHandler {
 

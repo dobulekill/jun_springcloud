@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author juven.xuxb, 5/17/16.
+ * @author Wujun
  */
 public class AcmPropertySourceRepository {
 

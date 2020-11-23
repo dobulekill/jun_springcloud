@@ -12,7 +12,7 @@ import sun.misc.BASE64Encoder;
 
 /**
  * DES Class
- * @author jing.yue
+ * @author Wujun
  * @version 1.0
  * @since 2013/03/11 1.0.0
  *

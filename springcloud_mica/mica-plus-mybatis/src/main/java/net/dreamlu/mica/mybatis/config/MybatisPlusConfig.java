@@ -35,7 +35,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * MybatisPlus配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 public class MybatisPlusConfig {

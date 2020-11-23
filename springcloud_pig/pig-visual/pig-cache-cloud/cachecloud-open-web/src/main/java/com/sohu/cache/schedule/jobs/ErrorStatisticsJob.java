@@ -17,7 +17,7 @@ import java.util.Map;
 
 /**
  * 异常统计
- * @author leifu
+ * @author Wujun
  * @Date 2014年10月31日
  * @Time 上午11:05:42
  */

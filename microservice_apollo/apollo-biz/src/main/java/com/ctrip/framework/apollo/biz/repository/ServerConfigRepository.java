@@ -5,7 +5,7 @@ import com.ctrip.framework.apollo.biz.entity.ServerConfig;
 import org.springframework.data.repository.PagingAndSortingRepository;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ServerConfigRepository extends PagingAndSortingRepository<ServerConfig, Long> {
   ServerConfig findTopByKeyAndCluster(String key, String cluster);

@@ -17,7 +17,7 @@ import com.zscatcloud.security.core.social.qq.api.QQ;
 /**
  * The class Qq connection factory.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class QQConnectionFactory extends OAuth2ConnectionFactory<QQ> {
 

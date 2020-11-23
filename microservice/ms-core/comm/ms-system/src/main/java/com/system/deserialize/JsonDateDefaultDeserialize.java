@@ -12,7 +12,7 @@ import com.system.comm.utils.FrameTimeUtil;
 /**
  * 日期格式以yyyy-MM-dd HH:mm:ss这种形式展示
  * 		在对象的属性的set方法上使用：@JsonDeserialize(using = JsonDateDefaultDeserialize.class)
- * @author yuejing
+ * @author Wujun
  * @email  yuejing0129@163.com 
  * @date   2014年10月23日 下午2:31:24 
  * @version 1.0.0

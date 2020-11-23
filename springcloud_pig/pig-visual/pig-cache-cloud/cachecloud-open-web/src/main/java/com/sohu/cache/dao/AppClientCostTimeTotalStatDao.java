@@ -8,7 +8,7 @@ import com.sohu.cache.entity.AppClientCostTimeTotalStat;
 
 /**
  * 基于应用全局耗时统计(uniquekey: app_id, command, collect_time)
- * @author leifu
+ * @author Wujun
  * @Date 2015年6月26日
  * @Time 下午4:24:24
  */

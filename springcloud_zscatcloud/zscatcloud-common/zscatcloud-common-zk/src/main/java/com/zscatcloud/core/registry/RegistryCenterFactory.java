@@ -19,7 +19,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 注册中心工厂.
  *
- * @author zhangliang
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public final class RegistryCenterFactory {

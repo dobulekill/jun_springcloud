@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * 敏感词信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2017-07-10
  */
 @Service

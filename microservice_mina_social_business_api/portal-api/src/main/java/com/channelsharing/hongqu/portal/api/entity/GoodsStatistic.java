@@ -10,7 +10,7 @@ import com.channelsharing.common.entity.BaseEntity;
 
 /**
  * 商品实时数据统计Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-27
  */
 @Data

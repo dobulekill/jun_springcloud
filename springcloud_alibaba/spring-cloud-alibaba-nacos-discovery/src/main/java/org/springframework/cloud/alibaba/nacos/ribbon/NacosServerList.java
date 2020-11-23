@@ -27,8 +27,8 @@ import java.util.List;
 import com.alibaba.nacos.api.naming.pojo.Instance;
 
 /**
- * @author xiaojing
- * @author renhaojun
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosServerList extends AbstractServerList<NacosServer> {
 

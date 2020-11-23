@@ -11,7 +11,7 @@ import java.lang.annotation.Annotation;
 
 /**
  * 敏感词信息Model
- * @author liuhangjun
+ * @author Wujun
  * @version 2017-07-10
  */
 @Data

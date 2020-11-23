@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.turbine.EnableTurbine;
 import zipkin.server.EnableZipkinServer;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableZipkinServer

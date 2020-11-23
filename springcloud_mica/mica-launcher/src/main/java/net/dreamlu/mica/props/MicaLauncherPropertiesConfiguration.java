@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 配置 mica launcher props
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(MicaProperties.class)

@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 /**
  * Using By ConfigurationProperties.
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @see NacosDataSourceProperties
  * @see ApolloDataSourceProperties
  * @see ZookeeperDataSourceProperties

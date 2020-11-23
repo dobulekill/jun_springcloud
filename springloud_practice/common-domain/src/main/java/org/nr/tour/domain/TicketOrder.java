@@ -6,7 +6,7 @@ import javax.persistence.Table;
 import java.util.Date;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Entity
 @Table(name = "ticket_order")

@@ -30,7 +30,7 @@ import java.lang.annotation.*;
  * max-age 小于或等于0 时 向server 发送http 请求确认 ,该资源是否有修改
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

@@ -20,7 +20,7 @@ import com.alibaba.csp.sentinel.slots.system.SystemRule;
 import java.util.Date;
 
 /**
- * @author leyou
+ * @author Wujun
  */
 public class SystemRuleEntity implements RuleEntity {
 

@@ -15,7 +15,7 @@ import java.io.Serializable;
  * 角色菜单表
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-10-29
  */
 @TableName("sys_role_menu")

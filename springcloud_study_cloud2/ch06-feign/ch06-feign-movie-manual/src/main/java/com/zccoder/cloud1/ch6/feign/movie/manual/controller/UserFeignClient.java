@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  * @title Feign接口
  * @describe Feign接口

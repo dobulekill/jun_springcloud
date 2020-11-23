@@ -1,7 +1,7 @@
 package com.pflm.common.vo;
 /**
  * linux服务器 实际占用内存
- * @author qxw
+ * @author Wujun
  *
  */
 public class FreeBean {

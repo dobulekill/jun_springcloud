@@ -32,7 +32,7 @@ import java.util.Optional;
  * 响应信息主体
  *
  * @param <T> 泛型标记
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @Setter

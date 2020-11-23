@@ -17,7 +17,7 @@ import com.sohu.tv.jedis.stat.model.ClientReportBean;
 /**
  * 客户端常量和上报工具
  *
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月16日
  * @Time 下午2:50:59
  */

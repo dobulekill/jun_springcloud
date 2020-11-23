@@ -10,7 +10,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public abstract class Tracer {
   private static final Logger logger = LoggerFactory.getLogger(Tracer.class);

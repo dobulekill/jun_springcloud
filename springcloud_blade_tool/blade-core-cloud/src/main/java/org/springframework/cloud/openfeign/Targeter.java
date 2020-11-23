@@ -21,7 +21,7 @@ import feign.Feign;
 import feign.Target;
 
 /**
- * @author Spencer Gibb
+ * @author Wujun
  */
 public interface Targeter {
 	/**

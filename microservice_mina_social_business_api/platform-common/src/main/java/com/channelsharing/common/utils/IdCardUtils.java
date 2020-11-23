@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 身份证工具类
  *
- * @author June
+ * @author Wujun
  * @version 1.0, 2010-06-17
  */
 public class IdCardUtils extends StringUtils {

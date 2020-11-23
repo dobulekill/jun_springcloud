@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 范围分片，如果没有规律的范围可用这个
  * 瞎写的，，仅供参考
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/5 17:39
  * @version 1.0
  */

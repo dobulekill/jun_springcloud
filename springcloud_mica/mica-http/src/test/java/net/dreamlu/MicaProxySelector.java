@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * 代理设置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 public class MicaProxySelector extends ProxySelector {

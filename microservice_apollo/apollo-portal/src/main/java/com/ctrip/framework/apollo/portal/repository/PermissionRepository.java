@@ -8,7 +8,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface PermissionRepository extends PagingAndSortingRepository<Permission, Long> {
   /**

@@ -22,7 +22,7 @@ import org.springframework.context.ApplicationContext;
 /**
  * 传递spring 上线文到 laytpl 中
  *
- * @author L.cm
+ * @author Wujun
  */
 @AllArgsConstructor
 public class JsContext {

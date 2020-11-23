@@ -48,7 +48,7 @@ import javax.validation.ConstraintViolationException;
  *     Bean-Violation 异常处理
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 @Order(Ordered.HIGHEST_PRECEDENCE)

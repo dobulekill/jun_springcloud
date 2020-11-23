@@ -13,7 +13,7 @@ import com.sohu.cache.redis.enums.RedisInfoEnum;
 
 /**
  * 主从偏移量监控
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月16日
  * @Time 下午2:34:10
  */

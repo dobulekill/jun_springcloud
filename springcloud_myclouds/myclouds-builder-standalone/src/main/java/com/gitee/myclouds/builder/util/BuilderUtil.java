@@ -21,7 +21,7 @@ import com.google.common.collect.Lists;
 /**
  * <b>代码生成辅助工具类</b>
  * 
- * @author xiongchun
+ * @author Wujun
  */
 public class BuilderUtil {
 

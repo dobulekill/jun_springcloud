@@ -24,7 +24,7 @@ import java.util.Map;
 
 /**
  * 商品规格值Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 测试并发异常
  *
- * @author L.cm
+ * @author Wujun
  */
 public class DateFormatTest {
 	private static String dateStr = "2018-06-22T10:00:00";

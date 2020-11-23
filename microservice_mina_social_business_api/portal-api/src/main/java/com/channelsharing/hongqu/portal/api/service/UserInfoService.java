@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 用户信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2017-06-15
  */
 public interface UserInfoService extends CrudService<UserInfo> {

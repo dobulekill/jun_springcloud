@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * 用户远程服务
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @FeignClient("USERSERVICE")

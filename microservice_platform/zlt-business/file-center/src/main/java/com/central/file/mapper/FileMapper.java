@@ -12,7 +12,7 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 上传存储db
  *
- * @author zlt
+ * @author Wujun
  */
 public interface FileMapper extends SuperMapper<FileInfo> {
     List<FileInfo> findList(Page<FileInfo> page, @Param("f") Map<String, Object> params);

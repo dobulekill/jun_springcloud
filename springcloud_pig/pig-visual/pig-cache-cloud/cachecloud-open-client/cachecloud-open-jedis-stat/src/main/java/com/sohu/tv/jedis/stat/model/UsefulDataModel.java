@@ -3,7 +3,7 @@ package com.sohu.tv.jedis.stat.model;
 /**
  * 从jedis收集有价值的数据简单模型
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月13日
  * @Time 下午3:42:01
  */

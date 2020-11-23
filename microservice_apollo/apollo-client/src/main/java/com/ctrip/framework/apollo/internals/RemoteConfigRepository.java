@@ -36,7 +36,7 @@ import com.google.common.net.UrlEscapers;
 import com.google.common.util.concurrent.RateLimiter;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class RemoteConfigRepository extends AbstractConfigRepository {
   private static final Logger logger = LoggerFactory.getLogger(RemoteConfigRepository.class);

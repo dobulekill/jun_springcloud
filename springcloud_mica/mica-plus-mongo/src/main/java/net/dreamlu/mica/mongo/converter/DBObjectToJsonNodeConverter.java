@@ -26,7 +26,7 @@ import org.springframework.lang.Nullable;
 /**
  * mongo DBObject 转 jsonNode
  *
- * @author L.cm
+ * @author Wujun
  */
 @ReadingConverter
 public enum DBObjectToJsonNodeConverter implements Converter<BasicBSONObject, JsonNode> {

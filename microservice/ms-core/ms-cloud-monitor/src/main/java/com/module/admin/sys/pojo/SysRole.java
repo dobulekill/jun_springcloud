@@ -9,7 +9,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * 角色的实体
- * @author duanbin
+ * @author Wujun
  * @date 2016-05-08 09:47:06
  * @version V1.0.0
  */

@@ -30,7 +30,7 @@ import java.lang.reflect.Method;
 /**
  * The web interceptor for privilege-based authorization.
  *
- * @author lkxiaolou
+ * @author Wujun
  * @since 1.7.1
  */
 @Component

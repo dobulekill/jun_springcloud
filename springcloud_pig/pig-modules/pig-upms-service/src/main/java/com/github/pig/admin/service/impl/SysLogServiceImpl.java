@@ -16,7 +16,7 @@ import java.util.Date;
  * 日志表 服务实现类
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-11-20
  */
 @Service

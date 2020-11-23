@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.common.constants;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ReleaseOperation {
   int NORMAL_RELEASE = 0;

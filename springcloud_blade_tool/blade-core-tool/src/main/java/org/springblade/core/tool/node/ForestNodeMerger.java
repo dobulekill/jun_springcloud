@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * 森林节点归并类
  *
- * @author Chill
+ * @author Wujun
  */
 public class ForestNodeMerger {
 

@@ -14,7 +14,7 @@ import cloud.simple.service.util.EncryptUtil;
 
 /**
  * 公共控制器
- * @author leo
+ * @author Wujun
  *
  */
 public class CommonController {

@@ -22,7 +22,7 @@ import java.util.Date;
 /**
  * OssFile
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 public class OssFile {

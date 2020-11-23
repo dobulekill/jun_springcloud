@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.*;
 
 /**
- * @author zlt
+ * @author Wujun
  * @date 2019/9/14
  */
 public class DataSourceProxyConfig {

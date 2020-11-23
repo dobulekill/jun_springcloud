@@ -28,7 +28,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 用户地址信息Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 @Api(tags = "用户地址信息操作接口")

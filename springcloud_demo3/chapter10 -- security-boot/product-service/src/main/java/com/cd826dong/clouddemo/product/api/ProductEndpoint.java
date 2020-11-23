@@ -34,7 +34,7 @@ import java.util.stream.Collectors;
 /**
  * 商品管理的Endpoint
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 @RestController

@@ -24,7 +24,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * RateLimiter 限流 Client
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface RateLimiterClient {
 

@@ -35,7 +35,7 @@ import java.util.List;
 
 /**
  * 供应商售后服务Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-08-08
  */
 @Api(tags = "供应商售后服务操作接口")

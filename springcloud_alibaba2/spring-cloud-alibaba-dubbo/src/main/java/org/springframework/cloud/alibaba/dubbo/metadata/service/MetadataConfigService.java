@@ -23,7 +23,7 @@ import java.util.Set;
 /**
  * Config Service for Metadata
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public interface MetadataConfigService {
 

@@ -18,7 +18,7 @@ package com.alibaba.csp.sentinel.dashboard.domain.cluster;
 import java.util.List;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.0
  */
 public class ConnectionGroupVO {

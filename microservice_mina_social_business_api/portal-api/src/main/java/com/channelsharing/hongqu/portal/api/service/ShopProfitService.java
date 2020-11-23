@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 
 /**
  * 店铺收益Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-17
  */
 public interface ShopProfitService extends CrudService<ShopProfit>{

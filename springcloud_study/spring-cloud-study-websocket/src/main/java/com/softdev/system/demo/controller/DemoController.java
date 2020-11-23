@@ -11,7 +11,7 @@ import java.io.IOException;
 
 /**
  * WebSocketController
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  */
 @RestController
 public class DemoController {

@@ -16,7 +16,7 @@ import com.sohu.test.BaseTest;
 
 /**
  * 应用客户端连接数测试
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月16日
  * @Time 上午10:31:51
  */

@@ -26,7 +26,7 @@ import org.springframework.web.reactive.config.WebFluxConfigurer;
 /**
  * mica enum 《-》 String 转换配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnWebApplication(type = ConditionalOnWebApplication.Type.REACTIVE)

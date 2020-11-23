@@ -3,7 +3,7 @@ package org.springframework.cloud.alibaba.cloud.examples;
 import com.alibaba.dubbo.config.annotation.Reference;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 public class FooServiceConsumer {
 

@@ -21,7 +21,7 @@ import org.springblade.develop.support.BladeCodeGenerator;
 /**
  * 代码生成器
  *
- * @author Chill
+ * @author Wujun
  */
 public class CodeGenerator {
 

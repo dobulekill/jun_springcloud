@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import static org.springframework.cloud.netflix.zuul.filters.support.FilterConstants.FORM_BODY_WRAPPER_FILTER_ORDER;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/11/20
  * 在RateLimitPreFilter 之前执行，不然又空指针问题
  */

@@ -8,7 +8,7 @@ import com.sohu.tv.jedis.stat.utils.NumberUtil;
 /**
  * 值分布
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年7月21日
  */
 public enum ValueSizeDistriEnum {

@@ -6,7 +6,7 @@ import com.ctrip.framework.apollo.build.ApolloInjector;
 import com.google.common.collect.Maps;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultConfigFactoryManager implements ConfigFactoryManager {
   private ConfigRegistry m_registry;

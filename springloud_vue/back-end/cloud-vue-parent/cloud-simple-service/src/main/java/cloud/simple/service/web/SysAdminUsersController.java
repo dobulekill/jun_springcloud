@@ -26,7 +26,7 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * 系统用户控制层
- * @author leo.aqing
+ * @author Wujun
  */
 @RestController
 @RequestMapping("/admin/users")

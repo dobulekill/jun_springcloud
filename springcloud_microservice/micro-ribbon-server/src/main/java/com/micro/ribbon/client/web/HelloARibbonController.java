@@ -24,7 +24,7 @@ import com.micro.ribbon.client.service.HelloARibbonService;
  * @Description: 
  *
  * @Date 2017年8月29日 20:44:14
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @RestController

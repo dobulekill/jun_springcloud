@@ -25,7 +25,7 @@ import org.springframework.util.Assert;
 /**
  * ApplicationContext辅助类
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Component

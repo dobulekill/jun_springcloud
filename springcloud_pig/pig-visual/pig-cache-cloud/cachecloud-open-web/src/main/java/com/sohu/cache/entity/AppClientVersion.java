@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * 客户端版本
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月2日
  * @Time 下午3:22:52
  */

@@ -7,7 +7,7 @@ import javax.persistence.Entity;
 import java.util.Date;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Entity
 public class Member extends IDEntity {

@@ -10,7 +10,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 状态[10正常、20停用]
- * @author yuejing
+ * @author Wujun
  * @date 2016年5月16日 下午5:52:03
  * @version V1.0.0
  */

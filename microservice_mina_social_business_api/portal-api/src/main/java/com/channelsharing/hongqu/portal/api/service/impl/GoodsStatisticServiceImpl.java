@@ -19,7 +19,7 @@ import com.channelsharing.hongqu.portal.api.dao.GoodsStatisticDao;
 
 /**
  * 商品实时数据统计Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-27
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

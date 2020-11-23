@@ -22,7 +22,7 @@ import java.util.Enumeration;
 /**
  * 系统工具类，用于获取系统相关信息
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class CustomSystemUtil {

@@ -3,7 +3,7 @@ package org.springframework.cloud.alibaba.cloud.examples;
 import com.alibaba.dubbo.config.annotation.Service;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 @Service(
         version = "${foo.service.version}",

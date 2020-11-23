@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.portal.api.entity.PageFragment;
 
 /**
  * 页面区块信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-26
  */
 public interface PageFragmentService extends CrudService<PageFragment>{

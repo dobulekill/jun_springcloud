@@ -16,7 +16,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * The class Wrap mapper.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class WrapMapper {
 

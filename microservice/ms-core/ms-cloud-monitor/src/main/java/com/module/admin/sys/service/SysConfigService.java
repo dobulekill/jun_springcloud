@@ -8,7 +8,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * sys_config的Service
- * @author yuejing
+ * @author Wujun
  * @date 2016-10-19 13:50:15
  * @version V1.0.0
  */

@@ -5,7 +5,7 @@ import com.sohu.tv.jedis.stat.enums.CostTimeDistriEnum;
 /**
  * 耗时model,作为AtomicLongMap的key
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月13日
  * @Time 下午5:47:27
  */

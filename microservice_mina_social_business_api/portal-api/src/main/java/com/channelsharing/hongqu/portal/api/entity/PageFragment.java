@@ -11,7 +11,7 @@ import com.channelsharing.common.entity.BaseEntity;
 
 /**
  * 页面区块信息Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-26
  */
 @Data

@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * integrated Ribbon by default
- * @author xiaojing
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnRibbonNacos

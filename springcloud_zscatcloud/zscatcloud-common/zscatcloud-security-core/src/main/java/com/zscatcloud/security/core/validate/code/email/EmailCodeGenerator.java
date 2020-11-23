@@ -26,7 +26,7 @@ import java.util.Map;
 /**
  * 短信验证码生成器
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Slf4j
 @Component("emailValidateCodeGenerator")

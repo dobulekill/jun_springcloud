@@ -21,7 +21,7 @@ import lombok.experimental.UtilityClass;
 /**
  * 多线程工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 @UtilityClass
 public class ThreadUtil {

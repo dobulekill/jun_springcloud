@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * DateUtil Tester.
  *
- * @author L.cm
+ * @author Wujun
  * @version 1.0
  * @since <pre>Apr 29, 2019</pre>
  */

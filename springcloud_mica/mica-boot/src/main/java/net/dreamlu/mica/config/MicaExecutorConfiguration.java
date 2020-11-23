@@ -33,7 +33,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 异步处理
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @EnableAsync

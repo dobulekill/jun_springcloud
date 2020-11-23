@@ -11,7 +11,7 @@ import lombok.Data;
 
 /**
  * 订单发票Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Data

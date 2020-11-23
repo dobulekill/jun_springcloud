@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * Rocketmq生产者 demo
  *
- * @author zlt
+ * @author Wujun
  */
 @SpringBootApplication
 public class RocketMqProduceApplication {

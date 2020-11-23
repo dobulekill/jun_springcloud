@@ -8,7 +8,7 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.TypeReference;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 public class JsonFlowRuleListConverter implements Converter<String, List<FlowRule>> {
 	@Override

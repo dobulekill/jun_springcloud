@@ -21,7 +21,7 @@ import org.springframework.lang.Nullable;
 /**
  * 受检的 Supplier
  *
- * @author L.cm
+ * @author Wujun
  */
 @FunctionalInterface
 public interface CheckedSupplier<T> {

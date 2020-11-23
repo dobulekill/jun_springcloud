@@ -16,7 +16,7 @@ import com.sohu.cache.redis.enums.InstanceAlertCompareTypeEnum;
 import com.sohu.cache.util.JsonUtil;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月2日
  * @Time 下午3:24:53
  */

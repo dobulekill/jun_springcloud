@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * The class Resource server config.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Configuration
 @EnableResourceServer

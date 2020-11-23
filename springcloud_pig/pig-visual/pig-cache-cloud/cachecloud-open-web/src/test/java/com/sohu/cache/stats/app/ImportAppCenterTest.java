@@ -14,7 +14,7 @@ import com.sohu.test.BaseTest;
 /**
  * 应用导入测试
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-4-16
  * @Time 下午5:55:38
  */

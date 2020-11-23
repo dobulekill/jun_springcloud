@@ -13,7 +13,7 @@ import com.central.common.model.SysRole;
 import com.central.common.model.SysUser;
 
 /**
-* @author zlt
+* @author Wujun
  */
 public interface ISysUserService extends ISuperService<SysUser> {
 	/**

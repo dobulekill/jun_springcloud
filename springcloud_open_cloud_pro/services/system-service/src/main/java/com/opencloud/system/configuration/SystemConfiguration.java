@@ -13,7 +13,7 @@ import org.springframework.security.oauth2.provider.token.store.redis.RedisToken
 import javax.sql.DataSource;
 
 /**
- * @author LYD
+ * @author Wujun
  */
 @Configuration
 public class SystemConfiguration {

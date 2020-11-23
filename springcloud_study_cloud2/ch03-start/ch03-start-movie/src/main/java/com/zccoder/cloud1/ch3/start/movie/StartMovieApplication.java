@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * 项目启动类
- * @author ZhangCheng on 2017-07-17 13:36
+ * @author Wujun
  *
  */
 @SpringBootApplication

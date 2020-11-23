@@ -6,7 +6,7 @@ import javax.persistence.criteria.CriteriaBuilder;
 import java.util.Date;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public class TicketOrderDetailVO extends BaseOrderDetailVO {
 

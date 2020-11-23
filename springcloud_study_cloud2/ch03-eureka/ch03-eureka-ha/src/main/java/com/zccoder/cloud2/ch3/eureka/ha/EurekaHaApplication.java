@@ -10,7 +10,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * 描述: 启动类<br>
  * 时间: 2018/10/01<br>
  *
- * @author zc
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableEurekaServer

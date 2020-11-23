@@ -2,7 +2,7 @@ package com.system.handle.model;
 
 /**
  * 响应编码
- * @author yuejing
+ * @author Wujun
  * @date 2016年1月29日 下午5:18:37
  * @version V1.0.0
  */

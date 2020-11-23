@@ -20,7 +20,7 @@ import java.lang.annotation.Target;
 /**
  * The interface No need access authentication.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.core.dto;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ApolloConfigNotification {
   private String namespaceName;

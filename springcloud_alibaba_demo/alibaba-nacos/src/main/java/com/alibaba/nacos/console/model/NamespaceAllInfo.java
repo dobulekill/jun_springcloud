@@ -18,7 +18,7 @@ package com.alibaba.nacos.console.model;
 /**
  * all namespace info
  *
- * @author Nacos
+ * @author Wujun
  */
 public class NamespaceAllInfo extends Namespace {
 

@@ -20,7 +20,7 @@ import com.pflm.modules.sys.entity.SysActuatorEntity;
 /**
  * jvm数据收集定时任务
  * 
- * @author qxw
+ * @author Wujun
  *
  */
 @Component("monitiorTask")

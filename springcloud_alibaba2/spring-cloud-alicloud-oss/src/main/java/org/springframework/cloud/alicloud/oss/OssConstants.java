@@ -19,7 +19,7 @@ package org.springframework.cloud.alicloud.oss;
 /**
  * OSS constants
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public interface OssConstants {
 

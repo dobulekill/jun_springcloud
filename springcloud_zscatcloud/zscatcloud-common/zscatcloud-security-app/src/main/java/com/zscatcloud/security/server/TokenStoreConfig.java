@@ -29,7 +29,7 @@ import com.zscatcloud.security.core.properties.SecurityProperties;
 /**
  * The class Token store config.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Configuration
 public class TokenStoreConfig {
@@ -59,7 +59,7 @@ public class TokenStoreConfig {
 	/**
 	 * 使用jwt时的配置，默认生效
 	 *
-	 * @author zscatcloud.net @gmail.com
+	 * @author Wujun
 	 */
 	@Configuration
 	@ConditionalOnProperty(prefix = "zscatcloud.security.oauth2", name = "tokenStore", havingValue = "jwt", matchIfMissing = true)

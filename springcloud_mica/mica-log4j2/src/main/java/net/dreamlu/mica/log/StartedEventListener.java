@@ -31,7 +31,7 @@ import java.util.Map;
 /**
  * 项目启动事件通知
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 public class StartedEventListener {

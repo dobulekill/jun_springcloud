@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
  * 测试配置获取
  * </p>
  *
- * @author yangkai.shen
+ * @author Wujun
  * @date Created in 2019-07-26 15:10
  */
 @Data

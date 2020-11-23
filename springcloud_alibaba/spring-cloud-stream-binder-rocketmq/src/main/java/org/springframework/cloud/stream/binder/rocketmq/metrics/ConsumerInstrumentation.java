@@ -25,8 +25,8 @@ import com.codahale.metrics.Meter;
 import com.codahale.metrics.MetricRegistry;
 
 /**
- * @author juven.xuxb
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 public class ConsumerInstrumentation extends Instrumentation {
 

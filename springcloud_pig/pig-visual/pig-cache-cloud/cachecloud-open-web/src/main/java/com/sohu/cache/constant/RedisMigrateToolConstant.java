@@ -2,7 +2,7 @@ package com.sohu.cache.constant;
 
 /**
  * Redis-Migrate-Tool常量
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-10
  * @Time 上午9:23:30
  */

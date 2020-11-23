@@ -16,7 +16,7 @@ import lombok.Data;
 /**
  * 微信用户信息
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 public class WeixinUserInfo {

@@ -36,7 +36,7 @@ import java.util.Objects;
 /**
  * mica 配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @RefreshScope
 @ConfigurationProperties("mica")

@@ -26,7 +26,7 @@ import java.math.BigDecimal;
 
 /**
  * 店铺收益Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-17
  */
 @Api(tags = "店铺收益操作接口")

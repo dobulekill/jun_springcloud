@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
  *  elasticsearch spring-data 目前支持的最高版本为5.5 所以需要自己注入生成客户端
  *
  * 数据配置，进行初始化操作
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 28/8/2018下午 5:54
  */

@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Created by SuperS on 2017/9/25.
  *
- * @author SuperS
+ * @author Wujun
  */
 @Configuration
 @EnableResourceServer

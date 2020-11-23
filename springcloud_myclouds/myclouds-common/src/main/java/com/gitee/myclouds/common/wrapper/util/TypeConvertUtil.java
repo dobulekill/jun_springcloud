@@ -13,7 +13,7 @@ import java.util.Locale;
 /**
  * <b>类型转换工具类</b>
  * 
- * @author xiongchun
+ * @author Wujun
  */
 public class TypeConvertUtil {
 

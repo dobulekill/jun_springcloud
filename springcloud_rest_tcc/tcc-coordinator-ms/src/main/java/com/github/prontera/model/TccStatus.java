@@ -1,7 +1,7 @@
 package com.github.prontera.model;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public enum TccStatus {
     TO_BE_CONFIRMED, CONFIRMED, CONFLICT, TIMEOUT

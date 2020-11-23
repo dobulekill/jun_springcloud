@@ -8,7 +8,7 @@ import com.sohu.tv.jedis.stat.model.ClientReportBean;
 
 /**
  * 客户端值分布服务
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月19日
  * @Time 上午10:02:37
  */

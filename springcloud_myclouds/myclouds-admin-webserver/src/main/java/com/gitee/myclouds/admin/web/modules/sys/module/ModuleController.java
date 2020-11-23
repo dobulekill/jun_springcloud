@@ -16,7 +16,7 @@ import com.gitee.myclouds.common.wrapper.Dtos;
 /**
  * 资源模块管理
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Controller

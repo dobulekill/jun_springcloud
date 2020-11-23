@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 
 /**
  * 店铺钱包Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-26
  */
 public interface ShopWalletService extends CrudService<ShopWallet>{

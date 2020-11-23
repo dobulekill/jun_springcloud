@@ -21,7 +21,7 @@ import java.lang.annotation.*;
 /**
  * copy 字段 配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)

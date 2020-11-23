@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * 用户表 Mapper 接口
  *
- * @author zlt
+ * @author Wujun
  * @data 2018-10-29
  */
 public interface SysUserMapper extends SuperMapper<SysUser> {

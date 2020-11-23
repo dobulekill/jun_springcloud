@@ -7,7 +7,7 @@ import com.sohu.cache.entity.AppDailyData;
 
 /**
  * 应用日数据统计
- * @author leifu
+ * @author Wujun
  * @Date 2016年8月10日
  * @Time 下午5:11:03
  */

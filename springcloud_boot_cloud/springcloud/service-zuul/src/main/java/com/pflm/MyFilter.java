@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * zuul不仅只是路由，并且还能过滤
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 19/7/2018下午 4:50
  */

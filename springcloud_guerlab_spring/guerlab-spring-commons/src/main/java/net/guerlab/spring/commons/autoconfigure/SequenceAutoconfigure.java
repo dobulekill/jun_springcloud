@@ -11,7 +11,7 @@ import net.guerlab.spring.commons.sequence.Sequence;
 /**
  * 分布式序列自动配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

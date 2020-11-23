@@ -12,7 +12,7 @@ import org.hibernate.validator.constraints.Range;
 
 /**
  * 用户地址信息Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 @Data

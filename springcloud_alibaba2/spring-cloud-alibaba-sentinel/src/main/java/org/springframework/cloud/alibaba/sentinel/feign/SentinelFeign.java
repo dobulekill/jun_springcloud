@@ -37,7 +37,7 @@ import feign.hystrix.HystrixFeign;
 /**
  * {@link Feign.Builder} like {@link HystrixFeign.Builder}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class SentinelFeign {
 

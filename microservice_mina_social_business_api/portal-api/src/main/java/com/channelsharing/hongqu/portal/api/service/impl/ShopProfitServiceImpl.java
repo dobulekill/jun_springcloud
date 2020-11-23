@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * 店铺收益Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-17
  */
 @Service

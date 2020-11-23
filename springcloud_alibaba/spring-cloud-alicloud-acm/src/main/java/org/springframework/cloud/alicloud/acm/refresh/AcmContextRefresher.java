@@ -41,7 +41,7 @@ import com.alibaba.edas.acm.listener.ConfigChangeListener;
  * level dataIds, when there is a change in the data, listeners will refresh
  * configurations.
  *
- * @author juven.xuxb, 5/13/16.
+ * @author Wujun
  */
 public class AcmContextRefresher implements ApplicationListener<ApplicationReadyEvent> {
 

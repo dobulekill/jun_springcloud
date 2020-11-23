@@ -5,7 +5,7 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * 拦截器注册
- * @author qxw
+ * @author Wujun
  * @data 2018年7月17日上午10:16:32
  */
 @Configuration

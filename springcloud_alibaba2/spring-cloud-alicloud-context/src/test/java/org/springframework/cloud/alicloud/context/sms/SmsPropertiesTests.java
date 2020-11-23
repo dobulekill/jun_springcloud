@@ -26,7 +26,7 @@ import org.springframework.cloud.alicloud.context.AliCloudContextAutoConfigurati
 import org.springframework.cloud.alicloud.context.edas.EdasContextAutoConfiguration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class SmsPropertiesTests {
 

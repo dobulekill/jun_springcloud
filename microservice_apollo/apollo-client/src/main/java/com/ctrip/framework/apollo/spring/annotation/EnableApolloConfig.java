@@ -23,7 +23,7 @@ import com.ctrip.framework.apollo.core.ConfigConsts;
  * }
  * </pre>
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)

@@ -9,7 +9,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Getter
 @Setter

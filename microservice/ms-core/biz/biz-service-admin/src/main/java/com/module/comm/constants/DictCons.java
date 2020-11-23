@@ -13,7 +13,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 字典常量
- * @author  duanbin
+ * @author Wujun
  * @date    2016年5月27日 下午1:55:23 
  * @version 1.0.0
  */

@@ -26,7 +26,7 @@ import com.alibaba.cloud.context.edas.EdasChangeOrderConfiguration;
 import com.alibaba.cloud.context.edas.EdasChangeOrderConfigurationFactory;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class SentinelAliCloudListener
 		extends AbstractOnceApplicationListener<ApplicationEnvironmentPreparedEvent> {

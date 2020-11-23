@@ -12,7 +12,7 @@ import com.channelsharing.hongqu.supplier.api.entity.UserInfo;
 
 /**
  * 用户信息Service
- * @author liuahangjun
+ * @author Wujun
  * @version 2018-03-12
  */
 @Service

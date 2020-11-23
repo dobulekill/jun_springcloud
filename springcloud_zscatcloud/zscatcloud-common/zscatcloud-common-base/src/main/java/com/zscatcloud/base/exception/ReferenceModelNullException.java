@@ -13,7 +13,7 @@ package com.zscatcloud.base.exception;
 /**
  * The class Reference model null exception.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class ReferenceModelNullException extends RuntimeException {
 	private static final long serialVersionUID = -318154770875589045L;

@@ -8,7 +8,7 @@ import com.frame.sys.pojo.SysRole;
 
 /**
  * sys_role的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2016-03-25 10:52:47
  * @version V1.0.0
  */

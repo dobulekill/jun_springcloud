@@ -9,7 +9,7 @@ import com.google.common.collect.Maps;
 import com.google.common.collect.Table;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class MockInjector implements Injector {
   private static Map<Class, Object> classMap = Maps.newHashMap();

@@ -39,7 +39,7 @@ import java.net.URI;
 /**
  * Interceptor using by SentinelRestTemplate
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class SentinelProtectInterceptor implements ClientHttpRequestInterceptor {
 

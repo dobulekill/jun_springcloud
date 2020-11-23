@@ -6,7 +6,7 @@ import com.ctrip.framework.apollo.tracer.Tracer;
 import com.ctrip.framework.foundation.internals.ServiceBootstrap;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ApolloInjector {
   private static volatile Injector s_injector;

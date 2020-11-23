@@ -7,7 +7,7 @@ import org.nr.tour.domain.TicketOrder;
 import java.util.List;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface TicketService extends BaseService<Ticket> {
     List<Ticket> getBySceneryId(String sceneryId);

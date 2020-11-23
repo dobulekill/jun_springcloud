@@ -33,7 +33,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 商品分类Controller
  * 
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-27
  */
 @Api(tags = "商品分类接口")

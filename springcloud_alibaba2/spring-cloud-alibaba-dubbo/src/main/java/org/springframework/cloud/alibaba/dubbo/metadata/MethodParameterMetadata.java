@@ -22,7 +22,7 @@ import java.util.Objects;
 /**
  * {@link Method} Parameter Metadata
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class MethodParameterMetadata {
 

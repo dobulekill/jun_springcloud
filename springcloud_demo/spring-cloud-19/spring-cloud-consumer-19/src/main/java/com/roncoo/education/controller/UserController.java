@@ -13,7 +13,7 @@ import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 import com.netflix.hystrix.contrib.javanica.conf.HystrixPropertiesManager;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/user", method = RequestMethod.POST)

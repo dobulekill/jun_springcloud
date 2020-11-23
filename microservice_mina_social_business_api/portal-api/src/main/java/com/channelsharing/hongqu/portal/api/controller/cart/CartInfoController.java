@@ -20,7 +20,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 购物车Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-22
  */
 @Api(tags = "购物车操作接口")

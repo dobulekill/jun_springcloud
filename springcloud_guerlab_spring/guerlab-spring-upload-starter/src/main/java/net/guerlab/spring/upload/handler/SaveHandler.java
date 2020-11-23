@@ -8,7 +8,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 文件保存处理
  *
- * @author guer
+ * @author Wujun
  */
 @FunctionalInterface
 public interface SaveHandler {

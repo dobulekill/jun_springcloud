@@ -28,7 +28,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * shiro权限认证
- * @author yuejing
+ * @author Wujun
  * @version 2016/05/21 1.0.0
  */
 public class ShiroDbRealm extends AuthorizingRealm {

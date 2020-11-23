@@ -9,7 +9,7 @@ import com.sohu.cache.constant.AppDataMigrateStatusEnum;
 /**
  * 迁移状态
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-9
  * @Time 下午5:13:13
  */

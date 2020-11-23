@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  * IP匹配工具类
- * @author LYD
+ * @author Wujun
  */
 public final class ReactiveIpAddressMatcher {
     private final int nMaskBits;

@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * 资源扫描配置
  *
- * @author LYD
+ * @author Wujun
  * @date 2018/7/29
  */
 @ConfigurationProperties(prefix = "opencloud.scan")

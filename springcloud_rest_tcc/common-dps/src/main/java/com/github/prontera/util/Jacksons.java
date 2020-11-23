@@ -5,7 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.base.Throwables;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public final class Jacksons {
     private static final ObjectMapper MAPPER = new ObjectMapper();

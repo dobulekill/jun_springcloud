@@ -8,7 +8,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * 索引配置
  *
- * @author zlt
+ * @author Wujun
  */
 @Setter
 @Getter

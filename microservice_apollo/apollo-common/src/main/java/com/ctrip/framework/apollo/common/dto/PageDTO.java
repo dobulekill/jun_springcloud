@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class PageDTO<T> {
   private final long total;

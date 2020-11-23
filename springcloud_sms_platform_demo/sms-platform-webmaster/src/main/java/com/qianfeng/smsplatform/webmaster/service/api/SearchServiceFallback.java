@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author menglili
+ * @author Wujun
  * 搜索服务的熔断
  */
 @Component

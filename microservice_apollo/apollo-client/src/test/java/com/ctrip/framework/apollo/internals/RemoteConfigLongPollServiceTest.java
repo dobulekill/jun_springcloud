@@ -39,7 +39,7 @@ import com.google.common.collect.Lists;
 import com.google.common.util.concurrent.SettableFuture;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @RunWith(MockitoJUnitRunner.class)
 public class RemoteConfigLongPollServiceTest {

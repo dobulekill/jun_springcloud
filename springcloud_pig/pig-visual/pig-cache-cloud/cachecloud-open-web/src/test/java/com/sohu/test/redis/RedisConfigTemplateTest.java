@@ -13,7 +13,7 @@ import com.sohu.test.BaseTest;
 
 /**
  * Redis配置模板测试
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月22日
  * @Time 下午6:26:28
  */

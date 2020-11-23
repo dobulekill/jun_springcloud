@@ -3,7 +3,7 @@ package com.ctrip.framework.apollo.model;
 import com.ctrip.framework.apollo.enums.PropertyChangeType;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigFileChangeEvent {
   private final String namespace;

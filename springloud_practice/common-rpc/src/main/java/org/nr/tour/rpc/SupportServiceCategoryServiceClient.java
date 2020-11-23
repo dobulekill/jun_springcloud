@@ -6,7 +6,7 @@ import org.nr.tour.domain.SupportServiceCategory;
 import org.springframework.cloud.netflix.feign.FeignClient;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @FeignClient(value = ServiceConstants.HOTEL_SERVICE, path = ServiceConstants.PATH_SERVICE_CATEGORY)
 public interface SupportServiceCategoryServiceClient extends AbstractServiceDefinition<SupportServiceCategory, String> {

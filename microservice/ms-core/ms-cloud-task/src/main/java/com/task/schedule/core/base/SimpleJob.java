@@ -6,7 +6,7 @@ import org.springframework.scheduling.quartz.QuartzJobBean;
 
 /**
  * 定时任务Job
- * @author jing.yue
+ * @author Wujun
  * @version 2012/09/18 1.0.0
  */
 public class SimpleJob extends QuartzJobBean {

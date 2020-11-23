@@ -10,7 +10,7 @@ import com.zccoder.cloud1.ch3.start.user.repository.UserRepository;
 
 /**
  * 用户控制类
- * @author ZhangCheng on 2017-07-17 13:15
+ * @author Wujun
  *
  */
 @RestController

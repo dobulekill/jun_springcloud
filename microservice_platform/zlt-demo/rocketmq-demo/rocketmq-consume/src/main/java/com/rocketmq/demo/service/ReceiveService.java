@@ -9,7 +9,7 @@ import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Service;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 @Service
 public class ReceiveService {

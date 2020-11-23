@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * jwt生成相关配置
- * @author dongsufeng
+ * @author Wujun
  * @version 4.0
  * @date 2019/12/2 2:45 PM
  */

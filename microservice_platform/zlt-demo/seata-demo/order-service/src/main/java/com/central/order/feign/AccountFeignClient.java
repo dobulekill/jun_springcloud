@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * @author zlt
+ * @author Wujun
  * @date 2019/9/14
  */
 @FeignClient(name = "account-service")

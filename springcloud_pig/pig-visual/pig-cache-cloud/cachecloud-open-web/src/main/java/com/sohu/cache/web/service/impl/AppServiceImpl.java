@@ -23,7 +23,7 @@ import redis.clients.jedis.HostAndPort;
 /**
  * 应用操作实现类
  *
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月21日
  */
 public class AppServiceImpl implements AppService {

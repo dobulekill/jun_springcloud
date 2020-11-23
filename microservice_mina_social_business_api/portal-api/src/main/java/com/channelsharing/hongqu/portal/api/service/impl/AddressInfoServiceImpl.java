@@ -25,7 +25,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * 用户地址信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

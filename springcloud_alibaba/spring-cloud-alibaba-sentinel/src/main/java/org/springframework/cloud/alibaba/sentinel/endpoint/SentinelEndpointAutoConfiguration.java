@@ -25,7 +25,7 @@ import org.springframework.cloud.alibaba.sentinel.SentinelProperties;
 import org.springframework.context.annotation.Bean;
 
 /**
- * @author hengyunabc
+ * @author Wujun
  */
 @ConditionalOnClass(Endpoint.class)
 @EnableConfigurationProperties({ SentinelProperties.class })

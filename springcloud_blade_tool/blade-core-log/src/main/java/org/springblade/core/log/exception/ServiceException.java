@@ -23,7 +23,7 @@ import org.springblade.core.tool.api.ResultCode;
 /**
  * 业务异常
  *
- * @author Chill
+ * @author Wujun
  */
 public class ServiceException extends RuntimeException {
 	private static final long serialVersionUID = 2359767895161832954L;

@@ -33,8 +33,8 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * @author xiaojing
- * @author pbting
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosPropertySourceBuilder {
 	private static final Log log = LogFactory.getLog(NacosPropertySourceBuilder.class);

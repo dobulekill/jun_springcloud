@@ -29,7 +29,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 供应商信息Controller
- * @author 供应商信息
+ * @author Wujun
  * @version 2018-08-08
  */
 @Api(tags = "供应商信息操作接口")

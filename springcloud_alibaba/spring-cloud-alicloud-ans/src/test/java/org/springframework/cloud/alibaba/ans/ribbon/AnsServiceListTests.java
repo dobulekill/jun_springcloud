@@ -31,7 +31,7 @@ import com.alibaba.ans.shaded.com.taobao.vipserver.client.core.Host;
 import com.netflix.loadbalancer.Server;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsServiceListTests {
 

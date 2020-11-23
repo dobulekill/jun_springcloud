@@ -6,7 +6,7 @@ import java.util.ResourceBundle;
 
 /**
  * cachecloud常量
- * @author leifu
+ * @author Wujun
  * @Date 2016年3月1日
  * @Time 下午12:54:45
  */

@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 /**
  * 转换为DTO对象
  *
- * @author guer
+ * @author Wujun
  *
  * @param <D>
  *            DTO对象类型

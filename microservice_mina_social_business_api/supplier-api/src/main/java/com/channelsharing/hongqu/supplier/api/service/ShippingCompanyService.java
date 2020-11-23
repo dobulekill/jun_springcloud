@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.supplier.api.entity.ShippingCompany;
 
 /**
  * 物流公司信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-03
  */
 public interface ShippingCompanyService extends CrudService<ShippingCompany>{

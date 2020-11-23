@@ -23,7 +23,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * mica spring boot props
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties({

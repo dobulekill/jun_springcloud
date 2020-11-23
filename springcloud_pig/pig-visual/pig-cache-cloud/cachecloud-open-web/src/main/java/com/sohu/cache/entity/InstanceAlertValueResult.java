@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSONObject;
 
 /**
  * 实例报警结果
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月19日
  * @Time 下午10:50:23
  */

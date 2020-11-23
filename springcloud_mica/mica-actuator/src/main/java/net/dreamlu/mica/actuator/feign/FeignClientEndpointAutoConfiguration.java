@@ -27,7 +27,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Feign client 端点配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(FeignClient.class)

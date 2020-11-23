@@ -7,7 +7,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 /**
  * 项目启动类
- * @author ZhangCheng on 2017-07-17 13:17
+ * @author Wujun
  *
  */
 @SpringBootApplication

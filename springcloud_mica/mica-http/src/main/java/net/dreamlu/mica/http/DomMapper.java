@@ -33,7 +33,7 @@ import java.util.List;
 /**
  * 爬虫 xml 转 bean 基于 jsoup
  *
- * @author L.cm
+ * @author Wujun
  */
 public class DomMapper {
 

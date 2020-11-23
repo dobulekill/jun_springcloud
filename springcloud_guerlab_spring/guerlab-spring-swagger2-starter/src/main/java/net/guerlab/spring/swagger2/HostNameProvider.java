@@ -14,7 +14,7 @@ import org.springframework.web.util.UrlPathHelper;
 /**
  * HostName Provider
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class HostNameProvider {

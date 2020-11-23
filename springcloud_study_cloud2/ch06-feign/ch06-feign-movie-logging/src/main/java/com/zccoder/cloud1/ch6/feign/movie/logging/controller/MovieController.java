@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @title 电影控制类
  * @describe 电影控制类
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  */
 @RestController

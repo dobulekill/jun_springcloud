@@ -13,7 +13,7 @@ package com.zscatcloud.base.exception;
 /**
  * The class Config exception.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class ConfigException extends RuntimeException {
 

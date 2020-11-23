@@ -7,7 +7,7 @@ import ma.glasnost.orika.metadata.Type;
 import java.time.OffsetDateTime;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class OffsetDateTimeConverter extends BidirectionalConverter<OffsetDateTime, OffsetDateTime> {
     @Override

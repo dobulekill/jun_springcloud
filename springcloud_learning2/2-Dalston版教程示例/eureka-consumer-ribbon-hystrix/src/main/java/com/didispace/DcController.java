@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author 翟永超
+ * @author Wujun
  * @create 2017/4/15.
  * @blog http://blog.didispace.com
  */

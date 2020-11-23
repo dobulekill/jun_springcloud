@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 店铺访问记录Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-08
  */
 public interface ShopVisitService extends CrudService<ShopVisit>{

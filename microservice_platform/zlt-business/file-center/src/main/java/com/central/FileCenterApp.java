@@ -10,7 +10,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
  * 文件中心
- * @author 作者 owen E-mail: 624191343@qq.com
+ * @author Wujun
  */
 @EnableDiscoveryClient
 @EnableConfigurationProperties(FileServerProperties.class)

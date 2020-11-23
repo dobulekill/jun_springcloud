@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * secure api放行配置
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 public class SecureRegistry {

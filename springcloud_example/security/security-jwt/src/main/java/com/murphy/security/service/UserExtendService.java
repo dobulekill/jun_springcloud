@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 非用户名密码验证
- * @author dongsufeng
+ * @author Wujun
  * @version 4.0
  * @date 2019/12/3 3:48 PM
  */

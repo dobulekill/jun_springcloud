@@ -7,7 +7,7 @@ import org.springframework.util.DigestUtils;
 /**
  * appkey计算工具
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-7-9
  * @Time 下午9:23:59
  */

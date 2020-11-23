@@ -11,7 +11,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 /**
  * Convert sentinel rules for json array Using strict mode to parse json
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @see FlowRule
  * @see DegradeRule
  * @see SystemRule

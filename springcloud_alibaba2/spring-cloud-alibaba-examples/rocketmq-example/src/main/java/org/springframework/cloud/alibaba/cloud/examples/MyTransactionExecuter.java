@@ -5,7 +5,7 @@ import org.apache.rocketmq.client.producer.LocalTransactionState;
 import org.apache.rocketmq.common.message.Message;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class MyTransactionExecuter implements LocalTransactionExecuter {
 	@Override

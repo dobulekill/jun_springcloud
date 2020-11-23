@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 import net.guerlab.spring.commons.properties.ResponseAdvisorProperties;
 
 /**
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

@@ -11,7 +11,7 @@ import sun.misc.BASE64Decoder;
 
 /**
  * base64的类
- * @author jing.yue
+ * @author Wujun
  * @version 2012/08/29 1.0.0
  */
 @SuppressWarnings("restriction")

@@ -11,7 +11,7 @@ import com.central.file.model.FileInfo;
 /**
  * 文件service
  *
- * @author 作者 owen E-mail: 624191343@qq.com
+ * @author Wujun
 */
 public interface IFileService extends IService<FileInfo> {
 	FileInfo upload(MultipartFile file ) throws Exception;

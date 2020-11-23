@@ -21,7 +21,7 @@ import java.io.IOException;
 /**
  * Long 类型字段序列化时转为字符串，避免js丢失精度
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class LongJsonSerializer extends JsonSerializer<Long> {
 	/**

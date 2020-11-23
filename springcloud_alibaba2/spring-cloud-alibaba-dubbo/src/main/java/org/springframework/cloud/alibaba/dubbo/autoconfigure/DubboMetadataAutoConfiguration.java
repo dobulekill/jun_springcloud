@@ -28,7 +28,7 @@ import org.springframework.context.annotation.Import;
 /**
  * Spring Boot Auto-Configuration class for Dubbo Metadata
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 @Configuration
 @Import(DubboServiceMetadataRepository.class) // 创建了 DubboServiceMetadataRepository Bean 对象

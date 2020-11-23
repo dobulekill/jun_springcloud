@@ -8,7 +8,7 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboard;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-07
  * @title 启动类
  * @describe 使用Hystrix Dashboard可视化监控数据

@@ -8,7 +8,7 @@ import java.util.concurrent.*;
 /**
  * 异步生成器
  *
- * @author guer
+ * @author Wujun
  */
 public abstract class AbstractAsyncGenerator<T> implements Runnable {
 

@@ -14,7 +14,7 @@ import org.springframework.context.ApplicationContext;
 /**
  * redis慢查询job
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年2月22日
  * @Time 上午9:38:49
  */

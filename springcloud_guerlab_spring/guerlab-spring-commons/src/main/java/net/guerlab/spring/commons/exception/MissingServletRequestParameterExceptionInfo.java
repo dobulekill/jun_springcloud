@@ -7,7 +7,7 @@ import org.springframework.web.bind.MissingServletRequestParameterException;
 /**
  * 缺失请求参数
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class MissingServletRequestParameterExceptionInfo extends AbstractI18nInfo {

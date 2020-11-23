@@ -7,7 +7,7 @@ import javax.persistence.Table;
 /**
  * 线路订单游客
  *
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Entity
 @Table(name = "line_order_visitor")

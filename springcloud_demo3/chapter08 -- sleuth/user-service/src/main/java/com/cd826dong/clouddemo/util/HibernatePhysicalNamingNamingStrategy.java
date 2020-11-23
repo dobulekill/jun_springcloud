@@ -25,7 +25,7 @@ import javax.persistence.MappedSuperclass;
  * Hibernate命名方法:
  *    1)保持Entity类中对数据库表命名的不变；
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @MappedSuperclass

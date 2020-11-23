@@ -21,7 +21,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * 异步配置
- * @author Chill
+ * @author Wujun
  */
 @Getter
 @Setter

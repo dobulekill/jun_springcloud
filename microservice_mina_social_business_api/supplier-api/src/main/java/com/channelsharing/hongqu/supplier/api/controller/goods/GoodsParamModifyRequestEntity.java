@@ -12,7 +12,7 @@ import javax.validation.constraints.NotNull;
 
 /**
  * 商品参数介绍Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Data

@@ -13,7 +13,7 @@ import javax.annotation.Resource;
 /**
  * security配置
  *
- * @author zlt
+ * @author Wujun
  * @date 2020/2/22
  * <p>
  * Blog: https://blog.csdn.net/zlt2000

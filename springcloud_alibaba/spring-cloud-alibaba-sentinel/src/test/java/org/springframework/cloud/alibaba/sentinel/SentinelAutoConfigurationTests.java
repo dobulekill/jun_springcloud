@@ -33,8 +33,8 @@ import org.springframework.web.client.RestTemplate;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
 
 /**
- * @author fangjian
- * @author jiashuai.xie
+ * @author Wujun
+ * @author Wujun
  */
 public class SentinelAutoConfigurationTests {
 

@@ -85,7 +85,7 @@ import org.springframework.stereotype.Component;
 /**
  * Communicate with Sentinel client.
  *
- * @author leyou
+ * @author Wujun
  */
 @Component
 public class SentinelApiClient {

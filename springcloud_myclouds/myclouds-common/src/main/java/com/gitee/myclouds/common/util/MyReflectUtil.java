@@ -25,7 +25,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 反射器
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2009-10-06
  */
 @SuppressWarnings("rawtypes")

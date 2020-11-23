@@ -26,7 +26,7 @@ import java.util.List;
 
 /**
  * 店铺访问记录Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-08
  */
 @Api(tags = "店铺访问记录操作接口")

@@ -26,7 +26,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosAutoServiceRegistration
 		extends AbstractAutoServiceRegistration<NacosRegistration> {

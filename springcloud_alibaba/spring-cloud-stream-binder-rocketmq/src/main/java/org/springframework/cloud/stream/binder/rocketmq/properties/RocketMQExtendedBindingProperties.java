@@ -23,8 +23,8 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.cloud.stream.binder.ExtendedBindingProperties;
 
 /**
- * @author Timur Valiev
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties("spring.cloud.stream.rocketmq")
 public class RocketMQExtendedBindingProperties implements

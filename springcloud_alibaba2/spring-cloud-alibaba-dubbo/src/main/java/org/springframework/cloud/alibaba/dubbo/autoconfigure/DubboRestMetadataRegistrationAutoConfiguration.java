@@ -39,7 +39,7 @@ import java.util.Set;
  * REST metadata that is a part of {@link Registration#getMetadata() Spring Cloud service instances' metadata}
  * will be registered Spring Cloud registry.
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 @ConditionalOnProperty(value = "spring.cloud.service-registry.auto-registration.enabled", matchIfMissing = true) // 要求有 "spring.cloud.service-registry.auto-registration.enabled=true" ，或者不配置。
 @ConditionalOnBean(value = { // 要求存在 MetadataResolver、MetadataConfigService Bean 对象

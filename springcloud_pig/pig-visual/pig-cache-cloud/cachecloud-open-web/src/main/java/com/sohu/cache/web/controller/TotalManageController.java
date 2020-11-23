@@ -24,7 +24,7 @@ import com.sohu.cache.web.enums.SuccessEnum;
 /**
  * 全局统计
  *
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月14日
  */
 @Controller

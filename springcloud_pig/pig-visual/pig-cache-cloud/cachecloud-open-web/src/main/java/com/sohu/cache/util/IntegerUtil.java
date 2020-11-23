@@ -3,7 +3,7 @@ package com.sohu.cache.util;
 /**
  * Integer 工具类
  * 
- * @author 银时：yinshi.nc / yinshi.nc@taobao.com
+ * @author Wujun
  * @Date Jan 13, 2012
  */
 public class IntegerUtil {

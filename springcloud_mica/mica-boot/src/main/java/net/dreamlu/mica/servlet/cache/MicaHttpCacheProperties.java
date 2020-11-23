@@ -27,7 +27,7 @@ import java.util.List;
 /**
  * Http Cache 配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @RefreshScope
 @ConfigurationProperties("mica.http.cache")

@@ -9,7 +9,7 @@ import org.springframework.beans.factory.FactoryBean;
 /**
  * A {@link FactoryBean} for creating {@link ZookeeperDataSource} instance.
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @see ZookeeperDataSource
  */
 public class ZookeeperDataSourceFactoryBean implements FactoryBean<ZookeeperDataSource> {

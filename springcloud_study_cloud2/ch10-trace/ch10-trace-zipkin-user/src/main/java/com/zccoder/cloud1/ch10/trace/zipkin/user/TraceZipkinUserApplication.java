@@ -6,7 +6,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-18
  * @title 启动类
  * @describe 微服务整合Zipkin

@@ -3,7 +3,7 @@ package net.dreamlu.mica.core.validation;
 /**
  * Validated Update group.
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface UpdateGroup {
 

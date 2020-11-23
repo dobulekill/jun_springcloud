@@ -37,8 +37,8 @@ import java.util.*;
 import static com.alibaba.nacos.api.PropertyKeyConst.*;
 
 /**
- * @author dungu.zpf
- * @author xiaojing
+ * @author Wujun
+ * @author Wujun
  */
 
 @ConfigurationProperties("spring.cloud.nacos.discovery")

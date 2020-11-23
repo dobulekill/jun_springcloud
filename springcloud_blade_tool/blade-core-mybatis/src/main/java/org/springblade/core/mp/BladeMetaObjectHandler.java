@@ -22,7 +22,7 @@ import org.apache.ibatis.reflection.MetaObject;
 /**
  * mybatisplus自定义填充
  *
- * @author Chill
+ * @author Wujun
  */
 @Slf4j
 public class BladeMetaObjectHandler implements MetaObjectHandler {

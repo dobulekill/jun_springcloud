@@ -5,7 +5,7 @@ import com.sohu.cache.entity.StandardStats;
 
 /**
  * 报警基础数据
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月16日
  * @Time 下午2:19:10
  */

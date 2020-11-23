@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 /**
  * 分片广播任务
  *
- * @author xuxueli 2017-07-25 20:56:50
+ * @author Wujun
  */
 @JobHandler(value="shardingJobHandler")
 @Service

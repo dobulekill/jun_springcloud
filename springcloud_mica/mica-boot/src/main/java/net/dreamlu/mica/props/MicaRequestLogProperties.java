@@ -25,7 +25,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * 日志配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @Setter

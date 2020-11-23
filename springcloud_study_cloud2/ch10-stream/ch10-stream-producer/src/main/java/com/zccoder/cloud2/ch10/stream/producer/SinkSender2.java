@@ -18,7 +18,7 @@ import org.springframework.messaging.support.GenericMessage;
  * //@EnableBinding(value = {SinkSender2.SinkOutput.class})
  * 时间: 2018/10/05<br>
  *
- * @author zc
+ * @author Wujun
  */
 public class SinkSender2 {
 

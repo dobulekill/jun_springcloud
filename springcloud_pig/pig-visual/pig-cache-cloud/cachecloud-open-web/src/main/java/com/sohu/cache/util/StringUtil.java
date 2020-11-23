@@ -16,7 +16,7 @@ import com.sohu.cache.constant.EmptyObjectConstant;
 /**
  * Description: String Utils
  * 
- * @author nileader / nileader@gmail.com
+ * @author Wujun
  * @Date Feb 10, 2012
  */
 public class StringUtil {

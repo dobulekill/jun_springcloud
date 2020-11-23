@@ -34,7 +34,7 @@ import java.util.Map;
 /**
  * Using by {@link SentinelRestTemplate} and {@link SentinelProtectInterceptor}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class SentinelClientHttpResponse extends AbstractClientHttpResponse {
 

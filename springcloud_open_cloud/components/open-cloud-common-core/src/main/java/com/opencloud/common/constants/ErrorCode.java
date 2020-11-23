@@ -3,7 +3,7 @@ package com.opencloud.common.constants;
 /**
  * 自定义返回码
  *
- * @author admin
+ * @author Wujun
  */
 
 public enum ErrorCode {

@@ -7,7 +7,7 @@ import com.opencloud.system.client.model.entity.GatewayAccessLogs;
 
 /**
  * 网关访问日志
- * @author liuyadu
+ * @author Wujun
  */
 public interface GatewayAccessLogsService extends IBaseService<GatewayAccessLogs> {
     /**

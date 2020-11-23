@@ -12,7 +12,7 @@ import com.task.schedule.manager.pojo.SysUser;
 
 /**
  * 用户Session拦截器
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-16 下午10:09:43
  * @version V1.0.0
  */

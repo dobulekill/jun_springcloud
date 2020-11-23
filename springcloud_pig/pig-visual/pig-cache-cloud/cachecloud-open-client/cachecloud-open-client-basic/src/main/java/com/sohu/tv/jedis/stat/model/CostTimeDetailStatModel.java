@@ -2,7 +2,7 @@ package com.sohu.tv.jedis.stat.model;
 
 /**
  * 耗时详细统计(平均值、中位值、多维度最大值等等)
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月23日
  * @Time 上午11:23:20
  */

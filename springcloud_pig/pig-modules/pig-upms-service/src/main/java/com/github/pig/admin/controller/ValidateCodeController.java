@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.awt.image.BufferedImage;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/12/18
  * 验证码提供
  */

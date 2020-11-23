@@ -28,7 +28,7 @@ import javax.annotation.Resource;
  * spring security配置
  * 在WebSecurityConfigurerAdapter不拦截oauth要开放的资源
  * 
- * @author zlt
+ * @author Wujun
  */
 @Configuration
 @Import(DefaultPasswordConfig.class)

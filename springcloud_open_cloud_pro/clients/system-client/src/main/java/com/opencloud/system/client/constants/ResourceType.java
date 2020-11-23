@@ -2,7 +2,7 @@ package com.opencloud.system.client.constants;
 
 /**
  * 资源类型
- * @author LYD
+ * @author Wujun
  */
 public enum ResourceType {
 

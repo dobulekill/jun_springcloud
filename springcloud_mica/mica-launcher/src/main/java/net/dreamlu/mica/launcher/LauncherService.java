@@ -23,7 +23,7 @@ import org.springframework.core.env.Environment;
 /**
  * launcher 扩展 用于一些组件发现
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface LauncherService extends Ordered, Comparable<LauncherService> {
 

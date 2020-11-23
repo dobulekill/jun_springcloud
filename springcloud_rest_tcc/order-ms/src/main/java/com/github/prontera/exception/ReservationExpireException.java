@@ -3,7 +3,7 @@ package com.github.prontera.exception;
 import feign.Response;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class ReservationExpireException extends RuntimeException {
 

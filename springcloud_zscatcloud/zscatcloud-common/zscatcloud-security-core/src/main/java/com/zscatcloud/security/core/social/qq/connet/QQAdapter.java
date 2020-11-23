@@ -20,7 +20,7 @@ import org.springframework.social.connect.UserProfile;
 /**
  * The class Qq adapter.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class QQAdapter implements ApiAdapter<QQ> {
 

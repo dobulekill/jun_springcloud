@@ -29,7 +29,7 @@ import com.alibaba.ans.core.NamingService;
 import com.alibaba.ans.shaded.com.taobao.vipserver.client.ipms.NodeReactor;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsServiceRegistry implements ServiceRegistry<AnsRegistration> {
 

@@ -23,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 限流异常
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 public class RateLimiterException extends RuntimeException {

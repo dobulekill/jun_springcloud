@@ -8,7 +8,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * swagger配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @RefreshScope

@@ -28,7 +28,7 @@ import org.springframework.util.StringUtils;
 
 /**
  * 登陆失败处理
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/02 15:17
  * @version 1.0
  */

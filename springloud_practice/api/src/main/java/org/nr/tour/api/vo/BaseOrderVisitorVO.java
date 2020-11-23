@@ -3,7 +3,7 @@ package org.nr.tour.api.vo;
 import org.nr.tour.domain.LineVisitorTypeEnum;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public class BaseOrderVisitorVO extends BaseVO {
 

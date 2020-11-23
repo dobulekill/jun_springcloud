@@ -40,7 +40,7 @@ import static org.junit.Assert.assertTrue;
 import static org.springframework.boot.test.context.SpringBootTest.WebEnvironment.RANDOM_PORT;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 
 @RunWith(SpringRunner.class)

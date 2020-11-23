@@ -20,7 +20,7 @@ import com.sohu.cache.web.util.AppEmailUtil;
 
 /**
  * 用户信息管理
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月6日
  */
 @Controller

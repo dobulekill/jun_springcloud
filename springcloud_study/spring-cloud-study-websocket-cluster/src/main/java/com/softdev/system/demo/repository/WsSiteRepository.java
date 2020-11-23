@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 
 /**
 *  ws_site
-* @author 大狼狗 2020-01-14
+* @author Wujun
 */
 @Repository
 public interface WsSiteRepository extends JpaRepository<WsSite,String> {

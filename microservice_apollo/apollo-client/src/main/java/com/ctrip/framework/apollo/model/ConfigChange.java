@@ -5,7 +5,7 @@ import com.ctrip.framework.apollo.enums.PropertyChangeType;
 
 /**
  * Holds the information for a config change.
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigChange {
   private final String namespace;

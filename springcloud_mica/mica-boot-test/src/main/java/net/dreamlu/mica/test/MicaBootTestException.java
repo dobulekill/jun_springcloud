@@ -19,7 +19,7 @@ package net.dreamlu.mica.test;
 /**
  * mica test 异常
  *
- * @author L.cm
+ * @author Wujun
  */
 class MicaBootTestException extends RuntimeException {
 

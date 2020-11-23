@@ -3,7 +3,7 @@ package com.ctrip.framework.apollo.core.enums;
 import com.google.common.base.Preconditions;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public enum Env{
   LOCAL, DEV, FWS, FAT, UAT, LPT, PRO, TOOLS;

@@ -12,7 +12,7 @@ import org.springframework.core.Ordered;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Aspect
 public class RequestIdStuffAspect implements Ordered {

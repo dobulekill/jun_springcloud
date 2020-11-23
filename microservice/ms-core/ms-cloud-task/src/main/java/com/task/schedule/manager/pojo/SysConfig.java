@@ -10,7 +10,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * 系统配置实体
- * @author yuejing
+ * @author Wujun
  * @date 2015年4月5日 下午10:09:28
  * @version V1.0.0
  */

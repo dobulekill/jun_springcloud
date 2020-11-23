@@ -7,7 +7,7 @@ import com.sohu.cache.entity.AppClientCostTimeTotalStat;
 import com.sohu.tv.jedis.stat.model.ClientReportBean;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月19日
  * @Time 上午10:02:28
  */

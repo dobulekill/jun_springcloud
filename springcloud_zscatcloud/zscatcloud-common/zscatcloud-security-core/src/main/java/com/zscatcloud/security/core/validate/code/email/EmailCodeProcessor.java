@@ -26,7 +26,7 @@ import java.util.Map;
 /**
  * 短信验证码处理器
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Component("emailValidateCodeProcessor")
 public class EmailCodeProcessor extends AbstractValidateCodeProcessor<ValidateCode> {

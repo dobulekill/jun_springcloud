@@ -35,7 +35,7 @@ import java.util.function.Function;
 /**
  * laytpl 服务器端模板
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaTemplate implements ApplicationContextAware, InitializingBean {
 	private final ConcurrentMap<String, String> tplCache = new ConcurrentHashMap<>();

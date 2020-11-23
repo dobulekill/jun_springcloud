@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * Map处理实例
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class MapSearchParamsUtilInstance extends SearchParamsUtilInstance {

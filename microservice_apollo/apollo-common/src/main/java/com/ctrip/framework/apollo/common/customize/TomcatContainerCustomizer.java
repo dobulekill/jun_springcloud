@@ -14,7 +14,7 @@ import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Component;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Component
 public class TomcatContainerCustomizer implements EmbeddedServletContainerCustomizer {

@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.core.utils;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ByteUtil {
   private static final char[] HEX_CHARS = new char[] {

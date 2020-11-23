@@ -7,7 +7,7 @@ import ma.glasnost.orika.metadata.Type;
 import java.time.LocalDate;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class LocalDateConverter extends BidirectionalConverter<LocalDate, LocalDate> {
     @Override

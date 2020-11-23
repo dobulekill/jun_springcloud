@@ -23,7 +23,7 @@ import org.springframework.beans.factory.BeanFactory;
 import feign.Feign;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 final class FescarHystrixFeignBuilder {
 

@@ -21,7 +21,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import com.alibaba.cloud.context.scx.ScxConfiguration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @ConfigurationProperties("spring.cloud.alicloud.scx")
 public class ScxProperties implements ScxConfiguration {

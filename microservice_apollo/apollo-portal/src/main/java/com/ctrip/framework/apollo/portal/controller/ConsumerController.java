@@ -27,7 +27,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @RestController
 public class ConsumerController {

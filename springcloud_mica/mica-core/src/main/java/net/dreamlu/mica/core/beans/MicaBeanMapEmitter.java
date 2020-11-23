@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  * 重写 cglib BeanMap 处理器
  *
- * @author L.cm
+ * @author Wujun
  */
 class MicaBeanMapEmitter extends ClassEmitter {
 	private static final Type BEAN_MAP = TypeUtils.parseType(MicaBeanMap.class.getName());

@@ -28,8 +28,8 @@ import org.springframework.cloud.stream.binder.rocketmq.RocketMQBinderConstants.
 import com.codahale.metrics.MetricRegistry;
 
 /**
- * @author Timur Valiev
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 public class InstrumentationManager {
 

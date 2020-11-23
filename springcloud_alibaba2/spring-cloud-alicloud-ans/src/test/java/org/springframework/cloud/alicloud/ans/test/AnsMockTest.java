@@ -21,7 +21,7 @@ import java.util.Map;
 import com.alibaba.ans.shaded.com.taobao.vipserver.client.core.Host;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class AnsMockTest {
 

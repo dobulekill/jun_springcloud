@@ -33,8 +33,8 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author xiaojing
- * @author pbting
+ * @author Wujun
+ * @author Wujun
  */
 @Order(0)
 public class NacosPropertySourceLocator implements PropertySourceLocator {

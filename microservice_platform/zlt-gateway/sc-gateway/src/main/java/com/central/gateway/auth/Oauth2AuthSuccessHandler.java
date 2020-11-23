@@ -16,7 +16,7 @@ import reactor.core.publisher.Mono;
 /**
  * 认证成功处理类
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/10/7
  * <p>
  * Blog: https://blog.csdn.net/zlt2000

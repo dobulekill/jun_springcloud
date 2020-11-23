@@ -8,7 +8,7 @@ import org.apache.commons.lang.builder.ToStringBuilder;
 
 /**
  * 客户端异常统计
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月20日
  * @Time 上午11:44:09
  */

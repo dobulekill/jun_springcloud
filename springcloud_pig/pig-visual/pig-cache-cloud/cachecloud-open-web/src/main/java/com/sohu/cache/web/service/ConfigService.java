@@ -8,7 +8,7 @@ import com.sohu.cache.web.enums.SuccessEnum;
 
 /**
  * cachecloud配置服务
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月23日
  * @Time 上午10:35:04
  */

@@ -20,7 +20,7 @@ import lombok.extern.slf4j.Slf4j;
  * AbstractIFileService 抽取类
  * 根据zlt.file-server.type 实例化具体对象
  *
- * @author 作者 owen E-mail: 624191343@qq.com
+ * @author Wujun
  */
 @Slf4j
 public abstract class AbstractIFileService extends ServiceImpl<FileMapper, FileInfo> implements IFileService {

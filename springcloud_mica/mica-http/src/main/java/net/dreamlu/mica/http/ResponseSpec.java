@@ -31,7 +31,7 @@ import java.util.function.Consumer;
 /**
  * 相应接口
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface ResponseSpec {
 

@@ -5,7 +5,7 @@ import com.central.common.model.Result;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author zlt
+ * @author Wujun
  * @date 2018/12/10
  */
 public interface IValidateCodeService {

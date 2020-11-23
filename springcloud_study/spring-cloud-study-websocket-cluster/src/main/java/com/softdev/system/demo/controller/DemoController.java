@@ -24,7 +24,7 @@ import java.util.List;
 
 /**
  * WebSocketController
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  */
 @RestController
 @Slf4j

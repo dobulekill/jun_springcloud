@@ -21,7 +21,7 @@ import java.util.Date;
 /**
  * The class Date util.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class DateUtil {

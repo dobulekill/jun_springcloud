@@ -24,7 +24,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 验证码自动配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @EnableCaching
 @Configuration

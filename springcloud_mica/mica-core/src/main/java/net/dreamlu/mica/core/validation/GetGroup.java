@@ -3,7 +3,7 @@ package net.dreamlu.mica.core.validation;
 /**
  * Validated Get group.
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface GetGroup {
 

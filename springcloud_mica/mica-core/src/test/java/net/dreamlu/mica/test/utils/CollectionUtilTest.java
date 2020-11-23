@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * CollectionUtil Tester.
  *
- * @author L.cm
+ * @author Wujun
  * @version 1.0
  */
 public class CollectionUtilTest {

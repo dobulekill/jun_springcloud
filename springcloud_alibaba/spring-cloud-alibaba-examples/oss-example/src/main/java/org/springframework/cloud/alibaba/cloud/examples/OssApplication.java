@@ -13,7 +13,7 @@ import java.net.URISyntaxException;
 /**
  * OSS Application
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @SpringBootApplication
 public class OssApplication {

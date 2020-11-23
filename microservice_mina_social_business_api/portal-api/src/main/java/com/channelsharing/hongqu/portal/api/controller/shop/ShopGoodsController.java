@@ -22,7 +22,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 店铺代理商品信息Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-12
  */
 @Api(tags = "店铺代理商品信息操作接口")

@@ -2,7 +2,7 @@ package com.sohu.cache.constant;
 
 /**
  * 空对象常量
- * @author leifu
+ * @author Wujun
  * @Date 2016-1-26
  * @Time 下午9:27:23
  */

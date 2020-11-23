@@ -1,7 +1,7 @@
 package com.github.pig.admin.dto;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017年11月9日23:33:27
  */
 public class MenuTree extends TreeNode {

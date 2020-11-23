@@ -11,7 +11,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 系统配置
- * @author yuejing
+ * @author Wujun
  * @date 2015年4月5日 下午10:05:22
  * @version V1.0.0
  */

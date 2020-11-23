@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
  * 描述: 从POST抛出的异常，使用该过滤器返回错误信息<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 @Component
 public class ErrorExtFilter extends SendErrorFilter {

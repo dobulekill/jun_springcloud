@@ -26,7 +26,7 @@ import com.google.common.base.Joiner;
 import com.google.common.base.Preconditions;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class LocalFileConfigRepository extends AbstractConfigRepository
     implements RepositoryChangeListener {

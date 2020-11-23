@@ -11,7 +11,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 字典分类
- * @author yuejing
+ * @author Wujun
  * @date 2016年1月29日 下午9:31:59
  * @version V1.0.0
  */

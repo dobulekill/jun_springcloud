@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * 系统时钟
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class SystemClock {

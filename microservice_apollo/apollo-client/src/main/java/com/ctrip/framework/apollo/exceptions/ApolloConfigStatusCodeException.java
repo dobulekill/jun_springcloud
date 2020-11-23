@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.exceptions;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ApolloConfigStatusCodeException extends RuntimeException{
   private final int m_statusCode;

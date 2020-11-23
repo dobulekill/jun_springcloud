@@ -46,7 +46,7 @@ import java.util.function.Predicate;
 /**
  * ok http 封装，请求结构体
  *
- * @author L.cm
+ * @author Wujun
  */
 public class HttpRequest {
 	private static final String DEFAULT_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36";

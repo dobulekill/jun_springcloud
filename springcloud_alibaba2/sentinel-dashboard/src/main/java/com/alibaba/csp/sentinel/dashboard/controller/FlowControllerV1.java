@@ -46,8 +46,8 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Flow rule controller.
  *
- * @author leyou
- * @author Eric Zhao
+ * @author Wujun
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/v1/flow")

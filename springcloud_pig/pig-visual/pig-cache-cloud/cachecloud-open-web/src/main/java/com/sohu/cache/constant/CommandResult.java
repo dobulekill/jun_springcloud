@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * ssh命令简单封装
- * @author leifu
+ * @author Wujun
  * @Date 2016年7月27日
  * @Time 下午3:06:42
  */

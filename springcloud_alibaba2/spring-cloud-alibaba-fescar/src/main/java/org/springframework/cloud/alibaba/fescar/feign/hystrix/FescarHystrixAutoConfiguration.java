@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 import com.netflix.hystrix.HystrixCommand;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 
 @Configuration

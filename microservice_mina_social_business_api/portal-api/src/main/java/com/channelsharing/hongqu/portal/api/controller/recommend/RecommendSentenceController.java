@@ -29,7 +29,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 商品运营推荐语Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-23
  */
 @Api(tags = "商品运营推荐语操作接口")

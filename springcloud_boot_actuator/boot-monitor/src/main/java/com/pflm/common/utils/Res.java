@@ -4,7 +4,7 @@ import java.util.Map;
 
 /**
  * 响应参数
- * @author qxw
+ * @author Wujun
  * @data 2018年11月21日上午11:14:52
  */
 public class Res extends HashMap<String, Object> {

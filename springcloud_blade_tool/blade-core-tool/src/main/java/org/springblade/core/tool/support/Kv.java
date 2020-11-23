@@ -26,7 +26,7 @@ import java.util.HashMap;
 /**
  * 链式map
  *
- * @author Chill
+ * @author Wujun
  */
 public class Kv extends LinkedCaseInsensitiveMap<Object> {
 

@@ -33,7 +33,7 @@ import feign.Response;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class FescarFeignClient implements Client {
 

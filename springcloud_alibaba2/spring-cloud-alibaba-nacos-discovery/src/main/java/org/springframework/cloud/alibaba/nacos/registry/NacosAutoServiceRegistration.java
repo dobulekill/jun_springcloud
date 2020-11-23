@@ -26,8 +26,8 @@ import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
 /**
- * @author xiaojing
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosAutoServiceRegistration
         extends AbstractAutoServiceRegistration<Registration> {

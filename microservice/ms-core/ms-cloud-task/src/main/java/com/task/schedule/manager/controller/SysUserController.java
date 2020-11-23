@@ -19,7 +19,7 @@ import com.task.schedule.manager.service.SysUserService;
 
 /**
  * 用户的Controller
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2015年3月30日 下午2:21:22 

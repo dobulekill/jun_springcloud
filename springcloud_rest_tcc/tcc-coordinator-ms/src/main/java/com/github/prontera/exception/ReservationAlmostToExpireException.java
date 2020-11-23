@@ -1,7 +1,7 @@
 package com.github.prontera.exception;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class ReservationAlmostToExpireException extends RuntimeException {
 

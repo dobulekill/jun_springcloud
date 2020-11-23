@@ -27,7 +27,7 @@ import java.util.List;
 /**
  * The class Core header interceptor.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Slf4j
 public class CoreHeaderInterceptor extends HandlerInterceptorAdapter {

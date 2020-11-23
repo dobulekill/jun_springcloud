@@ -27,7 +27,7 @@ import com.alibaba.fastjson.JSON;
 import com.ctrip.framework.apollo.openapi.client.ApolloOpenApiClient;
 
 /**
- * @author hantianwei@gmail.com
+ * @author Wujun
  * @since 1.5.0
  */
 @Configuration

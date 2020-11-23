@@ -17,7 +17,7 @@ import lombok.Data;
 /**
  * The class Register dto.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 @AllArgsConstructor

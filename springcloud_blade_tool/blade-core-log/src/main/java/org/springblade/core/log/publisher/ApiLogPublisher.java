@@ -35,7 +35,7 @@ import java.util.Map;
 /**
  * API日志信息事件发送
  *
- * @author Chill
+ * @author Wujun
  */
 public class ApiLogPublisher {
 

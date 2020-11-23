@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.ResourceBundle;
 
 /**
- * @author admin
+ * @author Wujun
  */
 @ApiModel(value = "响应结果")
 public class ResultBody<T> implements Serializable {

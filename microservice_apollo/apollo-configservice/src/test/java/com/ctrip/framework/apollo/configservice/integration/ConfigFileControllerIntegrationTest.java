@@ -29,7 +29,7 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ConfigFileControllerIntegrationTest extends AbstractBaseIntegrationTest {
   private String someAppId;

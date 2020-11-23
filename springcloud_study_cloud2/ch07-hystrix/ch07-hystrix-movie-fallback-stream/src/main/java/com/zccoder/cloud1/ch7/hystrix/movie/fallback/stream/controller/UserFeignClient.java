@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-06
  * @title Feign的fallback测试
  * @describe 使用@FeignClient的fallback属性指定回退类

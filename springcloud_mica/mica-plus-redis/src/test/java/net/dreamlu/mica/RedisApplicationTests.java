@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 /**
  * redis 测试
  *
- * @author L.cm
+ * @author Wujun
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest

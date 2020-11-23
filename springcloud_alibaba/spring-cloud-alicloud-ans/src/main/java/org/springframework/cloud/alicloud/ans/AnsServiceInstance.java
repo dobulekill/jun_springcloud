@@ -23,7 +23,7 @@ import org.springframework.cloud.client.DefaultServiceInstance;
 import org.springframework.cloud.client.ServiceInstance;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsServiceInstance implements ServiceInstance {
 

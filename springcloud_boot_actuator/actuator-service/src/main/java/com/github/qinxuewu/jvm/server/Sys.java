@@ -3,7 +3,7 @@ package com.github.qinxuewu.jvm.server;
 /**
  * 系统相关信息
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class Sys {
 	/**

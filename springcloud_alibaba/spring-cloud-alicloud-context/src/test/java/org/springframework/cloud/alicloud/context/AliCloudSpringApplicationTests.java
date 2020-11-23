@@ -26,7 +26,7 @@ import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = AliCloudSpringApplicationTests.AliCloudDisabledApp.class, properties = {

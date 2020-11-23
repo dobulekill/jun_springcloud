@@ -9,7 +9,7 @@ import org.springframework.web.cors.CorsConfiguration;
 import java.util.Collections;
 
 /**
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

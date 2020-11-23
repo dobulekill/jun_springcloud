@@ -14,7 +14,7 @@ import com.ctrip.framework.apollo.Config;
 import com.ctrip.framework.apollo.core.ConfigConsts;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class XmlConfigPlaceholderTest extends AbstractSpringIntegrationTest {
   private static final String TIMEOUT_PROPERTY = "timeout";

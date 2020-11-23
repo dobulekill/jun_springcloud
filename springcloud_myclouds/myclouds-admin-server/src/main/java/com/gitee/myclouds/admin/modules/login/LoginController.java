@@ -14,7 +14,7 @@ import com.gitee.myclouds.common.wrapper.Dtos;
 /**
  * 登录验证 服务发布
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @RestController

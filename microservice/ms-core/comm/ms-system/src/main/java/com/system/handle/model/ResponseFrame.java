@@ -9,7 +9,7 @@ import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
 /**
  * 响应框架实体
- * @author yuejing
+ * @author Wujun
  * @date 2016年1月29日 下午9:29:33
  * @version V1.0.0
  */

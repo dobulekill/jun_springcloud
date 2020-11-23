@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 /**
  * 微信oauth2认证实现类
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Service("giteeService")
 @Slf4j

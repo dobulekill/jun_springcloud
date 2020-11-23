@@ -18,7 +18,7 @@ import com.softdev.system.demo.service.TaxiFareCalculatorService;
 /**
  * Drools的士计费控制器
  * (起步价：首3公里12元; 续租价：超过3公里部分，每公里2.6元;返空费实行阶梯附加，15至25公里按照续租价加收20%，25公里以上按续租价加收50%; )
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  * */
 public class TaxiController {
 

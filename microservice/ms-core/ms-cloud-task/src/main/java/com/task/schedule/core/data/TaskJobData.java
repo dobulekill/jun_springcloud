@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 任务的数据信息
- * @author 岳静
+ * @author Wujun
  * @date 2016年4月25日 上午10:41:36 
  * @version V1.0
  */

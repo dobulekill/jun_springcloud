@@ -9,7 +9,7 @@ import com.netflix.loadbalancer.RandomRule;
 /**
  * @title 该类为Ribbon的配置类
  * @describe 注意：该类不应该在主应用程序上下文的@ComponentScan中
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-04
  */
 @Configuration

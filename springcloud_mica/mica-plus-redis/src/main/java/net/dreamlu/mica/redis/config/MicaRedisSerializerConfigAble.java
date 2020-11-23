@@ -23,7 +23,7 @@ import org.springframework.data.redis.serializer.RedisSerializer;
 /**
  * redis 序列化
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface MicaRedisSerializerConfigAble {
 

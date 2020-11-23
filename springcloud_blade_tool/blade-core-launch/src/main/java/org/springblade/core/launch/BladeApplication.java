@@ -32,7 +32,7 @@ import java.util.stream.Collectors;
 /**
  * 项目启动器，搞定环境变量问题
  *
- * @author Chill
+ * @author Wujun
  */
 public class BladeApplication {
 

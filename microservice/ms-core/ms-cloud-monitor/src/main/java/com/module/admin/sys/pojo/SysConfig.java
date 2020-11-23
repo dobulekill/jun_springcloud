@@ -9,7 +9,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * sys_config实体
- * @author yuejing
+ * @author Wujun
  * @date 2016-10-19 13:50:15
  * @version V1.0.0
  */

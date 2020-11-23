@@ -5,7 +5,7 @@ import net.guerlab.commons.exception.ApplicationException;
 /**
  * 序列
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class Sequence {

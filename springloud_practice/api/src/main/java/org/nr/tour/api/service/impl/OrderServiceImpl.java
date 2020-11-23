@@ -6,7 +6,7 @@ import org.nr.tour.domain.OrderStatusEnum;
 import org.springframework.stereotype.Service;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Service
 public class OrderServiceImpl implements OrderService {

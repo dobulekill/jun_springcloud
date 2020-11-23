@@ -3,7 +3,7 @@ package org.nr.tour.api.service;
 import org.nr.tour.domain.PayTypeEnum;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface OrderPayNotifyService {
     void success(String orderId, PayTypeEnum payTypeEnum) ;

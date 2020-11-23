@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.MimeTypeUtils;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 @Service
 public class SenderService {

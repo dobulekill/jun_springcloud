@@ -11,7 +11,7 @@ import lombok.Setter;
 /**
  * 枚举参数VO值对象
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Getter

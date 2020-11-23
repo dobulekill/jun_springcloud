@@ -4,7 +4,7 @@ import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 @ApiModel("短信消息")
 public class SmsMessage extends BaseMessage {

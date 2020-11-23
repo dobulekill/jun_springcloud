@@ -16,7 +16,7 @@ import java.lang.reflect.Method;
 /**
  * IpRegion服务类
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 @Service

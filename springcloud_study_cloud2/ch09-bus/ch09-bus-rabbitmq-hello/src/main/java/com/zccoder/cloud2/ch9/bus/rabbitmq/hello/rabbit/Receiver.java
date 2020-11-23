@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
  * 描述: 消息接收者<br>
  * 时间: 2018/10/04<br>
  *
- * @author zc
+ * @author Wujun
  */
 @Component
 @RabbitListener(queues = "hello")

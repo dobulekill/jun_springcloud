@@ -24,7 +24,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Service
 public class ConsumerAuditUtil implements InitializingBean {

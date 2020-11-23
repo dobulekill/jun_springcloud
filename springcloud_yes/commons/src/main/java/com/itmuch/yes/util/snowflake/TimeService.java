@@ -3,7 +3,7 @@ package com.itmuch.yes.util.snowflake;
 /**
  * Time service.
  *
- * @author zhangliang
+ * @author Wujun
  */
 public class TimeService {
 

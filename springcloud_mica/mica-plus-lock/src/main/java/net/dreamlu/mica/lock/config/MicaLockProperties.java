@@ -23,7 +23,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * 分布式锁配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @Setter

@@ -57,7 +57,7 @@ import static org.mockito.BDDMockito.*;
 /**
  * Test cases for {@link GatewayApiController}.
  *
- * @author cdfive
+ * @author Wujun
  */
 @RunWith(SpringRunner.class)
 @WebMvcTest(GatewayApiController.class)

@@ -27,8 +27,8 @@ import org.springframework.cloud.client.discovery.DiscoveryClient;
 import java.util.*;
 
 /**
- * @author xiaojing
- * @author renhaojun
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosDiscoveryClient implements DiscoveryClient {
 

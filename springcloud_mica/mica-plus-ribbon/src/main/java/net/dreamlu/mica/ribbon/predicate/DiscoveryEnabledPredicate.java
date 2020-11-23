@@ -24,7 +24,7 @@ import org.springframework.lang.Nullable;
 /**
  * 过滤服务
  *
- * @author L.cm
+ * @author Wujun
  */
 public abstract class DiscoveryEnabledPredicate extends AbstractServerPredicate {
 

@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 
 /**
  * 运营邀请码Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 public interface InvitationCodeOperService extends CrudService<InvitationCodeOper>{

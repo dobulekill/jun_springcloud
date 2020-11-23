@@ -10,7 +10,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * 读取本地日志文
- * @author qinxuewu 2019年1月4日下午4:58:54
+ * @author Wujun
  *
  */
 public class LogReaderUtils {

@@ -23,7 +23,7 @@ import org.springframework.cloud.alicloud.context.ans.AnsProperties;
 import org.springframework.context.annotation.Bean;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @ConditionalOnWebApplication
 @ConditionalOnClass(Endpoint.class)

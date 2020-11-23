@@ -8,7 +8,7 @@ import com.sohu.tv.jedis.stat.utils.NumberUtil;
 /**
  * 耗时分布
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月13日
  * @Time 下午5:22:28
  */

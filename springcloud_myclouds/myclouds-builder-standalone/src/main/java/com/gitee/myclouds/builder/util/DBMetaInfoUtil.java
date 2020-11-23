@@ -26,7 +26,7 @@ import com.google.common.collect.Lists;
 /**
  * 获取数据库元数据的工具类
  * 
- * @author xiongchun
+ * @author Wujun
  * 
  */
 public class DBMetaInfoUtil {

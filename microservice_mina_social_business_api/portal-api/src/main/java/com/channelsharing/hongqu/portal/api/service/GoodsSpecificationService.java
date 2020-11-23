@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * 商品规格值Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 public interface GoodsSpecificationService extends CrudService<GoodsSpecification>{

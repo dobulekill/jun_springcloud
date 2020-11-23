@@ -22,7 +22,7 @@ import com.netflix.loadbalancer.Server;
 import java.util.Map;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosServer extends Server {
 

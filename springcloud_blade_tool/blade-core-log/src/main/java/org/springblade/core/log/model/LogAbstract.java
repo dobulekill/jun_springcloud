@@ -29,7 +29,7 @@ import java.util.Date;
 /**
  * logApi、logError、logUsual的父类，拥有相同的属性值
  *
- * @author jiang
+ * @author Wujun
  */
 @Data
 public class LogAbstract implements Serializable {

@@ -11,7 +11,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * prj_monitor实体
- * @author yuejing
+ * @author Wujun
  * @date 2016-11-30 13:29:59
  * @version V1.0.0
  */

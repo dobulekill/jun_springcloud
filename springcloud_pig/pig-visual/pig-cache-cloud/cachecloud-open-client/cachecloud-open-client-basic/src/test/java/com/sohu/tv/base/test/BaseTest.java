@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 基类测试
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2014年06月06日
  * @Time 上午10:50:11
  */

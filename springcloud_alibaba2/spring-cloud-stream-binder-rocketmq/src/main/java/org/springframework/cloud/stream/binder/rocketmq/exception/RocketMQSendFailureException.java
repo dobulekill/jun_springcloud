@@ -22,7 +22,7 @@ import org.springframework.messaging.MessagingException;
 /**
  * An exception that is the payload of an {@code ErrorMessage} when occurs send failure.
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @since 0.2.2
  */
 public class RocketMQSendFailureException extends MessagingException {

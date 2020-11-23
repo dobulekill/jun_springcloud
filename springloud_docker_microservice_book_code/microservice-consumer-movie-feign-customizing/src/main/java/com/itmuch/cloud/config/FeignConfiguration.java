@@ -8,7 +8,7 @@ import feign.Contract;
 /**
  * 该类为Feign的配置类
  * 注意：该不应该在主应用程序上下文的@ComponentScan中。
- * @author 周立
+ * @author Wujun
  */
 @Configuration
 public class FeignConfiguration {

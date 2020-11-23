@@ -27,7 +27,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * Admin登录权限过滤器
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @WebFilter(filterName = "LoginFilter", urlPatterns = { "/*" })

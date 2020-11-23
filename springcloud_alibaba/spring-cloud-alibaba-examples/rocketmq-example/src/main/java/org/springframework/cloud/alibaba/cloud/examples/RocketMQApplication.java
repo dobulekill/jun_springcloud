@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.messaging.SubscribableChannel;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableBinding({ Source.class, MySink.class })

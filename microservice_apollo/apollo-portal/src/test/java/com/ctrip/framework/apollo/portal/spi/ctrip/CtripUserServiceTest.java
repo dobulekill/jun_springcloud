@@ -29,7 +29,7 @@ import static org.mockito.Matchers.eq;
 import static org.mockito.Mockito.when;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class CtripUserServiceTest extends AbstractUnitTest{
   private CtripUserService ctripUserService;

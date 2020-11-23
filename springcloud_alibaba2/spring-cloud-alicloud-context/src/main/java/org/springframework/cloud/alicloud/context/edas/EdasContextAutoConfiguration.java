@@ -29,7 +29,7 @@ import com.alibaba.cloud.context.edas.AliCloudEdasSdk;
 import com.alibaba.cloud.context.edas.AliCloudEdasSdkFactory;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(EdasProperties.class)

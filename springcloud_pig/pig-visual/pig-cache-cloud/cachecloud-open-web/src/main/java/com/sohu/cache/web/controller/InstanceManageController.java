@@ -30,7 +30,7 @@ import com.sohu.cache.web.enums.SuccessEnum;
 /**
  * 应用后台管理
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年7月3日
  */
 @Controller

@@ -12,7 +12,7 @@ import com.roncoo.education.bean.User;
 import com.roncoo.education.feign.IUserBiz;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/feign/user", method = RequestMethod.POST)

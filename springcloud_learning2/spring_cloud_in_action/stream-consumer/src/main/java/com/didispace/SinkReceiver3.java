@@ -8,7 +8,7 @@ import org.springframework.cloud.stream.messaging.Sink;
 import org.springframework.integration.annotation.ServiceActivator;
 
 /**
- * @author 翟永超
+ * @author Wujun
  * @create 2016/11/8.
  * @blog http://blog.didispace.com
  */

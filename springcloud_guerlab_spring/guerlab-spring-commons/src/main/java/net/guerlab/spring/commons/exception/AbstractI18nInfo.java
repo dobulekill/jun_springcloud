@@ -9,7 +9,7 @@ import org.springframework.context.i18n.LocaleContextHolder;
 /**
  * 抽象国际化错误消息
  *
- * @author guer
+ * @author Wujun
  *
  */
 public abstract class AbstractI18nInfo {

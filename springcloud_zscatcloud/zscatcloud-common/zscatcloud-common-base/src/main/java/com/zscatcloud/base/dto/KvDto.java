@@ -18,7 +18,7 @@ import java.io.Serializable;
 /**
  * The class Kv dto.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 public class KvDto<K, V> implements Serializable {

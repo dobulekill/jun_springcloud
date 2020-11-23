@@ -13,7 +13,7 @@ import io.netty.handler.codec.http.HttpServerCodec;
 import io.netty.handler.stream.ChunkedWriteHandler;
 
 /**
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 12/10/2018下午 5:52
  */

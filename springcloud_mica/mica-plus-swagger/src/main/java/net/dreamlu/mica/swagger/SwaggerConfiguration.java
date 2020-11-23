@@ -44,7 +44,7 @@ import java.util.stream.Collectors;
 /**
  * Swagger2配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @RequiredArgsConstructor

@@ -29,7 +29,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsDiscoveryClient implements DiscoveryClient {
 

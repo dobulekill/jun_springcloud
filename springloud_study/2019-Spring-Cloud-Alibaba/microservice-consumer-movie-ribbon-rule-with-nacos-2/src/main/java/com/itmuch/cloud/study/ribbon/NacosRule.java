@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 /**
  * 支持优先调用同集群实例的ribbon负载均衡规则.
  *
- * @author itmuch.com
+ * @author Wujun
  */
 @Slf4j
 public class NacosRule extends AbstractLoadBalancerRule {

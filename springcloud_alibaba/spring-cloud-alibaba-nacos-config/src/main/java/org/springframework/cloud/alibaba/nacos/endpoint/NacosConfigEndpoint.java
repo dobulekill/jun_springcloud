@@ -32,7 +32,7 @@ import org.springframework.cloud.alibaba.nacos.refresh.NacosRefreshHistory;
 
 /**
  * Endpoint for Nacos, contains config data and refresh history
- * @author xiaojing
+ * @author Wujun
  */
 @Endpoint(id = "nacos-config")
 public class NacosConfigEndpoint {

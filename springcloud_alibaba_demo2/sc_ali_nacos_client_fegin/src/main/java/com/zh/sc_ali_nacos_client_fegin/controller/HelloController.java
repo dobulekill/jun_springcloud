@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author zhanghang
+ * @author Wujun
  * @date 2019/3/20
  */
 @RestController

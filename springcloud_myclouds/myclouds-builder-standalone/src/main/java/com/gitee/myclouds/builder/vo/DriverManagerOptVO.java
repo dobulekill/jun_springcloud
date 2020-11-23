@@ -3,7 +3,7 @@ package com.gitee.myclouds.builder.vo;
 /**
  * <b>JDBC驱动配置对象</b>
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2013-06-06
  */
 public class DriverManagerOptVO {

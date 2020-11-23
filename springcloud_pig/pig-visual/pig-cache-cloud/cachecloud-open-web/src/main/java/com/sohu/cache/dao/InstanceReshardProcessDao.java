@@ -10,7 +10,7 @@ import com.sohu.cache.entity.InstanceReshardProcess;
 
 /**
  * 实例Reshard进度保存
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月24日
  * @Time 下午7:17:36
  */

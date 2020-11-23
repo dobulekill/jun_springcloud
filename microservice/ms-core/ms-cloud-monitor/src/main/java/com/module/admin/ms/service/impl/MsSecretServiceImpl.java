@@ -15,7 +15,7 @@ import com.system.handle.model.ResponseCode;
 
 /**
  * ms_secret的Service
- * @author yuejing
+ * @author Wujun
  * @date 2017-06-02 15:44:56
  * @version V1.0.0
  */

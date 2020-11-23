@@ -1,7 +1,7 @@
 package org.nr.tour.api.vo;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public class RoomOrderGuestVO extends BaseVO {
 

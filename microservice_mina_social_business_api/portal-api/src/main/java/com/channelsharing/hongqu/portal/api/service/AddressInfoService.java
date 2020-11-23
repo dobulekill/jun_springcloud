@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.portal.api.entity.AddressInfo;
 
 /**
  * 用户地址信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 public interface AddressInfoService extends CrudService<AddressInfo>{

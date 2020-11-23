@@ -5,7 +5,7 @@ package com.gitee.myclouds.common.wrapper;
  * <p>
  * 持久化对象的属性和数据库表字段想对应
  * 
- * @author xiongchun
+ * @author Wujun
  * @since 1.0
  * @date 2008-10-06
  * @lastmodify 2013-08-27

@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * 用户服务，使用Feign实现
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Component

@@ -46,7 +46,7 @@ import io.swagger.annotations.ApiParam;
 /**
  * 订单信息Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @Api(tags = "订单信息操作接口")

@@ -4,7 +4,7 @@ import org.springframework.cloud.stream.annotation.Input;
 import org.springframework.messaging.SubscribableChannel;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 public interface InputChannel {
 

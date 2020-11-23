@@ -42,7 +42,7 @@ import com.sohu.cache.web.service.AppService;
 /**
  * 应用数据迁移入口
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-8
  * @Time 下午11:10:34
  */

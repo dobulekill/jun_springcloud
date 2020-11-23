@@ -22,8 +22,8 @@ import java.util.Date;
 import java.util.Map;
 
 /**
- * @author xiaojing
- * @author pbting
+ * @author Wujun
+ * @author Wujun
  */
 public class NacosPropertySource extends MapPropertySource {
 

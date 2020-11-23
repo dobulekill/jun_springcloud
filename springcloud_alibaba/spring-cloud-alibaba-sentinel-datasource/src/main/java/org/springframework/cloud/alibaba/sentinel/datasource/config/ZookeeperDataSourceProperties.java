@@ -6,7 +6,7 @@ import org.springframework.cloud.alibaba.sentinel.datasource.factorybean.Zookeep
  * Zookeeper Properties class Using by {@link DataSourcePropertiesConfiguration} and
  * {@link ZookeeperDataSourceFactoryBean}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class ZookeeperDataSourceProperties extends AbstractDataSourceProperties {
 

@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 统一异常处理器
  *
- * @author LYD
+ * @author Wujun
  * @date 2017/7/3
  */
 @ControllerAdvice

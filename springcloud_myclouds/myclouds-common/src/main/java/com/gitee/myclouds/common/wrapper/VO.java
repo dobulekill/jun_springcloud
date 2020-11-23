@@ -11,7 +11,7 @@ import com.gitee.myclouds.common.wrapper.impl.HashDto;
 /**
  * <b>值对象</b>
  * 
- * @author xiongchun
+ * @author Wujun
  * @since 1.0
  * @date 2008-10-06
  */

@@ -9,7 +9,7 @@ import com.sohu.cache.entity.InstanceAlertConfig;
 
 /**
  * 实例报警配置Dao
- * @author leifu
+ * @author Wujun
  * @Date 2017年5月19日
  * @Time 上午11:56:56
  */

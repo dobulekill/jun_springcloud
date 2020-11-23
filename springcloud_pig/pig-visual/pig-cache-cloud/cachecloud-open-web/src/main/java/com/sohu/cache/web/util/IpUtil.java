@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 /**
  * ip工具
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月2日
  * @Time 上午10:16:29
  */

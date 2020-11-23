@@ -24,7 +24,7 @@ import java.util.List;
  * 基础业务接口
  *
  * @param <T>
- * @author Chill
+ * @author Wujun
  */
 public interface BaseService<T> extends IService<T> {
 

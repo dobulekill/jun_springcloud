@@ -23,7 +23,7 @@ import org.springframework.lang.Nullable;
 /**
  * 业务异常
  *
- * @author L.cm
+ * @author Wujun
  */
 public class ServiceException extends RuntimeException {
 	private static final long serialVersionUID = 2359767895161832954L;

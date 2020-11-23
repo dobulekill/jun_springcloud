@@ -42,7 +42,7 @@ import java.io.StringReader;
  *     http://www.w3school.com.cn/xpath/index.asp
  * </pre>
  *
- * @author L.cm
+ * @author Wujun
  */
 public class XmlHelper {
 	private final XPath path;

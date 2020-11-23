@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * 状态码接口
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface IResultCode extends Serializable {
 	/**

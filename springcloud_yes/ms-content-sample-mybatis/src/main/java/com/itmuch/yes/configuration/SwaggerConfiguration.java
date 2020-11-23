@@ -18,7 +18,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 import java.util.List;
 
 /**
- * @author itmuch.com
+ * @author Wujun
  */
 @Configuration
 @EnableSwagger2

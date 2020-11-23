@@ -3,7 +3,7 @@ package com.zscatcloud.core.registry.exception;
 /**
  * 注册中心异常.
  *
- * @author zhangliang
+ * @author Wujun
  */
 public final class RegException extends RuntimeException {
 

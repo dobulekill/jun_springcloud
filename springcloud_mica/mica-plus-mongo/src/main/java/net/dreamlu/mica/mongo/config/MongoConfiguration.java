@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * mongo 配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 public class MongoConfiguration {

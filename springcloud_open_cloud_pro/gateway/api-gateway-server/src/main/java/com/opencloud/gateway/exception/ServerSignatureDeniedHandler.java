@@ -5,7 +5,7 @@ import org.springframework.web.server.ServerWebExchange;
 import reactor.core.publisher.Mono;
 
 /**
- * @author LYD
+ * @author Wujun
  */
 public interface ServerSignatureDeniedHandler {
     /**

@@ -25,7 +25,7 @@ import java.util.Objects;
 /**
  * Request Metadata
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class RequestMetadata {
 

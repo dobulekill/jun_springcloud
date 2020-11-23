@@ -1,7 +1,7 @@
 package com.channelsharing.common.exception;
 
 /**
- * @author  liuhangjun
+ * @author Wujun
  * @since 2017-6-30
  */
 public class ArgumentNotValidException extends BaseException {

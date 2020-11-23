@@ -11,7 +11,7 @@ import org.springframework.web.filter.CorsFilter;
 /**
  * 跨域配置
  *
- * @author zlt
+ * @author Wujun
  * @date 2018/8/9 15:59
  */
 @Configuration

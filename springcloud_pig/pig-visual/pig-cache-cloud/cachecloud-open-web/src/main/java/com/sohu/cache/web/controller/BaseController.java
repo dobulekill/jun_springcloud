@@ -41,7 +41,7 @@ import com.sohu.cache.redis.RedisCenter;
 /**
  * 基类controller
  *
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月16日
  */
 public class BaseController {

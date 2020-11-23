@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/api/v1")

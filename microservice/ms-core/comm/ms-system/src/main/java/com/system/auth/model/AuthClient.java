@@ -7,7 +7,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * 客户端实体
- * @author yuejing
+ * @author Wujun
  * @date 2014-01-11 14:09:30
  * @version V1.0.0
  */

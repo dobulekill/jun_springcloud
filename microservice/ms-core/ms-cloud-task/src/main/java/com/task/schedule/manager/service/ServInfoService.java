@@ -19,7 +19,7 @@ import com.task.schedule.manager.pojo.ServInfo;
 
 /**
  * 服务的Service
- * @author 岳静
+ * @author Wujun
  * @date 2016年4月25日 下午2:45:39 
  * @version V1.0
  */

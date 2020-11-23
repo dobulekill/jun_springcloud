@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Conditional;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 @Conditional(MigrateOnConditionMissingClass.class)

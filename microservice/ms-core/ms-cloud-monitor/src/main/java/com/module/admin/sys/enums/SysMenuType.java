@@ -10,7 +10,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 菜单类型
- * @author duanbin
+ * @author Wujun
  * @date 2016年5月5日 下午12:25:45
  * @version V1.0.0
  */

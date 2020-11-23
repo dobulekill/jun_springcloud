@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * 权限控制API接口
  *
- * @author liuyadu
+ * @author Wujun
  */
 public interface ISystemAuthorityServiceClient {
     /**

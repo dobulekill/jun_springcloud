@@ -31,7 +31,7 @@ import org.apache.http.util.EntityUtils;
 
 /**
  * http工具类
- * @author yuejing
+ * @author Wujun
  *
  */
 public class FrameHttpUtil {

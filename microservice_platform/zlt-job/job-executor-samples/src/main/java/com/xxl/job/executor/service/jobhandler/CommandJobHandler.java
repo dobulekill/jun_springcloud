@@ -13,7 +13,7 @@ import java.io.InputStreamReader;
 /**
  * 命令行任务
  *
- * @author xuxueli 2018-09-16 03:48:34
+ * @author Wujun
  */
 @JobHandler(value="commandJobHandler")
 @Component

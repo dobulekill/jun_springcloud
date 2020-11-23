@@ -3,7 +3,7 @@ package com.ctrip.framework.apollo.spi;
 /**
  * The manually config registry, use with caution!
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ConfigRegistry {
   /**

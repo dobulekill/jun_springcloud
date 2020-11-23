@@ -25,7 +25,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 /**
  * 自定义的 Mapper
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface MicaMapper<T> extends BaseMapper<T> {
 

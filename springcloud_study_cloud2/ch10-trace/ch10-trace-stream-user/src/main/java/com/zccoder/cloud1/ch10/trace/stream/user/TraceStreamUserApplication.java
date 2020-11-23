@@ -6,7 +6,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-18
  * @title 使用消息中间件收集数据
  * @describe 改造微服务

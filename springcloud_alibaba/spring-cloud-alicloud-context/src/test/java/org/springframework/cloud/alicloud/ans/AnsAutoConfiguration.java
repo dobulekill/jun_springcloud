@@ -17,7 +17,7 @@
 package org.springframework.cloud.alicloud.ans;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsAutoConfiguration {
 }

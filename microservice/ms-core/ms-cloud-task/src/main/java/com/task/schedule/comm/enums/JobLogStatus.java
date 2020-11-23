@@ -11,7 +11,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 定时任务获取记录的状态
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2015年3月31日 下午3:17:59 

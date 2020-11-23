@@ -11,7 +11,7 @@ import com.netflix.zuul.context.RequestContext;
 /**
  * @title 自定义过滤器
  * @describe 自定义Zuul过滤器
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-11
  */
 public class PreRequestLogFilter extends ZuulFilter{

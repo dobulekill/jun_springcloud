@@ -11,7 +11,7 @@ import java.util.Properties;
 /**
  * A {@link FactoryBean} for creating {@link NacosDataSource} instance.
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @see NacosDataSource
  */
 public class NacosDataSourceFactoryBean implements FactoryBean<NacosDataSource> {

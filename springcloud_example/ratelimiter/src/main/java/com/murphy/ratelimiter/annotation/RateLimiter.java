@@ -9,7 +9,7 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
 
 /**
  * 时间区间以秒为基础单位
- * @author dongsufeng
+ * @author Wujun
  * @version 1.0
  * @date 2019/11/29 10:31
  */

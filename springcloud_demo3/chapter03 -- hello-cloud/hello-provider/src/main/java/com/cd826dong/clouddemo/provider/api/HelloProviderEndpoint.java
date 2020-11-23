@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * Hello Endpoint
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 @RestController

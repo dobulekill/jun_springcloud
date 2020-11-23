@@ -1,7 +1,7 @@
 package com.github.prontera.exception;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class ManualException extends RuntimeException {
     private static final long serialVersionUID = 8009088829199901509L;

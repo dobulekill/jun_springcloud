@@ -36,7 +36,7 @@ import java.util.ServiceLoader;
 /**
  * 设置启动参数
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaSpringRunner extends SpringJUnit4ClassRunner {
 

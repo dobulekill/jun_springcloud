@@ -36,7 +36,7 @@ import java.util.List;
 
 /**
  * 产品信息Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-07
  */
 @Api(tags = "产品信息操作接口")

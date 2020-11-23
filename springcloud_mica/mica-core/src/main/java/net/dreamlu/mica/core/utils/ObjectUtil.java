@@ -24,7 +24,7 @@ import java.util.Objects;
 /**
  * 对象工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 @UtilityClass
 public class ObjectUtil extends org.springframework.util.ObjectUtils {

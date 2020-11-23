@@ -9,7 +9,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 /**
  * @title 启动类
  * @describe 手动创建Feign
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  */
 @EnableDiscoveryClient

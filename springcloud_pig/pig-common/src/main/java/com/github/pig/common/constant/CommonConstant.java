@@ -1,7 +1,7 @@
 package com.github.pig.common.constant;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/10/29
  */
 public interface CommonConstant {

@@ -13,7 +13,7 @@ import java.sql.SQLException;
 /**
  * 异常通用处理
  *
- * @author zlt
+ * @author Wujun
  */
 @ResponseBody
 @Slf4j

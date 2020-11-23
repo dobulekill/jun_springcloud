@@ -3,7 +3,7 @@ package com.sohu.cache.constant;
 /**
  * 审批状态
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月20日
  */
 public enum AppCheckEnum {

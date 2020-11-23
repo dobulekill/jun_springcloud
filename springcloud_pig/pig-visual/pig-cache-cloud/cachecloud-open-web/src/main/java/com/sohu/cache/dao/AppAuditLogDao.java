@@ -8,7 +8,7 @@ import com.sohu.cache.entity.AppAuditLog;
 /**
  * 应用审批日志记录
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月5日
  */
 public interface AppAuditLogDao {

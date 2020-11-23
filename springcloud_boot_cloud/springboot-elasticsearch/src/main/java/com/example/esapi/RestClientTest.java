@@ -23,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 27/8/2018下午 5:29
  */

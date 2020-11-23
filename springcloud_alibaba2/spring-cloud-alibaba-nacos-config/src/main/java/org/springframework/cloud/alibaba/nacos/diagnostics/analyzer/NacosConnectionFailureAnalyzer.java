@@ -23,7 +23,7 @@ import org.springframework.boot.diagnostics.FailureAnalysis;
  * A {@code FailureAnalyzer} that performs analysis of failures caused by a
  * {@code NacosConnectionFailureException}.
  *
- * @author juven.xuxb
+ * @author Wujun
  */
 public class NacosConnectionFailureAnalyzer
 		extends AbstractFailureAnalyzer<NacosConnectionFailureException> {

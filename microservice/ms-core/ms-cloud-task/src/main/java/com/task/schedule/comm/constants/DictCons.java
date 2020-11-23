@@ -18,7 +18,7 @@ import com.task.schedule.comm.enums.ProjectSign;
 
 /**
  * 字典常量
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @date    2014年10月27日 下午1:55:23 
  * @version 1.0.0

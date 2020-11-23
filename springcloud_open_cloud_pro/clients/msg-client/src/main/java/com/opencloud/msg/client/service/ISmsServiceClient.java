@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 /**
  * 推送通知
- * @author woodev
+ * @author Wujun
  */
 public interface ISmsServiceClient {
     /**

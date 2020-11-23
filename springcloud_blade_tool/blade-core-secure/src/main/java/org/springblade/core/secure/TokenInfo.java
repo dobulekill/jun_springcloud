@@ -20,7 +20,7 @@ import lombok.Data;
 /**
  * TokenInfo
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 public class TokenInfo {

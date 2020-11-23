@@ -23,7 +23,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * sys_role的Controller
- * @author duanbin
+ * @author Wujun
  * @date 2016-04-21 11:17:54
  * @version V1.0.0
  */

@@ -16,7 +16,7 @@ import lombok.extern.log4j.Log4j2;
 
 /**
  * jwt相关操作
- * @author dongsufeng
+ * @author Wujun
  * @version 4.0
  * @date 2019/12/2 2:49 PM
  */

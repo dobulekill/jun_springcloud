@@ -5,7 +5,7 @@
 //import org.springframework.stereotype.Component;
 //
 ///**
-// * @author juede.tcever
+// * @author Wujun
 // */
 //@Component
 //@RocketMQMessageListener(topic = "TopicTest", consumerGroup = "CONSUMER_GROUP_TOPIC_TEST")

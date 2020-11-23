@@ -6,7 +6,7 @@ import java.io.ByteArrayInputStream;
 import java.io.IOException;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 final class ResettableServletInputStream extends ServletInputStream {
 

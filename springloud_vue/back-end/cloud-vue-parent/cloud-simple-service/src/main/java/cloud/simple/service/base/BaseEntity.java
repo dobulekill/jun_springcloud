@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Transient;
 /**
  * 实体基类
- * @author leo.aqing
+ * @author Wujun
  *
  */
 @Entity

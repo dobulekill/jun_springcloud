@@ -7,7 +7,7 @@ import ma.glasnost.orika.metadata.Type;
 import java.time.LocalTime;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class LocalTimeConverter extends BidirectionalConverter<LocalTime, LocalTime> {
     @Override

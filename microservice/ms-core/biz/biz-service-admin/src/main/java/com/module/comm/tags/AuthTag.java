@@ -11,7 +11,7 @@ import com.system.comm.utils.FrameStringUtil;
 
 /**
  * 判断是否有权限的类
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2014年12月25日 下午2:39:55 

@@ -10,7 +10,7 @@ import com.sohu.cache.entity.InstanceFault;
 
 /**
  * 实例报警
- * @author leifu
+ * @author Wujun
  * @Date 2014年12月16日
  * @Time 下午2:02:13
  */

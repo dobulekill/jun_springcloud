@@ -24,7 +24,7 @@ import org.springframework.web.reactive.config.WebFluxConfigurer;
 /**
  * 消息转换器
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnWebApplication(type = ConditionalOnWebApplication.Type.REACTIVE)

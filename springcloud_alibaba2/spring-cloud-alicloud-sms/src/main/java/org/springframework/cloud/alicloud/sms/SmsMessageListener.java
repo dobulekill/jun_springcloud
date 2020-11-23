@@ -18,7 +18,7 @@ package org.springframework.cloud.alicloud.sms;
 import org.springframework.cloud.alicloud.sms.base.MessageListener;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 public interface SmsMessageListener extends MessageListener {
 }

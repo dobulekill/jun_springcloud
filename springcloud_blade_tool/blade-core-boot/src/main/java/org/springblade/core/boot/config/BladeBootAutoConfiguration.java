@@ -26,7 +26,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 /**
  * 配置类
- * @author Chill
+ * @author Wujun
  */
 @Slf4j
 @Configuration

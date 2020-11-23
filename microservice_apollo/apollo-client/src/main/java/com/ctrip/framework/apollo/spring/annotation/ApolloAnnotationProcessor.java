@@ -19,7 +19,7 @@ import com.google.common.base.Preconditions;
 /**
  * Apollo Annotation Processor for Spring Application
  *
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ApolloAnnotationProcessor implements BeanPostProcessor, PriorityOrdered {
   @Override

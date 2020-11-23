@@ -60,7 +60,7 @@ import static org.mockito.BDDMockito.*;
 /**
  * Test cases for {@link GatewayFlowRuleController}.
  *
- * @author cdfive
+ * @author Wujun
  */
 @RunWith(SpringRunner.class)
 @WebMvcTest(GatewayFlowRuleController.class)

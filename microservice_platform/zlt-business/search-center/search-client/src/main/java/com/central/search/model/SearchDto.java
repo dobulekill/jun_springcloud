@@ -8,7 +8,7 @@ import lombok.Setter;
 import java.io.Serializable;
 
 /**
- * @author zlt
+ * @author Wujun
  * @date 2019/4/24
  */
 @Data

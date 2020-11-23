@@ -7,7 +7,7 @@ import io.netty.util.concurrent.GlobalEventExecutor;
 /**
  * MyChannelHandlerPool
  * 通道组池，管理所有websocket连接
- * @author zhengkai.blog.csdn.net
+ * @author Wujun
  * @date 2019-06-12
  */
 public class MyChannelHandlerPool {

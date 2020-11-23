@@ -37,7 +37,7 @@ import com.aliyun.oss.model.OSSObject;
  * Implements {@link Resource} for reading and writing objects in Aliyun Object Storage
  * Service (OSS). An instance of this class represents a handle to a bucket or an OSSObject.
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  * @see OSS
  * @see Bucket
  * @see OSSObject

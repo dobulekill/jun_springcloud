@@ -13,7 +13,7 @@ import com.channelsharing.hongqu.portal.api.dao.SupplierInfoDao;
 
 /**
  * 供应商信息Service
- * @author 供应商信息
+ * @author Wujun
  * @version 2018-08-08
  */
 @Service

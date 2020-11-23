@@ -42,9 +42,9 @@ import static com.alibaba.nacos.api.PropertyKeyConst.SERVER_ADDR;
 /**
  * nacos properties
  *
- * @author leijuan
- * @author xiaojing
- * @author pbting
+ * @author Wujun
+ * @author Wujun
+ * @author Wujun
  */
 @ConfigurationProperties(NacosConfigProperties.PREFIX)
 public class NacosConfigProperties {

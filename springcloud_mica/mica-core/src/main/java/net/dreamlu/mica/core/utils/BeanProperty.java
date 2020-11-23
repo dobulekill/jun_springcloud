@@ -22,7 +22,7 @@ import lombok.Getter;
 /**
  * Bean属性
  *
- * @author L.cm
+ * @author Wujun
  */
 @Getter
 @AllArgsConstructor

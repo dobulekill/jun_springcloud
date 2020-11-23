@@ -16,7 +16,7 @@
 package com.alibaba.csp.sentinel.dashboard.rule.nacos;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.0
  */
 public final class NacosConfigUtil {

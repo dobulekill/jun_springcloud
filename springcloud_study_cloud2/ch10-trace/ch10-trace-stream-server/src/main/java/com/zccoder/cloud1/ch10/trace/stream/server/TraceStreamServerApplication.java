@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-18
  * @title 使用消息中间件收集数据
  * @describe 编写Zipkin Server

@@ -11,7 +11,7 @@ import com.roncoo.education.bean.User;
 import com.roncoo.education.service.UserService;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 public class FeignApiUserController implements UserService {

@@ -23,7 +23,7 @@ import org.springframework.boot.diagnostics.FailureAnalysis;
  * A {@code FailureAnalyzer} that performs analysis of failures caused by a
  * {@code DiamondConnectionFailureException}.
  *
- * @author juven.xuxb, 07/11/2016.
+ * @author Wujun
  */
 public class DiamondConnectionFailureAnalyzer
 		extends AbstractFailureAnalyzer<DiamondConnectionFailureException> {

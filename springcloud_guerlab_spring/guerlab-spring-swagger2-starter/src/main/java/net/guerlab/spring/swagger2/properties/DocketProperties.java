@@ -7,7 +7,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 /**
  * Docket配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class DocketProperties {

@@ -23,7 +23,7 @@ import java.lang.reflect.Method;
 /**
  * {@link MethodMetadata} annotated {@link DubboTransported @DubboTransported}
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author Wujun
  */
 public class DubboTransportedMethodMetadata extends MethodMetadata {
 

@@ -10,7 +10,7 @@ import com.sohu.tv.cachecloud.client.basic.util.StringUtil;
 
 /**
  * 手机短信报警
- * @author leifu
+ * @author Wujun
  * @Date 2015年2月2日
  * @Time 上午11:36:01
  */

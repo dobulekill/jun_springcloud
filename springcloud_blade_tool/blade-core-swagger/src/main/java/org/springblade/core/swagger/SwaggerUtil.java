@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * Swagger工具类
  *
- * @author Chill
+ * @author Wujun
  */
 public class SwaggerUtil {
 

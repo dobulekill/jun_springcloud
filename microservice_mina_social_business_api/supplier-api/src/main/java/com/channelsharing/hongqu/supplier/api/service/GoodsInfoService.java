@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.supplier.api.entity.GoodsInfo;
 
 /**
  * 商品信息接口Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-06
  */
 public interface GoodsInfoService extends CrudService<GoodsInfo>{

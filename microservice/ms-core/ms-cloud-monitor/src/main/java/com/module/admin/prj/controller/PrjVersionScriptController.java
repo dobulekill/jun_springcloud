@@ -28,7 +28,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 项目版本的脚本的Controller
- * @author yuejing
+ * @author Wujun
  * @date 2016-10-20 17:54:59
  * @version V1.0.0
  */

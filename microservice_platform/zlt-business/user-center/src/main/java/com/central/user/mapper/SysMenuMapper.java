@@ -6,7 +6,7 @@ import com.central.common.model.SysMenu;
 /**
  * 菜单
  *
- * @author zlt
+ * @author Wujun
  */
 public interface SysMenuMapper extends SuperMapper<SysMenu> {
 

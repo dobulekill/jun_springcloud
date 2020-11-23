@@ -10,7 +10,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 类型[mysql/oracle]
- * @author yuejing
+ * @author Wujun
  * @date 2016年5月16日 下午5:52:03
  * @version V1.0.0
  */

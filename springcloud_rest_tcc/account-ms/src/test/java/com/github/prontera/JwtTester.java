@@ -16,7 +16,7 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class JwtTester {
 

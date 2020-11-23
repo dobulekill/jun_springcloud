@@ -13,7 +13,7 @@ import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 /**
  * 国际化配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

@@ -1,7 +1,7 @@
 package com.opencloud.msg.server.exchanger;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 public class WebSocketExchanger {
 }

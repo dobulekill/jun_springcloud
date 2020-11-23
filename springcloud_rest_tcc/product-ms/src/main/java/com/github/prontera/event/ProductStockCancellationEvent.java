@@ -4,7 +4,7 @@ import com.github.prontera.domain.ProductStockTcc;
 import org.springframework.context.ApplicationEvent;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class ProductStockCancellationEvent extends ApplicationEvent {
 

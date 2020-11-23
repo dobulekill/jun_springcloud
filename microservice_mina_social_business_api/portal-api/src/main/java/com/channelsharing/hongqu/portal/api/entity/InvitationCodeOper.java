@@ -9,7 +9,7 @@ import lombok.Data;
 
 /**
  * 运营邀请码Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 @Data

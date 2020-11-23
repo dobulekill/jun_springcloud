@@ -12,7 +12,7 @@ import com.system.dao.annotation.ColumnPk;
 
 /**
  * 系统角色的实体
- * @author yuejing
+ * @author Wujun
  * @date 2016-03-25 10:52:47
  * @version V1.0.0
  */

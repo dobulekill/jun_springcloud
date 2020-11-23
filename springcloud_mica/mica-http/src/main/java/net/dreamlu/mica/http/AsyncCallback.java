@@ -26,7 +26,7 @@ import java.io.IOException;
 /**
  * 异步处理
  *
- * @author L.cm
+ * @author Wujun
  */
 @ParametersAreNonnullByDefault
 public class AsyncCallback implements Callback {

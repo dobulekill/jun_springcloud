@@ -27,7 +27,7 @@ import java.text.SimpleDateFormat;
 /**
  * Jackson Json 工具类
  *
- * @author ligang @gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class JacksonUtil {

@@ -28,7 +28,7 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * BaseCaptcha
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 public abstract class BaseCaptcha {

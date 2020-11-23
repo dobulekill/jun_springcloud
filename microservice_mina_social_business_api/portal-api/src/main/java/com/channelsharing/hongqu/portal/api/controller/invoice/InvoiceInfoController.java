@@ -29,7 +29,7 @@ import com.channelsharing.common.entity.Paging;
 
 /**
  * 发票信息Controller
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Api(tags = "发票信息操作接口")

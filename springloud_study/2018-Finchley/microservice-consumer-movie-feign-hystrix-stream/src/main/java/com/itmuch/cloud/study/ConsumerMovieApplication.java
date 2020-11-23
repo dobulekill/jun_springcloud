@@ -6,7 +6,7 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
- * @author zhouli
+ * @author Wujun
  */
 @EnableFeignClients
 @SpringBootApplication

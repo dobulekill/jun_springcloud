@@ -26,7 +26,7 @@ import java.util.Date;
  * Call @{@code DefaultKeyGenerator.setWorkerId} to set.
  * </p>
  *
- * @author gaohongtao
+ * @author Wujun
  */
 @Slf4j
 public final class DefaultKeyGenerator implements KeyGenerator {

@@ -10,7 +10,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 文件状态 [0待确定、1使用中、2未使用、3已作废]
- * @author duanbin
+ * @author Wujun
  * @date 2016年5月16日 下午5:52:03
  * @version V1.0.0
  */

@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * @author LYD
+ * @author Wujun
  */
 public interface SuperMapper<T> extends BaseMapper<T> {
     /**

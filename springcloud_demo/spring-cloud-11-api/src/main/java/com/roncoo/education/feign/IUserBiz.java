@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.roncoo.education.bean.User;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @FeignClient(value = "spring-cloud-provider")
 public interface IUserBiz {

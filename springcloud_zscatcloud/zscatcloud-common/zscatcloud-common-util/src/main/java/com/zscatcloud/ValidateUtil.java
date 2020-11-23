@@ -22,7 +22,7 @@ import java.util.regex.Pattern;
 /**
  * The class Validate util.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class ValidateUtil {

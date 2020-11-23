@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  *
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/11/29 18:53
  * @version 1.0
  */

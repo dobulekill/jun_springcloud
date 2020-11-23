@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * @author pbting
+ * @author Wujun
  */
 @Component
 public class MigrateServiceRegistry {

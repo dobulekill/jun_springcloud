@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 推送通知
  *
- * @author woodev
+ * @author Wujun
  */
 @RestController
 @Api(value = "短信", tags = "短信")

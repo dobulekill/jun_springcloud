@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 调试 cglib map -> bean，详见{@link net.dreamlu.mica.test.utils.AsmTest}
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MapToBeanTest {
 

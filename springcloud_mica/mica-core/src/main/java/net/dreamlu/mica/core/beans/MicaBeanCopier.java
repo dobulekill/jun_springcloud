@@ -45,7 +45,7 @@ import java.util.concurrent.ConcurrentMap;
  *     2. ClassLoader 跟 target 保持一致
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 public abstract class MicaBeanCopier {
 	private static final Type CONVERTER = TypeUtils.parseType("org.springframework.cglib.core.Converter");

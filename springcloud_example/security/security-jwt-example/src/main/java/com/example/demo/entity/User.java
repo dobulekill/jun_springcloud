@@ -6,7 +6,7 @@ import lombok.Data;
 
 /**
  * 用户信息
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/9/17 19:34
  * @version 1.0
  */

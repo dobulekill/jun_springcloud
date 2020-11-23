@@ -18,7 +18,7 @@ package org.springblade.core.boot.tenant;
 /**
  * 租户id生成器
  *
- * @author Chill
+ * @author Wujun
  */
 public interface TenantId {
 

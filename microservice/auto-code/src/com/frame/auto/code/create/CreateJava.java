@@ -14,7 +14,7 @@ import com.frame.auto.code.model.Table;
  * Title: 代码自动生成工具-生成对应的JAVA
  * Description:
  * 主要应用于oracle,sqlserver数据库数据基本操作
- * @author yuejing
+ * @author Wujun
  * @version 1.0
  */
 public class CreateJava {

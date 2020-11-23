@@ -29,7 +29,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * 用户服务缺省实现
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Service

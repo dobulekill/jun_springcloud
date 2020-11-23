@@ -28,7 +28,7 @@ import org.springframework.cloud.alicloud.utils.ChangeOrderUtils;
 import com.alibaba.cloud.context.edas.EdasChangeOrderConfigurationFactory;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @PrepareForTest({ EdasChangeOrderConfigurationFactory.class,
 		SentinelAliCloudListener.class })

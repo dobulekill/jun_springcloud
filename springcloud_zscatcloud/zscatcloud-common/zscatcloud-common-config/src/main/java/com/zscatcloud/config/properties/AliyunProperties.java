@@ -15,7 +15,7 @@ import lombok.Data;
 /**
  * The class Aliyun properties.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 public class AliyunProperties {

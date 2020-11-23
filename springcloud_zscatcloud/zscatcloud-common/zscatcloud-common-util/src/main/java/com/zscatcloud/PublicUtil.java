@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * The class Public util.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class PublicUtil {

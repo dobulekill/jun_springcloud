@@ -10,7 +10,7 @@ import reactor.core.publisher.Mono;
 
 /**
  * 移除GatewayContext过滤器
- * @author LYD
+ * @author Wujun
  */
 @Slf4j
 public class RemoveGatewayContextFilter implements WebFilter, Ordered {

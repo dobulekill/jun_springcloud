@@ -27,7 +27,7 @@ import org.springframework.cloud.alicloud.context.edas.EdasContextAutoConfigurat
 import com.alibaba.cloud.context.AliCloudServerMode;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AcmPropertiesTests {
 

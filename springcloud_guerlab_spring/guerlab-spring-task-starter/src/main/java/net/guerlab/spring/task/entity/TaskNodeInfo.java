@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 /**
  * 任务节点信息
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class TaskNodeInfo {

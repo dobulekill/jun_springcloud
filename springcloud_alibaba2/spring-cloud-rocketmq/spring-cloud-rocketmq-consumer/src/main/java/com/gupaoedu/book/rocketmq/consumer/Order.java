@@ -1,7 +1,7 @@
 package com.gupaoedu.book.rocketmq.consumer;
 
 /**
- * @author juede.tcever
+ * @author Wujun
  */
 public class Order {
 

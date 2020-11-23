@@ -34,7 +34,7 @@ import java.io.File;
 /**
  * 基础 controller
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface IController {
 

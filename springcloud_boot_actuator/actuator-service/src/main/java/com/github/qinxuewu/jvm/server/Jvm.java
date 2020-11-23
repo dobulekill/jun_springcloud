@@ -9,7 +9,7 @@ import com.github.qinxuewu.utils.Arith;
 /**
  * JVM相关信息
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class Jvm {
 	/**

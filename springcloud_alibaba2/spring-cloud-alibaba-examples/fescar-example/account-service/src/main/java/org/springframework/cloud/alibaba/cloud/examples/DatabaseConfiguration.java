@@ -28,7 +28,7 @@ import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.fescar.rm.datasource.DataSourceProxy;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @Configuration
 public class DatabaseConfiguration {

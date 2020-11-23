@@ -35,7 +35,7 @@ import java.util.concurrent.ConcurrentMap;
 /**
  * 组合 spring cglib Converter 和 spring ConversionService
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 @AllArgsConstructor

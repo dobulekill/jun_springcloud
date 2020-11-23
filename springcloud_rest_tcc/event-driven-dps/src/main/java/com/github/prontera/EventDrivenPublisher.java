@@ -25,7 +25,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class EventDrivenPublisher {
     private static final Logger LOGGER = LoggerFactory.getLogger(EventDrivenPublisher.class);

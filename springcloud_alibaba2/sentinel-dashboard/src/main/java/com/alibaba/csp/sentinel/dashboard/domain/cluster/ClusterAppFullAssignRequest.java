@@ -21,7 +21,7 @@ import java.util.Set;
 import com.alibaba.csp.sentinel.dashboard.domain.cluster.request.ClusterAppAssignMap;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.1
  */
 public class ClusterAppFullAssignRequest {

@@ -22,7 +22,7 @@ import java.util.UUID;
 import com.alibaba.nacos.api.naming.pojo.Instance;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosMockTest {
 

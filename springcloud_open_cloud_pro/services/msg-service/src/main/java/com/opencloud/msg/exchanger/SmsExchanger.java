@@ -7,7 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.util.Assert;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 @Slf4j
 public class SmsExchanger implements MessageExchanger {

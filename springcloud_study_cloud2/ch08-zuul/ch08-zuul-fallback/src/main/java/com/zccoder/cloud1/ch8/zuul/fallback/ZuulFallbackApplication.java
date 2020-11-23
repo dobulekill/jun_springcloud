@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 /**
  * @title 启动类
  * @describe 为Zuul添加回退
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-11
  */
 @SpringBootApplication

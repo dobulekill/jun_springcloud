@@ -19,7 +19,7 @@ package net.dreamlu.mica.lock.annotation;
 /**
  * 锁类型
  *
- * @author lcm
+ * @author Wujun
  */
 public enum LockType {
 	/**

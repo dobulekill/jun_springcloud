@@ -14,7 +14,7 @@ import java.util.*;
  * (5)加权随机法（Weight Random）
  * (6)最小连接数法（Least Connections）
  *
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 22/8/2018上午 10:21
  */

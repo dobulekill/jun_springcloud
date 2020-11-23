@@ -24,7 +24,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 任务调度
- * @author yuejing
+ * @author Wujun
  * @date 2016年10月22日 上午9:58:59
  * @version V1.0.0
  */

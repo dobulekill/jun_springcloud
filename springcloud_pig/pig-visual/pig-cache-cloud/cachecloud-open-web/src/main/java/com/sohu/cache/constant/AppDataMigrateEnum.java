@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * Redis迁移类型枚举
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-8
  * @Time 下午3:02:50
  */

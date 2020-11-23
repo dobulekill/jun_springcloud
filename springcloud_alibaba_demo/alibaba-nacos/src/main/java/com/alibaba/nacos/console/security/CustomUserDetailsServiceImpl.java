@@ -27,7 +27,7 @@ import org.springframework.stereotype.Service;
 /**
  * Custem user service
  *
- * @author wfnuser
+ * @author Wujun
  */
 @Service
 public class CustomUserDetailsServiceImpl implements UserDetailsService {

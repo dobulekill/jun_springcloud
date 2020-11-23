@@ -30,7 +30,7 @@ import java.io.IOException;
  * Request filter that intercepts the request body, forwards it to the controller
  * as a request attribute and resets the stream.
  *
- * @author Petr Dvorak
+ * @author Wujun
  */
 public class ResettableRequestFilter extends OncePerRequestFilter {
 

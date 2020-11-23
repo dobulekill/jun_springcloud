@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Map工具类
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @date    2014年12月25日 上午10:42:27 
  * @version 1.0.0

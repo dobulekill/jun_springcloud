@@ -8,7 +8,7 @@ import com.sohu.cache.entity.AppUser;
 
 /**
  * 用户管理dao
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月5日
  */
 public interface AppUserDao {

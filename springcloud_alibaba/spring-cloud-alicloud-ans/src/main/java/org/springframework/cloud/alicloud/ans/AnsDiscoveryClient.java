@@ -25,7 +25,7 @@ import com.alibaba.ans.core.NamingService;
 import com.alibaba.ans.shaded.com.taobao.vipserver.client.core.Host;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsDiscoveryClient implements DiscoveryClient {
 

@@ -35,7 +35,7 @@ import com.sohu.tv.jedis.stat.utils.NumberUtil;
 /**
  * jedis数据收集上报任务执行器
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月14日
  * @Time 上午11:45:09
  */

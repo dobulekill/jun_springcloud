@@ -22,7 +22,7 @@ import org.junit.Test;
 import org.springframework.cloud.alicloud.context.BaseAliCloudSpringApplication;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class AnsContextApplicationListenerTests extends BaseAliCloudSpringApplication {
 

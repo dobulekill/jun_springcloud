@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * 忽略字段
- * @author yuejing
+ * @author Wujun
  * @date 2017年1月26日 下午11:11:41
  * @version V1.0.0
  */

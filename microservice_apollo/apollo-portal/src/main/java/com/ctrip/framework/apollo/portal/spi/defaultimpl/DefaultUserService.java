@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultUserService implements UserService {
 

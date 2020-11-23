@@ -39,7 +39,7 @@ import com.alibaba.csp.sentinel.slots.system.SystemRuleManager;
 
 /**
  * Endpoint for Sentinel, contains ans properties and rules
- * @author xiaojing
+ * @author Wujun
  */
 @Endpoint(id = "sentinel")
 public class SentinelEndpoint {

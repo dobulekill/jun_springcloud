@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestBody;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Component
 public class TccClientFallback implements TccClient {

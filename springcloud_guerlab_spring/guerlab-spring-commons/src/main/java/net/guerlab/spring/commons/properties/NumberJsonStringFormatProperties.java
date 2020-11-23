@@ -8,7 +8,7 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * 数值json格式化配置,用于将数值类型在json格式化处理的时候处理为字符串类型,避免精度溢出
  *
- * @author guer
+ * @author Wujun
  *
  */
 @RefreshScope

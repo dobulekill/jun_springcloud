@@ -2,7 +2,7 @@ package com.sohu.cache.web.enums;
 
 /**
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年1月12日
  * @Time 下午2:28:25
  */

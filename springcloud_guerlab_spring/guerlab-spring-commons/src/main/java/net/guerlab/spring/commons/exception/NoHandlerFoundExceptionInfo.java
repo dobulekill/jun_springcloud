@@ -7,7 +7,7 @@ import org.springframework.web.servlet.NoHandlerFoundException;
 /**
  * 未发现处理程序(404)
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class NoHandlerFoundExceptionInfo extends AbstractI18nInfo {

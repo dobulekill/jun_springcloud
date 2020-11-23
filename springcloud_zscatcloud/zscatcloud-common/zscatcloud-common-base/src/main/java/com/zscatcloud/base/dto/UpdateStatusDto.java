@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Modify status dto.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 @ApiModel(value = "更改状态")

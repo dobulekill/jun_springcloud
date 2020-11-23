@@ -17,7 +17,7 @@ import java.util.Date;
 
 		System.out.println(getSimpleTime("2016-03-23 12:12:12"));
 	}
- * @author yuejing
+ * @author Wujun
  * @date 2016年5月2日 下午3:33:25
  * @version V1.0.0
  */

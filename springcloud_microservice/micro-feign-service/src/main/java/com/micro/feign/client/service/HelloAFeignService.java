@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @Description: 
  *
  * @Date 2017年8月29日 21:09:41
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @FeignClient(value = "SERVICEHELLOA")

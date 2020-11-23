@@ -25,7 +25,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  * @Description: 
  *
  * @Date 2017年8月29日 20:48:49
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @EnableEurekaClient

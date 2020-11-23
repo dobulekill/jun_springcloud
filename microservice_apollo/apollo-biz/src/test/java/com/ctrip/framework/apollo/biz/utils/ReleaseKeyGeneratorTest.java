@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class ReleaseKeyGeneratorTest {
   private static final Logger logger = LoggerFactory.getLogger(ReleaseKeyGeneratorTest.class);

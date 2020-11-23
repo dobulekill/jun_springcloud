@@ -12,7 +12,7 @@ import java.util.Date;
  * 描述: 消息发送者<br>
  * 时间: 2018/10/04<br>
  *
- * @author zc
+ * @author Wujun
  */
 @Component
 public class Sender {

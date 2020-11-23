@@ -8,7 +8,7 @@ import com.sohu.cache.web.enums.SuccessEnum;
 
 /**
  * 应用相关操作
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月21日
  */
 public interface AppService {

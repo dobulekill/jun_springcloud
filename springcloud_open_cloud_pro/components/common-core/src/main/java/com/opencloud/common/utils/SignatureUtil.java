@@ -15,7 +15,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 public class SignatureUtil {

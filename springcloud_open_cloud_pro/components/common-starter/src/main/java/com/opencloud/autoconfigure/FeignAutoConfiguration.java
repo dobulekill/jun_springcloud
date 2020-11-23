@@ -32,7 +32,7 @@ import java.util.Map;
 /**
  * Feign OAuth2 request interceptor.
  *
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 @Configuration

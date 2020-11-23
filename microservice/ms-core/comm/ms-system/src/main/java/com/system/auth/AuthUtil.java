@@ -5,7 +5,7 @@ import com.system.comm.utils.FrameMd5Util;
 
 /**
  * 前面相关的工具类
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.itoujing.com
  * @date    2016年3月2日 下午4:20:28 

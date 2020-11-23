@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.Ordered;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties({DelayProperties.class, ManualExceptionProperties.class})

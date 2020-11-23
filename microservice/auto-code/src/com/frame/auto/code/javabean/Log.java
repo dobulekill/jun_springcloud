@@ -20,7 +20,7 @@ import com.frame.auto.code.constants.Config;
  * Company:
  * </p>
  * 
- * @author hellion
+ * @author Wujun
  * @version 1.0
  */
 

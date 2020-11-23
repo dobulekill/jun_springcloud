@@ -22,7 +22,7 @@ import java.util.Map.Entry;
 /**
  * Http与Servlet工具类.
  *
- * @author liuyadu
+ * @author Wujun
  */
 public class WebUtil extends ServletUtil {
 

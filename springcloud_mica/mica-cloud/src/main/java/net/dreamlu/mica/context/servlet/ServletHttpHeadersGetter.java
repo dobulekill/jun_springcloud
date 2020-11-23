@@ -36,7 +36,7 @@ import java.util.List;
 /**
  * HttpHeaders 获取器
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnWebApplication(type = ConditionalOnWebApplication.Type.SERVLET)

@@ -7,7 +7,7 @@ import javax.persistence.Table;
 /**
  * 保险
  *
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Entity
 @Table(name = "insurance")

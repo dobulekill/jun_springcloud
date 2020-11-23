@@ -1,7 +1,7 @@
 package com.github.prontera.service;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public interface CrudService<T> {
 

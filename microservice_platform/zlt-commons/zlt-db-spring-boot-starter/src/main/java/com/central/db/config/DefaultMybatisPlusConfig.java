@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Profile;
 
 /**
  * mybatis-plus配置
- * @author zlt
+ * @author Wujun
  * @date 2018/12/13
  */
 @Import(DateMetaObjectHandler.class)

@@ -14,7 +14,7 @@ import com.alibaba.csp.sentinel.slots.block.flow.FlowRule;
 import com.alibaba.csp.sentinel.slots.block.flow.FlowRuleManager;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 @SpringBootApplication(scanBasePackages = "org.springframework.cloud.alibaba.cloud.examples")
 public class SentinelDubboConsumerApp {

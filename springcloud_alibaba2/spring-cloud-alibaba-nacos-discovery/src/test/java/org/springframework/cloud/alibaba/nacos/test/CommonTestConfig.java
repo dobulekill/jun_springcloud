@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 
 @Configuration

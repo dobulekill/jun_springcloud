@@ -7,7 +7,7 @@ import com.sohu.cache.entity.InstanceAlertConfig;
 
 /**
  * 实例报警阀值配置
- * @author leifu
+ * @author Wujun
  * @Date 2017年5月19日
  * @Time 下午2:12:29
  */

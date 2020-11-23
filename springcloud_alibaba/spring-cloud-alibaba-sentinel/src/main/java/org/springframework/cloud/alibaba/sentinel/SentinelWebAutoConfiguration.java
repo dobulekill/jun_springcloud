@@ -34,7 +34,7 @@ import org.springframework.context.annotation.Configuration;
 import com.alibaba.csp.sentinel.adapter.servlet.CommonFilter;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnWebApplication

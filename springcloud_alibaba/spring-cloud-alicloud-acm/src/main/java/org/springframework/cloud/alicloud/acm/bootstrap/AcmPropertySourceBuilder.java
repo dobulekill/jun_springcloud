@@ -28,8 +28,8 @@ import java.io.StringReader;
 import java.util.*;
 
 /**
- * @author juven.xuxb
- * @author xiaolongzuo
+ * @author Wujun
+ * @author Wujun
  */
 class AcmPropertySourceBuilder {
 

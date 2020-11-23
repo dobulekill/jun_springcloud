@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * job trigger thread pool helper
  *
- * @author xuxueli 2018-07-03 21:08:07
+ * @author Wujun
  */
 public class JobTriggerPoolHelper {
     private static Logger logger = LoggerFactory.getLogger(JobTriggerPoolHelper.class);

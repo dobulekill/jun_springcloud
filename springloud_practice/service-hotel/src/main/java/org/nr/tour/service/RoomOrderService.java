@@ -4,7 +4,7 @@ import org.nr.tour.BaseOrderService;
 import org.nr.tour.domain.RoomOrder;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public interface RoomOrderService extends BaseOrderService<RoomOrder> {
 }

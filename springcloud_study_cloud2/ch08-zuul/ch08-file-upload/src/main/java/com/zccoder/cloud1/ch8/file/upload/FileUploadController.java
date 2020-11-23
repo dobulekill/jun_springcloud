@@ -12,7 +12,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * @title 控制器类
  * @describe 文件上传
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-11
  */
 @RestController

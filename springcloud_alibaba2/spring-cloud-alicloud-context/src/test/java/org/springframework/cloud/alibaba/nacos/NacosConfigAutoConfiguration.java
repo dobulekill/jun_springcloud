@@ -17,7 +17,7 @@
 package org.springframework.cloud.alibaba.nacos;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 public class NacosConfigAutoConfiguration {
 }

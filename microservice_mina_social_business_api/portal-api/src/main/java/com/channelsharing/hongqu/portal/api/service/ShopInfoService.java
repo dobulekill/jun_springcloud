@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 
 /**
  * 店铺信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-11
  */
 public interface ShopInfoService extends CrudService<ShopInfo>{

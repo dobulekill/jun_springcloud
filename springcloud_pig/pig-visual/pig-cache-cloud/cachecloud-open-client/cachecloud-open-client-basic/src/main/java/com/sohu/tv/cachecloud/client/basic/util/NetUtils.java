@@ -29,7 +29,7 @@ import org.slf4j.LoggerFactory;
 /**
  * IP and Port Helper for RPC,
  *
- * @author shawn.qianx
+ * @author Wujun
  */
 
 public class NetUtils {

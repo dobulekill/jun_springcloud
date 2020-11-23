@@ -37,7 +37,7 @@ import javax.sql.DataSource;
 /**
  * 资源服务器配置
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Configuration
 @EnableResourceServer

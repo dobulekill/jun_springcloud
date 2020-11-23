@@ -13,7 +13,7 @@ import net.guerlab.commons.exception.ApplicationException;
 /**
  * 请求参数错误
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class RequestParamsError extends ApplicationException {

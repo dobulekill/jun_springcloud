@@ -8,7 +8,7 @@ import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
 /**
  * Key/Value的实体类
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-10 下午5:16:33
  * @version V1.0.0
  */

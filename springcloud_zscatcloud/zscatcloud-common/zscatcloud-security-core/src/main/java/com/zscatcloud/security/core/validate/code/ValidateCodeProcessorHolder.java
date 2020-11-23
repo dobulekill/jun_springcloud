@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * 校验码处理器管理器
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Component
 public class ValidateCodeProcessorHolder {

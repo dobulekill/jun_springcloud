@@ -3,7 +3,7 @@ package com.central.search.service;
 import java.util.Map;
 
 /**
- * @author zlt
+ * @author Wujun
  * @date 2019/4/24
  */
 public interface IAggregationService {

@@ -17,7 +17,7 @@ import lombok.Data;
 /**
  * The class Page util.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 public class PageUtil {

@@ -27,7 +27,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/11/16
  * 消息发往消息队列工具类
  */

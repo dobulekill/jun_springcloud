@@ -3,7 +3,7 @@ package com.sohu.cache.web.enums;
 /**
  * 管理员
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月16日
  */
 public enum AdminEnum {

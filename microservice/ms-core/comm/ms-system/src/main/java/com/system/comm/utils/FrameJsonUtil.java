@@ -18,7 +18,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
  * Json操作
- * @author  yuejing
+ * @author Wujun
  * @date    2014年11月8日 下午5:17:36 
  * @version 1.0.0
  */

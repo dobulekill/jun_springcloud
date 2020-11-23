@@ -9,7 +9,7 @@ import com.system.auth.model.AuthClient;
 
 /**
  * 惊讶SSO
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.itoujing.com
  * @date    2015年11月18日 下午3:09:29 

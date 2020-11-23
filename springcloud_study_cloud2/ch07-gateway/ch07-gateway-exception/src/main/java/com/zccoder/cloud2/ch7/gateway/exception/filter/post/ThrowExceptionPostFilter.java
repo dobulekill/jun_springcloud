@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
  * 描述: 后置过滤器<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 @Component
 public class ThrowExceptionPostFilter extends ZuulFilter {

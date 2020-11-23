@@ -6,7 +6,7 @@ import com.zccoder.cloud1.ch04.eureka.user.entity.User;
 
 /**
  * 用户资源类
- * @author ZhangCheng on 2017-07-19 12:54
+ * @author Wujun
  *
  */
 public interface UserRepository extends JpaRepository<User, Long> {

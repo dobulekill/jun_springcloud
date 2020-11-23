@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 
 /**
  * 系统配置项Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-17
  */
 public interface ConfigParamService extends CrudService<ConfigParam>{

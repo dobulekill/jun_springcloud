@@ -30,7 +30,7 @@ import java.lang.annotation.*;
  *     2. Accept 版本：application/vnd.mica.VERSION+json
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

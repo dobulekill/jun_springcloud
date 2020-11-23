@@ -15,7 +15,7 @@ import com.task.schedule.manager.pojo.TaskJobLog;
 
 /**
  * task_job_log的Service
- * @author yuejing
+ * @author Wujun
  * @date 2015-03-31 14:26:09
  * @version V1.0.0
  */

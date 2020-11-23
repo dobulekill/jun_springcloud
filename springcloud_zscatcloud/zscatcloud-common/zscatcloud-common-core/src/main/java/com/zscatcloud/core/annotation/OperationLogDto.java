@@ -20,7 +20,7 @@ import java.util.Date;
 /**
  * The class Operation log dto.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 public class OperationLogDto implements Serializable {

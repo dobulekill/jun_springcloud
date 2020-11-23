@@ -24,7 +24,7 @@ import java.util.stream.Collectors;
 /**
  * 视图包装基类
  *
- * @author Chill
+ * @author Wujun
  */
 public abstract class BaseEntityWrapper<E, V> {
 

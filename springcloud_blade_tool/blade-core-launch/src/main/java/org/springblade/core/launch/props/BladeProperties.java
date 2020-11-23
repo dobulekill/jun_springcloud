@@ -26,7 +26,7 @@ import java.util.Map;
 /**
  * 配置文件
  *
- * @author Chill
+ * @author Wujun
  */
 @ConfigurationProperties("blade")
 public class BladeProperties {

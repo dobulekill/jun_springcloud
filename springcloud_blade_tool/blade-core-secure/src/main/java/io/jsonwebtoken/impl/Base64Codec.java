@@ -20,7 +20,7 @@ import java.util.Base64;
 /**
  * Base64Codec
  *
- * @author jjwt
+ * @author Wujun
  */
 public class Base64Codec extends AbstractTextCodec {
 

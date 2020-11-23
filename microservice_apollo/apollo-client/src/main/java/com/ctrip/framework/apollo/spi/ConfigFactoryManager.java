@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.spi;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ConfigFactoryManager {
   /**

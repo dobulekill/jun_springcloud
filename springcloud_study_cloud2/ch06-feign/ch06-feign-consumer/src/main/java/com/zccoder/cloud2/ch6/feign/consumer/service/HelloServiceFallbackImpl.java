@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * 描述: 服务降级回调实现<br>
  * 时间: 2018/10/03<br>
  *
- * @author zc
+ * @author Wujun
  */
 @Component
 public class HelloServiceFallbackImpl implements HelloService {

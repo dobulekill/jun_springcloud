@@ -11,7 +11,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * prj_api实体
- * @author yuejing
+ * @author Wujun
  * @date 2017-05-18 16:00:41
  * @version V1.0.0
  */

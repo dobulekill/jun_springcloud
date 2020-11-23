@@ -22,7 +22,7 @@ import org.junit.Test;
 import com.alibaba.csp.sentinel.dashboard.config.DashboardConfig;
 
 /**
- * @author Jason Joo
+ * @author Wujun
  */
 public class MachineInfoTest {
 

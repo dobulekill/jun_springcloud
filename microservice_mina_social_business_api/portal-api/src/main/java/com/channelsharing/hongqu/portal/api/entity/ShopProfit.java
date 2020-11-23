@@ -12,7 +12,7 @@ import com.channelsharing.common.entity.BaseEntity;
 
 /**
  * 店铺收益Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-17
  */
 @Data

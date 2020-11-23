@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Reno Chou
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnProperty(value = "hystrix.propagate.request-attribute.enabled", matchIfMissing = true)

@@ -6,7 +6,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 随机保存名称生成器
  *
- * @author guer
+ * @author Wujun
  */
 public class RandomSaveNameGenerator implements SaveNameGenerator {
 

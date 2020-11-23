@@ -3,7 +3,7 @@ package com.sohu.cache.constant;
 /**
  * app详情枚举(以后有关app详情的都往这里面迁)
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月26日
  * @Time 上午11:34:22
  */

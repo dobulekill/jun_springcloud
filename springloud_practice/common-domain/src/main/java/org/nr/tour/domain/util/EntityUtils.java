@@ -6,7 +6,7 @@ import org.springframework.util.StringUtils;
 import java.util.UUID;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public class EntityUtils {
 

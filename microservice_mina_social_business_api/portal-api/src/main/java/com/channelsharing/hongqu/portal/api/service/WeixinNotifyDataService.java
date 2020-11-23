@@ -9,7 +9,7 @@ import com.channelsharing.hongqu.portal.api.entity.WeixinNotifyData;
 
 /**
  * 微信回调数据记录Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-03-29
  */
 public interface WeixinNotifyDataService extends CrudService<WeixinNotifyData>{

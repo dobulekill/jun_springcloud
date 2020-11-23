@@ -8,7 +8,7 @@ import feign.Logger;
 /**
  * @title 配置类
  * @describe Feign配置类
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-05
  */
 @Configuration

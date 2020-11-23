@@ -27,7 +27,7 @@ import org.springframework.util.StringUtils;
 import org.springframework.web.servlet.HandlerInterceptor;
 
 /**
- * @author xiaojing
+ * @author Wujun
  *
  * Fescar HandlerInterceptor, Convert Fescar information into
  * @see com.alibaba.fescar.core.context.RootContext from http request's header in

@@ -24,7 +24,7 @@ import com.netflix.client.config.IClientConfig;
 import com.netflix.loadbalancer.ServerList;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 public class AnsRibbonClientConfiguration {

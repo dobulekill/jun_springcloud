@@ -29,7 +29,7 @@ import java.util.Optional;
 /**
  * swagger2 controller with spring cloud
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration
@@ -53,7 +53,7 @@ public class Swagger2ControllerAutoConfigure implements WebMvcConfigurer, Applic
     /**
      * swagger2 controller with spring cloud
      *
-     * @author guer
+     * @author Wujun
      *
      */
     @ApiIgnore

@@ -9,7 +9,7 @@ import javax.annotation.Resource;
 /**
  * 库存
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/9/14
  */
 @RestController

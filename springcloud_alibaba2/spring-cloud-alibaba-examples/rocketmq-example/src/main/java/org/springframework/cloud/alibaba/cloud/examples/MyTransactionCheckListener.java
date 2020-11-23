@@ -5,7 +5,7 @@ import org.apache.rocketmq.client.producer.TransactionCheckListener;
 import org.apache.rocketmq.common.message.MessageExt;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class MyTransactionCheckListener implements TransactionCheckListener {
 

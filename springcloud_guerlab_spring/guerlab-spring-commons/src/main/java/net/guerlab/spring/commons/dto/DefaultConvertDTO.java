@@ -10,7 +10,7 @@ import java.lang.reflect.Type;
 /**
  * 转换为DTO对象
  *
- * @author guer
+ * @author Wujun
  *
  * @param <D>
  *            DTO对象类型

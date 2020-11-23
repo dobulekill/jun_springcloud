@@ -15,7 +15,7 @@ import com.gitee.myclouds.common.wrapper.impl.HashDto;
 /**
  * <b>数据传输对象实例化辅助类</b>
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2008-07-06
  */
 public class Dtos {

@@ -38,7 +38,7 @@ import java.util.Date;
 /**
  * The class Log aspect.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Slf4j
 @Aspect

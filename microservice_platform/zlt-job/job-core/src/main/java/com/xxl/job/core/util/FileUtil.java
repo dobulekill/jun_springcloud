@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * file tool
  *
- * @author xuxueli 2017-12-29 17:56:48
+ * @author Wujun
  */
 public class FileUtil {
     private static Logger logger = LoggerFactory.getLogger(FileUtil.class);

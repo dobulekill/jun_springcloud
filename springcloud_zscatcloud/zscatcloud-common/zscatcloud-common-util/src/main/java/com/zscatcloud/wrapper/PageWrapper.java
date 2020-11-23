@@ -19,7 +19,7 @@ import lombok.EqualsAndHashCode;
 /**
  * The class Page wrapper.
  *
- * @param <T> the type parameter @author zscatcloud.net@gmail.com
+ * @param <T> the type parameter @author Wujun
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

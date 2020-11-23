@@ -33,8 +33,8 @@ import org.springframework.stereotype.Component;
 /**
  * Caches metrics data in a period of time in memory.
  *
- * @author Carpenter Lee
- * @author Eric Zhao
+ * @author Wujun
+ * @author Wujun
  */
 @Component("inMemoryMetricsRepository")
 public class InMemoryMetricsRepository implements MetricsRepository<MetricEntity> {

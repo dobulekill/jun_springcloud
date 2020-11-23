@@ -3,7 +3,7 @@ package com.github.prontera.exception;
 import com.github.prontera.model.TccErrorResponse;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public class PartialConfirmException extends RuntimeException {
 

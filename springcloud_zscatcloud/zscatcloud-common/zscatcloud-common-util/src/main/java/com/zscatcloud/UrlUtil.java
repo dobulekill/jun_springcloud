@@ -18,7 +18,7 @@ import java.io.UnsupportedEncodingException;
 /**
  * url转码、解码
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Slf4j
 public class UrlUtil {

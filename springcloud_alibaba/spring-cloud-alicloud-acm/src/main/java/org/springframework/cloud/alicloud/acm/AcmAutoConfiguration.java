@@ -34,7 +34,7 @@ import com.taobao.diamond.client.Diamond;
 /**
  * Created on 01/10/2017.
  *
- * @author juven.xuxb
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass({ Diamond.class })

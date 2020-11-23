@@ -19,7 +19,7 @@ package net.dreamlu.mica.core.utils;
 /**
  * 静态 String 池
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface StringPool {
 	// @formatter:off

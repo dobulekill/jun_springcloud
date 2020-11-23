@@ -36,7 +36,7 @@ import org.springframework.util.AntPathMatcher;
 /**
  * mica webflux 日志拦截器
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @RequiredArgsConstructor
@@ -54,7 +54,7 @@ public class MicaRequestLogConfiguration {
 	/**
 	 * 默认的请求日志排除规则
 	 *
-	 * @author L.cm
+	 * @author Wujun
 	 */
 	@Configuration
 	@ConditionalOnMissingBean(RequestLogExclusiveRule.class)
@@ -70,7 +70,7 @@ public class MicaRequestLogConfiguration {
 	/**
 	 * 排除 /actuator
 	 *
-	 * @author L.cm
+	 * @author Wujun
 	 */
 	@Configuration
 	@ConditionalOnClass(WebEndpointProperties.class)

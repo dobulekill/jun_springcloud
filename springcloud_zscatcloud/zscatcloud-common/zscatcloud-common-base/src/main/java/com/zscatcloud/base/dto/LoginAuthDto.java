@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Login auth dto.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Data
 @ApiModel(value = "登录人信息")

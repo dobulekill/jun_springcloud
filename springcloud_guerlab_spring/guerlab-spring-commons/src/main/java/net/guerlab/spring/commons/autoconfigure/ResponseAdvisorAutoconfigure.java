@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * 响应数据处理自动配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration
@@ -37,7 +37,7 @@ public class ResponseAdvisorAutoconfigure {
     /**
      * 响应数据处理
      *
-     * @author guer
+     * @author Wujun
      *
      */
     @RestControllerAdvice

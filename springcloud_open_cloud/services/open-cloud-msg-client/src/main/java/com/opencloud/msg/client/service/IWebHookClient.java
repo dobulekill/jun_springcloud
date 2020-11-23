@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 /**
  * 推送通知
  *
- * @author woodev
+ * @author Wujun
  */
 public interface IWebHookClient {
 

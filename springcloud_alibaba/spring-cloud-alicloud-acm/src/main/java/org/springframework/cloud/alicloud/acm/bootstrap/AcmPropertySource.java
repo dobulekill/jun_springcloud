@@ -22,8 +22,8 @@ import java.util.Date;
 import java.util.Map;
 
 /**
- * @author juven.xuxb
- * @author xiaolongzuo
+ * @author Wujun
+ * @author Wujun
  */
 public class AcmPropertySource extends MapPropertySource {
 

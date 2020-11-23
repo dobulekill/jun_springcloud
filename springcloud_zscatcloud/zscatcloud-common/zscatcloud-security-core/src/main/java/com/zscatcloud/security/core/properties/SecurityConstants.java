@@ -3,7 +3,7 @@ package com.zscatcloud.security.core.properties;
 /**
  * The interface Security constants.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public interface SecurityConstants {
 

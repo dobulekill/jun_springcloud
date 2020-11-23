@@ -12,7 +12,7 @@ import com.channelsharing.hongqu.portal.api.dao.SpecificationInfoDao;
 
 /**
  * 规格维度接口Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @Service

@@ -11,7 +11,7 @@ import com.sohu.cache.ssh.SSHUtil;
 
 /**
  * ssh工具测试
- * @author leifu
+ * @author Wujun
  * @Date 2016-3-28
  * @Time 下午9:09:55
  */

@@ -23,7 +23,7 @@ import org.springframework.stereotype.Component;
 /**
  * 解析店铺的Id示例Filter
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Component

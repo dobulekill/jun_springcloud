@@ -21,7 +21,7 @@ import java.util.*;
 /**
  * 用于输出每条 SQL 语句及其执行时间
  *
- * @author hubin nieqiurong TaoYu
+ * @author Wujun
  * @since 2016-07-07
  */
 @Slf4j

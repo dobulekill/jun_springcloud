@@ -5,7 +5,7 @@ import org.springframework.lang.Nullable;
 /**
  * 系统工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 public class SystemUtil {
 	/**

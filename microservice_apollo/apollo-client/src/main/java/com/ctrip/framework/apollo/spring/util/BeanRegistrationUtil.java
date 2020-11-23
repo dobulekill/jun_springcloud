@@ -7,7 +7,7 @@ import org.springframework.beans.factory.support.BeanDefinitionBuilder;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class BeanRegistrationUtil {
   public static boolean registerBeanDefinitionIfNotExists(BeanDefinitionRegistry registry, String beanName,

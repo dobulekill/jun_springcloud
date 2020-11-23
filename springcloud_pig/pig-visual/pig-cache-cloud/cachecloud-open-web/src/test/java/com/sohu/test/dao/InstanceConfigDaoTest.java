@@ -15,7 +15,7 @@ import com.sohu.test.BaseTest;
 /**
  * 配置模板测试
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月22日
  * @Time 下午5:55:51
  */

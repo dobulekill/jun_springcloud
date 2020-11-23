@@ -22,7 +22,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 配置项缓存服务
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Service

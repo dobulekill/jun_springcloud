@@ -26,7 +26,7 @@ import com.channelsharing.common.exception.DataNotFoundException;
 /**
  * 订单的商品信息Controller
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @Api(tags = "订单的商品信息操作接口")

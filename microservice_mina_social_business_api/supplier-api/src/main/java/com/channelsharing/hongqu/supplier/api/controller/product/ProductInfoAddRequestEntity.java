@@ -17,7 +17,7 @@ import java.math.BigDecimal;
 /**
  * 产品信息Entity
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-07
  */
 @Data

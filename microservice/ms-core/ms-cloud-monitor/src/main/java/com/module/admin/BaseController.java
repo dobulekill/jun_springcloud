@@ -19,7 +19,7 @@ import com.system.comm.utils.FrameJsonUtil;
 
 /**
  * Base Controller
- * @author duanbin
+ * @author Wujun
  * @version 2016/05/21 1.0.0
  */
 @Component

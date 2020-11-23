@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * Xss配置类
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 @ConfigurationProperties("blade.xss")

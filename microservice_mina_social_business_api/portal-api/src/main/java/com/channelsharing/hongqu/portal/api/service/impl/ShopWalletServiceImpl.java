@@ -17,7 +17,7 @@ import com.channelsharing.hongqu.portal.api.dao.ShopWalletDao;
 
 /**
  * 店铺钱包Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-26
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

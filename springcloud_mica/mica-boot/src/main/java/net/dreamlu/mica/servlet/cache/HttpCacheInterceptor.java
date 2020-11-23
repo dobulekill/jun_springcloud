@@ -34,7 +34,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Http cache拦截器
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 @AllArgsConstructor

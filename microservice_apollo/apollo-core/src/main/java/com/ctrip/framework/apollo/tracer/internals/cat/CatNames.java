@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.tracer.internals.cat;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface CatNames {
   String CAT_CLASS = "com.dianping.cat.Cat";

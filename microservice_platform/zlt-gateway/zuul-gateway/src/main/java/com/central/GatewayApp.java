@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 @EnableZuulProxy
 @EnableFeignClients

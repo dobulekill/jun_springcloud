@@ -31,7 +31,7 @@ import java.util.function.Predicate;
 /**
  * 重试拦截器，应对代理问题
  *
- * @author L.cm
+ * @author Wujun
  */
 @RequiredArgsConstructor
 public class RetryInterceptor implements Interceptor {

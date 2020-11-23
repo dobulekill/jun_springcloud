@@ -3,7 +3,7 @@ package net.guerlab.spring.searchparams;
 /**
  * SearchParams参数处理接口
  *
- * @author guer
+ * @author Wujun
  *
  */
 @FunctionalInterface

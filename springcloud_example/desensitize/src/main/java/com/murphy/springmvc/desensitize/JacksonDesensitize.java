@@ -16,7 +16,7 @@ import java.util.List;
 /**
  *	Jackson返回数据进行脱敏
  * 配合@Desensitization使用
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/18 18:27
  * @version 1.0
  */

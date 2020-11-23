@@ -35,8 +35,8 @@ import com.aliyun.oss.OSSClientBuilder;
 /**
  * OSS Auto {@link Configuration}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
- * @author xiaolongzuo
+ * @author Wujun
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(name = "org.springframework.cloud.alicloud.oss.OssAutoConfiguration")

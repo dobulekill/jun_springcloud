@@ -16,7 +16,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 拦截器
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-16 下午10:09:43
  * @version V1.0.0
  */

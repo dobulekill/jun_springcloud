@@ -23,7 +23,7 @@ import java.util.regex.Pattern;
 /**
  * 正则表达式工具
  *
- * @author L.cm
+ * @author Wujun
  */
 public class RegexUtil {
 	/**

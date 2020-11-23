@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
 /**
- * @author fangjian
+ * @author Wujun
  */
 @SpringBootApplication
 public class SentinelDubboProviderApp {

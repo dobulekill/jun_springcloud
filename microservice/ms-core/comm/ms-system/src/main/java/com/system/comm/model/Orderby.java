@@ -13,7 +13,7 @@ import com.system.comm.utils.FrameStringUtil;
 		o.setOrder(1);
 		System.out.println(o.getProperty());
 	}
- * @author 岳静
+ * @author Wujun
  * @date 2016年3月30日 下午7:34:43 
  * @version V1.0
  */

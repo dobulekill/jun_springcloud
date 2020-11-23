@@ -41,7 +41,7 @@ import java.util.Map;
 /**
  * feign 自动配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @NoArgsConstructor
 public class MicaFeignClientsRegistrar implements ImportBeanDefinitionRegistrar, BeanClassLoaderAware, EnvironmentAware {

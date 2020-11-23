@@ -8,7 +8,7 @@ import com.sohu.cache.web.service.UserLoginStatusService;
 
 /**
  * 用户登录状态信息服务工厂
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月15日
  * @Time 下午1:48:36
  */

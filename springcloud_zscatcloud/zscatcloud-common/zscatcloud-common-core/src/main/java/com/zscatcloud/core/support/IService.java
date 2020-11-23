@@ -20,9 +20,9 @@ import java.util.List;
 /**
  * 通用接口
  *
- * @param <T> the type parameter @author zscatcloud.net@gmail.com
+ * @param <T> the type parameter @author Wujun
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public interface IService<T> {
 	/**

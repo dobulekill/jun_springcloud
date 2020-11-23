@@ -10,7 +10,7 @@ import javax.persistence.Id;
 
 /**
  * 用户实体类
- * @author ZhangCheng on 2017-07-18 13:21
+ * @author Wujun
  *
  */
 @Entity

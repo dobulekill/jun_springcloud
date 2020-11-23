@@ -1,7 +1,7 @@
 package com.github.prontera.model.type;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public enum OrderStatus {
 

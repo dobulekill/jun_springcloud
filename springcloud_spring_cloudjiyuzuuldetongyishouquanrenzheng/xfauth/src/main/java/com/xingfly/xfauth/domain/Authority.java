@@ -11,7 +11,7 @@ import javax.persistence.Id;
 /**
  * Created by SuperS on 2017/9/25.
  *
- * @author SuperS
+ * @author Wujun
  */
 @Entity
 @Data

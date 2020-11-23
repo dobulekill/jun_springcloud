@@ -16,7 +16,7 @@ import com.sohu.cache.web.service.MemFaultService;
 
 /**
  * 故障展示
- * @author leifu
+ * @author Wujun
  * @Time 2014年6月12日
  */
 @Controller

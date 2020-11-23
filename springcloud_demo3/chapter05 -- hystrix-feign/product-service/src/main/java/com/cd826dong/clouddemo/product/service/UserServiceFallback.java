@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * 用户服务的Fallback
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Component

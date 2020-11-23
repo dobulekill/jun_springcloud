@@ -27,7 +27,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * OSS Auto {@link Configuration}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(OSS.class)

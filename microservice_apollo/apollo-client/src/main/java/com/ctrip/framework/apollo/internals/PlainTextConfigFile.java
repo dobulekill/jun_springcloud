@@ -4,7 +4,7 @@ import com.ctrip.framework.apollo.core.ConfigConsts;
 import java.util.Properties;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public abstract class PlainTextConfigFile extends AbstractConfigFile {
 

@@ -1,7 +1,7 @@
 package com.ctrip.framework.apollo.common.constants;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public interface ReleaseOperationContext {
   String SOURCE_BRANCH = "sourceBranch";

@@ -2,7 +2,7 @@
 package com.pflm.common.exception;
 /**
  *  自定义异常
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time  26/11/2018 下午 6:26
  * @email 870439570@qq.com

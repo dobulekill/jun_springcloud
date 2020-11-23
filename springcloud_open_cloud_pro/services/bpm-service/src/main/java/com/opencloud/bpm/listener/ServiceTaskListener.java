@@ -5,7 +5,7 @@ import org.activiti.engine.delegate.JavaDelegate;
 
 /**
  * Service任务节点执行监听
- * @author LYD
+ * @author Wujun
  */
 public class ServiceTaskListener implements JavaDelegate {
 

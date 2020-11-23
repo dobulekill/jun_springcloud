@@ -12,7 +12,7 @@ import java.util.Date;
 /**
  * 机器测试
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年3月17日
  * @Time 下午2:15:02
  */

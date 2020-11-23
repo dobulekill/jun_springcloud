@@ -18,7 +18,7 @@ package org.springblade.core.launch.constant;
 /**
  * sentinel配置.
  *
- * @author zhuangqian
+ * @author Wujun
  */
 public interface SentinelConstant {
 

@@ -29,7 +29,7 @@ import java.util.concurrent.Executor;
 /**
  * The class Async config.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Configuration
 @EnableAsync

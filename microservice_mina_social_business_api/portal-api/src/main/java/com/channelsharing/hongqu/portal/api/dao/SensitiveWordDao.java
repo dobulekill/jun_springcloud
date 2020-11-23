@@ -10,7 +10,7 @@ import org.apache.ibatis.annotations.Mapper;
 
 /**
  * 敏感词信息Mapper接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2017-07-10
  */
 @Mapper

@@ -15,7 +15,7 @@ import javax.sql.DataSource;
 import java.util.Arrays;
 
 /**
- * @author guer
+ * @author Wujun
  */
 public class MyBatisPlusTester {
 

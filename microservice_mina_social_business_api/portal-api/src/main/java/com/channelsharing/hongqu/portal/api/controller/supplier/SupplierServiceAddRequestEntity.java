@@ -13,7 +13,7 @@ import lombok.Data;
 
 /**
  * 供应商售后服务Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-08-08
  */
 @Data

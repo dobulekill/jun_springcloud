@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  * 自定义访问拒绝
- * @author liuyadu
+ * @author Wujun
  */
 @Slf4j
 public class BaseAccessDeniedHandler implements AccessDeniedHandler {

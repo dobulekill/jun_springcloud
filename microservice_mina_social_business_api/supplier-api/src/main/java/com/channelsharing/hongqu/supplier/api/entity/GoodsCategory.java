@@ -8,7 +8,7 @@ import lombok.Data;
 
 /**
  * 商品分类Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-07
  */
 @Data

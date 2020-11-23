@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @title 启动类
  * @describe 通过Fallback Factory检查回退原因
- * @author zc
+ * @author Wujun
  * @version 1.0 2017-12-06
  */
 @EnableDiscoveryClient

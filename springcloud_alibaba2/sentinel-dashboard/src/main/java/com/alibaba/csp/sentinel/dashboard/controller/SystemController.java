@@ -36,7 +36,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author leyou(lihao)
+ * @author Wujun
  */
 @RestController
 @RequestMapping("/system")

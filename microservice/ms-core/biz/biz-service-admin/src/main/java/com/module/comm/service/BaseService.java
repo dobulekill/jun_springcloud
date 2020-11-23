@@ -13,7 +13,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 牛人牛基api
- * @author 岳静
+ * @author Wujun
  * @date 2016年3月23日 下午5:26:23 
  * @version V1.0
  */

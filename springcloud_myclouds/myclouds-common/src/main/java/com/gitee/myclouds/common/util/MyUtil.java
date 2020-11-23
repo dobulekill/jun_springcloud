@@ -24,7 +24,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * <b>辅助工具类</b>
  * 
- * @author xiongchun
+ * @author Wujun
  * @since 1.0
  * @date 2009-1-22
  */

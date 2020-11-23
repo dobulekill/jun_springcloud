@@ -32,7 +32,7 @@ import java.util.Map;
 /**
  * 机器管理
  *
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月14日
  */
 @Controller

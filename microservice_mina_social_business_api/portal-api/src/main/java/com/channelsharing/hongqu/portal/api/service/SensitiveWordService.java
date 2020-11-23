@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 
 /**
  * 敏感词信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2017-07-10
  */
 public interface SensitiveWordService extends CrudService<SensitiveWord> {

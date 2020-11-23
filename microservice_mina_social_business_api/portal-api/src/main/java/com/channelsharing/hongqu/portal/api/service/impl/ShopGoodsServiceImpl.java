@@ -37,7 +37,7 @@ import com.channelsharing.hongqu.portal.api.dao.ShopGoodsDao;
 /**
  * 店铺代理商品信息Service
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-12
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

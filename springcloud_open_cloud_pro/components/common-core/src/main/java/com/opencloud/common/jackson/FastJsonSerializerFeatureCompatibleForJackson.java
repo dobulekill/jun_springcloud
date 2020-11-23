@@ -11,7 +11,7 @@ import java.util.List;
 
 
 /**
- * @author LYD
+ * @author Wujun
  */
 public class FastJsonSerializerFeatureCompatibleForJackson extends BeanSerializerModifier {
     final private JsonSerializer<Object> nullBooleanJsonSerializer;

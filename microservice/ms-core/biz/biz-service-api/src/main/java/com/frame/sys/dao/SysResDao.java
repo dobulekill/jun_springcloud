@@ -6,7 +6,7 @@ import com.frame.sys.pojo.SysRes;
 
 /**
  * sys_res的Dao
- * @author yuejing
+ * @author Wujun
  * @date 2016-03-25 10:52:47
  * @version V1.0.0
  */

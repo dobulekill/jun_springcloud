@@ -5,7 +5,7 @@ import java.util.Locale;
 /**
  * 默认错误
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class DefaultExceptionInfo extends AbstractI18nInfo {

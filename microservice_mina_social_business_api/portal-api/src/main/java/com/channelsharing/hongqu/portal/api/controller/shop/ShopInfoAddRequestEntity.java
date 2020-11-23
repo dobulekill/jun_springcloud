@@ -11,7 +11,7 @@ import lombok.Data;
 
 /**
  * 店铺信息Entity
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-11
  */
 @Data

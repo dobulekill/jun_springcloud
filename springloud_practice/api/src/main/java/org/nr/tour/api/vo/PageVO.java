@@ -5,7 +5,7 @@ import org.nr.tour.domain.PageImplWrapper;
 import java.util.Collection;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 public class PageVO<T> extends BaseVO {
 

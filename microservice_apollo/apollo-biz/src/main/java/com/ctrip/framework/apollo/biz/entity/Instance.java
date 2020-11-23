@@ -12,7 +12,7 @@ import javax.persistence.PrePersist;
 import javax.persistence.Table;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Entity
 @Table(name = "Instance")

@@ -8,7 +8,7 @@ import com.alibaba.fastjson.JSONObject;
 /**
  * jackson Json转换工具
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年1月21日
  * @Time 上午10:55:30
  */

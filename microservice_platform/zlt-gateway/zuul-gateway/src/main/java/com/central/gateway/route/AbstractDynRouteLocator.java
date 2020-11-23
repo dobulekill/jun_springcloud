@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 扩展 {@link SimpleRouteLocator} 实现动态路由
  *
- * @author zlt
+ * @author Wujun
  * @date 2019/8/21
  */
 public abstract class AbstractDynRouteLocator extends SimpleRouteLocator implements RefreshableRouteLocator {

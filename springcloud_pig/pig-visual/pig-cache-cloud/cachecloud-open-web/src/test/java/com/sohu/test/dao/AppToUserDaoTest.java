@@ -10,7 +10,7 @@ import javax.annotation.Resource;
 
 /**
  * 
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月20日
  */
 public class AppToUserDaoTest extends BaseTest{

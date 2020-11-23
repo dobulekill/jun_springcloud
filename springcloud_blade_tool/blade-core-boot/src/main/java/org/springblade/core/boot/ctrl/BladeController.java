@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * Blade控制器封装类
  *
- * @author Chill
+ * @author Wujun
  */
 public class BladeController {
 

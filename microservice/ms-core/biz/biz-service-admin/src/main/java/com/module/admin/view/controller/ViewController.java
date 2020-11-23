@@ -15,7 +15,7 @@ import com.system.handle.model.ResponseFrame;
 
 /**
  * 用户登录退出等操作
- * @author yuejing
+ * @author Wujun
  * @date 2016-05-22 11:17:54
  * @version V1.0.0
  */

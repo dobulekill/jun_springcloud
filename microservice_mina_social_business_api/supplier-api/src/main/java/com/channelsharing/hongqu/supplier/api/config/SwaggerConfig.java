@@ -19,7 +19,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * Swagger接口自动生成工具的配置
  *
- * @author liuhangjun
+ * @author Wujun
  * @date 2017-01-22
  */
 

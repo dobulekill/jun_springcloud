@@ -5,7 +5,7 @@ import java.net.UnknownHostException;
 
 /**
  * RemoteAddress的工具类
- * @author jing.yue
+ * @author Wujun
  * @version 1.0
  * @since 2013/1/3
  */

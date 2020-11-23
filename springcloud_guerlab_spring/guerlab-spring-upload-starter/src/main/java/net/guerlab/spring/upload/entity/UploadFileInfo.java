@@ -9,7 +9,7 @@ import java.io.File;
 /**
  * 上传文件信息
  *
- * @author guer
+ * @author Wujun
  */
 public class UploadFileInfo implements IFileInfo {
 

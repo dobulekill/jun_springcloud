@@ -2,7 +2,7 @@ package com.sohu.cache.redis.enums;
 
 /**
  * 实例报警有效性枚举
- * @author leifu
+ * @author Wujun
  * @Date 2017年6月14日
  * @Time 上午10:22:39
  */

@@ -2,7 +2,7 @@ package com.sohu.cache.entity;
 
 /**
  * 客户端实例异常
- * @author leifu
+ * @author Wujun
  * @Date 2016年2月18日
  * @Time 下午5:07:42
  */

@@ -3,7 +3,7 @@ package com.github.pig.admin.dto;
 import com.github.pig.admin.entity.SysUser;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2017/11/5
  */
 public class UserDto extends SysUser {

@@ -34,7 +34,7 @@ import java.util.List;
 /**
  * 基于 redis 的分布式限流自动配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnProperty(value = "mica.redis.rate-limiter.enable")

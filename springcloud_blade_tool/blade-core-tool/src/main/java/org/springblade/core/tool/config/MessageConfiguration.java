@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * 消息配置类
  *
- * @author Chill
+ * @author Wujun
  */
 @Configuration
 @AllArgsConstructor

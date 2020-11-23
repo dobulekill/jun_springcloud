@@ -12,7 +12,7 @@ import com.murphy.security.service.UserExtendService;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author dongsufeng
+ * @author Wujun
  * @version 4.0
  * @date 2019/12/2 4:30 PM
  */

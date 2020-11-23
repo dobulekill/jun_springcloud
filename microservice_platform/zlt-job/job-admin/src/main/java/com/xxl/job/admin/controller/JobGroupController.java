@@ -22,7 +22,7 @@ import java.util.List;
 
 /**
  * job group controller
- * @author xuxueli 2016-10-02 20:52:56
+ * @author Wujun
  */
 @Controller
 @RequestMapping("/jobgroup")

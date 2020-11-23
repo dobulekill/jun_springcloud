@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 描述: 启动类<br>
  * 时间: 2018/10/05<br>
  *
- * @author zc
+ * @author Wujun
  */
 @SpringBootApplication
 public class StreamProducerApplication {

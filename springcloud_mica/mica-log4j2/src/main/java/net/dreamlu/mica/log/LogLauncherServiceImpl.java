@@ -27,7 +27,7 @@ import java.util.Properties;
 /**
  * 日志启动器
  *
- * @author L.cm
+ * @author Wujun
  */
 public class LogLauncherServiceImpl implements LauncherService {
 

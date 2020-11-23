@@ -19,7 +19,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * The class Paascloud properties.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 @ConfigurationProperties(prefix = GlobalConstant.ROOT_PREFIX)

@@ -6,7 +6,7 @@ import com.sohu.cache.entity.InstanceConfig;
 
 /**
  * redis配置模板服务
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月23日
  * @Time 下午2:08:03
  */

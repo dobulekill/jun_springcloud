@@ -23,7 +23,7 @@ import com.google.common.collect.Lists;
 /**
  * 用户 服务
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Service

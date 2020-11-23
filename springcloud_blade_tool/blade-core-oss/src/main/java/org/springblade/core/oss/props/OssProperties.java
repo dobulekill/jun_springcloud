@@ -21,7 +21,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * Minio参数配置类
  *
- * @author Chill
+ * @author Wujun
  */
 @Data
 @ConfigurationProperties(prefix = "oss")

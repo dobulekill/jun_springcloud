@@ -21,7 +21,7 @@ import org.springframework.messaging.SubscribableChannel;
 /**
  * 自定义一个消息通道
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 public interface SpringCloudBookChannels {

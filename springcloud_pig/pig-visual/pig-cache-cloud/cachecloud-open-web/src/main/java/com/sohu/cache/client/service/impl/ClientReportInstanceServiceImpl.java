@@ -10,7 +10,7 @@ import com.sohu.cache.dao.InstanceDao;
 import com.sohu.cache.entity.InstanceInfo;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月5日
  * @Time 上午11:05:35
  */

@@ -12,7 +12,7 @@ import com.task.schedule.manager.pojo.TaskProject;
 
 /**
  * 签名工具类
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2015年3月31日 上午11:11:21 

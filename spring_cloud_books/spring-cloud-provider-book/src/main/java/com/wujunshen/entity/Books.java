@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * <p>Books class.</p>
  *
- * @author hanl
+ * @author Wujun
  * @version $Id: $Id
  */
 public class Books implements Serializable {

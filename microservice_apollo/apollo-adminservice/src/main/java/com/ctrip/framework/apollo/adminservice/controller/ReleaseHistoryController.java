@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @RestController
 public class ReleaseHistoryController {

@@ -30,7 +30,7 @@ import org.springframework.http.HttpHeaders;
  *     https://github.com/Netflix/Hystrix/issues/92#issuecomment-260548068
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaFeignRequestHeaderInterceptor implements RequestInterceptor {
 

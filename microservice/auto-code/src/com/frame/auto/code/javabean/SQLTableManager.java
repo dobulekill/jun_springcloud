@@ -28,7 +28,7 @@ import com.frame.auto.code.model.Table;
  * Company:
  * </p>
  * 
- * @author hellion
+ * @author Wujun
  * @version 1.0
  */
 

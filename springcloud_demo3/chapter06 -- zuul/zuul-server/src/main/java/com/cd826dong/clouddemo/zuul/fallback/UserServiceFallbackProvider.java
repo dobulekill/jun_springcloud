@@ -28,7 +28,7 @@ import java.io.InputStream;
 /**
  * 用户微服务降级处理
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Component

@@ -22,7 +22,7 @@ import org.springframework.stereotype.Component;
  * @Description: 
  *
  * @Date 2017年8月30日 下午2:20:56
- * @author Li.Shangzhi
+ * @author Wujun
  * @version 1.0
  */
 @Component

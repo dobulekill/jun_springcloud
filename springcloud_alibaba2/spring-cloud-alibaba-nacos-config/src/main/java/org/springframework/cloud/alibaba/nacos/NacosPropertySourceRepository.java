@@ -23,7 +23,7 @@ import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 public class NacosPropertySourceRepository {
 

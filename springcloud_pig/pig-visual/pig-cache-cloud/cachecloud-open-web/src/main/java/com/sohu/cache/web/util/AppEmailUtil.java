@@ -33,7 +33,7 @@ import java.util.Set;
 /**
  * 邮件通知应用的申请流程(方法内是具体的文案)
  *
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月16日
  */
 public class AppEmailUtil {

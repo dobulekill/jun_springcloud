@@ -12,7 +12,7 @@ import com.channelsharing.common.service.CrudServiceImpl;
 
 /**
  * 国家地区信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-16
  */
 @Service

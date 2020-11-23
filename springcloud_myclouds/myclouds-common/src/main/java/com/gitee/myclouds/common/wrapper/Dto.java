@@ -16,7 +16,7 @@ import com.gitee.myclouds.common.vo.MyUserVO;
  * 在平台二次开发过程中具有很强的实用价值。 开发人员需熟练掌握其提供的相关API。
  * </p>
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2008-07-06
  */
 public interface Dto extends Map<String, Object> {

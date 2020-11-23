@@ -42,7 +42,7 @@ import com.channelsharing.hongqu.portal.api.weixin.WeixinPayUtil;
 /**
  * 订单信息Service
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @Service

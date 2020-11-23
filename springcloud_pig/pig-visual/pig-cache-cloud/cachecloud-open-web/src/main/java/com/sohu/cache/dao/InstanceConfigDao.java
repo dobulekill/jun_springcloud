@@ -9,7 +9,7 @@ import com.sohu.cache.entity.InstanceConfig;
 /**
  * 配置模板Dao
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月22日
  * @Time 下午5:46:37
  */

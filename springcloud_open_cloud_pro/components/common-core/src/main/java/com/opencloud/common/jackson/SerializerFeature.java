@@ -1,7 +1,7 @@
 package com.opencloud.common.jackson;
 
 /**
- * @author LYD
+ * @author Wujun
  */
 
 public enum SerializerFeature {

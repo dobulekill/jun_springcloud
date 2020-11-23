@@ -35,7 +35,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * base quartz scheduler util
- * @author xuxueli 2015-12-19 16:13:53
+ * @author Wujun
  */
 public final class XxlJobDynamicScheduler {
     private static final Logger logger = LoggerFactory.getLogger(XxlJobDynamicScheduler.class);

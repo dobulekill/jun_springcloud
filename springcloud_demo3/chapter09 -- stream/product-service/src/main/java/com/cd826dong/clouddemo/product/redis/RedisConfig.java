@@ -28,7 +28,7 @@ import redis.clients.jedis.JedisPoolConfig;
 /**
  * Redis数据库服务配置基类
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @Configuration

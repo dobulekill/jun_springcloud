@@ -25,7 +25,7 @@ import java.io.IOException;
 /**
  * 资源工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 @UtilityClass
 public class ResourceUtil extends org.springframework.util.ResourceUtils {

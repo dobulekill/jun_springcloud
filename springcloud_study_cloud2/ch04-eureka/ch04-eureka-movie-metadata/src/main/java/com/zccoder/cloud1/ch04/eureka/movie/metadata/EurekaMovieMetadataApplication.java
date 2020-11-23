@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * 项目启动类
- * @author ZhangCheng on 2017-07-19 13:01
+ * @author Wujun
  *
  */
 @EnableDiscoveryClient

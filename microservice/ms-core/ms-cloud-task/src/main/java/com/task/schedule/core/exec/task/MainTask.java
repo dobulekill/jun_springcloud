@@ -23,7 +23,7 @@ import com.task.schedule.manager.service.TaskJobService;
 
 /**
  * 集群任务调度线程的定时任务类
- * @author yuejing
+ * @author Wujun
  * @date 2015年3月29日 下午10:05:34
  * @version V1.0.0
  */

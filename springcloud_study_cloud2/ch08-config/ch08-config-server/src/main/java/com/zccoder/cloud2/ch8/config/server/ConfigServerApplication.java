@@ -10,7 +10,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
  * 描述: 启动类<br>
  * 时间: 2018/10/04<br>
  *
- * @author zc
+ * @author Wujun
  */
 @EnableConfigServer
 @SpringBootApplication

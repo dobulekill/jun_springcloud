@@ -2,7 +2,7 @@ package com.system.comm.exception;
 
 /**
  * 业务异常
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-10 下午5:16:33
  * @version V1.0.0
  */

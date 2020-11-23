@@ -8,7 +8,7 @@ import java.io.Serializable;
  * 描述: 用户实体<br>
  * 时间: 2018/10/05<br>
  *
- * @author zc
+ * @author Wujun
  */
 public class User implements Serializable {
 

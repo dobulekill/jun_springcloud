@@ -3,7 +3,7 @@ package com.central.admin.model;
 import lombok.Data;
 
 /**
- * @author zlt
+ * @author Wujun
  */
 @Data
 public class IndexDto {

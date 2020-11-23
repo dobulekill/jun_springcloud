@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author woodev
+ * @author Wujun
  */
 @ApiModel("邮件消息")
 public class EmailMessage extends BaseMessage {

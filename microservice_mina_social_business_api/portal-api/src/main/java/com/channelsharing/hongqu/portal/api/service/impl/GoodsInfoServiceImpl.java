@@ -30,7 +30,7 @@ import com.channelsharing.hongqu.portal.api.service.ShopGoodsService;
 /**
  * 商品信息Service
  *
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-11
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

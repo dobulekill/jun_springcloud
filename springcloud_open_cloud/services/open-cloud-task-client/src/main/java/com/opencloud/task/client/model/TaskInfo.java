@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * 任务详情
- * @author liuyadu
+ * @author Wujun
  */
 public class TaskInfo implements Serializable {
 

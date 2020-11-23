@@ -14,7 +14,7 @@ import java.util.function.Supplier;
 
 /**
  * Implementation of {@link ClientHttpRequest} that saves body as a field.
- * @author LYD
+ * @author Wujun
  */
 public class CachedBodyOutputMessage implements ReactiveHttpOutputMessage {
 

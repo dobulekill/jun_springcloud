@@ -7,7 +7,7 @@ import com.opencloud.system.client.model.entity.SystemAccount;
  * 系统用户登录账号管理
  * 支持多账号登陆
  *
- * @author liuyadu
+ * @author Wujun
  */
 public interface SystemAccountService extends IBaseService<SystemAccount> {
 

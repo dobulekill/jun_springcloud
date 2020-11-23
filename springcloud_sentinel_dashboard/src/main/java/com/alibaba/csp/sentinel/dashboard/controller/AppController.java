@@ -35,7 +35,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author Carpenter Lee
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/app")

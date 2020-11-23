@@ -41,7 +41,7 @@ import java.util.Optional;
 /**
  * webflux 异常处理
  *
- * @author L.cm
+ * @author Wujun
  */
 @Slf4j
 public class MicaErrorWebExceptionHandler extends DefaultErrorWebExceptionHandler {

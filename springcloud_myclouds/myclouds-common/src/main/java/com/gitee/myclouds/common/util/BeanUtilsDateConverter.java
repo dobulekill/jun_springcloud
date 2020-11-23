@@ -11,7 +11,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * Bean属性复制工具类的日期类型转换器
  * 
- * @author xiongchun
+ * @author Wujun
  * @date 2015-10-25
  */
 @Slf4j

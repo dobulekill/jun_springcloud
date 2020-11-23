@@ -2,7 +2,7 @@ package com.pflm.common.xss;
 import org.apache.commons.lang3.StringUtils;
 import com.pflm.common.exception.MyException;
 /**
- * @author SQL过滤
+ * @author Wujun
  * @version 1.00
  * @time  26/11/2018 下午 6:26
  * @email 870439570@qq.com

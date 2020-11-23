@@ -26,7 +26,7 @@ import java.util.Map;
 /**
  * 基于 Metadata 的服务筛选
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MetadataAwarePredicate extends DiscoveryEnabledPredicate {
 	public static final MetadataAwarePredicate INSTANCE = new MetadataAwarePredicate();

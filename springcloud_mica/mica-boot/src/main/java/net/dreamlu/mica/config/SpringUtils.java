@@ -25,7 +25,7 @@ import org.springframework.lang.Nullable;
 /**
  * spring 工具类
  *
- * @author L.cm
+ * @author Wujun
  */
 public class SpringUtils implements ApplicationContextAware {
 	@Nullable

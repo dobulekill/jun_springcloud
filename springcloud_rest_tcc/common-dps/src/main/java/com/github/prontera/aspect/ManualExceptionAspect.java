@@ -11,7 +11,7 @@ import java.security.SecureRandom;
 import java.util.Random;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Aspect
 public class ManualExceptionAspect implements Ordered {

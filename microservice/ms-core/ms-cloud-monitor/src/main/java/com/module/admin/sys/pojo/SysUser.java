@@ -10,7 +10,7 @@ import com.system.comm.model.BaseEntity;
 
 /**
  * 后台用户的实体
- * @author duanbin
+ * @author Wujun
  * @date 2016年5月5日 上午9:39:21
  * @version V1.0.0
  */

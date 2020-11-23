@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 报警基类
- * @author leifu
+ * @author Wujun
  * @Date 2014年12月16日
  * @Time 下午4:15:11
  */

@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import java.net.SocketException;
 
 /**
- * @author itmuch.com
+ * @author Wujun
  */
 @RequiredArgsConstructor(onConstructor = @__(@Autowired))
 public class WiiNacosDiscoveryProperties extends NacosDiscoveryProperties {

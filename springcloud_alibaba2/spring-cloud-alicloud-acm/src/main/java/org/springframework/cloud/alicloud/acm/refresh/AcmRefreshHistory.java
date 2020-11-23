@@ -22,7 +22,7 @@ import java.util.Date;
 import java.util.LinkedList;
 
 /**
- * @author juven.xuxb, 5/16/16.
+ * @author Wujun
  */
 public class AcmRefreshHistory {
 

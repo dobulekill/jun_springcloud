@@ -21,7 +21,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 /**
  * Service Discovery服务器
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @EnableEurekaServer

@@ -37,7 +37,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class GrayReleaseRulesHolder implements ReleaseMessageListener, InitializingBean {
   private static final Logger logger = LoggerFactory.getLogger(GrayReleaseRulesHolder.class);

@@ -16,7 +16,7 @@ import com.task.schedule.manager.service.SysConfigService;
 
 /**
  * 系统配置的Controller
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2015年4月5日 下午10:21:22 

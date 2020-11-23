@@ -19,7 +19,7 @@ package org.springblade.core.test;
 /**
  * blade test 异常
  *
- * @author L.cm
+ * @author Wujun
  */
 class BladeBootTestException extends RuntimeException {
 

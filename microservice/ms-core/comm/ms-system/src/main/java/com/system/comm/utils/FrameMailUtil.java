@@ -38,7 +38,7 @@ import org.slf4j.LoggerFactory;
 		boolean bool = theMail.send(to, copyto, subject, content);
 		LOGGER.info(bool);
 	}
- * @author yuejing
+ * @author Wujun
  * @date 2016年4月30日 下午7:23:52
  * @version V1.0.0
  */

@@ -34,7 +34,7 @@ import org.springframework.util.StringUtils;
 import com.alibaba.cloud.context.acm.AliCloudAcmInitializer;
 
 /**
- * @author xiaolongzuo
+ * @author Wujun
  */
 @Configuration
 @EnableConfigurationProperties(AcmProperties.class)

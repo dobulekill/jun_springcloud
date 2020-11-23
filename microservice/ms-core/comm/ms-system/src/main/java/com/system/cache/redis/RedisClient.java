@@ -30,7 +30,7 @@ import com.system.comm.utils.FrameTimeUtil;
  * 参考地址：https://camel.apache.org/maven/camel-2.11.0/camel-spring-redis/apidocs/src-html/org/apache/camel/component/redis/RedisClient.html
  * <br>
  * 可以考虑：2级缓存 http://www.oschina.net/p/j2cache
- * @author 岳静
+ * @author Wujun
  * @date 2016年5月6日 上午10:15:47 
  * @version V1.0
  */

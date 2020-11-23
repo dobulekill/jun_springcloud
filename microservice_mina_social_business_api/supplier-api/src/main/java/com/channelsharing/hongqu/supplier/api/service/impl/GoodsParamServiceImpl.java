@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * 商品参数介绍Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Service

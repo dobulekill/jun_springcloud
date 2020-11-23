@@ -20,7 +20,7 @@ import org.springframework.cloud.bus.event.RemoteApplicationEvent;
 /**
  * 自定义发布事件
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 public class MyBusEvent extends RemoteApplicationEvent {

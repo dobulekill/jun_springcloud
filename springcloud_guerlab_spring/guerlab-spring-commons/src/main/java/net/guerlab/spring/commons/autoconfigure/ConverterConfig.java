@@ -15,7 +15,7 @@ import org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandl
 /**
  * 转换配置
  *
- * @author guer
+ * @author Wujun
  *
  */
 @Configuration

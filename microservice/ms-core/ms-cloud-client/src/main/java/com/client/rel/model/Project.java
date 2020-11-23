@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 项目对象
- * @author yuejing
+ * @author Wujun
  * @date 2016年10月21日 下午10:38:23
  * @version V1.0.0
  */

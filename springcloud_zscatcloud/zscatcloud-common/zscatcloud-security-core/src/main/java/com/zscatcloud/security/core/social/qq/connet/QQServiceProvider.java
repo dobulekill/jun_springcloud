@@ -20,7 +20,7 @@ import com.zscatcloud.security.core.social.qq.api.QQImpl;
 /**
  * The class Qq service provider.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class QQServiceProvider extends AbstractOAuth2ServiceProvider<QQ> {
 

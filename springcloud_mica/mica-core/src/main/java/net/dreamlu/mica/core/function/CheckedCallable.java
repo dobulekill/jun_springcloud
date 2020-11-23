@@ -21,7 +21,7 @@ import org.springframework.lang.Nullable;
 /**
  * 受检的 Callable
  *
- * @author L.cm
+ * @author Wujun
  */
 @FunctionalInterface
 public interface CheckedCallable<T> {

@@ -13,7 +13,7 @@ import com.ctrip.framework.apollo.build.MockInjector;
 import com.ctrip.framework.apollo.core.enums.ConfigFileFormat;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class DefaultConfigRegistryTest {
   private DefaultConfigRegistry defaultConfigRegistry;

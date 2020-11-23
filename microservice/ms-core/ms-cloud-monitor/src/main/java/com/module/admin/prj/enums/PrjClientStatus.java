@@ -10,7 +10,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 状态[10待发布、20发布中、30发布失败、40发布成功]
- * @author yuejing
+ * @author Wujun
  * @date 2016年5月16日 下午5:52:03
  * @version V1.0.0
  */

@@ -11,7 +11,7 @@ import javax.persistence.Lob;
 import javax.persistence.Table;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 @Entity
 @Table(name = "Release")

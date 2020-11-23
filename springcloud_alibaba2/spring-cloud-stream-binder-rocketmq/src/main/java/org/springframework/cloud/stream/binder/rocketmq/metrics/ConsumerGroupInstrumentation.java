@@ -19,8 +19,8 @@ package org.springframework.cloud.stream.binder.rocketmq.metrics;
 import com.codahale.metrics.MetricRegistry;
 
 /**
- * @author Timur Valiev
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
+ * @author Wujun
  */
 public class ConsumerGroupInstrumentation extends Instrumentation {
 	private MetricRegistry metricRegistry;

@@ -12,7 +12,7 @@ import org.springframework.cloud.alibaba.nacos.NacosDiscoveryProperties;
 import org.springframework.cloud.alibaba.nacos.ribbon.NacosServer;
 
 /**
- * @author limu.zl
+ * @author Wujun
  */
 @Slf4j
 public class NacosWeightRandomV2Rule extends AbstractLoadBalancerRule {

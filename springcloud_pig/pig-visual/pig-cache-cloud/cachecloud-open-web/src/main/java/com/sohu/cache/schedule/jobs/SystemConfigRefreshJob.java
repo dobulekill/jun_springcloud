@@ -10,7 +10,7 @@ import com.sohu.cache.web.service.ConfigService;
 
 /**
  * 刷新系统配置
- * @author leifu
+ * @author Wujun
  * @Date 2016年6月30日
  * @Time 下午5:30:42
  */

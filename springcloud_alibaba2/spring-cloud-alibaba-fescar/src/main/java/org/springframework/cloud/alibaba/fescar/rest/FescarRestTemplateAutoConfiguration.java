@@ -44,7 +44,7 @@ import org.springframework.http.client.ClientHttpRequestInterceptor;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author xiaojing
+ * @author Wujun
  */
 
 @Configuration

@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
 
 /**
  * 规格维度接口Dao接口
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-06-20
  */
 @Mapper

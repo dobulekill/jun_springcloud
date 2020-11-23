@@ -2,7 +2,7 @@ package com.sohu.cache.constant;
 
 /**
  * 系统错误提示
- * @author leifu
+ * @author Wujun
  * @Date 2016-6-25
  * @Time 下午2:50:07
  */

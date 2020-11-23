@@ -27,7 +27,7 @@ import java.io.Serializable;
 /**
  * spring AntPath 规则文件过滤
  *
- * @author L.cm
+ * @author Wujun
  */
 @RequiredArgsConstructor
 public class AntPathFilter implements FileFilter, Serializable {

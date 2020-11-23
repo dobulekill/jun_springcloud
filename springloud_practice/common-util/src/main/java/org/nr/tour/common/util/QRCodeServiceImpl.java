@@ -18,7 +18,7 @@ import java.io.OutputStream;
 import java.util.Hashtable;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @Service
 public class QRCodeServiceImpl implements QRCodeService {

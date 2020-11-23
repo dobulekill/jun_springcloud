@@ -8,7 +8,7 @@ import com.github.pig.admin.entity.SysRole;
   *  Mapper 接口
  * </p>
  *
- * @author lengleng
+ * @author Wujun
  * @since 2017-10-29
  */
 public interface SysRoleMapper extends BaseMapper<SysRole> {

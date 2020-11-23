@@ -30,7 +30,7 @@ import com.sohu.cache.web.enums.SuccessEnum;
 
 /**
  * 实例报警阀值
- * @author leifu
+ * @author Wujun
  * @Date 2016年8月24日
  * @Time 下午1:24:25
  */

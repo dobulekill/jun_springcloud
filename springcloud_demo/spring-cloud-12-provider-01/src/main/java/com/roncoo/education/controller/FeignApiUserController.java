@@ -17,7 +17,7 @@ import com.roncoo.education.bean.User;
 import com.roncoo.education.bean.service.UserService;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 //@RequestMapping(value = "/api/user")

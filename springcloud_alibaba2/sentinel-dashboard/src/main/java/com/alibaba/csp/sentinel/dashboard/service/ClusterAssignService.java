@@ -22,7 +22,7 @@ import com.alibaba.csp.sentinel.dashboard.domain.cluster.ClusterAppAssignResultV
 import com.alibaba.csp.sentinel.dashboard.domain.cluster.request.ClusterAppAssignMap;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.1
  */
 public interface ClusterAssignService {

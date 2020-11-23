@@ -25,7 +25,7 @@ import java.time.OffsetDateTime;
 import java.util.Set;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 @Service
 public class ProductStockTccService extends CrudServiceImpl<ProductStockTcc> implements ApplicationContextAware {

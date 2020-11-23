@@ -24,7 +24,7 @@ import java.io.IOException;
 /**
  * 转发JWT
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 public class JWTOAuthTokenInterceptor implements ClientHttpRequestInterceptor {

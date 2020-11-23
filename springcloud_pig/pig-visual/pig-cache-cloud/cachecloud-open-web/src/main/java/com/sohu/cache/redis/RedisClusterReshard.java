@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 水平扩容重构
- * @author leifu
+ * @author Wujun
  * @Date 2016年12月7日
  * @Time 上午10:13:00
  */

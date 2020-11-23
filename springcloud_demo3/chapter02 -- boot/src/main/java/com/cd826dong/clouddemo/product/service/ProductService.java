@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * 产品管理服务
  *
- * @author CD826
+ * @author Wujun
  * @since 1.0.0
  */
 public interface ProductService {

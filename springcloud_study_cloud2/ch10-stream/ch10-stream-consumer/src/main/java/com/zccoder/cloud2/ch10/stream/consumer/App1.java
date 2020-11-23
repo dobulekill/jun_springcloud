@@ -16,7 +16,7 @@ import org.springframework.messaging.handler.annotation.SendTo;
  * //@EnableRxJavaProcessor
  * //@EnableBinding(value = {Processor.class})
  *
- * @author zc
+ * @author Wujun
  */
 public class App1 {
 

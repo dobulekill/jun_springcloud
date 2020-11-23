@@ -32,7 +32,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = { SentinelDataSourceTests.TestConfig.class }, properties = {

@@ -27,7 +27,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * app环境下替换providerSignInUtils，避免由于没有session导致读不到社交用户信息的问题
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Component
 public class AppSingUpUtils {

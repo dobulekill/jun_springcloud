@@ -33,7 +33,7 @@ import java.util.Collection;
 /**
  * MicaService 实现类（ 泛型：M 是 mapper 对象，T 是实体 ， PK 是主键泛型 ）
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaServiceImpl<M extends MicaMapper<T>, T> extends ServiceImpl<M, T> implements MicaService<T> {
 

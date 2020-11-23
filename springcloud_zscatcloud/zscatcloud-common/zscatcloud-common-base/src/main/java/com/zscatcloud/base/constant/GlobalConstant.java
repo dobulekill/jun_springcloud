@@ -13,7 +13,7 @@ package com.zscatcloud.base.constant;
 /**
  * The class Global constant.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 public class GlobalConstant {
 
@@ -121,7 +121,7 @@ public class GlobalConstant {
 	/**
 	 * The class Symbol.
 	 *
-	 * @author zscatcloud.net@gmail.com
+	 * @author Wujun
 	 */
 	public static final class Symbol {
 		private Symbol() {
@@ -158,7 +158,7 @@ public class GlobalConstant {
 	/**
 	 * The class Oss.
 	 *
-	 * @author zscatcloud.net@gmail.com
+	 * @author Wujun
 	 */
 	public static final class Oss {
 		private Oss() {
@@ -192,7 +192,7 @@ public class GlobalConstant {
 	/**
 	 * The enum Payment type enum.
 	 *
-	 * @author zscatcloud.net@gmail.com
+	 * @author Wujun
 	 */
 	public enum PaymentTypeEnum {
 		/**

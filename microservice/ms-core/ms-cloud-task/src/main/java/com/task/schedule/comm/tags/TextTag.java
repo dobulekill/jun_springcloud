@@ -10,7 +10,7 @@ import com.task.schedule.comm.constants.DictCons;
 /**
  * 显示文本
  * 根据类型和ID显示文本
- * @author yuejing
+ * @author Wujun
  * @date 2013-8-29 下午6:40:13
  * @version V1.0.0
  */

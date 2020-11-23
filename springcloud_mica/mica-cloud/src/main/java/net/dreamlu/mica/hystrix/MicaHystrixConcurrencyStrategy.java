@@ -41,7 +41,7 @@ import java.util.concurrent.TimeUnit;
  * https://github.com/spring-projects/spring-security/blob/master/core/src/main/java/org/springframework/security/concurrent/DelegatingSecurityContextCallable.java
  * </p>
  *
- * @author L.cm
+ * @author Wujun
  */
 @AllArgsConstructor
 public class MicaHystrixConcurrencyStrategy extends HystrixConcurrencyStrategy {

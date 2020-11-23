@@ -1,5 +1,5 @@
 package com.murphy.gatewaymain.config;/**
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/11/19 17:24
  * @version 1.0
  */
@@ -13,7 +13,7 @@ import reactor.core.publisher.Mono;
 
 /**
  *
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/11/19 17:24
  * @version 1.0
  */

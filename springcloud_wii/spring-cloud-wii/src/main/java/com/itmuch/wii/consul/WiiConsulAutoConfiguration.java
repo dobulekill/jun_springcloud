@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Configuration;
 import java.util.List;
 
 /**
- * @author www.itmuch.com
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(ConsulServiceRegistryAutoConfiguration.class)

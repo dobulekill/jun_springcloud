@@ -2,7 +2,7 @@ package com.module.comm.constants;
 
 /**
  * 系统常用数据
- * @author duanbin
+ * @author Wujun
  * @date 2016年5月11日 上午9:27:11 
  * @version V1.0
  */

@@ -49,7 +49,7 @@ import java.util.Map;
 import java.util.Optional;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class RocketMQMessageHandler extends AbstractMessageHandler implements Lifecycle {
 

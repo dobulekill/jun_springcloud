@@ -3,7 +3,7 @@ package net.guerlab.spring.commons.exception;
 /**
  * 异常信息KEY列表
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class Keys {

@@ -11,7 +11,7 @@ import java.util.Optional;
 import static com.google.common.base.Preconditions.checkNotNull;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public final class Shift {
 

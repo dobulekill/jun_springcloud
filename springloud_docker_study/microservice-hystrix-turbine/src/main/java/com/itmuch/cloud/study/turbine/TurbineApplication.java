@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.turbine.EnableTurbine;
 
 /**
  * 通过@EnableTurbine接口，激活对Turbine的支持。
- * @author eacdy
+ * @author Wujun
  */
 @SpringBootApplication
 @EnableTurbine

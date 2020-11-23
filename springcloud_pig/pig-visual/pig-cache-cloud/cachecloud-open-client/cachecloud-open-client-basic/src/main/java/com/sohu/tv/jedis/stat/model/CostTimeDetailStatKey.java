@@ -3,7 +3,7 @@ package com.sohu.tv.jedis.stat.model;
 /**
  * 耗时详细统计key
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2015年1月23日
  * @Time 上午11:24:58
  */

@@ -21,7 +21,7 @@ import java.util.List;
 import com.alibaba.csp.sentinel.dashboard.discovery.MachineInfo;
 
 /**
- * @author leyou
+ * @author Wujun
  */
 public class MachineInfoVo {
 

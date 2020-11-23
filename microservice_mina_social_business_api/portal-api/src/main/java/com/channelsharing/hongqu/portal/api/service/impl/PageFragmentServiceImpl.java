@@ -30,7 +30,7 @@ import java.util.List;
 
 /**
  * 页面区块信息Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-26
  */
 @CacheDuration(duration = ExpireTimeConstant.ONE_DAY)

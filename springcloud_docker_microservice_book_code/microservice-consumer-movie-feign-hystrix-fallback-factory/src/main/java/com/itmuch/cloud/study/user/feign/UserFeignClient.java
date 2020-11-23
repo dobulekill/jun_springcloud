@@ -22,7 +22,7 @@ public interface UserFeignClient {
  * UserFeignClient的fallbackFactory类，该类需实现FallbackFactory接口，并覆写create方法
  * The fallback factory must produce instances of fallback classes that
  * implement the interface annotated by {@link FeignClient}.
- * @author 周立
+ * @author Wujun
  */
 @Component
 class FeignClientFallbackFactory implements FallbackFactory<UserFeignClient> {

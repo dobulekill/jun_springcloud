@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 /**
  * 公用服务
  * 
- * @author xiongchun
+ * @author Wujun
  *
  */
 @Service

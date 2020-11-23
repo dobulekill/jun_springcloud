@@ -14,7 +14,7 @@ import com.system.comm.utils.FrameStringUtil;
 
 /**
  * 系统菜单
- * @author duanbin
+ * @author Wujun
  * @date 2016年5月5日 下午12:22:58
  * @version V1.0.0
  */

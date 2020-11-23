@@ -10,7 +10,7 @@ import java.security.SecureRandom;
 import java.util.Enumeration;
 
 /**
- * @author Jason Song(song_s@ctrip.com)
+ * @author Wujun
  */
 public class MachineUtil {
   private static final Logger logger = LoggerFactory.getLogger(MachineUtil.class);

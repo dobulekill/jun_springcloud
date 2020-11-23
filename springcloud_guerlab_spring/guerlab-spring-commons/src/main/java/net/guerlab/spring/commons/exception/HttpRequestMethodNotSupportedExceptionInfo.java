@@ -7,7 +7,7 @@ import org.springframework.web.HttpRequestMethodNotSupportedException;
 /**
  * 不支持的HTTP请求方式
  *
- * @author guer
+ * @author Wujun
  *
  */
 public class HttpRequestMethodNotSupportedExceptionInfo extends AbstractI18nInfo {

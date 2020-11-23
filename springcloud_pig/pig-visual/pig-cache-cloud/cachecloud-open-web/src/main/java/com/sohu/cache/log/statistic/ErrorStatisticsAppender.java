@@ -7,7 +7,7 @@ import ch.qos.logback.core.AppenderBase;
 import com.google.common.util.concurrent.AtomicLongMap;
 /**
  * 自定义Appender，用于统计异常名和数量键值对
- * @author leifu
+ * @author Wujun
  * @Time 2014年10月17日
  */
 public class ErrorStatisticsAppender extends AppenderBase<ILoggingEvent> {

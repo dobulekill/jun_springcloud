@@ -6,7 +6,7 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.util.ReferenceCountUtil;
 
 /**
- * @author qinxuewu
+ * @author Wujun
  * @version 1.00
  * @time 9/10/2018下午 5:33
  */

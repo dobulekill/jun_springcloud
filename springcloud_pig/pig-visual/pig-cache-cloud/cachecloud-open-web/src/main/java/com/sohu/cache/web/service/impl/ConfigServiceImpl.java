@@ -19,7 +19,7 @@ import com.sohu.cache.web.enums.SuccessEnum;
 import com.sohu.cache.web.service.ConfigService;
 
 /**
- * @author leifu
+ * @author Wujun
  * @Date 2016年5月23日
  * @Time 上午10:35:26
  */

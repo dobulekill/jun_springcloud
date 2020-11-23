@@ -25,7 +25,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 用户信息获取器
  *
- * @author Chill
+ * @author Wujun
  */
 public class BladeAccountGetter implements BladeHystrixAccountGetter {
 

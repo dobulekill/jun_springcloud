@@ -3,7 +3,7 @@ package com.itmuch.yes.util.snowflake;
 /**
  * Key generator interface.
  *
- * @author zhangliang
+ * @author Wujun
  */
 public interface KeyGenerator {
 

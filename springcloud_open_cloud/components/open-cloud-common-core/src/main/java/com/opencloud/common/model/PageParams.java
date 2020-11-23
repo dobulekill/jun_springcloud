@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * 分页参数
  *
- * @author liuyau
+ * @author Wujun
  * @date 2018/07/10
  */
 public class PageParams extends Page implements Serializable {

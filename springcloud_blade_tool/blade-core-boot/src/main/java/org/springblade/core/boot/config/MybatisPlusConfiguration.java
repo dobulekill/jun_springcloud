@@ -26,7 +26,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * mybatisplus 配置
  *
- * @author Chill
+ * @author Wujun
  */
 @Configuration
 @MapperScan("org.springblade.**.mapper.**")

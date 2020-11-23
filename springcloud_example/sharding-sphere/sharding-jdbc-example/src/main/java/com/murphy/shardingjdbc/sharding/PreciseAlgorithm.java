@@ -9,7 +9,7 @@ import java.util.Collection;
 
 /**
  * 精准算法-一个分片字段
- * @author dongsufeng
+ * @author Wujun
  * @date 2019/12/5 17:21
  * @version 1.0
  */

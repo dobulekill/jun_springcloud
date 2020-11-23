@@ -1,7 +1,7 @@
 package com.github.prontera.domain.type;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public enum EventStatus {
     ERROR(-128), NOT_FOUND(-3), NO_ROUTE(-2), FAILED(-1), NEW(0), PENDING(1), DONE(2);

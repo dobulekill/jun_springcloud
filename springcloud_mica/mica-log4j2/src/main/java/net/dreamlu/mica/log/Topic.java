@@ -19,7 +19,7 @@ package net.dreamlu.mica.log;
 /**
  * 日志主题
  *
- * @author L.cm
+ * @author Wujun
  */
 public interface Topic {
 	/**

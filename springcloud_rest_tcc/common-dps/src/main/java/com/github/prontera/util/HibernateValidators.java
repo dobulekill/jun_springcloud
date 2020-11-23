@@ -9,7 +9,7 @@ import javax.validation.ValidatorFactory;
 import java.util.Set;
 
 /**
- * @author Zhao Junjian
+ * @author Wujun
  */
 public final class HibernateValidators {
 

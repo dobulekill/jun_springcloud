@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.roncoo.education.feign.IUserBiz;
 
 /**
- * @author wujing
+ * @author Wujun
  */
 @RestController
 @RequestMapping(value = "/feign/user", method = RequestMethod.POST)

@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * 认证服务器注册的第三方应用配置项
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 public class OAuth2ClientProperties {

@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 机器信息枚举
- * @author leifu
+ * @author Wujun
  * @Date 2016年7月9日
  * @Time 下午4:38:15
  */
@@ -13,7 +13,7 @@ public class MachineInfoEnum {
     
     /**
      * 是否为可用
-     * @author leifu
+     * @author Wujun
      * @Date 2016年7月9日
      * @Time 下午4:43:49
      */
@@ -38,7 +38,7 @@ public class MachineInfoEnum {
     
     /**
      * 机器类型
-     * @author leifu
+     * @author Wujun
      * @Date 2016年7月9日
      * @Time 下午4:42:58
      */

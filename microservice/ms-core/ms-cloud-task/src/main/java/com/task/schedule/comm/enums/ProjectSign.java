@@ -11,7 +11,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 项目的签名规则
- * @author  yuejing
+ * @author Wujun
  * @email   yuejing0129@163.com 
  * @net		www.suyunyou.com
  * @date    2015年3月31日 上午10:27:18 

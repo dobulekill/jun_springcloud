@@ -41,7 +41,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
 /**
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = { SentinelBeanAutowiredTests.TestConfig.class }, properties = {

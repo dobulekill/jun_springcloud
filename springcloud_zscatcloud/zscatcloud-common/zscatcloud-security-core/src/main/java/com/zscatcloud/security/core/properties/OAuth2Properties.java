@@ -16,7 +16,7 @@ import lombok.Data;
 /**
  * The class O auth 2 properties.
  *
- * @author zscatcloud.net @gmail.com
+ * @author Wujun
  */
 @Data
 public class OAuth2Properties {

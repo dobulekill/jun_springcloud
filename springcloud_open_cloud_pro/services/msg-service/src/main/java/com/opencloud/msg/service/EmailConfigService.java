@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 邮件发送配置 服务类
  *
- * @author admin
+ * @author Wujun
  * @date 2019-07-25
  */
 public interface EmailConfigService extends IBaseService<EmailConfig> {

@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * Token转化SysUser
  *
- * @author zlt
+ * @author Wujun
  * @date 2018/12/21
  */
 @Slf4j

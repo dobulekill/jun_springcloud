@@ -26,7 +26,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * @author Eric Zhao
+ * @author Wujun
  * @since 1.4.0
  */
 @Component("flowRuleNacosPublisher")

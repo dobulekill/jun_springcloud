@@ -13,7 +13,7 @@ import com.channelsharing.hongqu.supplier.api.dao.OrderInvoiceDao;
 
 /**
  * 订单发票Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-07-29
  */
 @Service

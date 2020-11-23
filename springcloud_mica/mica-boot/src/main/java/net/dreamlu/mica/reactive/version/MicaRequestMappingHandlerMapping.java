@@ -33,7 +33,7 @@ import java.util.Map;
 /**
  * url版本号处理
  *
- * @author L.cm
+ * @author Wujun
  */
 public class MicaRequestMappingHandlerMapping extends RequestMappingHandlerMapping {
 

@@ -11,7 +11,7 @@ import com.system.comm.model.KvEntity;
 
 /**
  * 状态[10正常、20冻结]
- * @author 岳静
+ * @author Wujun
  * @date 2016年3月8日 下午8:18:33 
  * @version V1.0
  */

@@ -22,7 +22,7 @@ import java.util.Date;
 /**
  * The class Base vo.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @ApiModel
 @Data

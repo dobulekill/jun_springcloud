@@ -5,7 +5,7 @@ import org.nr.tour.constant.ServiceConstants;
 import org.springframework.cloud.netflix.feign.FeignClient;
 
 /**
- * @author chenhaiyang <690732060@qq.com>
+ * @author Wujun
  */
 @FeignClient(value = ServiceConstants.SCENERY_SERVICE, path = ServiceConstants.SCENERY_SERVICE_PATH_TICKET)
 public interface TicketServiceClient extends TicketServiceDefinition {

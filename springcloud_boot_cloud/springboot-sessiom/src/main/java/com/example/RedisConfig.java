@@ -16,7 +16,7 @@ import java.time.Duration;
 /**
  *  redis 配置
  *
- * @author WangBin
+ * @author Wujun
  * @version V1.0
  * @date 2017.12.05
  */

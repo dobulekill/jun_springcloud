@@ -28,7 +28,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 /**
  * Swagger 页面静态文件配置
  *
- * @author L.cm
+ * @author Wujun
  */
 @Configuration
 @ConditionalOnClass(Docket.class)

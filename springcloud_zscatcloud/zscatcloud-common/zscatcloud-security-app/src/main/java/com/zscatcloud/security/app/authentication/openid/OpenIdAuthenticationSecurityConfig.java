@@ -27,7 +27,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Open id authentication security config.
  *
- * @author zscatcloud.net@gmail.com
+ * @author Wujun
  */
 @Component
 public class OpenIdAuthenticationSecurityConfig extends SecurityConfigurerAdapter<DefaultSecurityFilterChain, HttpSecurity> {

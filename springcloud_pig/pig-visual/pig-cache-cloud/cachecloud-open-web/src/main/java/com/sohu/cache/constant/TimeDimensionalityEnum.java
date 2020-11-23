@@ -8,7 +8,7 @@ import org.apache.commons.lang.math.NumberUtils;
 /**
  * 时间维度枚举
  * 
- * @author leifu
+ * @author Wujun
  * @Date 2016年8月1日
  * @Time 下午3:50:38
  */

@@ -25,7 +25,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * SpringCloud示例工程 -- 商品服务
  *
- * @author CD826(CD826Dong@gmail.com)
+ * @author Wujun
  * @since 1.0.0
  */
 @EnableFeignClients

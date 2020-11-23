@@ -26,7 +26,7 @@ import java.util.StringJoiner;
 /**
  * json tree 节点信息
  *
- * @author L.cm
+ * @author Wujun
  */
 public class JsonNodeInfo {
 	/**

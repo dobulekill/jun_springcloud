@@ -17,7 +17,7 @@ import com.pflm.modules.job.service.ScheduleJobLogService;
 
 /**
  * 定时任务日志
- * @author qinxeuw
+ * @author Wujun
  *
  */
 @Controller

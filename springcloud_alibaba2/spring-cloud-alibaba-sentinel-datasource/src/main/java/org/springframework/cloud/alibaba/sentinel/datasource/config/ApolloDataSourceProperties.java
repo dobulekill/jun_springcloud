@@ -8,7 +8,7 @@ import org.springframework.cloud.alibaba.sentinel.datasource.factorybean.ApolloD
  * Apollo Properties class Using by {@link DataSourcePropertiesConfiguration} and
  * {@link ApolloDataSourceFactoryBean}
  *
- * @author <a href="mailto:fangjian0423@gmail.com">Jim</a>
+ * @author Wujun
  */
 public class ApolloDataSourceProperties extends AbstractDataSourceProperties {
 

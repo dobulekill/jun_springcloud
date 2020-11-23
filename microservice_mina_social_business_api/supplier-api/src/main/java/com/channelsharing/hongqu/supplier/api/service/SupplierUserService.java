@@ -9,7 +9,7 @@ import com.channelsharing.common.service.CrudService;
 
 /**
  * 供应商用户Service
- * @author liuhangjun
+ * @author Wujun
  * @version 2018-02-02
  */
 public interface SupplierUserService extends CrudService<SupplierUser> {
